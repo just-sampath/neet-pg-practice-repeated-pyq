@@ -1,0 +1,3005 @@
+{
+  "questions": [
+    {
+      "questionId": "q021",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Microvascular diabetic third nerve palsy classically spares the pupil because the central somatic motor fibres are affected while superficial parasympathetic fibres are preserved. Light reflex therefore remains normal despite ptosis and ophthalmoplegia.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A reactive, normal-sized pupil supports a microvascular pupil-sparing palsy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A reactive, normal-sized pupil supports a microvascular pupil-sparing palsy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A reactive, normal-sized pupil supports a microvascular pupil-sparing palsy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A reactive, normal-sized pupil supports a microvascular pupil-sparing palsy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A reactive, normal-sized pupil supports a microvascular pupil-sparing palsy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An abnormal light reflex or dilated pupil raises concern for compression, especially a posterior communicating artery aneurysm, until proved otherwise.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: An abnormal light reflex or dilated pupil raises concern for compression, especially a posterior communicating artery aneurysm, until proved otherwise."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An abnormal light reflex or dilated pupil raises concern for compression, especially a posterior communicating artery aneurysm, until proved otherwise.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An abnormal light reflex or dilated pupil raises concern for compression, especially a posterior communicating artery aneurysm, until proved otherwise.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "An abnormal light reflex or dilated pupil raises concern for compression, especially a posterior communicating artery aneurysm, until proved otherwise."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Accommodation may also be spared because its parasympathetic pathway travels with the superficial fibres, but the earliest and most clinically important observation is preserved pupillary light response.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Accommodation may also be spared because its parasympathetic pathway travels with the superficial fibres, but the earliest and most clinically important observation is preserved pupillary light response."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Accommodation may also be spared because its parasympathetic pathway travels with the superficial fibres, but the earliest and most clinically important observation is preserved pupillary light response.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Accommodation may also be spared because its parasympathetic pathway travels with the superficial fibres, but the earliest and most clinically important observation is preserved pupillary light response.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Accommodation may also be spared because its parasympathetic pathway travels with the superficial fibres, but the earliest and most clinically important observation is preserved pupillary light response."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Loss of both light and accommodation responses indicates parasympathetic fibre involvement and is not the classic early diabetic pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Loss of both light and accommodation responses indicates parasympathetic fibre involvement and is not the classic early diabetic pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Loss of both light and accommodation responses indicates parasympathetic fibre involvement and is not the classic early diabetic pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Loss of both light and accommodation responses indicates parasympathetic fibre involvement and is not the classic early diabetic pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Loss of both light and accommodation responses indicates parasympathetic fibre involvement and is not the classic early diabetic pattern."
+            }
+          }
+        }
+      },
+      "memoryHook": "Medical third nerve palsy saves the pupil; surgical compression blows it.",
+      "examPearl": "Pupil sparing is a helpful pattern, not an absolute guarantee. Painful acute third nerve palsy with pupil involvement needs urgent aneurysm evaluation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Normal light reflex",
+        "auditedAnswer": "A. Normal light reflex",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 21,
+        "sourcePdfPage": 5,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q036",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Intradialytic hypotension is the most common acute complication of haemodialysis, usually from rapid ultrafiltration, impaired vascular refill, autonomic dysfunction, or cardiac disease.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Symptoms include nausea, cramps, dizziness, yawning, and syncope. Management includes stopping ultrafiltration, positioning, and cautious saline as indicated.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Management includes stopping ultrafiltration, positioning, and cautious saline as indicated."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Management includes stopping ultrafiltration, positioning, and cautious saline as indicated.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Management includes stopping ultrafiltration, positioning, and cautious saline as indicated.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Management includes stopping ultrafiltration, positioning, and cautious saline as indicated."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bleeding can occur because of anticoagulation or platelet dysfunction but is not the most frequent immediate event.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bleeding can occur because of anticoagulation or platelet dysfunction but is not the most frequent immediate event."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bleeding can occur because of anticoagulation or platelet dysfunction but is not the most frequent immediate event.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can occur because of anticoagulation or platelet dysfunction but is not the most frequent immediate event.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Bleeding can occur because of anticoagulation or platelet dysfunction but is not the most frequent immediate event."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dialysis dementia is a chronic historical aluminium toxicity syndrome, not an acute complication.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dialysis dementia is a chronic historical aluminium toxicity syndrome, not an acute complication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dialysis dementia is a chronic historical aluminium toxicity syndrome, not an acute complication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Dialysis dementia is a chronic historical aluminium toxicity syndrome, not an acute complication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Dialysis dementia is a chronic historical aluminium toxicity syndrome, not an acute complication."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Muscle cramps are common during ultrafiltration but occur less often than hypotension and may be a sign of excessive volume removal.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Muscle cramps are common during ultrafiltration but occur less often than hypotension and may be a sign of excessive volume removal."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Muscle cramps are common during ultrafiltration but occur less often than hypotension and may be a sign of excessive volume removal.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice are common during ultrafiltration but occur less often than hypotension and may be a sign of excessive volume removal.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Muscle cramps are common during ultrafiltration but occur less often than hypotension and may be a sign of excessive volume removal."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dialysis removes volume; the common immediate fall is pressure.",
+      "examPearl": "Prevention includes accurate dry weight, slower ultrafiltration, cool dialysate, and medication review.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Hypotension",
+        "auditedAnswer": "A. Hypotension",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 36,
+        "sourcePdfPage": 8,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q044",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "Alport syndrome causes hereditary type IV collagen disease with haematuric nephropathy, sensorineural hearing loss, and ocular findings. X-linked disease is most common, but autosomal recessive and autosomal dominant COL4A3 or COL4A4 disease are now recognised, so no listed statement is universally false.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "True. X-linked COL4A5 disease is the most common inheritance pattern.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: X-linked COL4A5 disease is the most common inheritance pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: X-linked COL4A5 disease is the most common inheritance pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice COL4A5 disease is the most common inheritance pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "X-linked COL4A5 disease is the most common inheritance pattern."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Also true in current genetics. Autosomal dominant Alport syndrome exists, making the historical key outdated.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Autosomal dominant Alport syndrome exists, making the historical key outdated."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Autosomal dominant Alport syndrome exists, making the historical key outdated.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice Alport syndrome exists, making the historical key outdated.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Autosomal dominant Alport syndrome exists, making the historical key outdated."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "True. Sensorineural deafness, especially for high frequencies, is characteristic.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sensorineural deafness, especially for high frequencies, is characteristic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sensorineural deafness, especially for high frequencies, is characteristic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sensorineural deafness, especially for high frequencies, is characteristic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Sensorineural deafness, especially for high frequencies, is characteristic."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Alport syndrome is an inherited type IV collagen nephropathy that produces glomerular haematuria, proteinuria, and progressive kidney failure. 'Glomerulonephritis' is defensible only as an older broad description.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Alport syndrome is an inherited type IV collagen nephropathy that produces glomerular haematuria, proteinuria, and progressive kidney failure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alport syndrome is an inherited type IV collagen nephropathy that produces glomerular haematuria, proteinuria, and progressive kidney failure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Alport syndrome is an inherited type IV collagen nephropathy that produces glomerular haematuria, proteinuria, and progressive kidney failure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Alport syndrome is an inherited type IV collagen nephropathy that produces glomerular haematuria, proteinuria, and progressive kidney failure."
+            }
+          }
+        }
+      },
+      "memoryHook": "Alport affects basement membranes in kidney, ear, and eye.",
+      "examPearl": "Exam-intended historical answer: B. Current correct response: no valid exception.",
+      "audit": {
+        "status": "outdated",
+        "displayLabel": "Outdated",
+        "sourceKey": "B. Autosomal dominant",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 44,
+        "sourcePdfPage": 10,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q049",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Weber syndrome is a ventral midbrain syndrome involving oculomotor fascicles and the cerebral peduncle. It causes ipsilateral third nerve palsy with contralateral hemiparesis. Contralateral tremor or parkinsonian movements suggest tegmental red nucleus involvement, classically Benedikt syndrome.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True for Weber syndrome. Corticospinal tract damage in the crus cerebri causes contralateral weakness or hemiplegia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Corticospinal tract damage in the crus cerebri causes contralateral weakness or hemiplegia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Corticospinal tract damage in the crus cerebri causes contralateral weakness or hemiplegia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Corticospinal tract damage in the crus cerebri causes contralateral weakness or hemiplegia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Corticospinal tract damage in the crus cerebri causes contralateral weakness or hemiplegia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Fascicular third nerve involvement produces ipsilateral ptosis, ophthalmoplegia, and often pupillary dilation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fascicular third nerve involvement produces ipsilateral ptosis, ophthalmoplegia, and often pupillary dilation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fascicular third nerve involvement produces ipsilateral ptosis, ophthalmoplegia, and often pupillary dilation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fascicular third nerve involvement produces ipsilateral ptosis, ophthalmoplegia, and often pupillary dilation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Fascicular third nerve involvement produces ipsilateral ptosis, ophthalmoplegia, and often pupillary dilation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Incorrect and therefore the corrected answer. Parkinsonian tremor or involuntary movement is associated with Benedikt or related tegmental syndromes.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Parkinsonian tremor or involuntary movement is associated with Benedikt or related tegmental syndromes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Parkinsonian tremor or involuntary movement is associated with Benedikt or related tegmental syndromes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Parkinsonian tremor or involuntary movement is associated with Benedikt or related tegmental syndromes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Parkinsonian tremor or involuntary movement is associated with Benedikt or related tegmental syndromes."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Weber syndrome localizes to the anterior or ventral midbrain cerebral peduncle. The source key incorrectly selected this.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Weber syndrome localizes to the anterior or ventral midbrain cerebral peduncle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Weber syndrome localizes to the anterior or ventral midbrain cerebral peduncle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Weber syndrome localizes to the anterior or ventral midbrain cerebral peduncle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Weber syndrome localizes to the anterior or ventral midbrain cerebral peduncle."
+            }
+          }
+        }
+      },
+      "memoryHook": "Weber is weakness plus third nerve; Benedikt brings bizarre movements.",
+      "examPearl": "Crossed findings, an ipsilateral cranial nerve palsy with contralateral limb deficit, localize to the brainstem.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "D. Anterior cerebral peduncle",
+        "auditedAnswer": "C. Contralateral Parkinsonism",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 49,
+        "sourcePdfPage": 11,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q052",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Posterior inferior cerebellar artery infarction classically produces lateral medullary, or Wallenberg, syndrome. Findings include dysphagia, hoarseness, ipsilateral facial pain-temperature loss, contralateral body pain-temperature loss, ataxia, nystagmus, and ipsilateral Horner syndrome.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. PICA or vertebral artery disease injures the lateral medulla.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: PICA or vertebral artery disease injures the lateral medulla."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: PICA or vertebral artery disease injures the lateral medulla.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? PICA or vertebral artery disease injures the lateral medulla.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "PICA or vertebral artery disease injures the lateral medulla."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Weber syndrome is a ventral midbrain syndrome involving CN III and the cerebral peduncle.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Weber syndrome is a ventral midbrain syndrome involving CN III and the cerebral peduncle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Weber syndrome is a ventral midbrain syndrome involving CN III and the cerebral peduncle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a ventral midbrain syndrome involving CN III and the cerebral peduncle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Weber syndrome is a ventral midbrain syndrome involving CN III and the cerebral peduncle."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Medial medullary syndrome is usually due to anterior spinal or paramedian vertebral branches and affects pyramids, medial lemniscus, and hypoglossal fibres.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Medial medullary syndrome is usually due to anterior spinal or paramedian vertebral branches and affects pyramids, medial lemniscus, and hypoglossal fibres."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Medial medullary syndrome is usually due to anterior spinal or paramedian vertebral branches and affects pyramids, medial lemniscus, and hypoglossal fibres.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is usually due to anterior spinal or paramedian vertebral branches and affects pyramids, medial lemniscus, and hypoglossal fibres.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Medial medullary syndrome is usually due to anterior spinal or paramedian vertebral branches and affects pyramids, medial lemniscus, and hypoglossal fibres."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A named vascular syndrome is present, so none is incorrect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A named vascular syndrome is present, so none is incorrect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Do not PICA horse that cannot eat: dysphagia and hoarseness.",
+      "examPearl": "Nucleus ambiguus involvement is the high-yield discriminator between lateral medullary and lateral pontine syndromes.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Lateral medullary syndrome",
+        "auditedAnswer": "A. Lateral medullary syndrome",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 52,
+        "sourcePdfPage": 11,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q053",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Most myasthenia gravis is caused by IgG autoantibodies against postsynaptic nicotinic acetylcholine receptors at the neuromuscular junction. Some seronegative patients have antibodies to MuSK or LRP4.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Receptor loss and complement-mediated postsynaptic damage reduce the safety factor of neuromuscular transmission.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Receptor loss and complement-mediated postsynaptic damage reduce the safety factor of neuromuscular transmission."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Receptor loss and complement-mediated postsynaptic damage reduce the safety factor of neuromuscular transmission.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Receptor loss and complement-mediated postsynaptic damage reduce the safety factor of neuromuscular transmission.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Receptor loss and complement-mediated postsynaptic damage reduce the safety factor of neuromuscular transmission."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Presynaptic voltage-gated calcium channel antibodies suggest Lambert-Eaton myasthenic syndrome, often associated with small-cell lung cancer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Presynaptic voltage-gated calcium channel antibodies suggest Lambert-Eaton myasthenic syndrome, often associated with small-cell lung cancer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Presynaptic voltage-gated calcium channel antibodies suggest Lambert-Eaton myasthenic syndrome, often associated with small-cell lung cancer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Presynaptic voltage-gated calcium channel antibodies suggest Lambert-Eaton myasthenic syndrome, often associated with small-cell lung cancer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Presynaptic voltage-gated calcium channel antibodies suggest Lambert-Eaton myasthenic syndrome, often associated with small-cell lung cancer."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Voltage-gated sodium channel blockade is the mechanism of local anaesthetics and some toxins, not typical myasthenia gravis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Voltage-gated sodium channel blockade is the mechanism of local anaesthetics and some toxins, not typical myasthenia gravis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Voltage-gated sodium channel blockade is the mechanism of local anaesthetics and some toxins, not typical myasthenia gravis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Voltage-gated sodium channel blockade is the mechanism of local anaesthetics and some toxins, not typical myasthenia gravis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Voltage-gated sodium channel blockade is the mechanism of local anaesthetics and some toxins, not typical myasthenia gravis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Opioid receptors mediate analgesic and respiratory effects and are unrelated to the autoimmune junctional lesion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Opioid receptors mediate analgesic and respiratory effects and are unrelated to the autoimmune junctional lesion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Opioid receptors mediate analgesic and respiratory effects and are unrelated to the autoimmune junctional lesion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice mediate analgesic and respiratory effects and are unrelated to the autoimmune junctional lesion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Opioid receptors mediate analgesic and respiratory effects and are unrelated to the autoimmune junctional lesion."
+            }
+          }
+        }
+      },
+      "memoryHook": "MG attacks the muscle-side ACh receptor; Lambert-Eaton attacks presynaptic calcium channels.",
+      "examPearl": "Weakness worsens with use and improves with rest. Pupils and sensation are preserved.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Ach receptors",
+        "auditedAnswer": "A. Ach receptors",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 53,
+        "sourcePdfPage": 11,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q099",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "A pH of 7.24 is acidemic and bicarbonate of 14 mEq/L is low, establishing primary metabolic acidosis. Winter's expected PaCO2 is about 1.5 x 14 + 8 = 29 plus or minus 2; the measured 36 suggests additional respiratory acidosis, but the principal disorder remains metabolic acidosis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "PaCO2 is not markedly elevated, and the low bicarbonate is too great to be explained as compensation for a primary respiratory acidosis alone.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: PaCO2 is not markedly elevated, and the low bicarbonate is too great to be explained as compensation for a primary respiratory acidosis alone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: PaCO2 is not markedly elevated, and the low bicarbonate is too great to be explained as compensation for a primary respiratory acidosis alone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? PaCO2 is not markedly elevated, and the low bicarbonate is too great to be explained as compensation for a primary respiratory acidosis alone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "PaCO2 is not markedly elevated, and the low bicarbonate is too great to be explained as compensation for a primary respiratory acidosis alone."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Respiratory alkalosis would have a low PaCO2 as the primary change and usually an alkaline or compensated pH.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Respiratory alkalosis would have a low PaCO2 as the primary change and usually an alkaline or compensated pH."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Respiratory alkalosis would have a low PaCO2 as the primary change and usually an alkaline or compensated pH.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice would have a low PaCO2 as the primary change and usually an alkaline or compensated pH.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Respiratory alkalosis would have a low PaCO2 as the primary change and usually an alkaline or compensated pH."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct primary process. Renal tubular acidosis is a normal-anion-gap metabolic acidosis, although the displayed electrolytes appear internally inconsistent and may contain OCR error.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Renal tubular acidosis is a normal-anion-gap metabolic acidosis, although the displayed electrolytes appear internally inconsistent and may contain OCR error."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Renal tubular acidosis is a normal-anion-gap metabolic acidosis, although the displayed electrolytes appear internally inconsistent and may contain OCR error.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Renal tubular acidosis is a normal-anion-gap metabolic acidosis, although the displayed electrolytes appear internally inconsistent and may contain OCR error.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Renal tubular acidosis is a normal-anion-gap metabolic acidosis, although the displayed electrolytes appear internally inconsistent and may contain OCR error."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Metabolic alkalosis requires elevated bicarbonate and alkalemia, the opposite of this ABG.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Metabolic alkalosis requires elevated bicarbonate and alkalemia, the opposite of this ABG."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Metabolic alkalosis requires elevated bicarbonate and alkalemia, the opposite of this ABG.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice requires elevated bicarbonate and alkalemia, the opposite of this ABG.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Metabolic alkalosis requires elevated bicarbonate and alkalemia, the opposite of this ABG."
+            }
+          }
+        }
+      },
+      "memoryHook": "First pH, then the partner moving in the same acid direction: low pH plus low bicarbonate means metabolic acidosis.",
+      "examPearl": "Always calculate compensation; a value outside the expected range means a mixed disorder.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Metabolic acidosis",
+        "auditedAnswer": "C. Metabolic acidosis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 99,
+        "sourcePdfPage": 19,
+        "reportedRepeatYears": [
+          2014,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q135",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "In cardiac arrest with shock-refractory ventricular fibrillation or pulseless ventricular tachycardia, amiodarone or lidocaine may be given after defibrillation and epinephrine according to the algorithm. High-quality CPR and repeated defibrillation remain the central interventions.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Amiodarone 300 mg IV or IO bolus is commonly used first, with an additional 150 mg if required.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Amiodarone 300 mg IV or IO bolus is commonly used first, with an additional 150 mg if required."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amiodarone 300 mg IV or IO bolus is commonly used first, with an additional 150 mg if required.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice 300 mg IV or IO bolus is commonly used first, with an additional 150 mg if required.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Amiodarone 300 mg IV or IO bolus is commonly used first, with an additional 150 mg if required."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dopamine is used for selected post-ROSC hypotension or symptomatic bradycardia, not VF arrest.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dopamine is used for selected post-ROSC hypotension or symptomatic bradycardia, not VF arrest."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dopamine is used for selected post-ROSC hypotension or symptomatic bradycardia, not VF arrest.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is used for selected post-ROSC hypotension or symptomatic bradycardia, not VF arrest.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Dopamine is used for selected post-ROSC hypotension or symptomatic bradycardia, not VF arrest."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Adenosine treats certain regular supraventricular tachycardias and selected regular monomorphic wide-complex tachycardia, never VF.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Adenosine treats certain regular supraventricular tachycardias and selected regular monomorphic wide-complex tachycardia, never VF."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adenosine treats certain regular supraventricular tachycardias and selected regular monomorphic wide-complex tachycardia, never VF.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice treats certain regular supraventricular tachycardias and selected regular monomorphic wide-complex tachycardia, never VF.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Adenosine treats certain regular supraventricular tachycardias and selected regular monomorphic wide-complex tachycardia, never VF."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Atropine is not recommended for asystole, PEA, or VF; it is used for symptomatic bradycardia.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Atropine is not recommended for asystole, PEA, or VF; it is used for symptomatic bradycardia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atropine is not recommended for asystole, PEA, or VF; it is used for symptomatic bradycardia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not recommended for asystole, PEA, or VF; it is used for symptomatic bradycardia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Atropine is not recommended for asystole, PEA, or VF; it is used for symptomatic bradycardia."
+            }
+          }
+        }
+      },
+      "memoryHook": "VF: shock, CPR, epi, then amiodarone or lidocaine.",
+      "examPearl": "Never pause compressions unnecessarily to give a drug. Defibrillation treats the rhythm; drugs support the algorithm.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Amiodarone",
+        "auditedAnswer": "A. Amiodarone",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 135,
+        "sourcePdfPage": 26,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q145",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Sipple syndrome is MEN2A: medullary thyroid carcinoma, pheochromocytoma, and primary hyperparathyroidism. Obesity is not a defining feature, unlike the other listed syndromes.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cushing syndrome commonly produces centripetal weight gain, moon facies, dorsocervical fat, muscle wasting, and skin changes.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cushing syndrome commonly produces centripetal weight gain, moon facies, dorsocervical fat, muscle wasting, and skin changes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cushing syndrome commonly produces centripetal weight gain, moon facies, dorsocervical fat, muscle wasting, and skin changes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice commonly produces centripetal weight gain, moon facies, dorsocervical fat, muscle wasting, and skin changes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Cushing syndrome commonly produces centripetal weight gain, moon facies, dorsocervical fat, muscle wasting, and skin changes."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pickwickian syndrome is obesity hypoventilation syndrome and by definition occurs with obesity.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Pickwickian syndrome is obesity hypoventilation syndrome and by definition occurs with obesity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pickwickian syndrome is obesity hypoventilation syndrome and by definition occurs with obesity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pickwickian syndrome is obesity hypoventilation syndrome and by definition occurs with obesity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pickwickian syndrome is obesity hypoventilation syndrome and by definition occurs with obesity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Prader-Willi syndrome features hypotonia, hyperphagia, obesity, hypogonadism, and developmental problems.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Prader-Willi syndrome features hypotonia, hyperphagia, obesity, hypogonadism, and developmental problems."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Prader-Willi syndrome features hypotonia, hyperphagia, obesity, hypogonadism, and developmental problems.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Prader-Willi syndrome features hypotonia, hyperphagia, obesity, hypogonadism, and developmental problems.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Prader-Willi syndrome features hypotonia, hyperphagia, obesity, hypogonadism, and developmental problems."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. MEN2A is driven by pathogenic RET variants, not an obesity syndrome.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: MEN2A is driven by pathogenic RET variants, not an obesity syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MEN2A is driven by pathogenic RET variants, not an obesity syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MEN2A is driven by pathogenic RET variants, not an obesity syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "MEN2A is driven by pathogenic RET variants, not an obesity syndrome."
+            }
+          }
+        }
+      },
+      "memoryHook": "Sipple is MEN2A: medullary thyroid, pheo, parathyroid.",
+      "examPearl": "Exclude pheochromocytoma before thyroid surgery in MEN2 because an unrecognized catecholamine-secreting tumour can cause perioperative crisis.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Sipple syndrome",
+        "auditedAnswer": "D. Sipple syndrome",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 145,
+        "sourcePdfPage": 27,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q149",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Acute severe mitral regurgitation, ventricular septal rupture, and isolated right-ventricular failure can each cause cardiogenic shock by reducing effective forward output. In the post-infarction setting, the first two are catastrophic mechanical complications and RV infarction can produce preload-sensitive shock.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Acute MR causes abrupt left atrial pressure rise, pulmonary oedema, and low forward stroke volume.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Acute MR causes abrupt left atrial pressure rise, pulmonary oedema, and low forward stroke volume."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Acute MR causes abrupt left atrial pressure rise, pulmonary oedema, and low forward stroke volume.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Acute MR causes abrupt left atrial pressure rise, pulmonary oedema, and low forward stroke volume.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Acute MR causes abrupt left atrial pressure rise, pulmonary oedema, and low forward stroke volume."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A large acute VSD creates a left-to-right shunt and rapidly overwhelms both ventricles.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A large acute VSD creates a left-to-right shunt and rapidly overwhelms both ventricles."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A large acute VSD creates a left-to-right shunt and rapidly overwhelms both ventricles.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A large acute VSD creates a left-to-right shunt and rapidly overwhelms both ventricles.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A large acute VSD creates a left-to-right shunt and rapidly overwhelms both ventricles."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Severe RV failure reduces left-sided filling and output, often with hypotension, raised JVP, and clear lungs.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Severe RV failure reduces left-sided filling and output, often with hypotension, raised JVP, and clear lungs."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe RV failure reduces left-sided filling and output, often with hypotension, raised JVP, and clear lungs.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe RV failure reduces left-sided filling and output, often with hypotension, raised JVP, and clear lungs.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Severe RV failure reduces left-sided filling and output, often with hypotension, raised JVP, and clear lungs."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. All listed mechanisms can produce shock.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: All listed mechanisms can produce shock."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "After MI, shock can be pump failure, papillary rupture, septal rupture, or right-ventricular failure.",
+      "examPearl": "A new murmur with sudden shock after MI requires urgent echocardiography and surgical or structural-heart consultation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. all of the above",
+        "auditedAnswer": "D. all of the above",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 149,
+        "sourcePdfPage": 28,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q150",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Alzheimer disease is a progressive neurodegenerative cause of dementia. Treatments may modestly slow symptoms or disease progression in selected patients, but there is no established cure that restores the brain to normal.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The exact prevalence estimate changes by country, age structure, and year, but Alzheimer disease is common in people over 65; this does not affect the clear answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The exact prevalence estimate changes by country, age structure, and year, but Alzheimer disease is common in people over 65; this does not affect the clear answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The exact prevalence estimate changes by country, age structure, and year, but Alzheimer disease is common in people over 65; this does not affect the clear answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The exact prevalence estimate changes by country, age structure, and year, but Alzheimer disease is common in people over 65; this does not affect the clear answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The exact prevalence estimate changes by country, age structure, and year, but Alzheimer disease is common in people over 65; this does not affect the clear answer."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "False and therefore correct for the 'false' question. Current therapy is not curative.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Current therapy is not curative."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Current therapy is not curative.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Current therapy is not curative.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Current therapy is not curative."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Alzheimer disease is the most common cause of dementia in many populations.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Alzheimer disease is the most common cause of dementia in many populations."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alzheimer disease is the most common cause of dementia in many populations.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Alzheimer disease is the most common cause of dementia in many populations.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Alzheimer disease is the most common cause of dementia in many populations."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Not correct because C is true and A is broadly plausible, so not all statements are false.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Not correct because C is true and A is broadly plausible, so not all statements are false."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Alzheimer treatment can help or slow; it does not cure.",
+      "examPearl": "Early prominent episodic memory loss is typical, but reversible contributors and alternative dementias should be evaluated.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Alzheimer's disease is curable",
+        "auditedAnswer": "B. Alzheimer's disease is curable",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 150,
+        "sourcePdfPage": 28,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q153",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Rheumatoid arthritis usually produces a symmetric inflammatory polyarthritis with pain, swelling, prolonged morning stiffness, and involvement of multiple small joints. Seropositivity refers to rheumatoid factor and/or anti-CCP antibodies and predicts a higher risk of erosive or extra-articular disease.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. RA is usually polyarticular rather than confined to one joint.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: RA is usually polyarticular rather than confined to one joint."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: RA is usually polyarticular rather than confined to one joint.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? RA is usually polyarticular rather than confined to one joint.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "RA is usually polyarticular rather than confined to one joint."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Symmetric MCP, PIP, and wrist involvement is typical.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Symmetric MCP, PIP, and wrist involvement is typical."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symmetric MCP, PIP, and wrist involvement is typical.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symmetric MCP, PIP, and wrist involvement is typical.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Symmetric MCP, PIP, and wrist involvement is typical."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Synovitis produces tenderness, swelling, warmth, and restricted movement.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Synovitis produces tenderness, swelling, warmth, and restricted movement."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Synovitis produces tenderness, swelling, warmth, and restricted movement.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Synovitis produces tenderness, swelling, warmth, and restricted movement.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Synovitis produces tenderness, swelling, warmth, and restricted movement."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct because all listed features fit common seropositive RA.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Correct because all listed features fit common seropositive RA."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "RA is symmetric, small-joint, swollen, and stiff in the morning.",
+      "examPearl": "DIP joints are usually spared. Anti-CCP is more specific than rheumatoid factor.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. All",
+        "auditedAnswer": "D. All",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 153,
+        "sourcePdfPage": 29,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q155",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "AIDS-related complex is an obsolete pre-modern-therapy term for symptomatic HIV infection without an AIDS-defining illness. Generalized lymphadenopathy, chronic diarrhoea, constitutional symptoms, and recurrent mucocutaneous candidiasis were included; ectopic pregnancy was not.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Ectopic pregnancy is a reproductive emergency, not a defining ARC manifestation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Ectopic pregnancy is a reproductive emergency, not a defining ARC manifestation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ectopic pregnancy is a reproductive emergency, not a defining ARC manifestation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a reproductive emergency, not a defining ARC manifestation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ectopic pregnancy is a reproductive emergency, not a defining ARC manifestation."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Recurrent genital candidiasis can accompany HIV-related immune dysfunction, though it is not by itself an AIDS-defining condition.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Recurrent genital candidiasis can accompany HIV-related immune dysfunction, though it is not by itself an AIDS-defining condition."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Recurrent genital candidiasis can accompany HIV-related immune dysfunction, though it is not by itself an AIDS-defining condition.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can accompany HIV-related immune dysfunction, though it is not by itself an AIDS-defining condition.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Recurrent genital candidiasis can accompany HIV-related immune dysfunction, though it is not by itself an AIDS-defining condition."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Persistent generalized lymphadenopathy was a classic ARC feature.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Persistent generalized lymphadenopathy was a classic ARC feature."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Persistent generalized lymphadenopathy was a classic ARC feature.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Persistent generalized lymphadenopathy was a classic ARC feature.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Persistent generalized lymphadenopathy was a classic ARC feature."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Chronic diarrhoea and weight loss were classic symptomatic features.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chronic diarrhoea and weight loss were classic symptomatic features."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chronic diarrhoea and weight loss were classic symptomatic features.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Chronic diarrhoea and weight loss were classic symptomatic features.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Chronic diarrhoea and weight loss were classic symptomatic features."
+            }
+          }
+        }
+      },
+      "memoryHook": "Old ARC meant constitutional, diarrhoeal, candidal, and lymph-node symptoms before AIDS.",
+      "examPearl": "Use current HIV staging, CD4 count, viral load, and defined opportunistic conditions in clinical practice.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "A. Ectopic pregnancy",
+        "auditedAnswer": "A. Ectopic pregnancy",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 155,
+        "sourcePdfPage": 29,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q156",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "PIP and DIP involvement with sparing of wrist and ankle favours hand osteoarthritis. The stem likely intended the first CMC joint, a classic OA site, but prints first MCP, which is less typical.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best intended answer. OA causes Heberden nodes at DIP, Bouchard nodes at PIP, and first CMC base-of-thumb disease.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: OA causes Heberden nodes at DIP, Bouchard nodes at PIP, and first CMC base-of-thumb disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: OA causes Heberden nodes at DIP, Bouchard nodes at PIP, and first CMC base-of-thumb disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? OA causes Heberden nodes at DIP, Bouchard nodes at PIP, and first CMC base-of-thumb disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "OA causes Heberden nodes at DIP, Bouchard nodes at PIP, and first CMC base-of-thumb disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "RA commonly affects MCP, PIP, and wrist symmetrically while usually sparing DIP, the opposite of this pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: RA commonly affects MCP, PIP, and wrist symmetrically while usually sparing DIP, the opposite of this pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: RA commonly affects MCP, PIP, and wrist symmetrically while usually sparing DIP, the opposite of this pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? RA commonly affects MCP, PIP, and wrist symmetrically while usually sparing DIP, the opposite of this pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "RA commonly affects MCP, PIP, and wrist symmetrically while usually sparing DIP, the opposite of this pattern."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Psoriatic arthritis can affect DIP and may be asymmetric with dactylitis, nail pitting, or psoriasis, none of which are given.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Psoriatic arthritis can affect DIP and may be asymmetric with dactylitis, nail pitting, or psoriasis, none of which are given."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Psoriatic arthritis can affect DIP and may be asymmetric with dactylitis, nail pitting, or psoriasis, none of which are given.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can affect DIP and may be asymmetric with dactylitis, nail pitting, or psoriasis, none of which are given.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Psoriatic arthritis can affect DIP and may be asymmetric with dactylitis, nail pitting, or psoriasis, none of which are given."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gout often attacks the first MTP and can involve other joints, but the described chronic hand distribution is not classic.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gout often attacks the first MTP and can involve other joints, but the described chronic hand distribution is not classic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gout often attacks the first MTP and can involve other joints, but the described chronic hand distribution is not classic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice often attacks the first MTP and can involve other joints, but the described chronic hand distribution is not classic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Gout often attacks the first MTP and can involve other joints, but the described chronic hand distribution is not classic."
+            }
+          }
+        }
+      },
+      "memoryHook": "OA: DIP, PIP, first CMC. RA: MCP, PIP, wrist.",
+      "examPearl": "Treat 'first MCP' as a probable source typo for first CMC; if truly first MCP, the stem is less specific.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Osteoarthritis",
+        "auditedAnswer": "A. Osteoarthritis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 156,
+        "sourcePdfPage": 29,
+        "reportedRepeatYears": [
+          2014,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q169",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Older adult criteria define acute severe asthma by any of PEF 33 to 50 percent, respiratory rate at least 25, heart rate at least 110, or inability to complete sentences. A rate above 120 is still above 110, so option A is not logically an exception. Respiratory acidosis and drowsiness are even more ominous life-threatening features.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Source-intended exception, probably because the memorised threshold is above 110 rather than 120. Mathematically, a pulse above 120 still meets the severe criterion.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Mathematically, a pulse above 120 still meets the severe criterion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mathematically, a pulse above 120 still meets the severe criterion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mathematically, a pulse above 120 still meets the severe criterion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Mathematically, a pulse above 120 still meets the severe criterion."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pulsus paradoxus may occur in severe airflow obstruction, although it is not required and can disappear with exhaustion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pulsus paradoxus may occur in severe airflow obstruction, although it is not required and can disappear with exhaustion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pulsus paradoxus may occur in severe airflow obstruction, although it is not required and can disappear with exhaustion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may occur in severe airflow obstruction, although it is not required and can disappear with exhaustion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pulsus paradoxus may occur in severe airflow obstruction, although it is not required and can disappear with exhaustion."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Respiratory acidosis or a normal-to-raised PaCO2 is a life-threatening sign because early attacks usually cause hypocapnia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Respiratory acidosis or a normal-to-raised PaCO2 is a life-threatening sign because early attacks usually cause hypocapnia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Respiratory acidosis or a normal-to-raised PaCO2 is a life-threatening sign because early attacks usually cause hypocapnia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice or a normal-to-raised PaCO2 is a life-threatening sign because early attacks usually cause hypocapnia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Respiratory acidosis or a normal-to-raised PaCO2 is a life-threatening sign because early attacks usually cause hypocapnia."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Drowsiness signals exhaustion, hypoxaemia, or hypercapnia and demands immediate escalation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Drowsiness signals exhaustion, hypoxaemia, or hypercapnia and demands immediate escalation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Drowsiness signals exhaustion, hypoxaemia, or hypercapnia and demands immediate escalation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Drowsiness signals exhaustion, hypoxaemia, or hypercapnia and demands immediate escalation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Drowsiness signals exhaustion, hypoxaemia, or hypercapnia and demands immediate escalation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Severe: cannot speak, RR 25, HR 110, PEF one-third to one-half. Drowsy or rising CO2 is life-threatening.",
+      "examPearl": "Do not let the defective 'except' format downplay C or D. They require urgent critical-care assessment.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Tachycardia > 120/min",
+        "auditedAnswer": "A. Tachycardia > 120/min",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 169,
+        "sourcePdfPage": 32,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q171",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cytomegalovirus is a major opportunistic infection after renal transplantation, especially during roughly 1 to 6 months when immunosuppression is intense. Risk is highest in donor-positive, recipient-negative transplantation without effective prophylaxis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct classic opportunistic answer. CMV can cause fever, cytopenias, hepatitis, gastrointestinal disease, pneumonitis, and graft effects.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: CMV can cause fever, cytopenias, hepatitis, gastrointestinal disease, pneumonitis, and graft effects."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CMV can cause fever, cytopenias, hepatitis, gastrointestinal disease, pneumonitis, and graft effects.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CMV can cause fever, cytopenias, hepatitis, gastrointestinal disease, pneumonitis, and graft effects.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "CMV can cause fever, cytopenias, hepatitis, gastrointestinal disease, pneumonitis, and graft effects."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Klebsiella can cause early healthcare-associated UTI or pneumonia but is not the signature transplant-timing organism.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Klebsiella can cause early healthcare-associated UTI or pneumonia but is not the signature transplant-timing organism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Klebsiella can cause early healthcare-associated UTI or pneumonia but is not the signature transplant-timing organism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause early healthcare-associated UTI or pneumonia but is not the signature transplant-timing organism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Klebsiella can cause early healthcare-associated UTI or pneumonia but is not the signature transplant-timing organism."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Streptococcal infections occur but are not the most characteristic opportunistic option.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Streptococcal infections occur but are not the most characteristic opportunistic option."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Streptococcal infections occur but are not the most characteristic opportunistic option.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Streptococcal infections occur but are not the most characteristic opportunistic option.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Streptococcal infections occur but are not the most characteristic opportunistic option."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Staphylococcal wound, catheter, or bloodstream infection is important early after surgery but does not replace CMV as the classic post-transplant answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Staphylococcal wound, catheter, or bloodstream infection is important early after surgery but does not replace CMV as the classic post-transplant answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Staphylococcal wound, catheter, or bloodstream infection is important early after surgery but does not replace CMV as the classic post-transplant answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Staphylococcal wound, catheter, or bloodstream infection is important early after surgery but does not replace CMV as the classic post-transplant answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Staphylococcal wound, catheter, or bloodstream infection is important early after surgery but does not replace CMV as the classic post-transplant answer."
+            }
+          }
+        }
+      },
+      "memoryHook": "First month surgical bacteria; months 1 to 6 opportunists such as CMV; later community infections unless heavily suppressed.",
+      "examPearl": "Prophylaxis and pre-emptive viral-load strategies alter the timing, so use the patient's donor-recipient serostatus and regimen.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. CMV",
+        "auditedAnswer": "A. CMV",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 171,
+        "sourcePdfPage": 32,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q199",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "A comatose patient has impaired airway protection and aspirates oropharyngeal contents. Polymicrobial oral anaerobes are the classic cause of aspiration lung abscess, often in dependent lung segments.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "S. aureus can cause post-influenza necrotising pneumonia, septic emboli, or abscess, but aspiration points to oral flora.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: S. aureus can cause post-influenza necrotising pneumonia, septic emboli, or abscess, but aspiration points to oral flora."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: S. aureus can cause post-influenza necrotising pneumonia, septic emboli, or abscess, but aspiration points to oral flora.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? S. aureus can cause post-influenza necrotising pneumonia, septic emboli, or abscess, but aspiration points to oral flora.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "S. aureus can cause post-influenza necrotising pneumonia, septic emboli, or abscess, but aspiration points to oral flora."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Poor dentition, loss of consciousness, and foul sputum strengthen the clue.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Poor dentition, loss of consciousness, and foul sputum strengthen the clue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Poor dentition, loss of consciousness, and foul sputum strengthen the clue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Poor dentition, loss of consciousness, and foul sputum strengthen the clue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Poor dentition, loss of consciousness, and foul sputum strengthen the clue."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Klebsiella can cause severe necrotising pneumonia in susceptible hosts but is not the main aspiration-anaerobe answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Klebsiella can cause severe necrotising pneumonia in susceptible hosts but is not the main aspiration-anaerobe answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Klebsiella can cause severe necrotising pneumonia in susceptible hosts but is not the main aspiration-anaerobe answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause severe necrotising pneumonia in susceptible hosts but is not the main aspiration-anaerobe answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Klebsiella can cause severe necrotising pneumonia in susceptible hosts but is not the main aspiration-anaerobe answer."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tuberculosis causes cavities through chronic granulomatous destruction, not a typical acute aspiration abscess.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tuberculosis causes cavities through chronic granulomatous destruction, not a typical acute aspiration abscess."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tuberculosis causes cavities through chronic granulomatous destruction, not a typical acute aspiration abscess.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes cavities through chronic granulomatous destruction, not a typical acute aspiration abscess.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Tuberculosis causes cavities through chronic granulomatous destruction, not a typical acute aspiration abscess."
+            }
+          }
+        }
+      },
+      "memoryHook": "Unconscious plus aspiration equals anaerobes from the mouth.",
+      "examPearl": "Routine expectorated sputum is poor for anaerobic culture; diagnosis is usually clinical and radiologic.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Oral anaerobes",
+        "auditedAnswer": "B. Oral anaerobes",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 199,
+        "sourcePdfPage": 37,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q259",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Massive transfusion can cause hyperkalaemia from potassium leakage out of stored red cells, hypocalcaemia and hypomagnesaemia from citrate binding, and hypothermia from cold products. Hypokalaemia is therefore the exception.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Potassium usually rises, though later intracellular shifts can complicate the picture.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Potassium usually rises, though later intracellular shifts can complicate the picture."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Potassium usually rises, though later intracellular shifts can complicate the picture.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Potassium usually rises, though later intracellular shifts can complicate the picture.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Potassium usually rises, though later intracellular shifts can complicate the picture."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypothermia impairs coagulation and cardiac function unless blood and patient are actively warmed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hypothermia impairs coagulation and cardiac function unless blood and patient are actively warmed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypothermia impairs coagulation and cardiac function unless blood and patient are actively warmed.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice impairs coagulation and cardiac function unless blood and patient are actively warmed.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Hypothermia impairs coagulation and cardiac function unless blood and patient are actively warmed."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Citrate chelates magnesium as well as calcium, so hypomagnesaemia can occur.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Citrate chelates magnesium as well as calcium, so hypomagnesaemia can occur."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Citrate chelates magnesium as well as calcium, so hypomagnesaemia can occur.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Citrate chelates magnesium as well as calcium, so hypomagnesaemia can occur.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Citrate chelates magnesium as well as calcium, so hypomagnesaemia can occur."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypocalcaemia is common, especially with rapid plasma-rich transfusion or liver dysfunction.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hypocalcaemia is common, especially with rapid plasma-rich transfusion or liver dysfunction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypocalcaemia is common, especially with rapid plasma-rich transfusion or liver dysfunction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hypocalcaemia is common, especially with rapid plasma-rich transfusion or liver dysfunction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Hypocalcaemia is common, especially with rapid plasma-rich transfusion or liver dysfunction."
+            }
+          }
+        }
+      },
+      "memoryHook": "Massive blood: cold, citrate lowers calcium, stored cells leak potassium.",
+      "examPearl": "Use balanced component therapy, temperature control, ionised calcium, blood gases, potassium, and viscoelastic or coagulation monitoring.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Hypokalemia",
+        "auditedAnswer": "A. Hypokalemia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 259,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q260",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Bronchiectasis sicca is an older term for upper-lobe bronchiectasis with little sputum, classically following tuberculosis. Haemoptysis may be prominent despite a relatively dry cough.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Post-tuberculous scarring and traction distort upper-lobe bronchi.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Post-tuberculous scarring and traction distort upper-lobe bronchi."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Post-tuberculous scarring and traction distort upper-lobe bronchi.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Post-tuberculous scarring and traction distort upper-lobe bronchi.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Post-tuberculous scarring and traction distort upper-lobe bronchi."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pertussis can cause postinfectious bronchiectasis but not the classic sicca association.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pertussis can cause postinfectious bronchiectasis but not the classic sicca association."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pertussis can cause postinfectious bronchiectasis but not the classic sicca association.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause postinfectious bronchiectasis but not the classic sicca association.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pertussis can cause postinfectious bronchiectasis but not the classic sicca association."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cystic fibrosis causes diffuse or upper-lobe-predominant bronchiectasis with copious thick secretions.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Cystic fibrosis causes diffuse or upper-lobe-predominant bronchiectasis with copious thick secretions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cystic fibrosis causes diffuse or upper-lobe-predominant bronchiectasis with copious thick secretions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes diffuse or upper-lobe-predominant bronchiectasis with copious thick secretions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Cystic fibrosis causes diffuse or upper-lobe-predominant bronchiectasis with copious thick secretions."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Kartagener syndrome causes bronchiectasis with chronic sinusitis and situs inversus.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Kartagener syndrome causes bronchiectasis with chronic sinusitis and situs inversus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Kartagener syndrome causes bronchiectasis with chronic sinusitis and situs inversus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes bronchiectasis with chronic sinusitis and situs inversus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Kartagener syndrome causes bronchiectasis with chronic sinusitis and situs inversus."
+            }
+          }
+        }
+      },
+      "memoryHook": "Sicca is dry, scarred, upper-lobe post-TB bronchiectasis.",
+      "examPearl": "HRCT confirms bronchiectasis by lack of bronchial tapering, bronchus larger than adjacent artery, and peripheral visible bronchi.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Tuberculosis",
+        "auditedAnswer": "A. Tuberculosis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 260,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q266",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Muehrcke lines are paired transverse white bands in the nail bed caused by hypoalbuminaemia. They do not move with nail growth and blanch with pressure because the nail plate itself is not abnormal.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Nephrotic syndrome causes severe urinary protein loss and hypoalbuminaemia.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Nephrotic syndrome causes severe urinary protein loss and hypoalbuminaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nephrotic syndrome causes severe urinary protein loss and hypoalbuminaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes severe urinary protein loss and hypoalbuminaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Nephrotic syndrome causes severe urinary protein loss and hypoalbuminaemia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bartter syndrome causes renal salt wasting, hypokalaemic metabolic alkalosis, and hyperreninaemia, not classic Muehrcke lines.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bartter syndrome causes renal salt wasting, hypokalaemic metabolic alkalosis, and hyperreninaemia, not classic Muehrcke lines."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bartter syndrome causes renal salt wasting, hypokalaemic metabolic alkalosis, and hyperreninaemia, not classic Muehrcke lines.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bartter syndrome causes renal salt wasting, hypokalaemic metabolic alkalosis, and hyperreninaemia, not classic Muehrcke lines.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Bartter syndrome causes renal salt wasting, hypokalaemic metabolic alkalosis, and hyperreninaemia, not classic Muehrcke lines."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Nail-patella syndrome causes dysplastic nails and patellae with possible nephropathy, a different nail abnormality.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Nail-patella syndrome causes dysplastic nails and patellae with possible nephropathy, a different nail abnormality."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nail-patella syndrome causes dysplastic nails and patellae with possible nephropathy, a different nail abnormality.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Nail-patella syndrome causes dysplastic nails and patellae with possible nephropathy, a different nail abnormality.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Nail-patella syndrome causes dysplastic nails and patellae with possible nephropathy, a different nail abnormality."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Acute tubular necrosis does not usually produce sustained severe hypoalbuminaemia or this pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Acute tubular necrosis does not usually produce sustained severe hypoalbuminaemia or this pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Acute tubular necrosis does not usually produce sustained severe hypoalbuminaemia or this pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice does not usually produce sustained severe hypoalbuminaemia or this pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Acute tubular necrosis does not usually produce sustained severe hypoalbuminaemia or this pattern."
+            }
+          }
+        }
+      },
+      "memoryHook": "Muehrcke lines mean low albumin and remain put while the nail grows.",
+      "examPearl": "Mees lines are within the nail plate and move distally with growth; Beau lines are transverse depressions.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Nephrotic syndrome",
+        "auditedAnswer": "A. Nephrotic syndrome",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 266,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q268",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Older Western AIDS cohorts reported Kaposi sarcoma as a leading cause of pleural effusion, explaining the source answer. In tuberculosis-endemic settings, including India, pleural TB is often far more important. The correct epidemiologic answer therefore depends on population, era, prophylaxis, and antiretroviral access.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Source-intended historical answer. Thoracic Kaposi can produce bloody effusions, nodules, adenopathy, and bilateral pulmonary disease.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Thoracic Kaposi can produce bloody effusions, nodules, adenopathy, and bilateral pulmonary disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thoracic Kaposi can produce bloody effusions, nodules, adenopathy, and bilateral pulmonary disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thoracic Kaposi can produce bloody effusions, nodules, adenopathy, and bilateral pulmonary disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Thoracic Kaposi can produce bloody effusions, nodules, adenopathy, and bilateral pulmonary disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A very strong answer in TB-endemic regions. HIV increases extrapulmonary and disseminated TB, including pleural disease.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: HIV increases extrapulmonary and disseminated TB, including pleural disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: HIV increases extrapulmonary and disseminated TB, including pleural disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? HIV increases extrapulmonary and disseminated TB, including pleural disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "HIV increases extrapulmonary and disseminated TB, including pleural disease."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pneumocystis usually causes diffuse interstitial pneumonia; pleural effusion is uncommon and should suggest another or additional diagnosis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pneumocystis usually causes diffuse interstitial pneumonia; pleural effusion is uncommon and should suggest another or additional diagnosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pneumocystis usually causes diffuse interstitial pneumonia; pleural effusion is uncommon and should suggest another or additional diagnosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pneumocystis usually causes diffuse interstitial pneumonia; pleural effusion is uncommon and should suggest another or additional diagnosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Pneumocystis usually causes diffuse interstitial pneumonia; pleural effusion is uncommon and should suggest another or additional diagnosis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mycoplasma is not a leading AIDS-related pleural effusion cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mycoplasma is not a leading AIDS-related pleural effusion cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mycoplasma is not a leading AIDS-related pleural effusion cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a leading AIDS-related pleural effusion cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Mycoplasma is not a leading AIDS-related pleural effusion cause."
+            }
+          }
+        }
+      },
+      "memoryHook": "AIDS pleural effusion is geography-sensitive: old Western key Kaposi, endemic setting think TB.",
+      "examPearl": "Do not use this unqualified stem clinically. Analyse pleural fluid and local epidemiology.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Kaposi sarcoma",
+        "auditedAnswer": "A. Kaposi sarcoma",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 268,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q288",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Furosemide causes renal potassium loss. Hypokalaemia produces flattened T waves, ST depression, prominent U waves, apparent QT or QU prolongation, and ventricular arrhythmia risk.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypocalcaemia prolongs the QT interval mainly by lengthening the ST segment but does not classically create prominent U waves.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hypocalcaemia prolongs the QT interval mainly by lengthening the ST segment but does not classically create prominent U waves."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypocalcaemia prolongs the QT interval mainly by lengthening the ST segment but does not classically create prominent U waves.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hypocalcaemia prolongs the QT interval mainly by lengthening the ST segment but does not classically create prominent U waves.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hypocalcaemia prolongs the QT interval mainly by lengthening the ST segment but does not classically create prominent U waves."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Also look for weakness, ileus, and potentiated digoxin toxicity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Also look for weakness, ileus, and potentiated digoxin toxicity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Also look for weakness, ileus, and potentiated digoxin toxicity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Also look for weakness, ileus, and potentiated digoxin toxicity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Also look for weakness, ileus, and potentiated digoxin toxicity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hyperkalaemia begins with tall peaked T waves and can progress to PR prolongation, QRS widening, and sine wave.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hyperkalaemia begins with tall peaked T waves and can progress to PR prolongation, QRS widening, and sine wave."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hyperkalaemia begins with tall peaked T waves and can progress to PR prolongation, QRS widening, and sine wave.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hyperkalaemia begins with tall peaked T waves and can progress to PR prolongation, QRS widening, and sine wave.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Hyperkalaemia begins with tall peaked T waves and can progress to PR prolongation, QRS widening, and sine wave."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypercalcaemia shortens QT rather than producing U waves.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hypercalcaemia shortens QT rather than producing U waves."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypercalcaemia shortens QT rather than producing U waves.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hypercalcaemia shortens QT rather than producing U waves.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Hypercalcaemia shortens QT rather than producing U waves."
+            }
+          }
+        }
+      },
+      "memoryHook": "Low K makes T low and U show.",
+      "examPearl": "Correct magnesium as well as potassium when hypokalaemia is refractory or arrhythmogenic.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Hypokalemia",
+        "auditedAnswer": "B. Hypokalemia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 288,
+        "sourcePdfPage": 53,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q335",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Crohn disease produces discontinuous skip lesions with transmural inflammation anywhere from mouth to anus. Continuous involvement beginning at the rectum is typical of ulcerative colitis, so B is false.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Rectal sparing is common in Crohn disease compared with UC, but rectal involvement can occur, so 'not involved' is too absolute.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Rectal sparing is common in Crohn disease compared with UC, but rectal involvement can occur, so 'not involved' is too absolute."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rectal sparing is common in Crohn disease compared with UC, but rectal involvement can occur, so 'not involved' is too absolute.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Rectal sparing is common in Crohn disease compared with UC, but rectal involvement can occur, so 'not involved' is too absolute.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Rectal sparing is common in Crohn disease compared with UC, but rectal involvement can occur, so 'not involved' is too absolute."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct best false statement. Crohn endoscopy is patchy, not continuous.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Crohn endoscopy is patchy, not continuous."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Crohn endoscopy is patchy, not continuous.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Crohn endoscopy is patchy, not continuous.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Crohn endoscopy is patchy, not continuous."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Noncaseating granulomas support Crohn disease but are absent in many biopsies.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Noncaseating granulomas support Crohn disease but are absent in many biopsies."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Noncaseating granulomas support Crohn disease but are absent in many biopsies.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Noncaseating granulomas support Crohn disease but are absent in many biopsies.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Noncaseating granulomas support Crohn disease but are absent in many biopsies."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cobblestoning results from longitudinal and transverse ulceration with intervening oedematous mucosa.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cobblestoning results from longitudinal and transverse ulceration with intervening oedematous mucosa."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cobblestoning results from longitudinal and transverse ulceration with intervening oedematous mucosa.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cobblestoning results from longitudinal and transverse ulceration with intervening oedematous mucosa.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Cobblestoning results from longitudinal and transverse ulceration with intervening oedematous mucosa."
+            }
+          }
+        }
+      },
+      "memoryHook": "Crohn skips and tunnels through the wall; UC is continuous and mucosal.",
+      "examPearl": "Perianal fistula, stricture, and small-bowel disease strongly favour Crohn.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Continuous lesion visualized in endoscopy",
+        "auditedAnswer": "B. Continuous lesion visualized in endoscopy",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 335,
+        "sourcePdfPage": 61,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q351",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Cortical spreading depression is a slowly propagating wave of neuronal and glial depolarisation followed by suppression and is the accepted mechanism of migraine aura. The headache itself is driven by trigeminovascular activation, CGRP release, and sterile meningeal nociceptive inflammation, so no single option captures the whole disorder.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Simple cranial vasodilation is an outdated complete theory. Vascular changes occur but do not alone explain migraine.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Simple cranial vasodilation is an outdated complete theory."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Simple cranial vasodilation is an outdated complete theory.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Simple cranial vasodilation is an outdated complete theory.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Simple cranial vasodilation is an outdated complete theory."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cranial vasoconstriction is also insufficient and was part of an older aura theory.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cranial vasoconstriction is also insufficient and was part of an older aura theory."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cranial vasoconstriction is also insufficient and was part of an older aura theory.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cranial vasoconstriction is also insufficient and was part of an older aura theory.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cranial vasoconstriction is also insufficient and was part of an older aura theory."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Cortical spreading depression is the accepted electrophysiologic mechanism of migraine aura. The headache phase is more directly linked to trigeminovascular activation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Cortical spreading depression is the accepted electrophysiologic mechanism of migraine aura."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cortical spreading depression is the accepted electrophysiologic mechanism of migraine aura.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the accepted electrophysiologic mechanism of migraine aura.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Cortical spreading depression is the accepted electrophysiologic mechanism of migraine aura."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sterile meningeal neurogenic inflammation contributes to the pain phase through trigeminal pathways, so this is partly true but is imprecisely worded.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Sterile meningeal neurogenic inflammation contributes to the pain phase through trigeminal pathways, so this is partly true but is imprecisely worded."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sterile meningeal neurogenic inflammation contributes to the pain phase through trigeminal pathways, so this is partly true but is imprecisely worded.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sterile meningeal neurogenic inflammation contributes to the pain phase through trigeminal pathways, so this is partly true but is imprecisely worded.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Sterile meningeal neurogenic inflammation contributes to the pain phase through trigeminal pathways, so this is partly true but is imprecisely worded."
+            }
+          }
+        }
+      },
+      "memoryHook": "Aura spreads across cortex; headache activates trigeminal CGRP pathways.",
+      "examPearl": "Modern migraine is a neurovascular network disorder, not simply dilated blood vessels.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Cortical spreading depression",
+        "auditedAnswer": "C. Cortical spreading depression",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 351,
+        "sourcePdfPage": 64,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q365",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Neurologic symptoms depend more on the rate of sodium fall than on one threshold. Acute hyponatraemia can become symptomatic below about 125 mEq/L, with severe cerebral oedema, seizures, or coma more common below 120 or after a rapid decline.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Below 135 defines hyponatraemia but mild reductions are often asymptomatic.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Below 135 defines hyponatraemia but mild reductions are often asymptomatic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Below 135 defines hyponatraemia but mild reductions are often asymptomatic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Below 135 defines hyponatraemia but mild reductions are often asymptomatic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Below 135 defines hyponatraemia but mild reductions are often asymptomatic."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best exam threshold for acute symptoms.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Best exam threshold for acute symptoms."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Best exam threshold for acute symptoms.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Best exam threshold for acute symptoms.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Best exam threshold for acute symptoms."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Below 120 is a common level for severe symptoms but is not required if the fall is rapid.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Below 120 is a common level for severe symptoms but is not required if the fall is rapid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Below 120 is a common level for severe symptoms but is not required if the fall is rapid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Below 120 is a common level for severe symptoms but is not required if the fall is rapid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Below 120 is a common level for severe symptoms but is not required if the fall is rapid."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Below 110 is profoundly dangerous but far too low as the onset threshold.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Below 110 is profoundly dangerous but far too low as the onset threshold."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Below 110 is profoundly dangerous but far too low as the onset threshold.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Below 110 is profoundly dangerous but far too low as the onset threshold.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Below 110 is profoundly dangerous but far too low as the onset threshold."
+            }
+          }
+        }
+      },
+      "memoryHook": "Acute and fast is dangerous even before sodium is extremely low.",
+      "examPearl": "Severe symptomatic hyponatraemia requires carefully monitored hypertonic saline; avoid excessive correction because of osmotic demyelination.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "B. < 125 mEq",
+        "auditedAnswer": "B. < 125 mEq",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 365,
+        "sourcePdfPage": 66,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q370",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The classic MELD score uses serum bilirubin, INR, and serum creatinine to estimate short-term mortality in advanced liver disease. MELD-Na adds sodium, and newer MELD 3.0 also incorporates albumin and sex.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The original MELD score includes serum creatinine together with bilirubin and INR. Newer variants add other variables, but creatinine remains included.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The original MELD score includes serum creatinine together with bilirubin and INR."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The original MELD score includes serum creatinine together with bilirubin and INR.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The original MELD score includes serum creatinine together with bilirubin and INR.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The original MELD score includes serum creatinine together with bilirubin and INR."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Transaminases reflect hepatocyte injury but are not in classic MELD.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Transaminases reflect hepatocyte injury but are not in classic MELD."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Transaminases reflect hepatocyte injury but are not in classic MELD.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Transaminases reflect hepatocyte injury but are not in classic MELD.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Transaminases reflect hepatocyte injury but are not in classic MELD."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Albumin is not in original MELD but is included in MELD 3.0, so this is a modern-version caveat.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Albumin is not in original MELD but is included in MELD 3.0, so this is a modern-version caveat."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Albumin is not in original MELD but is included in MELD 3.0, so this is a modern-version caveat.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not in original MELD but is included in MELD 3.0, so this is a modern-version caveat.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Albumin is not in original MELD but is included in MELD 3.0, so this is a modern-version caveat."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Alkaline phosphatase is not a MELD component.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Alkaline phosphatase is not a MELD component."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alkaline phosphatase is not a MELD component.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a MELD component.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Alkaline phosphatase is not a MELD component."
+            }
+          }
+        }
+      },
+      "memoryHook": "Classic MELD: bilirubin, INR, creatinine; MELD-Na adds sodium.",
+      "examPearl": "State which MELD version is being used when precision matters.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Serum creatinine",
+        "auditedAnswer": "A. Serum creatinine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 370,
+        "sourcePdfPage": 67,
+        "reportedRepeatYears": [
+          2014,
+          2019
+        ]
+      }
+    },
+    {
+      "questionId": "q376",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "A true left-ventricular aneurysm classically follows a large anterior transmural myocardial infarction, often from LAD occlusion. Scarred myocardium bulges paradoxically and can cause heart failure, ventricular arrhythmia, mural thrombus, and persistent ST elevation.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A subendocardial infarct does not involve full wall thickness and is less likely to form a true aneurysm.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A subendocardial infarct does not involve full wall thickness and is less likely to form a true aneurysm."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A subendocardial infarct does not involve full wall thickness and is less likely to form a true aneurysm.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A subendocardial infarct does not involve full wall thickness and is less likely to form a true aneurysm.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A subendocardial infarct does not involve full wall thickness and is less likely to form a true aneurysm."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Corrected answer. Anterior-apical transmural infarcts are classic.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Anterior-apical transmural infarcts are classic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anterior-apical transmural infarcts are classic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Anterior-apical transmural infarcts are classic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Anterior-apical transmural infarcts are classic."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Posterior transmural infarction can cause complications but is not the common aneurysm location.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Posterior transmural infarction can cause complications but is not the common aneurysm location."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Posterior transmural infarction can cause complications but is not the common aneurysm location.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice infarction can cause complications but is not the common aneurysm location.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Posterior transmural infarction can cause complications but is not the common aneurysm location."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Inferior-wall infarction is less commonly followed by a true left-ventricular aneurysm. It could be correct only if a revised stem asked for a less common rather than the classic location.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It could be correct only if a revised stem asked for a less common rather than the classic location."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It could be correct only if a revised stem asked for a less common rather than the classic location.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It could be correct only if a revised stem asked for a less common rather than the classic location.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "It could be correct only if a revised stem asked for a less common rather than the classic location."
+            }
+          }
+        }
+      },
+      "memoryHook": "Large LAD anterior transmural scar can become an apical aneurysm.",
+      "examPearl": "A true aneurysm contains scarred myocardial wall and rarely ruptures late; a pseudoaneurysm is a contained free-wall rupture and has high rupture risk.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "D. Inferior wall",
+        "auditedAnswer": "B. Anterior transmural",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 376,
+        "sourcePdfPage": 68,
+        "reportedRepeatYears": [
+          2016,
+          2019
+        ]
+      }
+    },
+    {
+      "questionId": "q377",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A water-hammer or collapsing pulse is a high-volume pulse with rapid upstroke and sudden collapse, caused by wide pulse pressure. Chronic severe aortic regurgitation is the classic cause.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Large stroke volume raises systolic pressure and rapid diastolic runoff lowers diastolic pressure.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Large stroke volume raises systolic pressure and rapid diastolic runoff lowers diastolic pressure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Large stroke volume raises systolic pressure and rapid diastolic runoff lowers diastolic pressure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Large stroke volume raises systolic pressure and rapid diastolic runoff lowers diastolic pressure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Large stroke volume raises systolic pressure and rapid diastolic runoff lowers diastolic pressure."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mitral stenosis produces a low-volume pulse and irregularity if atrial fibrillation is present.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mitral stenosis produces a low-volume pulse and irregularity if atrial fibrillation is present."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mitral stenosis produces a low-volume pulse and irregularity if atrial fibrillation is present.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice produces a low-volume pulse and irregularity if atrial fibrillation is present.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Mitral stenosis produces a low-volume pulse and irregularity if atrial fibrillation is present."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Severe aortic stenosis causes a slow-rising low-amplitude pulse, pulsus parvus et tardus.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Severe aortic stenosis causes a slow-rising low-amplitude pulse, pulsus parvus et tardus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe aortic stenosis causes a slow-rising low-amplitude pulse, pulsus parvus et tardus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe aortic stenosis causes a slow-rising low-amplitude pulse, pulsus parvus et tardus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Severe aortic stenosis causes a slow-rising low-amplitude pulse, pulsus parvus et tardus."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Left-ventricular failure usually causes a weak low-volume pulse unless another high-output lesion coexists.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Left-ventricular failure usually causes a weak low-volume pulse unless another high-output lesion coexists."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Left-ventricular failure usually causes a weak low-volume pulse unless another high-output lesion coexists.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Left-ventricular failure usually causes a weak low-volume pulse unless another high-output lesion coexists.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Left-ventricular failure usually causes a weak low-volume pulse unless another high-output lesion coexists."
+            }
+          }
+        }
+      },
+      "memoryHook": "Aortic regurgitation runs off in diastole, so the pulse shoots up and collapses.",
+      "examPearl": "Other signs of severe AR reflect wide pulse pressure, but echocardiography determines mechanism, severity, and ventricular response.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Aortic regurgitation",
+        "auditedAnswer": "A. Aortic regurgitation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 377,
+        "sourcePdfPage": 68,
+        "reportedRepeatYears": [
+          2016,
+          2020
+        ]
+      }
+    }
+  ]
+}

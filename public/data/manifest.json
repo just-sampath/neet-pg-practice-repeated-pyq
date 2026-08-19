@@ -1,0 +1,488 @@
+{
+  "bank": {
+    "id": "neet-pg-repeated-377",
+    "title": "NEET PG 377 Repeated Questions",
+    "contentVersion": "2026.08.19.2",
+    "language": "en-IN",
+    "questionCount": 377,
+    "canonicalSubjectCount": 19,
+    "imageQuestionCount": 19,
+    "defaultOptionOrder": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "trickMeter": {
+      "min": 0,
+      "max": 5,
+      "meaning": "Editorial teaching heuristic, not a measured candidate percentage."
+    }
+  },
+  "entrypoints": {
+    "modes": "modes.json",
+    "taxonomy": "taxonomy.json",
+    "questionsCore": "questions-core.json",
+    "teachingDirectory": "teaching/",
+    "teachingBySubject": {
+      "anatomy": "teaching/anatomy.json",
+      "physiology": "teaching/physiology.json",
+      "biochemistry": "teaching/biochemistry.json",
+      "pathology": "teaching/pathology.json",
+      "pharmacology": "teaching/pharmacology.json",
+      "microbiology": "teaching/microbiology.json",
+      "forensic_medicine": "teaching/forensic_medicine.json",
+      "community_medicine": "teaching/community_medicine.json",
+      "medicine": "teaching/medicine.json",
+      "surgery": "teaching/surgery.json",
+      "obstetrics_gynaecology": "teaching/obstetrics_gynaecology.json",
+      "paediatrics": "teaching/paediatrics.json",
+      "ophthalmology": "teaching/ophthalmology.json",
+      "ent": "teaching/ent.json",
+      "orthopaedics": "teaching/orthopaedics.json",
+      "anaesthesiology": "teaching/anaesthesiology.json",
+      "radiodiagnosis": "teaching/radiodiagnosis.json",
+      "psychiatry": "teaching/psychiatry.json",
+      "dermatology": "teaching/dermatology.json"
+    },
+    "imageDirectory": "assets/images/"
+  },
+  "counts": {
+    "byAuditStatus": {
+      "ambiguous_defective": 33,
+      "confirmed": 307,
+      "historical_answer": 16,
+      "key_corrected": 16,
+      "outdated": 5
+    },
+    "bySourceAuditStatus": {
+      "ambiguous_defective": 26,
+      "confirmed": 308,
+      "historical_answer": 16,
+      "key_corrected": 22,
+      "outdated": 5
+    },
+    "scoringEligibleForNeetPg": 317,
+    "unscoredTeachingItems": 60,
+    "byCanonicalSubject": {
+      "anaesthesiology": 6,
+      "anatomy": 47,
+      "biochemistry": 39,
+      "community_medicine": 30,
+      "dermatology": 10,
+      "ent": 8,
+      "forensic_medicine": 16,
+      "medicine": 28,
+      "microbiology": 38,
+      "obstetrics_gynaecology": 21,
+      "ophthalmology": 24,
+      "orthopaedics": 8,
+      "paediatrics": 18,
+      "pathology": 16,
+      "pharmacology": 15,
+      "physiology": 14,
+      "psychiatry": 8,
+      "radiodiagnosis": 15,
+      "surgery": 16
+    }
+  },
+  "imageAssets": [
+    {
+      "questionId": "q006",
+      "path": "assets/images/q006.webp",
+      "width": 633,
+      "height": 421,
+      "mimeType": "image/webp",
+      "bytes": 27774,
+      "sha256": "ec6543605ba4c69a12993b183fd7154a8fa571445383011e7d611393ed9db186",
+      "alt": "Contrast CT image showing an intrahepatic branching vascular structure."
+    },
+    {
+      "questionId": "q007",
+      "path": "assets/images/q007.webp",
+      "width": 486,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 36778,
+      "sha256": "c6babcfb3982ec8e237a93e2618a913ed840cfd9106fc4190e4ffd2120115eea",
+      "alt": "Abdominal angiographic image showing a major anterior branch of the aorta and intestinal arterial arcades."
+    },
+    {
+      "questionId": "q022",
+      "path": "assets/images/q022.webp",
+      "width": 531,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 54366,
+      "sha256": "98644deb713e0f3780b25069ea67152590c6d7f56c66d59696e1fe9a50d10999",
+      "alt": "Clinical photograph showing a unilateral hyperpigmented patch with increased hair."
+    },
+    {
+      "questionId": "q025",
+      "path": "assets/images/q025.webp",
+      "width": 340,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 49192,
+      "sha256": "cf97e72f99ae03bf69f640d14edbf2971dbc925607790159f9956d2ad37e3eb7",
+      "alt": "Clinical photograph showing a visibly thickened superficial nerve over the side of the neck."
+    },
+    {
+      "questionId": "q038",
+      "path": "assets/images/q038.webp",
+      "width": 421,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 59648,
+      "sha256": "739fe2e1fd0ec803040cac5ebb389977e610d57886d51cbb27ead8a1cb570eec",
+      "alt": "Clinical anatomy image highlighting an intrinsic muscle of the hand."
+    },
+    {
+      "questionId": "q112",
+      "path": "assets/images/q112.webp",
+      "width": 508,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 34384,
+      "sha256": "b9d9401b7c0f8935df40cadd203d33a47025cf06700b1df55513396ca2464dee",
+      "alt": "Clinical photograph showing a unilateral hyperpigmented and hypertrichotic skin patch."
+    },
+    {
+      "questionId": "q113",
+      "path": "assets/images/q113.webp",
+      "width": 603,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 27750,
+      "sha256": "a92935a5f2fd9c74a45ee42b9f8172e1d6d1ddc6aa6d3d20f1df7bbc4dc09bb4",
+      "alt": "Clinical photograph showing an eczematous eruption in a child, including flexural involvement."
+    },
+    {
+      "questionId": "q114",
+      "path": "assets/images/q114.webp",
+      "width": 633,
+      "height": 423,
+      "mimeType": "image/webp",
+      "bytes": 126260,
+      "sha256": "e79d82e48ddc1d0f393ff94acacc591a4348aef0fd930c1759509c22bdbdf2b7",
+      "alt": "Clinical photograph showing a smooth, sharply demarcated patch of non-scarring hair loss."
+    },
+    {
+      "questionId": "q141",
+      "path": "assets/images/q141.webp",
+      "width": 633,
+      "height": 395,
+      "mimeType": "image/webp",
+      "bytes": 26528,
+      "sha256": "e826145e150fe2bb8ec626aa38b9837c685eff0457ea4479fc4278c7d244f72c",
+      "alt": "Peripheral blood smear image showing intraerythrocytic organisms, including a tetrad arrangement."
+    },
+    {
+      "questionId": "q164",
+      "path": "assets/images/q164.webp",
+      "width": 633,
+      "height": 421,
+      "mimeType": "image/webp",
+      "bytes": 16632,
+      "sha256": "a43ef86cad80f5681d7feee5bf36f173ef0dc5b9cfbdf4d18d0c71df0577229a",
+      "alt": "Pelvic radiograph showing rounded radiopaque densities projected over the urinary bladder."
+    },
+    {
+      "questionId": "q165",
+      "path": "assets/images/q165.webp",
+      "width": 618,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 17714,
+      "sha256": "ef4c041f253e911c8e30879e1d7865bfb1250e6da9362d7d0f5633a0a48b9c2c",
+      "alt": "Radiograph showing long radiopaque tubular devices extending from the renal areas toward the bladder."
+    },
+    {
+      "questionId": "q167",
+      "path": "assets/images/q167.webp",
+      "width": 385,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 23978,
+      "sha256": "67ae1372405e9860673125d749b885b6231a4d1612eee9ce90e96128c13e8a57",
+      "alt": "Mosquito photograph used for vector identification."
+    },
+    {
+      "questionId": "q209",
+      "path": "assets/images/q209.webp",
+      "width": 631,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 66924,
+      "sha256": "77f1a757d7b1944d9098949af35ad37c4f6fa905ef996d13e61270f979c37517",
+      "alt": "Hysteroscopic image showing a smooth, pale, rounded mass projecting into the uterine cavity."
+    },
+    {
+      "questionId": "q245",
+      "path": "assets/images/q245.webp",
+      "width": 598,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 12366,
+      "sha256": "d2173735cd048b17bd261359487985bc8369c38ecb58d398a0d312a9f6ecf356",
+      "alt": "Radiograph of a painful swollen bone at an old trauma site, showing sclerosis and cortical irregularity."
+    },
+    {
+      "questionId": "q247",
+      "path": "assets/images/q247.webp",
+      "width": 300,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 11532,
+      "sha256": "0989a901b2b6df41b49c6daad7360468bb0a13c5ec3fd8e9847763a502ee8a92",
+      "alt": "Wrist radiograph used to identify the scaphoid; the source image contains no visible numeric labels."
+    },
+    {
+      "questionId": "q274",
+      "path": "assets/images/q274.webp",
+      "width": 546,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 31458,
+      "sha256": "bb92bd34c890b891e5e5736e6ad4399de715d753ee1f26808019d30395f24ae5",
+      "alt": "Sagittal posterior fossa MRI showing cystic dilatation related to the fourth ventricle and abnormal vermian development."
+    },
+    {
+      "questionId": "q286",
+      "path": "assets/images/q286.webp",
+      "width": 481,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 12272,
+      "sha256": "13e23678ea7e129d4f7efa35f82796743f238069ed2bfd20a58e75151e3546d3",
+      "alt": "Hysterosalpingogram showing a single, laterally deviated uterine cavity with one fallopian tube."
+    },
+    {
+      "questionId": "q329",
+      "path": "assets/images/q329.webp",
+      "width": 238,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 10282,
+      "sha256": "f8f3de7be29a8411742323adb25e118d007d88d800bb2270d1b8ac16ab7718f5",
+      "alt": "Double-contrast oesophagram showing a mucosal abnormality in the oesophagus."
+    },
+    {
+      "questionId": "q332",
+      "path": "assets/images/q332.webp",
+      "width": 518,
+      "height": 458,
+      "mimeType": "image/webp",
+      "bytes": 19236,
+      "sha256": "b9fdd4c340f0fd7a768eedbe651aa1a136f2a6f479a50bf080d13fb753f69d4c",
+      "alt": "Skull radiograph showing patchy mixed sclerosis and lucency with a cotton-wool appearance."
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/images/q006.webp",
+      "bytes": 27774,
+      "sha256": "ec6543605ba4c69a12993b183fd7154a8fa571445383011e7d611393ed9db186"
+    },
+    {
+      "path": "assets/images/q007.webp",
+      "bytes": 36778,
+      "sha256": "c6babcfb3982ec8e237a93e2618a913ed840cfd9106fc4190e4ffd2120115eea"
+    },
+    {
+      "path": "assets/images/q022.webp",
+      "bytes": 54366,
+      "sha256": "98644deb713e0f3780b25069ea67152590c6d7f56c66d59696e1fe9a50d10999"
+    },
+    {
+      "path": "assets/images/q025.webp",
+      "bytes": 49192,
+      "sha256": "cf97e72f99ae03bf69f640d14edbf2971dbc925607790159f9956d2ad37e3eb7"
+    },
+    {
+      "path": "assets/images/q038.webp",
+      "bytes": 59648,
+      "sha256": "739fe2e1fd0ec803040cac5ebb389977e610d57886d51cbb27ead8a1cb570eec"
+    },
+    {
+      "path": "assets/images/q112.webp",
+      "bytes": 34384,
+      "sha256": "b9d9401b7c0f8935df40cadd203d33a47025cf06700b1df55513396ca2464dee"
+    },
+    {
+      "path": "assets/images/q113.webp",
+      "bytes": 27750,
+      "sha256": "a92935a5f2fd9c74a45ee42b9f8172e1d6d1ddc6aa6d3d20f1df7bbc4dc09bb4"
+    },
+    {
+      "path": "assets/images/q114.webp",
+      "bytes": 126260,
+      "sha256": "e79d82e48ddc1d0f393ff94acacc591a4348aef0fd930c1759509c22bdbdf2b7"
+    },
+    {
+      "path": "assets/images/q141.webp",
+      "bytes": 26528,
+      "sha256": "e826145e150fe2bb8ec626aa38b9837c685eff0457ea4479fc4278c7d244f72c"
+    },
+    {
+      "path": "assets/images/q164.webp",
+      "bytes": 16632,
+      "sha256": "a43ef86cad80f5681d7feee5bf36f173ef0dc5b9cfbdf4d18d0c71df0577229a"
+    },
+    {
+      "path": "assets/images/q165.webp",
+      "bytes": 17714,
+      "sha256": "ef4c041f253e911c8e30879e1d7865bfb1250e6da9362d7d0f5633a0a48b9c2c"
+    },
+    {
+      "path": "assets/images/q167.webp",
+      "bytes": 23978,
+      "sha256": "67ae1372405e9860673125d749b885b6231a4d1612eee9ce90e96128c13e8a57"
+    },
+    {
+      "path": "assets/images/q209.webp",
+      "bytes": 66924,
+      "sha256": "77f1a757d7b1944d9098949af35ad37c4f6fa905ef996d13e61270f979c37517"
+    },
+    {
+      "path": "assets/images/q245.webp",
+      "bytes": 12366,
+      "sha256": "d2173735cd048b17bd261359487985bc8369c38ecb58d398a0d312a9f6ecf356"
+    },
+    {
+      "path": "assets/images/q247.webp",
+      "bytes": 11532,
+      "sha256": "0989a901b2b6df41b49c6daad7360468bb0a13c5ec3fd8e9847763a502ee8a92"
+    },
+    {
+      "path": "assets/images/q274.webp",
+      "bytes": 31458,
+      "sha256": "bb92bd34c890b891e5e5736e6ad4399de715d753ee1f26808019d30395f24ae5"
+    },
+    {
+      "path": "assets/images/q286.webp",
+      "bytes": 12272,
+      "sha256": "13e23678ea7e129d4f7efa35f82796743f238069ed2bfd20a58e75151e3546d3"
+    },
+    {
+      "path": "assets/images/q329.webp",
+      "bytes": 10282,
+      "sha256": "f8f3de7be29a8411742323adb25e118d007d88d800bb2270d1b8ac16ab7718f5"
+    },
+    {
+      "path": "assets/images/q332.webp",
+      "bytes": 19236,
+      "sha256": "b9fdd4c340f0fd7a768eedbe651aa1a136f2a6f479a50bf080d13fb753f69d4c"
+    },
+    {
+      "path": "modes.json",
+      "bytes": 9621,
+      "sha256": "4a41a54740d8b8ec253920334f804938beba55e6089653094f928f7b2b48db52"
+    },
+    {
+      "path": "questions-core.json",
+      "bytes": 466630,
+      "sha256": "6f59583e63aeec043fb12c0ccad74b1be8d1a1f732e986ed3bb28103ea838b21"
+    },
+    {
+      "path": "taxonomy.json",
+      "bytes": 56529,
+      "sha256": "cc6defbf05d31988d5153fbb4600b10a05a30cc69b58cd3ba38c7b6cc9e981c6"
+    },
+    {
+      "path": "teaching/anaesthesiology.json",
+      "bytes": 40888,
+      "sha256": "2d05f778c0f286c6446f8ac5eb8579909cf86e425b0730676b3504c41d68a594"
+    },
+    {
+      "path": "teaching/anatomy.json",
+      "bytes": 284586,
+      "sha256": "901a8ba94c69c4ef34c38d846cdcfb8408cdf5112d752d866de37cdcfc56f854"
+    },
+    {
+      "path": "teaching/biochemistry.json",
+      "bytes": 232378,
+      "sha256": "4ca6f763d65c2dfa010112589a8d0927fa75789cf673b6b4ae83f119f23f9046"
+    },
+    {
+      "path": "teaching/community_medicine.json",
+      "bytes": 180140,
+      "sha256": "e951c4a69f8c05355ddf647320fdd13e01b1aaec70f18b5e31257c7d4bd9ae5a"
+    },
+    {
+      "path": "teaching/dermatology.json",
+      "bytes": 62548,
+      "sha256": "f2314755f6816d9201cb438815b6084f3a29a5521806e504266c73fb79c0d094"
+    },
+    {
+      "path": "teaching/ent.json",
+      "bytes": 50800,
+      "sha256": "ed36ccd4c30c5a91b7a525b93b17db1f3b3947af41cad7e39996043ec2893cc3"
+    },
+    {
+      "path": "teaching/forensic_medicine.json",
+      "bytes": 98578,
+      "sha256": "85e70843357f4761e9d212d59dcb1cf97cec99402bb51d3dde1d0eeea3bde40e"
+    },
+    {
+      "path": "teaching/medicine.json",
+      "bytes": 176220,
+      "sha256": "392fee5836663d01fea4436cbadf55112fe9582ca3d72fd6b7a7a2d064ae74b2"
+    },
+    {
+      "path": "teaching/microbiology.json",
+      "bytes": 233307,
+      "sha256": "07ea7faf569e295c9647c5005bb5ca0e35b75ebaf955d320659f3ed92970ae42"
+    },
+    {
+      "path": "teaching/obstetrics_gynaecology.json",
+      "bytes": 131219,
+      "sha256": "dbac9c716008b75c8417458ab5acf6d60a147706720dd928c84fbe9c079732c6"
+    },
+    {
+      "path": "teaching/ophthalmology.json",
+      "bytes": 147667,
+      "sha256": "20340ecf5db44373cf5204707d1fb5ae643a364bd43aa946b6a27308bf60d694"
+    },
+    {
+      "path": "teaching/orthopaedics.json",
+      "bytes": 51302,
+      "sha256": "eb093bef054391dd86a69a9764dd33f46a9229ddc3afb7444ceaa09f742ea958"
+    },
+    {
+      "path": "teaching/paediatrics.json",
+      "bytes": 107178,
+      "sha256": "6ba3a62818c3a3577072631d08127ace8ebfd1cb58a0b9ff3220cb2dad5d36cc"
+    },
+    {
+      "path": "teaching/pathology.json",
+      "bytes": 97917,
+      "sha256": "e26124b582ebe918fad23bb5e6f39a0043a8ea31bcc4fe59a4f68318f6d860c2"
+    },
+    {
+      "path": "teaching/pharmacology.json",
+      "bytes": 88905,
+      "sha256": "743bfc87e2ee235ce3f58860a4e5ae050cbcd6f729323d38dabe95d6fb8242b4"
+    },
+    {
+      "path": "teaching/physiology.json",
+      "bytes": 82132,
+      "sha256": "c6d4b9496073b1faaf9c7bc564be88cecc1332985c8266a1fd9549ff2c338b5b"
+    },
+    {
+      "path": "teaching/psychiatry.json",
+      "bytes": 48505,
+      "sha256": "6936f1241941993c8de2cd56c856962f9e7bc5a3f65288132378022d18fb22c8"
+    },
+    {
+      "path": "teaching/radiodiagnosis.json",
+      "bytes": 92470,
+      "sha256": "e6884176316ea0c7f4a487640a1de3386abc4a4ffb832d56efe123f93f6ad470"
+    },
+    {
+      "path": "teaching/surgery.json",
+      "bytes": 96141,
+      "sha256": "820a475d7ab9cbf851db4c5aff7725ecf767e540a8a9654b4eef6634b83c291b"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "subjectPractice": {
+    "id": "subject_practice",
+    "label": "Subject-wise",
+    "selection": {
+      "strategy": "single_subject",
+      "questionCount": "user_selected",
+      "includeUnscoredTeachingItems": true
+    },
+    "navigation": {
+      "scope": "entire_attempt",
+      "canJumpToAnyQuestion": true,
+      "canMarkForReview": true,
+      "canChangeAnswerBeforeReveal": true,
+      "canChangeAnswerAfterReveal": false
+    },
+    "timer": {
+      "kind": "none"
+    },
+    "answerReveal": {
+      "allowedPolicies": [
+        "after_each_submission",
+        "after_attempt"
+      ],
+      "defaultPolicy": "after_each_submission",
+      "lockResponseOnReveal": true
+    },
+    "scoring": {
+      "correct": 4,
+      "incorrect": -1,
+      "skipped": 0,
+      "basisAfterInstantReveal": "first_committed_response",
+      "excludeUnscoredTeachingItems": true
+    },
+    "analysis": {
+      "availableAfterAttempt": true,
+      "overallMetrics": [
+        "correctCount",
+        "incorrectCount",
+        "skippedCount",
+        "attemptedCount",
+        "accuracyPercent",
+        "netScore",
+        "maximumPossibleScore"
+      ],
+      "breakdowns": [
+        {
+          "dimension": "subjectId",
+          "label": "Subject"
+        },
+        {
+          "dimension": "topicId",
+          "label": "Topic"
+        }
+      ],
+      "timing": {
+        "questionMetrics": [
+          "elapsedSeconds",
+          "isSkipped",
+          "isSlow"
+        ],
+        "slowRule": "elapsedSeconds > question.analytics.timeGuidance.slowAfterSeconds",
+        "aggregateDimensions": [
+          "subjectId",
+          "topicId"
+        ],
+        "aggregateMetrics": [
+          "totalSeconds",
+          "meanSeconds",
+          "medianSeconds"
+        ]
+      },
+      "questionReview": {
+        "showAnswersAndTeaching": true
+      }
+    },
+    "persistence": {
+      "resumeSupported": true,
+      "persist": [
+        "attemptId",
+        "modeId",
+        "selectedQuestionIds",
+        "questionOrder",
+        "optionOrderByQuestionId",
+        "responsesByQuestionId",
+        "firstCommittedResponseByQuestionId",
+        "revealedQuestionIds",
+        "elapsedSecondsByQuestionId",
+        "markedForReviewQuestionIds",
+        "startedAt",
+        "completedAt"
+      ]
+    }
+  },
+  "flexibleQuiz": {
+    "id": "flexible_quiz",
+    "label": "Quiz",
+    "selection": {
+      "strategy": "user_filters",
+      "availableFilters": [
+        "subjectIds",
+        "topicIds",
+        "curriculumPhaseIds",
+        "questionTypes",
+        "auditStatuses",
+        "imageBasedOnly",
+        "previouslyIncorrectOnly"
+      ],
+      "questionCount": "user_selected",
+      "includeUnscoredTeachingItems": true
+    },
+    "navigation": {
+      "scope": "entire_attempt",
+      "canJumpToAnyQuestion": true,
+      "canMoveBetweenCategories": true,
+      "canMarkForReview": true,
+      "canChangeAnswerBeforeReveal": true,
+      "canChangeAnswerAfterReveal": false
+    },
+    "timer": {
+      "kind": "none"
+    },
+    "answerReveal": {
+      "allowedPolicies": [
+        "after_each_submission",
+        "after_attempt"
+      ],
+      "defaultPolicy": "after_each_submission",
+      "lockResponseOnReveal": true
+    },
+    "scoring": {
+      "correct": 4,
+      "incorrect": -1,
+      "skipped": 0,
+      "basisAfterInstantReveal": "first_committed_response",
+      "excludeUnscoredTeachingItems": true
+    },
+    "analysis": {
+      "availableAfterAttempt": true,
+      "overallMetrics": [
+        "correctCount",
+        "incorrectCount",
+        "skippedCount",
+        "attemptedCount",
+        "accuracyPercent",
+        "netScore",
+        "maximumPossibleScore"
+      ],
+      "breakdowns": [
+        {
+          "dimension": "subjectId",
+          "label": "Subject"
+        },
+        {
+          "dimension": "topicId",
+          "label": "Topic"
+        }
+      ],
+      "timing": {
+        "questionMetrics": [
+          "elapsedSeconds",
+          "isSkipped",
+          "isSlow"
+        ],
+        "slowRule": "elapsedSeconds > question.analytics.timeGuidance.slowAfterSeconds",
+        "aggregateDimensions": [
+          "subjectId",
+          "topicId"
+        ],
+        "aggregateMetrics": [
+          "totalSeconds",
+          "meanSeconds",
+          "medianSeconds"
+        ]
+      },
+      "questionReview": {
+        "showAnswersAndTeaching": true
+      }
+    },
+    "persistence": {
+      "resumeSupported": true,
+      "persist": [
+        "attemptId",
+        "modeId",
+        "filterSnapshot",
+        "selectedQuestionIds",
+        "questionOrder",
+        "optionOrderByQuestionId",
+        "responsesByQuestionId",
+        "firstCommittedResponseByQuestionId",
+        "revealedQuestionIds",
+        "elapsedSecondsByQuestionId",
+        "markedForReviewQuestionIds",
+        "startedAt",
+        "completedAt"
+      ]
+    }
+  },
+  "neetPg2026": {
+    "id": "neet_pg_2026",
+    "label": "NEET PG 2026 GT",
+    "patternAsOf": "2026-08-19",
+    "selection": {
+      "strategy": "eligible_pool_seeded_stratified",
+      "questionCount": 180,
+      "candidateRules": {
+        "requiresModeEligibility": "neet_pg_2026",
+        "requiresScoringEligible": true
+      },
+      "quotaStrategy": {
+        "kind": "largest_remainder_proportional",
+        "basis": "eligible_question_count_by_subject",
+        "subjectQuotas": {
+          "anaesthesiology": 3,
+          "anatomy": 24,
+          "biochemistry": 20,
+          "community_medicine": 13,
+          "dermatology": 5,
+          "ent": 3,
+          "forensic_medicine": 6,
+          "medicine": 12,
+          "microbiology": 18,
+          "obstetrics_gynaecology": 10,
+          "ophthalmology": 12,
+          "orthopaedics": 3,
+          "paediatrics": 7,
+          "pathology": 8,
+          "pharmacology": 7,
+          "physiology": 8,
+          "psychiatry": 5,
+          "radiodiagnosis": 8,
+          "surgery": 8
+        }
+      },
+      "repeatPolicy": "least_exposed_then_seeded_shuffle",
+      "questionOrder": "attempt_seeded_shuffle",
+      "optionOrder": "attempt_seeded_shuffle",
+      "sectionAssignment": "seeded_subject_balanced_round_robin",
+      "persist": [
+        "attemptSeed",
+        "selectedQuestionIds",
+        "questionOrder",
+        "optionOrderByQuestionId",
+        "sectionByQuestionId"
+      ]
+    },
+    "sections": {
+      "runtimeAssignment": true,
+      "count": 5,
+      "items": [
+        {
+          "id": "A",
+          "questionCount": 36,
+          "durationSeconds": 2520
+        },
+        {
+          "id": "B",
+          "questionCount": 36,
+          "durationSeconds": 2520
+        },
+        {
+          "id": "C",
+          "questionCount": 36,
+          "durationSeconds": 2520
+        },
+        {
+          "id": "D",
+          "questionCount": 36,
+          "durationSeconds": 2520
+        },
+        {
+          "id": "E",
+          "questionCount": 36,
+          "durationSeconds": 2520
+        }
+      ]
+    },
+    "navigation": {
+      "scope": "active_section_only",
+      "canJumpWithinActiveSection": true,
+      "canMarkForReview": true,
+      "canOpenFutureSection": false,
+      "canReturnToLockedSection": false,
+      "canSubmitSectionEarly": false
+    },
+    "timer": {
+      "kind": "section_deadline",
+      "clockPolicy": "wall_clock_deadline",
+      "autoSubmitSectionOnExpiry": true,
+      "carryUnusedTimeForward": false,
+      "persistDeadlineNotTickCount": true
+    },
+    "duringAttempt": {
+      "showAnswers": false,
+      "showExplanations": false
+    },
+    "afterAttempt": {
+      "showAnalysis": true,
+      "showAnswersAndTeaching": true
+    },
+    "scoring": {
+      "correct": 4,
+      "incorrect": -1,
+      "skipped": 0,
+      "maximumScore": 720,
+      "excludeUnscoredTeachingItems": true
+    },
+    "analysis": {
+      "availableAfterAttempt": true,
+      "overallMetrics": [
+        "correctCount",
+        "incorrectCount",
+        "skippedCount",
+        "attemptedCount",
+        "accuracyPercent",
+        "netScore",
+        "maximumPossibleScore"
+      ],
+      "breakdowns": [
+        {
+          "dimension": "subjectId",
+          "label": "Subject"
+        },
+        {
+          "dimension": "curriculumPhaseId",
+          "label": "Curriculum phase"
+        },
+        {
+          "dimension": "runtimeSectionId",
+          "label": "Component / section"
+        }
+      ],
+      "timing": {
+        "questionMetrics": [
+          "elapsedSeconds",
+          "isSkipped",
+          "isSlow"
+        ],
+        "slowRule": "elapsedSeconds > question.analytics.timeGuidance.slowAfterSeconds",
+        "aggregateDimensions": [
+          "subjectId",
+          "curriculumPhaseId",
+          "runtimeSectionId"
+        ],
+        "aggregateMetrics": [
+          "totalSeconds",
+          "meanSeconds",
+          "medianSeconds",
+          "slowQuestionCount",
+          "skippedQuestionCount"
+        ],
+        "sectionBudgetSource": "sections.items.durationSeconds"
+      },
+      "questionReview": {
+        "showAnswersAndTeaching": true,
+        "availableOnlyAfterAttempt": true
+      }
+    },
+    "persistence": {
+      "resumeSupported": true,
+      "persist": [
+        "attemptId",
+        "modeId",
+        "attemptSeed",
+        "selectedQuestionIds",
+        "questionOrder",
+        "optionOrderByQuestionId",
+        "sectionByQuestionId",
+        "activeSectionId",
+        "sectionDeadlines",
+        "submittedSectionIds",
+        "responsesByQuestionId",
+        "elapsedSecondsByQuestionId",
+        "markedForReviewQuestionIds",
+        "startedAt",
+        "completedAt"
+      ]
+    }
+  }
+}

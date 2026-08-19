@@ -1,0 +1,1502 @@
+{
+  "questions": [
+    {
+      "questionId": "q034",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Veins are capacitance vessels because their thin, highly compliant walls can hold most of the circulating blood volume at low pressure. Compared with arteries, they contain less smooth muscle and less elastic tissue.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "More elastic tissue would describe elastic arteries better than systemic veins.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: More elastic tissue would describe elastic arteries better than systemic veins."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: More elastic tissue would describe elastic arteries better than systemic veins.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? More elastic tissue would describe elastic arteries better than systemic veins.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "More elastic tissue would describe elastic arteries better than systemic veins."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "More smooth muscle is a feature of muscular arteries and arterioles, the resistance vessels.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: More smooth muscle is a feature of muscular arteries and arterioles, the resistance vessels."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: More smooth muscle is a feature of muscular arteries and arterioles, the resistance vessels.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? More smooth muscle is a feature of muscular arteries and arterioles, the resistance vessels.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "More smooth muscle is a feature of muscular arteries and arterioles, the resistance vessels."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Having more of both would make a thick-walled high-pressure vessel, not a compliant reservoir.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Having more of both would make a thick-walled high-pressure vessel, not a compliant reservoir."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Having more of both would make a thick-walled high-pressure vessel, not a compliant reservoir.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Having more of both would make a thick-walled high-pressure vessel, not a compliant reservoir.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Having more of both would make a thick-walled high-pressure vessel, not a compliant reservoir."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Thin walls, large lumina, and high compliance permit volume storage.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Thin walls, large lumina, and high compliance permit volume storage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thin walls, large lumina, and high compliance permit volume storage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thin walls, large lumina, and high compliance permit volume storage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Thin walls, large lumina, and high compliance permit volume storage."
+            }
+          }
+        }
+      },
+      "memoryHook": "Veins are volume vaults: big lumen, thin wall.",
+      "examPearl": "Sympathetic venoconstriction shifts blood from the venous reservoir toward the heart and increases preload.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Less elastic tissue and less muscle",
+        "auditedAnswer": "D. Less elastic tissue and less muscle",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 34,
+        "sourcePdfPage": 8,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q269",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Type III, or perioperative, respiratory failure results from atelectasis and reduced functional residual capacity after anaesthesia and surgery. Dependent alveoli close and ventilation-perfusion mismatch causes hypoxaemia.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Pain, splinting, supine position, residual anaesthetic, mucus plugging, and abdominal surgery contribute.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Pain, splinting, supine position, residual anaesthetic, mucus plugging, and abdominal surgery contribute."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pain, splinting, supine position, residual anaesthetic, mucus plugging, and abdominal surgery contribute.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pain, splinting, supine position, residual anaesthetic, mucus plugging, and abdominal surgery contribute.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Pain, splinting, supine position, residual anaesthetic, mucus plugging, and abdominal surgery contribute."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Kyphoscoliosis causes hypoventilatory pump failure, more consistent with type II hypercapnic failure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Kyphoscoliosis causes hypoventilatory pump failure, more consistent with type II hypercapnic failure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Kyphoscoliosis causes hypoventilatory pump failure, more consistent with type II hypercapnic failure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes hypoventilatory pump failure, more consistent with type II hypercapnic failure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Kyphoscoliosis causes hypoventilatory pump failure, more consistent with type II hypercapnic failure."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Flail chest causes ventilatory failure from chest-wall mechanics and pain, also closer to type II or trauma-related failure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Flail chest causes ventilatory failure from chest-wall mechanics and pain, also closer to type II or trauma-related failure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Flail chest causes ventilatory failure from chest-wall mechanics and pain, also closer to type II or trauma-related failure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes ventilatory failure from chest-wall mechanics and pain, also closer to type II or trauma-related failure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Flail chest causes ventilatory failure from chest-wall mechanics and pain, also closer to type II or trauma-related failure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pulmonary fibrosis causes type I hypoxaemic failure through diffusion and V/Q abnormalities.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Pulmonary fibrosis causes type I hypoxaemic failure through diffusion and V/Q abnormalities."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pulmonary fibrosis causes type I hypoxaemic failure through diffusion and V/Q abnormalities.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes type I hypoxaemic failure through diffusion and V/Q abnormalities.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pulmonary fibrosis causes type I hypoxaemic failure through diffusion and V/Q abnormalities."
+            }
+          }
+        }
+      },
+      "memoryHook": "Type III is the third setting: after surgery, lung bases collapse.",
+      "examPearl": "Prevention includes lung expansion, adequate analgesia, early mobilisation, and appropriate positive airway pressure.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Post-operative atelectasis",
+        "auditedAnswer": "A. Post-operative atelectasis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 269,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q299",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Transpulmonary pressure is alveolar pressure minus intrapleural pressure. It is the distending pressure across the lung and keeps alveoli open.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bronchial minus atmospheric pressure is not the standard definition.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bronchial minus atmospheric pressure is not the standard definition."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bronchial minus atmospheric pressure is not the standard definition.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bronchial minus atmospheric pressure is not the standard definition.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Bronchial minus atmospheric pressure is not the standard definition."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A larger positive transpulmonary pressure expands the lungs.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A larger positive transpulmonary pressure expands the lungs."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A larger positive transpulmonary pressure expands the lungs.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A larger positive transpulmonary pressure expands the lungs.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A larger positive transpulmonary pressure expands the lungs."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Atmospheric minus intrapleural pressure is related to chest-wall and respiratory-system mechanics but not specifically transpulmonary pressure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Atmospheric minus intrapleural pressure is related to chest-wall and respiratory-system mechanics but not specifically transpulmonary pressure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atmospheric minus intrapleural pressure is related to chest-wall and respiratory-system mechanics but not specifically transpulmonary pressure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Atmospheric minus intrapleural pressure is related to chest-wall and respiratory-system mechanics but not specifically transpulmonary pressure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Atmospheric minus intrapleural pressure is related to chest-wall and respiratory-system mechanics but not specifically transpulmonary pressure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Atmospheric minus alveolar pressure drives airflow, not static lung distension.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Atmospheric minus alveolar pressure drives airflow, not static lung distension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atmospheric minus alveolar pressure drives airflow, not static lung distension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Atmospheric minus alveolar pressure drives airflow, not static lung distension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Atmospheric minus alveolar pressure drives airflow, not static lung distension."
+            }
+          }
+        }
+      },
+      "memoryHook": "Transpulmonary crosses the lung: alveolus inside minus pleura outside.",
+      "examPearl": "Transmural pressure always means pressure inside a structure minus pressure outside it.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Pressure in alveoli and intrapleural pressure",
+        "auditedAnswer": "B. Pressure in alveoli and intrapleural pressure",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 299,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2012,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q300",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Zollinger-Ellison syndrome is caused by a gastrin-secreting neuroendocrine tumour, or gastrinoma, producing marked acid hypersecretion, recurrent or distal ulcers, reflux, and diarrhoea.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Insulin is elevated in insulinoma, causing fasting hypoglycaemia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Insulin is elevated in insulinoma, causing fasting hypoglycaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Insulin is elevated in insulinoma, causing fasting hypoglycaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is elevated in insulinoma, causing fasting hypoglycaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Insulin is elevated in insulinoma, causing fasting hypoglycaemia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "VIP is elevated in VIPoma, producing watery diarrhoea, hypokalaemia, and achlorhydria.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: VIP is elevated in VIPoma, producing watery diarrhoea, hypokalaemia, and achlorhydria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: VIP is elevated in VIPoma, producing watery diarrhoea, hypokalaemia, and achlorhydria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? VIP is elevated in VIPoma, producing watery diarrhoea, hypokalaemia, and achlorhydria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "VIP is elevated in VIPoma, producing watery diarrhoea, hypokalaemia, and achlorhydria."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Fasting gastrin is high, but proton-pump inhibitors and achlorhydria can also elevate gastrin and must be considered.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Fasting gastrin is high, but proton-pump inhibitors and achlorhydria can also elevate gastrin and must be considered."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fasting gastrin is high, but proton-pump inhibitors and achlorhydria can also elevate gastrin and must be considered.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fasting gastrin is high, but proton-pump inhibitors and achlorhydria can also elevate gastrin and must be considered.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Fasting gastrin is high, but proton-pump inhibitors and achlorhydria can also elevate gastrin and must be considered."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Glucagon is elevated in glucagonoma, associated with diabetes, weight loss, and necrolytic migratory erythema.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Glucagon is elevated in glucagonoma, associated with diabetes, weight loss, and necrolytic migratory erythema."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glucagon is elevated in glucagonoma, associated with diabetes, weight loss, and necrolytic migratory erythema.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is elevated in glucagonoma, associated with diabetes, weight loss, and necrolytic migratory erythema.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Glucagon is elevated in glucagonoma, associated with diabetes, weight loss, and necrolytic migratory erythema."
+            }
+          }
+        }
+      },
+      "memoryHook": "Zollinger-Ellison equals gastrinoma and acid.",
+      "examPearl": "Gastrinoma may occur in MEN1; secretin testing can paradoxically raise gastrin when the diagnosis is uncertain.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Gastrin",
+        "auditedAnswer": "C. Gastrin",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 300,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q301",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The carotid sinus contains stretch-sensitive baroreceptors that sense arterial pressure. Afferents travel through Hering nerve and glossopharyngeal nerve to the nucleus tractus solitarius.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The carotid body is a chemoreceptor sensing low PaO2, high PaCO2, and low pH.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The carotid body is a chemoreceptor sensing low PaO2, high PaCO2, and low pH."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The carotid body is a chemoreceptor sensing low PaO2, high PaCO2, and low pH.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The carotid body is a chemoreceptor sensing low PaO2, high PaCO2, and low pH.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The carotid body is a chemoreceptor sensing low PaO2, high PaCO2, and low pH."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Increased sinus stretch increases afferent firing, lowers sympathetic tone, and raises vagal activity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Increased sinus stretch increases afferent firing, lowers sympathetic tone, and raises vagal activity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Increased sinus stretch increases afferent firing, lowers sympathetic tone, and raises vagal activity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Increased sinus stretch increases afferent firing, lowers sympathetic tone, and raises vagal activity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Increased sinus stretch increases afferent firing, lowers sympathetic tone, and raises vagal activity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The aortic body is a peripheral chemoreceptor; baroreceptors lie in the aortic arch wall.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The aortic body is a peripheral chemoreceptor; baroreceptors lie in the aortic arch wall."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The aortic body is a peripheral chemoreceptor; baroreceptors lie in the aortic arch wall.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The aortic body is a peripheral chemoreceptor; baroreceptors lie in the aortic arch wall.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The aortic body is a peripheral chemoreceptor; baroreceptors lie in the aortic arch wall."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A specific correct structure is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A specific correct structure is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Sinus senses stretch; body senses blood chemistry.",
+      "examPearl": "Carotid sinus afferent is CN IX; aortic arch afferent is CN X.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Carotid sinus",
+        "auditedAnswer": "B. Carotid sinus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 301,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q302",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now called stage N3. It occurs most often in the first third of the night and the person has limited recall.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "REM is associated with vivid dreaming, muscle atonia, and REM behaviour disorder, not classic sleepwalking.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: REM is associated with vivid dreaming, muscle atonia, and REM behaviour disorder, not classic sleepwalking."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: REM is associated with vivid dreaming, muscle atonia, and REM behaviour disorder, not classic sleepwalking.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? REM is associated with vivid dreaming, muscle atonia, and REM behaviour disorder, not classic sleepwalking.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "REM is associated with vivid dreaming, muscle atonia, and REM behaviour disorder, not classic sleepwalking."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Light NREM stages are not the typical origin.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Light NREM stages are not the typical origin."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Light NREM stages are not the typical origin.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Light NREM stages are not the typical origin.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Light NREM stages are not the typical origin."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "This partly includes stage 3 but is imprecise in the old staging system.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: This partly includes stage 3 but is imprecise in the old staging system."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This partly includes stage 3 but is imprecise in the old staging system.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This partly includes stage 3 but is imprecise in the old staging system.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "This partly includes stage 3 but is imprecise in the old staging system."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now termed N3 and formerly divided into stages 3 and 4.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now termed N3 and formerly divided into stages 3 and 4."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now termed N3 and formerly divided into stages 3 and 4.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now termed N3 and formerly divided into stages 3 and 4.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Sleepwalking is a disorder of arousal from deep slow-wave NREM sleep, now termed N3 and formerly divided into stages 3 and 4."
+            }
+          }
+        }
+      },
+      "memoryHook": "Sleepwalking comes out of deep N3, early in the night.",
+      "examPearl": "Night terrors also arise from N3; nightmares occur in REM and are usually recalled.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Stage 3-4 NREM",
+        "auditedAnswer": "D. Stage 3-4 NREM",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 302,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q303",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Lung inflation activates slowly adapting pulmonary stretch receptors. Vagal afferents inhibit inspiratory neurons, terminate inspiration, and prolong expiration, protecting against overdistension.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The reflex shortens rather than prolongs inspiration.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The reflex shortens rather than prolongs inspiration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The reflex shortens rather than prolongs inspiration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The reflex shortens rather than prolongs inspiration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The reflex shortens rather than prolongs inspiration."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Expiration lasts longer before the next inspiratory effort.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Expiration lasts longer before the next inspiratory effort."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Expiration lasts longer before the next inspiratory effort.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Expiration lasts longer before the next inspiratory effort.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Expiration lasts longer before the next inspiratory effort."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It limits inspiratory depth instead of increasing it.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: It limits inspiratory depth instead of increasing it."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It limits inspiratory depth instead of increasing it.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It limits inspiratory depth instead of increasing it.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "It limits inspiratory depth instead of increasing it."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Expiration is not primarily deepened; its duration is increased.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Expiration is not primarily deepened; its duration is increased."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Expiration is not primarily deepened; its duration is increased.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Expiration is not primarily deepened; its duration is increased.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Expiration is not primarily deepened; its duration is increased."
+            }
+          }
+        }
+      },
+      "memoryHook": "Inflated lung tells inspiration to stop and expiration to stay.",
+      "examPearl": "The reflex is more important in infants and during large tidal volumes than during quiet adult breathing.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Duration of expiration",
+        "auditedAnswer": "B. Duration of expiration",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 303,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q304",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Re-entry is the most common mechanism of clinically important tachyarrhythmias. It requires two pathways with different conduction and refractory properties plus a unidirectional block, allowing an impulse to circulate.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. AVNRT, AVRT, atrial flutter, and many ventricular tachycardias are re-entrant.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: AVNRT, AVRT, atrial flutter, and many ventricular tachycardias are re-entrant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: AVNRT, AVRT, atrial flutter, and many ventricular tachycardias are re-entrant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? AVNRT, AVRT, atrial flutter, and many ventricular tachycardias are re-entrant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "AVNRT, AVRT, atrial flutter, and many ventricular tachycardias are re-entrant."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Early afterdepolarisations occur during phases 2 or 3 with prolonged action potentials and can trigger torsades de pointes.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Early afterdepolarisations occur during phases 2 or 3 with prolonged action potentials and can trigger torsades de pointes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Early afterdepolarisations occur during phases 2 or 3 with prolonged action potentials and can trigger torsades de pointes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Early afterdepolarisations occur during phases 2 or 3 with prolonged action potentials and can trigger torsades de pointes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Early afterdepolarisations occur during phases 2 or 3 with prolonged action potentials and can trigger torsades de pointes."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Delayed afterdepolarisations occur after repolarisation from calcium overload, as with digoxin or catecholamines.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Delayed afterdepolarisations occur after repolarisation from calcium overload, as with digoxin or catecholamines."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Delayed afterdepolarisations occur after repolarisation from calcium overload, as with digoxin or catecholamines.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Delayed afterdepolarisations occur after repolarisation from calcium overload, as with digoxin or catecholamines.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Delayed afterdepolarisations occur after repolarisation from calcium overload, as with digoxin or catecholamines."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Abnormal automaticity can cause focal tachycardias but is less common overall than re-entry.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Abnormal automaticity can cause focal tachycardias but is less common overall than re-entry."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Abnormal automaticity can cause focal tachycardias but is less common overall than re-entry.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Abnormal automaticity can cause focal tachycardias but is less common overall than re-entry.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Abnormal automaticity can cause focal tachycardias but is less common overall than re-entry."
+            }
+          }
+        }
+      },
+      "memoryHook": "Most tachyarrhythmias run in a re-entry race track.",
+      "examPearl": "A premature beat can initiate re-entry by encountering one pathway refractory and another conducting slowly.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Re-entry",
+        "auditedAnswer": "A. Re-entry",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 304,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q344",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "CCK is released from I cells in duodenum and jejunum in response to fat and amino acids. It contracts the gallbladder, relaxes sphincter of Oddi, stimulates pancreatic enzyme secretion, slows gastric emptying, and can enhance intestinal motility.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "CCK does not primarily increase gastric acid; it tends to inhibit gastric emptying and acid-related gastric activity.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: CCK does not primarily increase gastric acid; it tends to inhibit gastric emptying and acid-related gastric activity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CCK does not primarily increase gastric acid; it tends to inhibit gastric emptying and acid-related gastric activity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CCK does not primarily increase gastric acid; it tends to inhibit gastric emptying and acid-related gastric activity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "CCK does not primarily increase gastric acid; it tends to inhibit gastric emptying and acid-related gastric activity."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best listed effect. CCK can promote small-intestinal motility to mix fat and protein with digestive secretions.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: CCK can promote small-intestinal motility to mix fat and protein with digestive secretions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CCK can promote small-intestinal motility to mix fat and protein with digestive secretions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CCK can promote small-intestinal motility to mix fat and protein with digestive secretions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "CCK can promote small-intestinal motility to mix fat and protein with digestive secretions."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It slows rather than increases gastric motility and emptying.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It slows rather than increases gastric motility and emptying."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It slows rather than increases gastric motility and emptying.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It slows rather than increases gastric motility and emptying.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "It slows rather than increases gastric motility and emptying."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It contracts, not relaxes, the gallbladder.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It contracts, not relaxes, the gallbladder."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It contracts, not relaxes, the gallbladder.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It contracts, not relaxes, the gallbladder.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "It contracts, not relaxes, the gallbladder."
+            }
+          }
+        }
+      },
+      "memoryHook": "CCK contracts the gallbladder, calls pancreatic enzymes, and keeps the stomach back.",
+      "examPearl": "Secretin stimulates pancreatic bicarbonate; CCK stimulates pancreatic enzymes.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Increases small intestinal peristlasis",
+        "auditedAnswer": "B. Increases small intestinal peristlasis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 344,
+        "sourcePdfPage": 63,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q350",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "NREM stage N2 occupies the largest proportion of total adult sleep, roughly 45 to 55 percent. It is characterised by sleep spindles and K complexes.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "N1 is light transitional sleep and occupies only a small fraction.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: N1 is light transitional sleep and occupies only a small fraction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: N1 is light transitional sleep and occupies only a small fraction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? N1 is light transitional sleep and occupies only a small fraction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "N1 is light transitional sleep and occupies only a small fraction."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Old stage II corresponds to modern N2.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Old stage II corresponds to modern N2."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Old stage II corresponds to modern N2.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Old stage II corresponds to modern N2.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Old stage II corresponds to modern N2."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "N3 slow-wave sleep is important but occupies less total time, especially with ageing.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: N3 slow-wave sleep is important but occupies less total time, especially with ageing."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: N3 slow-wave sleep is important but occupies less total time, especially with ageing.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? N3 slow-wave sleep is important but occupies less total time, especially with ageing.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "N3 slow-wave sleep is important but occupies less total time, especially with ageing."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Old stage IV has been merged with stage III into modern N3.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Old stage IV has been merged with stage III into modern N3."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Old stage IV has been merged with stage III into modern N3.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Old stage IV has been merged with stage III into modern N3.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Old stage IV has been merged with stage III into modern N3."
+            }
+          }
+        }
+      },
+      "memoryHook": "N2 is nearly half the night and has spindles plus K complexes.",
+      "examPearl": "REM periods lengthen toward morning, while N3 is concentrated earlier in the night.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. II",
+        "auditedAnswer": "B. II",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 350,
+        "sourcePdfPage": 64,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q355",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Acute respiratory alkalosis increases albumin binding of calcium, lowering ionised calcium despite unchanged total calcium. Neuromuscular excitability rises, causing perioral tingling, carpopedal spasm, and tetany.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Hyperventilation during anxiety is a common clinical example.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Hyperventilation during anxiety is a common clinical example."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hyperventilation during anxiety is a common clinical example.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hyperventilation during anxiety is a common clinical example.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hyperventilation during anxiety is a common clinical example."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Respiratory acidosis tends to increase ionised calcium by reducing albumin binding.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Respiratory acidosis tends to increase ionised calcium by reducing albumin binding."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Respiratory acidosis tends to increase ionised calcium by reducing albumin binding.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice tends to increase ionised calcium by reducing albumin binding.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Respiratory acidosis tends to increase ionised calcium by reducing albumin binding."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Metabolic acidosis also tends to increase the ionised fraction, though other electrolyte disorders may coexist.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Metabolic acidosis also tends to increase the ionised fraction, though other electrolyte disorders may coexist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Metabolic acidosis also tends to increase the ionised fraction, though other electrolyte disorders may coexist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice also tends to increase the ionised fraction, though other electrolyte disorders may coexist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Metabolic acidosis also tends to increase the ionised fraction, though other electrolyte disorders may coexist."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hyperkalaemia causes weakness and cardiac conduction changes, not classic hypocalcaemic tetany.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hyperkalaemia causes weakness and cardiac conduction changes, not classic hypocalcaemic tetany."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hyperkalaemia causes weakness and cardiac conduction changes, not classic hypocalcaemic tetany.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hyperkalaemia causes weakness and cardiac conduction changes, not classic hypocalcaemic tetany.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Hyperkalaemia causes weakness and cardiac conduction changes, not classic hypocalcaemic tetany."
+            }
+          }
+        }
+      },
+      "memoryHook": "Alkalosis makes albumin grab calcium, leaving nerves irritable.",
+      "examPearl": "Measure ionised calcium when pH is changing rapidly; total calcium may appear normal.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Respiratory alkalosis",
+        "auditedAnswer": "A. Respiratory alkalosis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 355,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q359",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration. It equals inspiratory reserve volume plus tidal volume plus expiratory reserve volume.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Air remaining after a normal expiration is functional residual capacity.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Air remaining after a normal expiration is functional residual capacity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Air remaining after a normal expiration is functional residual capacity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Air remaining after a normal expiration is functional residual capacity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Air remaining after a normal expiration is functional residual capacity."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Maximum expiration after a normal inspiration is not the defined standard capacity.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Maximum expiration after a normal inspiration is not the defined standard capacity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Maximum expiration after a normal inspiration is not the defined standard capacity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Maximum expiration after a normal inspiration is not the defined standard capacity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Maximum expiration after a normal inspiration is not the defined standard capacity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration. It equals inspiratory reserve volume plus tidal volume plus expiratory reserve volume.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Vital capacity is the maximum volume of air that can be exhaled after a maximal inspiration."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Maximum air in lungs after maximal inspiration is total lung capacity.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Maximum air in lungs after maximal inspiration is total lung capacity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Maximum air in lungs after maximal inspiration is total lung capacity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Maximum air in lungs after maximal inspiration is total lung capacity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Maximum air in lungs after maximal inspiration is total lung capacity."
+            }
+          }
+        }
+      },
+      "memoryHook": "Vital capacity is everything movable between full inspiration and full expiration.",
+      "examPearl": "Residual volume remains after maximal expiration and cannot be measured by simple spirometry.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Maximum air that can be expirated after maximum inspiration",
+        "auditedAnswer": "C. Maximum air that can be expirated after maximum inspiration",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 359,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q373",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Gastric hydrochloric acid lowers pH and converts pepsinogen to active pepsin. Newly formed pepsin then autocatalytically activates additional pepsinogen.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Enterokinase, now called enteropeptidase, activates trypsinogen in duodenum.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Enterokinase, now called enteropeptidase, activates trypsinogen in duodenum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Enterokinase, now called enteropeptidase, activates trypsinogen in duodenum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice, now called enteropeptidase, activates trypsinogen in duodenum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Enterokinase, now called enteropeptidase, activates trypsinogen in duodenum."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Enteropeptidase is the same intestinal enzyme and does not activate gastric pepsinogen.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Enteropeptidase is the same intestinal enzyme and does not activate gastric pepsinogen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Enteropeptidase is the same intestinal enzyme and does not activate gastric pepsinogen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the same intestinal enzyme and does not activate gastric pepsinogen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Enteropeptidase is the same intestinal enzyme and does not activate gastric pepsinogen."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Hydrogen ions create the acidic environment and initiate cleavage.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Hydrogen ions create the acidic environment and initiate cleavage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hydrogen ions create the acidic environment and initiate cleavage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hydrogen ions create the acidic environment and initiate cleavage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Hydrogen ions create the acidic environment and initiate cleavage."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Trypsin activates pancreatic zymogens in small intestine, not pepsinogen.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Trypsin activates pancreatic zymogens in small intestine, not pepsinogen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Trypsin activates pancreatic zymogens in small intestine, not pepsinogen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice activates pancreatic zymogens in small intestine, not pepsinogen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Trypsin activates pancreatic zymogens in small intestine, not pepsinogen."
+            }
+          }
+        }
+      },
+      "memoryHook": "Acid awakens pepsin; enteropeptidase awakens trypsin.",
+      "examPearl": "Pepsin works optimally at low pH and becomes inactive as pH rises in the duodenum.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. H+",
+        "auditedAnswer": "C. H+",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 373,
+        "sourcePdfPage": 68,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q375",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Exhaled air contains about 16 percent oxygen because the body extracts only part of inspired oxygen. This residual oxygen makes mouth-to-mouth ventilation effective.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ten percent is lower than ordinary expired-air oxygen.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ten percent is lower than ordinary expired-air oxygen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ten percent is lower than ordinary expired-air oxygen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ten percent is lower than ordinary expired-air oxygen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ten percent is lower than ordinary expired-air oxygen."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Exhaled air contains roughly 16% oxygen, which is enough to make mouth-to-mouth ventilation effective.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Exhaled air contains roughly 16% oxygen, which is enough to make mouth-to-mouth ventilation effective."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exhaled air contains roughly 16% oxygen, which is enough to make mouth-to-mouth ventilation effective.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exhaled air contains roughly 16% oxygen, which is enough to make mouth-to-mouth ventilation effective.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Exhaled air contains roughly 16% oxygen, which is enough to make mouth-to-mouth ventilation effective."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Twenty-one percent is atmospheric inspired oxygen, not exhaled oxygen.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Twenty-one percent is atmospheric inspired oxygen, not exhaled oxygen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Twenty-one percent is atmospheric inspired oxygen, not exhaled oxygen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Twenty-one percent is atmospheric inspired oxygen, not exhaled oxygen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Twenty-one percent is atmospheric inspired oxygen, not exhaled oxygen."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One hundred percent requires a pure oxygen source.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: One hundred percent requires a pure oxygen source."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One hundred percent requires a pure oxygen source.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One hundred percent requires a pure oxygen source.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "One hundred percent requires a pure oxygen source."
+            }
+          }
+        }
+      },
+      "memoryHook": "Air in 21, air out 16.",
+      "examPearl": "Effective ventilation depends on airway opening, seal, and visible chest rise, not oxygen percentage alone.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 16%",
+        "auditedAnswer": "B. 16%",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 375,
+        "sourcePdfPage": 68,
+        "reportedRepeatYears": [
+          2015,
+          2020
+        ]
+      }
+    }
+  ]
+}

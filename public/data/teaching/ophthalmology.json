@@ -1,0 +1,2575 @@
+{
+  "questions": [
+    {
+      "questionId": "q015",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Ischaemic central retinal vein occlusion can release VEGF and cause iris and angle neovascularization, often around 90 to 100 days later. The resulting secondary angle closure is called 100-day glaucoma.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Ischaemic CRVO is the classic association, although timing is variable and careful follow-up begins much earlier.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Ischaemic CRVO is the classic association, although timing is variable and careful follow-up begins much earlier."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ischaemic CRVO is the classic association, although timing is variable and careful follow-up begins much earlier.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ischaemic CRVO is the classic association, although timing is variable and careful follow-up begins much earlier.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ischaemic CRVO is the classic association, although timing is variable and careful follow-up begins much earlier."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Neovascular glaucoma is the resulting glaucoma type, not the initiating retinal condition asked for.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Neovascular glaucoma is the resulting glaucoma type, not the initiating retinal condition asked for."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Neovascular glaucoma is the resulting glaucoma type, not the initiating retinal condition asked for.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the resulting glaucoma type, not the initiating retinal condition asked for.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Neovascular glaucoma is the resulting glaucoma type, not the initiating retinal condition asked for."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "CRAO causes sudden profound retinal ischaemia but is not the classic '100-day glaucoma' association.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: CRAO causes sudden profound retinal ischaemia but is not the classic '100-day glaucoma' association."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CRAO causes sudden profound retinal ischaemia but is not the classic '100-day glaucoma' association.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CRAO causes sudden profound retinal ischaemia but is not the classic '100-day glaucoma' association.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "CRAO causes sudden profound retinal ischaemia but is not the classic '100-day glaucoma' association."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Steroid-induced glaucoma is usually open-angle from reduced trabecular outflow and has no characteristic 100-day label.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Steroid-induced glaucoma is usually open-angle from reduced trabecular outflow and has no characteristic 100-day label."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Steroid-induced glaucoma is usually open-angle from reduced trabecular outflow and has no characteristic 100-day label.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Steroid-induced glaucoma is usually open-angle from reduced trabecular outflow and has no characteristic 100-day label.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Steroid-induced glaucoma is usually open-angle from reduced trabecular outflow and has no characteristic 100-day label."
+            }
+          }
+        }
+      },
+      "memoryHook": "CRVO: VEGF grows new vessels, then the angle closes near day 100.",
+      "examPearl": "Look for rubeosis iridis and treat retinal ischaemia with panretinal photocoagulation or anti-VEGF according to the clinical plan.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Central retinal vein occlusion (CRVO)",
+        "auditedAnswer": "A. Central retinal vein occlusion (CRVO)",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 15,
+        "sourcePdfPage": 4,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q043",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Normal visual acuity with failure of pupillary constriction points toward an efferent parasympathetic problem in the oculomotor nerve rather than loss of the optic afferent limb. The stem should specify which eye was illuminated and which pupil failed, so the exact localization is under-described.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A complete optic nerve lesion abolishes the direct response in that eye and the consensual response in the opposite eye when light is shone into the affected eye, but it usually impairs vision.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A complete optic nerve lesion abolishes the direct response in that eye and the consensual response in the opposite eye when light is shone into the affected eye, but it usually impairs vision."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A complete optic nerve lesion abolishes the direct response in that eye and the consensual response in the opposite eye when light is shone into the affected eye, but it usually impairs vision.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A complete optic nerve lesion abolishes the direct response in that eye and the consensual response in the opposite eye when light is shone into the affected eye, but it usually impairs vision.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A complete optic nerve lesion abolishes the direct response in that eye and the consensual response in the opposite eye when light is shone into the affected eye, but it usually impairs vision."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best intended answer. Oculomotor parasympathetic fibres carry the efferent signal from Edinger-Westphal nucleus through the ciliary ganglion to sphincter pupillae.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Oculomotor parasympathetic fibres carry the efferent signal from Edinger-Westphal nucleus through the ciliary ganglion to sphincter pupillae."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Oculomotor parasympathetic fibres carry the efferent signal from Edinger-Westphal nucleus through the ciliary ganglion to sphincter pupillae.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice parasympathetic fibres carry the efferent signal from Edinger-Westphal nucleus through the ciliary ganglion to sphincter pupillae.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Oculomotor parasympathetic fibres carry the efferent signal from Edinger-Westphal nucleus through the ciliary ganglion to sphincter pupillae."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Trigeminal nerve is the afferent limb of the corneal reflex, not the pupillary light reflex.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Trigeminal nerve is the afferent limb of the corneal reflex, not the pupillary light reflex."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Trigeminal nerve is the afferent limb of the corneal reflex, not the pupillary light reflex.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice nerve is the afferent limb of the corneal reflex, not the pupillary light reflex.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Trigeminal nerve is the afferent limb of the corneal reflex, not the pupillary light reflex."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Abducens supplies lateral rectus and has no pupillary reflex role.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Abducens supplies lateral rectus and has no pupillary reflex role."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Abducens supplies lateral rectus and has no pupillary reflex role.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice supplies lateral rectus and has no pupillary reflex role.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Abducens supplies lateral rectus and has no pupillary reflex role."
+            }
+          }
+        }
+      },
+      "memoryHook": "Light in by II, pupil closes by III.",
+      "examPearl": "A properly written reflex question must name the stimulated eye and both observed pupils.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "B. Oculomotor",
+        "auditedAnswer": "B. Oculomotor",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 43,
+        "sourcePdfPage": 10,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q056",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Yoke muscles are paired extraocular muscles, one in each eye, that receive equal innervation to produce a conjugate gaze. Right lateral rectus and left medial rectus abduct and adduct respectively for right gaze.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Right lateral rectus plus left medial rectus move both eyes to the patient's right.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Right lateral rectus plus left medial rectus move both eyes to the patient's right."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Right lateral rectus plus left medial rectus move both eyes to the patient's right.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Right lateral rectus plus left medial rectus move both eyes to the patient's right.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Right lateral rectus plus left medial rectus move both eyes to the patient's right."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Left superior rectus primarily elevates and intorts the left eye, so it is not paired for horizontal right gaze.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Left superior rectus primarily elevates and intorts the left eye, so it is not paired for horizontal right gaze."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Left superior rectus primarily elevates and intorts the left eye, so it is not paired for horizontal right gaze.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice primarily elevates and intorts the left eye, so it is not paired for horizontal right gaze.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Left superior rectus primarily elevates and intorts the left eye, so it is not paired for horizontal right gaze."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Both lateral recti contracting together would diverge the eyes rather than create a normal conjugate gaze.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Both lateral recti contracting together would diverge the eyes rather than create a normal conjugate gaze."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both lateral recti contracting together would diverge the eyes rather than create a normal conjugate gaze.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both lateral recti contracting together would diverge the eyes rather than create a normal conjugate gaze.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Both lateral recti contracting together would diverge the eyes rather than create a normal conjugate gaze."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Left inferior oblique elevates and extorts the adducted eye and is yoked with right superior rectus for a different gaze direction.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Left inferior oblique elevates and extorts the adducted eye and is yoked with right superior rectus for a different gaze direction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Left inferior oblique elevates and extorts the adducted eye and is yoked with right superior rectus for a different gaze direction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice elevates and extorts the adducted eye and is yoked with right superior rectus for a different gaze direction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Left inferior oblique elevates and extorts the adducted eye and is yoked with right superior rectus for a different gaze direction."
+            }
+          }
+        }
+      },
+      "memoryHook": "To look right: right LR and left MR.",
+      "examPearl": "Hering law states equal innervation to yoke muscles; Sherrington law states reciprocal innervation of agonist and antagonist in one eye.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Lt medial rectus",
+        "auditedAnswer": "A. Lt medial rectus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 56,
+        "sourcePdfPage": 12,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q146",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Pain, visual loss, inflammation, and hypopyon two days after cataract surgery suggest acute postoperative endophthalmitis, an ocular emergency. Obtain vitreous or aqueous samples when feasible and give prompt intravitreal broad-spectrum antibiotics.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A common empirical combination is intravitreal vancomycin plus ceftazidime, adjusted to local protocol.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A common empirical combination is intravitreal vancomycin plus ceftazidime, adjusted to local protocol."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A common empirical combination is intravitreal vancomycin plus ceftazidime, adjusted to local protocol.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A common empirical combination is intravitreal vancomycin plus ceftazidime, adjusted to local protocol.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A common empirical combination is intravitreal vancomycin plus ceftazidime, adjusted to local protocol."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Topical drops do not reach adequate therapeutic levels in the vitreous and cannot be sole treatment.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Topical drops do not reach adequate therapeutic levels in the vitreous and cannot be sole treatment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Topical drops do not reach adequate therapeutic levels in the vitreous and cannot be sole treatment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Topical drops do not reach adequate therapeutic levels in the vitreous and cannot be sole treatment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Topical drops do not reach adequate therapeutic levels in the vitreous and cannot be sole treatment."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pars plana vitrectomy is indicated in selected severe cases, especially very poor presenting vision or dense vitreous involvement, but not every patient as the first generic answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Pars plana vitrectomy is indicated in selected severe cases, especially very poor presenting vision or dense vitreous involvement, but not every patient as the first generic answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pars plana vitrectomy is indicated in selected severe cases, especially very poor presenting vision or dense vitreous involvement, but not every patient as the first generic answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pars plana vitrectomy is indicated in selected severe cases, especially very poor presenting vision or dense vitreous involvement, but not every patient as the first generic answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Pars plana vitrectomy is indicated in selected severe cases, especially very poor presenting vision or dense vitreous involvement, but not every patient as the first generic answer."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "No treatment risks irreversible retinal destruction and blindness.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: No treatment risks irreversible retinal destruction and blindness."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: No treatment risks irreversible retinal destruction and blindness.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? No treatment risks irreversible retinal destruction and blindness.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "No treatment risks irreversible retinal destruction and blindness."
+            }
+          }
+        }
+      },
+      "memoryHook": "Post-op hypopyon plus pain and poor vision: inject the vitreous urgently.",
+      "examPearl": "Differentiate toxic anterior segment syndrome, which often presents very early with diffuse corneal oedema and less pain, but do not delay emergency evaluation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Intravitreal antibiotics",
+        "auditedAnswer": "A. Intravitreal antibiotics",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 146,
+        "sourcePdfPage": 28,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q183",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "A subconjunctival cyst containing a visible scolex can be caused by the larval form of Taenia solium, cysticercus cellulosae. Ocular cysticercosis may also involve extraocular muscles, orbit, vitreous, or subretinal space.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Toxoplasma commonly causes necrotizing retinochoroiditis, not a mobile subconjunctival cyst.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Toxoplasma commonly causes necrotizing retinochoroiditis, not a mobile subconjunctival cyst."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Toxoplasma commonly causes necrotizing retinochoroiditis, not a mobile subconjunctival cyst.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Toxoplasma commonly causes necrotizing retinochoroiditis, not a mobile subconjunctival cyst.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Toxoplasma commonly causes necrotizing retinochoroiditis, not a mobile subconjunctival cyst."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Imaging and high-resolution ultrasound can help localize the cyst and scolex.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Imaging and high-resolution ultrasound can help localize the cyst and scolex."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Imaging and high-resolution ultrasound can help localize the cyst and scolex.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Imaging and high-resolution ultrasound can help localize the cyst and scolex.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Imaging and high-resolution ultrasound can help localize the cyst and scolex."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Leishmaniasis mainly affects skin, mucosa, or reticuloendothelial organs and is not the classic cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Leishmaniasis mainly affects skin, mucosa, or reticuloendothelial organs and is not the classic cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Leishmaniasis mainly affects skin, mucosa, or reticuloendothelial organs and is not the classic cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice mainly affects skin, mucosa, or reticuloendothelial organs and is not the classic cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Leishmaniasis mainly affects skin, mucosa, or reticuloendothelial organs and is not the classic cause."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Chagas disease can cause Romaña sign and later cardiac or gastrointestinal disease, not a cystic conjunctival larva.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chagas disease can cause Romaña sign and later cardiac or gastrointestinal disease, not a cystic conjunctival larva."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chagas disease can cause Romaña sign and later cardiac or gastrointestinal disease, not a cystic conjunctival larva.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Chagas disease can cause Romaña sign and later cardiac or gastrointestinal disease, not a cystic conjunctival larva.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Chagas disease can cause Romaña sign and later cardiac or gastrointestinal disease, not a cystic conjunctival larva."
+            }
+          }
+        }
+      },
+      "memoryHook": "A cyst with scolex under conjunctiva suggests cysticercus.",
+      "examPearl": "Management depends on intraocular versus extraocular location; killing an intraocular larva can provoke destructive inflammation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Cysticercosis",
+        "auditedAnswer": "B. Cysticercosis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 183,
+        "sourcePdfPage": 34,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q192",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Acanthamoeba is the most important protozoal cause of keratitis, strongly associated with contact-lens use, contaminated water, and poor lens hygiene. Pain can be strikingly severe relative to early examination.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Plasmodium infects red cells and liver and does not ordinarily cause corneal protozoal infection.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Plasmodium infects red cells and liver and does not ordinarily cause corneal protozoal infection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Plasmodium infects red cells and liver and does not ordinarily cause corneal protozoal infection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice infects red cells and liver and does not ordinarily cause corneal protozoal infection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Plasmodium infects red cells and liver and does not ordinarily cause corneal protozoal infection."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A ring infiltrate and perineural radial keratoneuritis are classic clues.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A ring infiltrate and perineural radial keratoneuritis are classic clues."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A ring infiltrate and perineural radial keratoneuritis are classic clues.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A ring infiltrate and perineural radial keratoneuritis are classic clues.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A ring infiltrate and perineural radial keratoneuritis are classic clues."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Toxoplasma causes retinochoroiditis, not primary keratitis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Toxoplasma causes retinochoroiditis, not primary keratitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Toxoplasma causes retinochoroiditis, not primary keratitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes retinochoroiditis, not primary keratitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Toxoplasma causes retinochoroiditis, not primary keratitis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Wuchereria bancrofti causes lymphatic filariasis rather than corneal ulceration.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Wuchereria bancrofti causes lymphatic filariasis rather than corneal ulceration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Wuchereria bancrofti causes lymphatic filariasis rather than corneal ulceration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Wuchereria bancrofti causes lymphatic filariasis rather than corneal ulceration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Wuchereria bancrofti causes lymphatic filariasis rather than corneal ulceration."
+            }
+          }
+        }
+      },
+      "memoryHook": "Contact lens plus water plus pain out of proportion: Acanthamoeba.",
+      "examPearl": "Treatment is prolonged and often uses topical biguanides such as PHMB or chlorhexidine under specialist care.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Acanthamoeba",
+        "auditedAnswer": "B. Acanthamoeba",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 192,
+        "sourcePdfPage": 36,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q218",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Chlamydia is a common cause of neonatal conjunctivitis, but gonococcal ophthalmia is the classic cause of rapid corneal ulceration, perforation, and blindness. The wording asks about blindness rather than frequency of conjunctivitis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. N. gonorrhoeae often presents at 2 to 5 days with copious purulent discharge and is an emergency.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: N. gonorrhoeae often presents at 2 to 5 days with copious purulent discharge and is an emergency."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: N. gonorrhoeae often presents at 2 to 5 days with copious purulent discharge and is an emergency.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? N. gonorrhoeae often presents at 2 to 5 days with copious purulent discharge and is an emergency.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "N. gonorrhoeae often presents at 2 to 5 days with copious purulent discharge and is an emergency."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "C. trachomatis often presents around 5 to 14 days and can cause pneumonitis; blindness is less characteristically rapid.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: C. trachomatis often presents around 5 to 14 days and can cause pneumonitis; blindness is less characteristically rapid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: C. trachomatis often presents around 5 to 14 days and can cause pneumonitis; blindness is less characteristically rapid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? C. trachomatis often presents around 5 to 14 days and can cause pneumonitis; blindness is less characteristically rapid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "C. trachomatis often presents around 5 to 14 days and can cause pneumonitis; blindness is less characteristically rapid."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Klebsiella can cause neonatal infection but is not the classic blinding ophthalmia organism.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Klebsiella can cause neonatal infection but is not the classic blinding ophthalmia organism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Klebsiella can cause neonatal infection but is not the classic blinding ophthalmia organism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause neonatal infection but is not the classic blinding ophthalmia organism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Klebsiella can cause neonatal infection but is not the classic blinding ophthalmia organism."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Enterobacter may cause hospital-associated infection but is not the standard answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Enterobacter may cause hospital-associated infection but is not the standard answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Enterobacter may cause hospital-associated infection but is not the standard answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may cause hospital-associated infection but is not the standard answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Enterobacter may cause hospital-associated infection but is not the standard answer."
+            }
+          }
+        }
+      },
+      "memoryHook": "Chlamydia is common; gonococcus is catastrophically blinding.",
+      "examPearl": "Treat gonococcal disease systemically and evaluate for disseminated infection; topical therapy alone is inadequate.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Neisseria gonorrhoeae",
+        "auditedAnswer": "A. Neisseria gonorrhoeae",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 218,
+        "sourcePdfPage": 40,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q230",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Specular microscopy images the corneal endothelium and measures cell density, size variation, and shape variation. It is useful before intraocular surgery and in endothelial dystrophies.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Normal adult endothelial cells are mostly hexagonal and do not regenerate effectively.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Normal adult endothelial cells are mostly hexagonal and do not regenerate effectively."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Normal adult endothelial cells are mostly hexagonal and do not regenerate effectively.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Normal adult endothelial cells are mostly hexagonal and do not regenerate effectively.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Normal adult endothelial cells are mostly hexagonal and do not regenerate effectively."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An ophthalmoscope examines the fundus through the pupil.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: An ophthalmoscope examines the fundus through the pupil."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An ophthalmoscope examines the fundus through the pupil.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An ophthalmoscope examines the fundus through the pupil.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "An ophthalmoscope examines the fundus through the pupil."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A synoptophore evaluates and treats binocular vision and strabismus.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A synoptophore evaluates and treats binocular vision and strabismus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A synoptophore evaluates and treats binocular vision and strabismus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A synoptophore evaluates and treats binocular vision and strabismus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A synoptophore evaluates and treats binocular vision and strabismus."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Amsler grid screens central visual distortion, especially from macular disease.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Amsler grid screens central visual distortion, especially from macular disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amsler grid screens central visual distortion, especially from macular disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Amsler grid screens central visual distortion, especially from macular disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Amsler grid screens central visual distortion, especially from macular disease."
+            }
+          }
+        }
+      },
+      "memoryHook": "Specular microscope inspects the single endothelial sheet.",
+      "examPearl": "Low cell density and polymegathism increase the risk of postoperative corneal oedema.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Specular microscope",
+        "auditedAnswer": "A. Specular microscope",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 230,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q231",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A blow-out fracture most commonly involves the thin orbital floor over the maxillary sinus, though the medial wall can also fracture. Entrapment of inferior rectus or orbital tissue can cause diplopia and limited upgaze.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct classic answer. Infraorbital nerve numbness and enophthalmos may occur.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Infraorbital nerve numbness and enophthalmos may occur."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Infraorbital nerve numbness and enophthalmos may occur.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Infraorbital nerve numbness and enophthalmos may occur.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Infraorbital nerve numbness and enophthalmos may occur."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The lamina papyracea of the medial wall is also thin and is the second major blow-out site.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The lamina papyracea of the medial wall is also thin and is the second major blow-out site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The lamina papyracea of the medial wall is also thin and is the second major blow-out site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The lamina papyracea of the medial wall is also thin and is the second major blow-out site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The lamina papyracea of the medial wall is also thin and is the second major blow-out site."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The lateral wall is thick and relatively resistant.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The lateral wall is thick and relatively resistant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The lateral wall is thick and relatively resistant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The lateral wall is thick and relatively resistant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The lateral wall is thick and relatively resistant."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The roof is less commonly involved and suggests a different high-energy pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The roof is less commonly involved and suggests a different high-energy pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The roof is less commonly involved and suggests a different high-energy pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The roof is less commonly involved and suggests a different high-energy pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The roof is less commonly involved and suggests a different high-energy pattern."
+            }
+          }
+        }
+      },
+      "memoryHook": "The orbit blows down through its floor.",
+      "examPearl": "A child with nausea, bradycardia, and restricted eye movement may have a trapdoor fracture with oculocardiac reflex and needs urgent specialist review.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Floor",
+        "auditedAnswer": "A. Floor",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 231,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q232",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A prostaglandin analogue such as latanoprost is an effective first-line pressure-lowering drug and avoids bronchospasm from topical nonselective beta blockers. It increases uveoscleral outflow.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Adverse effects include conjunctival hyperaemia, iris darkening, eyelash growth, and periocular pigment or fat changes.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Adverse effects include conjunctival hyperaemia, iris darkening, eyelash growth, and periocular pigment or fat changes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adverse effects include conjunctival hyperaemia, iris darkening, eyelash growth, and periocular pigment or fat changes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Adverse effects include conjunctival hyperaemia, iris darkening, eyelash growth, and periocular pigment or fat changes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Adverse effects include conjunctival hyperaemia, iris darkening, eyelash growth, and periocular pigment or fat changes."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gemeprost is a prostaglandin E1 analogue used for cervical ripening or pregnancy termination, not glaucoma.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gemeprost is a prostaglandin E1 analogue used for cervical ripening or pregnancy termination, not glaucoma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gemeprost is a prostaglandin E1 analogue used for cervical ripening or pregnancy termination, not glaucoma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a prostaglandin E1 analogue used for cervical ripening or pregnancy termination, not glaucoma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Gemeprost is a prostaglandin E1 analogue used for cervical ripening or pregnancy termination, not glaucoma."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Carboprost is a uterotonic PGF2-alpha analogue and can itself cause bronchospasm.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Carboprost is a uterotonic PGF2-alpha analogue and can itself cause bronchospasm."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Carboprost is a uterotonic PGF2-alpha analogue and can itself cause bronchospasm.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a uterotonic PGF2-alpha analogue and can itself cause bronchospasm.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Carboprost is a uterotonic PGF2-alpha analogue and can itself cause bronchospasm."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Alprostadil is PGE1 used for ductal patency or erectile dysfunction, not topical glaucoma treatment.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Alprostadil is PGE1 used for ductal patency or erectile dysfunction, not topical glaucoma treatment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alprostadil is PGE1 used for ductal patency or erectile dysfunction, not topical glaucoma treatment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is PGE1 used for ductal patency or erectile dysfunction, not topical glaucoma treatment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Alprostadil is PGE1 used for ductal patency or erectile dysfunction, not topical glaucoma treatment."
+            }
+          }
+        }
+      },
+      "memoryHook": "Asthma plus glaucoma: avoid timolol and choose latanoprost.",
+      "examPearl": "Even eye drops can have systemic effects; punctal occlusion reduces nasolacrimal absorption.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Latanoprost",
+        "auditedAnswer": "A. Latanoprost",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 232,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2012,
+          2021
+        ]
+      }
+    },
+    {
+      "questionId": "q233",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Brimonidine is a relatively selective alpha-2 adrenergic agonist that reduces aqueous humour production and increases uveoscleral outflow. Apraclonidine is another alpha-2 agonist but is not listed correctly here.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The printed 'Tirriolol' likely means timolol, a nonselective beta blocker.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The printed 'Tirriolol' likely means timolol, a nonselective beta blocker."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The printed 'Tirriolol' likely means timolol, a nonselective beta blocker.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The printed 'Tirriolol' likely means timolol, a nonselective beta blocker.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The printed 'Tirriolol' likely means timolol, a nonselective beta blocker."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Epinephrine is a nonselective adrenergic agonist and is no longer a preferred glaucoma drug.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Epinephrine is a nonselective adrenergic agonist and is no longer a preferred glaucoma drug."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Epinephrine is a nonselective adrenergic agonist and is no longer a preferred glaucoma drug.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a nonselective adrenergic agonist and is no longer a preferred glaucoma drug.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Epinephrine is a nonselective adrenergic agonist and is no longer a preferred glaucoma drug."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dipivefrin is a prodrug of epinephrine, not selective alpha-2.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dipivefrin is a prodrug of epinephrine, not selective alpha-2."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dipivefrin is a prodrug of epinephrine, not selective alpha-2.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Dipivefrin is a prodrug of epinephrine, not selective alpha-2.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Dipivefrin is a prodrug of epinephrine, not selective alpha-2."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Brimonidine can cause allergy, dry mouth, fatigue, and CNS depression in very young children.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Brimonidine can cause allergy, dry mouth, fatigue, and CNS depression in very young children."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Brimonidine can cause allergy, dry mouth, fatigue, and CNS depression in very young children.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause allergy, dry mouth, fatigue, and CNS depression in very young children.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Brimonidine can cause allergy, dry mouth, fatigue, and CNS depression in very young children."
+            }
+          }
+        }
+      },
+      "memoryHook": "BRIMonidine brings aqueous production down by alpha-2.",
+      "examPearl": "Avoid brimonidine in infants and use caution with MAO inhibitors.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Brimonidine",
+        "auditedAnswer": "D. Brimonidine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 233,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q234",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Iridodialysis is separation of the iris root from the ciliary body, usually after blunt trauma. The peripheral iris defect can create a second dark opening and distort the pupil into a D shape.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Glaucoma may alter pupil size in acute angle closure but does not characteristically create a D-shaped pupil.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Glaucoma may alter pupil size in acute angle closure but does not characteristically create a D-shaped pupil."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glaucoma may alter pupil size in acute angle closure but does not characteristically create a D-shaped pupil.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may alter pupil size in acute angle closure but does not characteristically create a D-shaped pupil.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Glaucoma may alter pupil size in acute angle closure but does not characteristically create a D-shaped pupil."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lens dislocation produces irregular anterior chamber depth, phacodonesis, and aphakic crescent rather than the classic iris-root defect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Lens dislocation produces irregular anterior chamber depth, phacodonesis, and aphakic crescent rather than the classic iris-root defect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lens dislocation produces irregular anterior chamber depth, phacodonesis, and aphakic crescent rather than the classic iris-root defect.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Lens dislocation produces irregular anterior chamber depth, phacodonesis, and aphakic crescent rather than the classic iris-root defect.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Lens dislocation produces irregular anterior chamber depth, phacodonesis, and aphakic crescent rather than the classic iris-root defect."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Symptoms may include monocular diplopia, glare, photophobia, or associated angle damage.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Symptoms may include monocular diplopia, glare, photophobia, or associated angle damage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symptoms may include monocular diplopia, glare, photophobia, or associated angle damage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symptoms may include monocular diplopia, glare, photophobia, or associated angle damage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Symptoms may include monocular diplopia, glare, photophobia, or associated angle damage."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Iridocyclitis typically produces a small irregular pupil from posterior synechiae, not the characteristic D shape.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Iridocyclitis typically produces a small irregular pupil from posterior synechiae, not the characteristic D shape."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Iridocyclitis typically produces a small irregular pupil from posterior synechiae, not the characteristic D shape.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice typically produces a small irregular pupil from posterior synechiae, not the characteristic D shape.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Iridocyclitis typically produces a small irregular pupil from posterior synechiae, not the characteristic D shape."
+            }
+          }
+        }
+      },
+      "memoryHook": "Iris detached at the root makes a D.",
+      "examPearl": "After blunt trauma also assess for angle recession, lens damage, hyphaema, retinal injury, and pressure elevation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Iridodialysis",
+        "auditedAnswer": "C. Iridodialysis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 234,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2015,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q235",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Hypocalcaemia from hypoparathyroidism, cigarette smoking, and chronic radiation exposure can all promote lens opacity. Thus all options are valid cataract associations.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypoparathyroidism can cause bilateral cataracts through chronic hypocalcaemia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hypoparathyroidism can cause bilateral cataracts through chronic hypocalcaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypoparathyroidism can cause bilateral cataracts through chronic hypocalcaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause bilateral cataracts through chronic hypocalcaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hypoparathyroidism can cause bilateral cataracts through chronic hypocalcaemia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Smoking increases oxidative lens damage and is associated particularly with nuclear cataract.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Smoking increases oxidative lens damage and is associated particularly with nuclear cataract."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Smoking increases oxidative lens damage and is associated particularly with nuclear cataract.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Smoking increases oxidative lens damage and is associated particularly with nuclear cataract.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Smoking increases oxidative lens damage and is associated particularly with nuclear cataract."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Non-ionising ultraviolet and infrared exposure can damage the lens; infrared exposure is linked to glassblower cataract.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Non-ionising ultraviolet and infrared exposure can damage the lens; infrared exposure is linked to glassblower cataract."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Non-ionising ultraviolet and infrared exposure can damage the lens; infrared exposure is linked to glassblower cataract.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Non-ionising ultraviolet and infrared exposure can damage the lens; infrared exposure is linked to glassblower cataract.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Non-ionising ultraviolet and infrared exposure can damage the lens; infrared exposure is linked to glassblower cataract."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct because all listed exposures or conditions can cause cataract.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Correct because all listed exposures or conditions can cause cataract."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Lens hates low calcium, smoke, steroids, diabetes, UV, and trauma.",
+      "examPearl": "Cataract type can suggest cause: posterior subcapsular with steroids, snowflake in young uncontrolled diabetes, rosette after blunt trauma.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. All of the above",
+        "auditedAnswer": "D. All of the above",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 235,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q236",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Homonymous field loss results from a retrochiasmal lesion, including optic tract, lateral geniculate body, optic radiations, or visual cortex. An optic chiasm lesion classically causes heteronymous bitemporal hemianopia.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lateral geniculate lesions can cause contralateral homonymous defects.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Lateral geniculate lesions can cause contralateral homonymous defects."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lateral geniculate lesions can cause contralateral homonymous defects.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Lateral geniculate lesions can cause contralateral homonymous defects.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Lateral geniculate lesions can cause contralateral homonymous defects."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A complete unilateral optic-radiation lesion causes contralateral homonymous hemianopia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A complete unilateral optic-radiation lesion causes contralateral homonymous hemianopia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A complete unilateral optic-radiation lesion causes contralateral homonymous hemianopia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A complete unilateral optic-radiation lesion causes contralateral homonymous hemianopia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A complete unilateral optic-radiation lesion causes contralateral homonymous hemianopia."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Optic-tract injury causes contralateral homonymous hemianopia, often incongruous.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Optic-tract injury causes contralateral homonymous hemianopia, often incongruous."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Optic-tract injury causes contralateral homonymous hemianopia, often incongruous.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Optic-tract injury causes contralateral homonymous hemianopia, often incongruous.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Optic-tract injury causes contralateral homonymous hemianopia, often incongruous."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Midline chiasmal compression damages crossing nasal fibres and creates bitemporal loss.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Midline chiasmal compression damages crossing nasal fibres and creates bitemporal loss."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Midline chiasmal compression damages crossing nasal fibres and creates bitemporal loss.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Midline chiasmal compression damages crossing nasal fibres and creates bitemporal loss.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Midline chiasmal compression damages crossing nasal fibres and creates bitemporal loss."
+            }
+          }
+        }
+      },
+      "memoryHook": "At the chiasm, temporal fields split; behind the chiasm, same side of both fields is lost.",
+      "examPearl": "Greater congruity usually suggests a more posterior retrochiasmal lesion.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Optic chaisma",
+        "auditedAnswer": "D. Optic chaisma",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 236,
+        "sourcePdfPage": 43,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q237",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "In simple myopic astigmatism, one principal meridian focuses on the retina and the perpendicular meridian focuses in front of it. The prescription therefore has plano power in one meridian and minus cylindrical correction in the other.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A plus sphere treats hypermetropia, not simple myopic astigmatism.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A plus sphere treats hypermetropia, not simple myopic astigmatism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A plus sphere treats hypermetropia, not simple myopic astigmatism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A plus sphere treats hypermetropia, not simple myopic astigmatism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A plus sphere treats hypermetropia, not simple myopic astigmatism."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Simple myopic astigmatism has one emmetropic principal meridian and one myopic meridian, represented by plano sphere with a minus cylinder.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Simple myopic astigmatism has one emmetropic principal meridian and one myopic meridian, represented by plano sphere with a minus cylinder."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Simple myopic astigmatism has one emmetropic principal meridian and one myopic meridian, represented by plano sphere with a minus cylinder.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Simple myopic astigmatism has one emmetropic principal meridian and one myopic meridian, represented by plano sphere with a minus cylinder.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Simple myopic astigmatism has one emmetropic principal meridian and one myopic meridian, represented by plano sphere with a minus cylinder."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A minus sphere affects both principal meridians and represents spherical myopia unless combined with cylinder.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A minus sphere affects both principal meridians and represents spherical myopia unless combined with cylinder."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A minus sphere affects both principal meridians and represents spherical myopia unless combined with cylinder.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A minus sphere affects both principal meridians and represents spherical myopia unless combined with cylinder.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A minus sphere affects both principal meridians and represents spherical myopia unless combined with cylinder."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Opposite-sign powers in both meridians describe mixed astigmatism, where one focus lies in front and one behind the retina.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Opposite-sign powers in both meridians describe mixed astigmatism, where one focus lies in front and one behind the retina."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Opposite-sign powers in both meridians describe mixed astigmatism, where one focus lies in front and one behind the retina.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Opposite-sign powers in both meridians describe mixed astigmatism, where one focus lies in front and one behind the retina.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Opposite-sign powers in both meridians describe mixed astigmatism, where one focus lies in front and one behind the retina."
+            }
+          }
+        }
+      },
+      "memoryHook": "Simple means one meridian is plano; myopic means the other needs minus.",
+      "examPearl": "Transpose cylinder notation without changing the optical result: add sphere and cylinder, reverse cylinder sign, rotate axis 90 degrees.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Rx will be plano (-)",
+        "auditedAnswer": "B. Rx will be plano (-)",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 237,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q238",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Clinical retinal detachment is separation of the neurosensory retina from the underlying retinal pigment epithelium, reopening the potential subretinal space that existed between layers of the optic cup.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The neural retinal layers remain together in an ordinary detachment; splitting within retina is retinoschisis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The neural retinal layers remain together in an ordinary detachment; splitting within retina is retinoschisis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The neural retinal layers remain together in an ordinary detachment; splitting within retina is retinoschisis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The neural retinal layers remain together in an ordinary detachment; splitting within retina is retinoschisis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The neural retinal layers remain together in an ordinary detachment; splitting within retina is retinoschisis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Subretinal fluid accumulates between photoreceptor outer segments and RPE.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Subretinal fluid accumulates between photoreceptor outer segments and RPE."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Subretinal fluid accumulates between photoreceptor outer segments and RPE.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Subretinal fluid accumulates between photoreceptor outer segments and RPE.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Subretinal fluid accumulates between photoreceptor outer segments and RPE."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The RPE normally remains attached to Bruch membrane and choroid.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The RPE normally remains attached to Bruch membrane and choroid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The RPE normally remains attached to Bruch membrane and choroid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The RPE normally remains attached to Bruch membrane and choroid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The RPE normally remains attached to Bruch membrane and choroid."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The correct tissue plane is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The correct tissue plane is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Retina peels away from its pigment epithelium.",
+      "examPearl": "Flashes, new floaters, and a curtain-like field defect require same-day retinal evaluation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Neurosensory retina and pigment epithelium",
+        "auditedAnswer": "B. Neurosensory retina and pigment epithelium",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 238,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q239",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Methanol is metabolised to formic acid, which impairs mitochondrial respiration and damages the optic nerve and retinal ganglion cells, causing blurred or snowfield vision and possible blindness. Basal ganglia, especially putamen, may also be injured.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cone dysfunction alone does not explain the profound optic neuropathy.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Cone dysfunction alone does not explain the profound optic neuropathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cone dysfunction alone does not explain the profound optic neuropathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cone dysfunction alone does not explain the profound optic neuropathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Cone dysfunction alone does not explain the profound optic neuropathy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Rods are not the principal cellular target in the classic exam framing.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Rods are not the principal cellular target in the classic exam framing."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rods are not the principal cellular target in the classic exam framing.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice are not the principal cellular target in the classic exam framing.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Rods are not the principal cellular target in the classic exam framing."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Retinal ganglion axons form the optic nerve and are highly vulnerable to formate.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Retinal ganglion axons form the optic nerve and are highly vulnerable to formate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Retinal ganglion axons form the optic nerve and are highly vulnerable to formate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Retinal ganglion axons form the optic nerve and are highly vulnerable to formate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Retinal ganglion axons form the optic nerve and are highly vulnerable to formate."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The germinal layer is not a standard adult retinal layer targeted by methanol.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The germinal layer is not a standard adult retinal layer targeted by methanol."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The germinal layer is not a standard adult retinal layer targeted by methanol.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The germinal layer is not a standard adult retinal layer targeted by methanol.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The germinal layer is not a standard adult retinal layer targeted by methanol."
+            }
+          }
+        }
+      },
+      "memoryHook": "Methanol makes formate, which blinds by ganglion and optic-nerve injury.",
+      "examPearl": "Treatment can include fomepizole, correction of acidosis, folate, and haemodialysis based on severity and protocol.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Ganglion cells of retina",
+        "auditedAnswer": "C. Ganglion cells of retina",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 239,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q240",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A retinal tear is the defining lesion in rhegmatogenous, traditionally called primary, retinal detachment. Liquefied vitreous passes through the break into the subretinal space.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Risk factors include posterior vitreous detachment, high myopia, trauma, lattice degeneration, and cataract surgery.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Risk factors include posterior vitreous detachment, high myopia, trauma, lattice degeneration, and cataract surgery."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Risk factors include posterior vitreous detachment, high myopia, trauma, lattice degeneration, and cataract surgery.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Risk factors include posterior vitreous detachment, high myopia, trauma, lattice degeneration, and cataract surgery.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Risk factors include posterior vitreous detachment, high myopia, trauma, lattice degeneration, and cataract surgery."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Secondary detachment is often used for exudative or tractional mechanisms without a primary retinal break.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Secondary detachment is often used for exudative or tractional mechanisms without a primary retinal break."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Secondary detachment is often used for exudative or tractional mechanisms without a primary retinal break.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Secondary detachment is often used for exudative or tractional mechanisms without a primary retinal break.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Secondary detachment is often used for exudative or tractional mechanisms without a primary retinal break."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tractional detachment results from fibrovascular membranes pulling retina, classically in proliferative diabetic retinopathy; a tear may develop secondarily but is not defining.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Tractional detachment results from fibrovascular membranes pulling retina, classically in proliferative diabetic retinopathy; a tear may develop secondarily but is not defining."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tractional detachment results from fibrovascular membranes pulling retina, classically in proliferative diabetic retinopathy; a tear may develop secondarily but is not defining.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Tractional detachment results from fibrovascular membranes pulling retina, classically in proliferative diabetic retinopathy; a tear may develop secondarily but is not defining.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Tractional detachment results from fibrovascular membranes pulling retina, classically in proliferative diabetic retinopathy; a tear may develop secondarily but is not defining."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Exudative detachment results from fluid leakage without a retinal break.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Exudative detachment results from fluid leakage without a retinal break."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exudative detachment results from fluid leakage without a retinal break.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exudative detachment results from fluid leakage without a retinal break.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Exudative detachment results from fluid leakage without a retinal break."
+            }
+          }
+        }
+      },
+      "memoryHook": "Rhegma means a break.",
+      "examPearl": "Symptomatic retinal tears can often be sealed with laser or cryotherapy before detachment progresses.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Primary retinal detachment",
+        "auditedAnswer": "A. Primary retinal detachment",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 240,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q241",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Red keratic precipitates are described in haemorrhagic uveitis when red cells or blood pigment become incorporated into endothelial deposits. More generally, fresh KPs are grey-white and old KPs shrink and become pigmented.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Granulomatous uveitis classically produces large greasy mutton-fat KPs rather than red deposits.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Granulomatous uveitis classically produces large greasy mutton-fat KPs rather than red deposits."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Granulomatous uveitis classically produces large greasy mutton-fat KPs rather than red deposits.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Granulomatous uveitis classically produces large greasy mutton-fat KPs rather than red deposits.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Granulomatous uveitis classically produces large greasy mutton-fat KPs rather than red deposits."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct traditional answer. Blood within inflamed aqueous explains the red-brown appearance.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Blood within inflamed aqueous explains the red-brown appearance."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blood within inflamed aqueous explains the red-brown appearance.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Blood within inflamed aqueous explains the red-brown appearance.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Blood within inflamed aqueous explains the red-brown appearance."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Old healed uveitis leaves small pigmented or hyalinised KPs, usually brown rather than freshly red.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Old healed uveitis leaves small pigmented or hyalinised KPs, usually brown rather than freshly red."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Old healed uveitis leaves small pigmented or hyalinised KPs, usually brown rather than freshly red.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice leaves small pigmented or hyalinised KPs, usually brown rather than freshly red.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Old healed uveitis leaves small pigmented or hyalinised KPs, usually brown rather than freshly red."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Acute anterior uveitis produces active KPs and cells, but red colour specifically suggests haemorrhagic involvement.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Acute anterior uveitis produces active KPs and cells, but red colour specifically suggests haemorrhagic involvement."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Acute anterior uveitis produces active KPs and cells, but red colour specifically suggests haemorrhagic involvement.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice produces active KPs and cells, but red colour specifically suggests haemorrhagic involvement.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Acute anterior uveitis produces active KPs and cells, but red colour specifically suggests haemorrhagic involvement."
+            }
+          }
+        }
+      },
+      "memoryHook": "Red KP points to red cells: haemorrhagic uveitis.",
+      "examPearl": "KP size, distribution, colour, and associated iris or pressure findings help narrow uveitis but are not diagnostic alone.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "B. Hemorrhagic uveitis",
+        "auditedAnswer": "B. Hemorrhagic uveitis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 241,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q242",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cells in the anterior chamber are the direct slit-lamp marker used to grade active anterior uveitis. Flare reflects protein leakage and may persist after cellular activity falls.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Standard grading counts cells in a defined slit beam.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Standard grading counts cells in a defined slit beam."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Standard grading counts cells in a defined slit beam.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Standard grading counts cells in a defined slit beam.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Standard grading counts cells in a defined slit beam."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Circumcorneal congestion supports acute inflammation but is not the preferred quantitative activity measure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Circumcorneal congestion supports acute inflammation but is not the preferred quantitative activity measure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Circumcorneal congestion supports acute inflammation but is not the preferred quantitative activity measure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice supports acute inflammation but is not the preferred quantitative activity measure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Circumcorneal congestion supports acute inflammation but is not the preferred quantitative activity measure."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Keratic precipitates can persist after active inflammation and their age matters.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Keratic precipitates can persist after active inflammation and their age matters."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Keratic precipitates can persist after active inflammation and their age matters.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Keratic precipitates can persist after active inflammation and their age matters.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Keratic precipitates can persist after active inflammation and their age matters."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Corneal oedema may result from pressure or endothelial dysfunction and is not a specific activity index.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Corneal oedema may result from pressure or endothelial dysfunction and is not a specific activity index."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Corneal oedema may result from pressure or endothelial dysfunction and is not a specific activity index.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Corneal oedema may result from pressure or endothelial dysfunction and is not a specific activity index.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Corneal oedema may result from pressure or endothelial dysfunction and is not a specific activity index."
+            }
+          }
+        }
+      },
+      "memoryHook": "Active uveitis has cells swimming in the anterior chamber.",
+      "examPearl": "Never stop topical steroid abruptly in significant uveitis; taper according to cellular response under ophthalmic supervision.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Cells in anterior chamber",
+        "auditedAnswer": "A. Cells in anterior chamber",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 242,
+        "sourcePdfPage": 44,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q257",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "NPDR includes microaneurysms, dot-blot haemorrhages, hard exudates, cotton-wool spots, venous beading, intraretinal microvascular abnormalities, and diabetic macular oedema. Neovascularization defines proliferative disease.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Microaneurysms are often the earliest visible sign of diabetic retinopathy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Microaneurysms are often the earliest visible sign of diabetic retinopathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Microaneurysms are often the earliest visible sign of diabetic retinopathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Microaneurysms are often the earliest visible sign of diabetic retinopathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Microaneurysms are often the earliest visible sign of diabetic retinopathy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. New vessels on disc or elsewhere mean proliferative diabetic retinopathy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: New vessels on disc or elsewhere mean proliferative diabetic retinopathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: New vessels on disc or elsewhere mean proliferative diabetic retinopathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? New vessels on disc or elsewhere mean proliferative diabetic retinopathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "New vessels on disc or elsewhere mean proliferative diabetic retinopathy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hard exudates are lipid deposits from vascular leakage and occur in NPDR.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hard exudates are lipid deposits from vascular leakage and occur in NPDR."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hard exudates are lipid deposits from vascular leakage and occur in NPDR.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice are lipid deposits from vascular leakage and occur in NPDR.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Hard exudates are lipid deposits from vascular leakage and occur in NPDR."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Macular oedema can occur at any retinopathy stage and is a major cause of visual loss.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Macular oedema can occur at any retinopathy stage and is a major cause of visual loss."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Macular oedema can occur at any retinopathy stage and is a major cause of visual loss.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Macular oedema can occur at any retinopathy stage and is a major cause of visual loss.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Macular oedema can occur at any retinopathy stage and is a major cause of visual loss."
+            }
+          }
+        }
+      },
+      "memoryHook": "Proliferative means new vessels; everything before that can be NPDR.",
+      "examPearl": "Retinopathy stage and macular-oedema status are graded separately.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Neovascularization",
+        "auditedAnswer": "B. Neovascularization",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 257,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q258",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "A carotid-cavernous fistula arterialises the cavernous sinus and orbital veins, causing pulsatile proptosis, chemosis, bruit, raised intraocular pressure, and ophthalmoplegia. The option's 'cortico' is a source typo for carotid.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Orbital varix produces intermittent proptosis that worsens with Valsalva or bending but is not classically pulsatile with bruit.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Orbital varix produces intermittent proptosis that worsens with Valsalva or bending but is not classically pulsatile with bruit."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Orbital varix produces intermittent proptosis that worsens with Valsalva or bending but is not classically pulsatile with bruit.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice produces intermittent proptosis that worsens with Valsalva or bending but is not classically pulsatile with bruit.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Orbital varix produces intermittent proptosis that worsens with Valsalva or bending but is not classically pulsatile with bruit."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Retinoblastoma causes leukocoria or strabismus in children, not pulsatile proptosis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Retinoblastoma causes leukocoria or strabismus in children, not pulsatile proptosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Retinoblastoma causes leukocoria or strabismus in children, not pulsatile proptosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes leukocoria or strabismus in children, not pulsatile proptosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Retinoblastoma causes leukocoria or strabismus in children, not pulsatile proptosis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct intended answer. Direct traumatic fistulas often have high flow.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Direct traumatic fistulas often have high flow."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Direct traumatic fistulas often have high flow.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Direct traumatic fistulas often have high flow.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Direct traumatic fistulas often have high flow."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cavernous sinus thrombosis causes painful proptosis and ophthalmoplegia but not the characteristic arterial pulsation and bruit.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Cavernous sinus thrombosis causes painful proptosis and ophthalmoplegia but not the characteristic arterial pulsation and bruit."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cavernous sinus thrombosis causes painful proptosis and ophthalmoplegia but not the characteristic arterial pulsation and bruit.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes painful proptosis and ophthalmoplegia but not the characteristic arterial pulsation and bruit.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Cavernous sinus thrombosis causes painful proptosis and ophthalmoplegia but not the characteristic arterial pulsation and bruit."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pulse, proptosis, bruit: carotid blood is entering cavernous sinus.",
+      "examPearl": "Digital subtraction angiography defines anatomy and permits endovascular treatment.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Carotid-cavernous fistula",
+        "auditedAnswer": "C. Carotid-cavernous fistula",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 258,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q275",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A dense congenital cataract blocking the visual axis must be treated early to prevent irreversible deprivation amblyopia. 'Immediately' is the closest option, but surgery is usually planned within a short critical window rather than literally on the day of birth: often about 4 to 6 weeks for dense unilateral and 6 to 8 weeks for bilateral cataracts.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best answer because urgent early surgery is required. Preoperative evaluation and anaesthetic planning still matter.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Preoperative evaluation and anaesthetic planning still matter."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Preoperative evaluation and anaesthetic planning still matter.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Preoperative evaluation and anaesthetic planning still matter.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Preoperative evaluation and anaesthetic planning still matter."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two months may be late for a dense unilateral cataract, though it can overlap the bilateral treatment window.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Two months may be late for a dense unilateral cataract, though it can overlap the bilateral treatment window."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two months may be late for a dense unilateral cataract, though it can overlap the bilateral treatment window.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two months may be late for a dense unilateral cataract, though it can overlap the bilateral treatment window.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Two months may be late for a dense unilateral cataract, though it can overlap the bilateral treatment window."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Waiting to one year causes profound visual deprivation and is wrong for an axial dense cataract.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Waiting to one year causes profound visual deprivation and is wrong for an axial dense cataract."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Waiting to one year causes profound visual deprivation and is wrong for an axial dense cataract.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Waiting to one year causes profound visual deprivation and is wrong for an axial dense cataract.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Waiting to one year causes profound visual deprivation and is wrong for an axial dense cataract."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Waiting four years would make useful visual recovery unlikely.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Waiting four years would make useful visual recovery unlikely."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Waiting four years would make useful visual recovery unlikely.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Waiting four years would make useful visual recovery unlikely.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Waiting four years would make useful visual recovery unlikely."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dense central cataract: clear the visual axis in weeks, not months or years.",
+      "examPearl": "Surgery is only the start; optical correction, patching, glaucoma surveillance, and long-term amblyopia therapy determine vision.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Immediately",
+        "auditedAnswer": "A. Immediately",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 275,
+        "sourcePdfPage": 51,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q333",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "MRI of the brain and orbits with fat-suppressed contrast sequences is the investigation of choice for optic neuritis. It confirms optic-nerve inflammation and assesses demyelinating brain lesions that predict multiple sclerosis risk.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. MRI can also identify atypical patterns suggesting NMOSD, MOG-associated disease, compression, or other causes.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: MRI can also identify atypical patterns suggesting NMOSD, MOG-associated disease, compression, or other causes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MRI can also identify atypical patterns suggesting NMOSD, MOG-associated disease, compression, or other causes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MRI can also identify atypical patterns suggesting NMOSD, MOG-associated disease, compression, or other causes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "MRI can also identify atypical patterns suggesting NMOSD, MOG-associated disease, compression, or other causes."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "CT is less sensitive for optic-nerve inflammation and demyelinating lesions.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: CT is less sensitive for optic-nerve inflammation and demyelinating lesions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CT is less sensitive for optic-nerve inflammation and demyelinating lesions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CT is less sensitive for optic-nerve inflammation and demyelinating lesions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "CT is less sensitive for optic-nerve inflammation and demyelinating lesions."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vitreous biopsy is for selected intraocular lymphoma or infection, not typical optic neuritis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Vitreous biopsy is for selected intraocular lymphoma or infection, not typical optic neuritis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitreous biopsy is for selected intraocular lymphoma or infection, not typical optic neuritis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is for selected intraocular lymphoma or infection, not typical optic neuritis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Vitreous biopsy is for selected intraocular lymphoma or infection, not typical optic neuritis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Electro-oculography evaluates retinal pigment epithelium function and does not diagnose optic neuritis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Electro-oculography evaluates retinal pigment epithelium function and does not diagnose optic neuritis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Electro-oculography evaluates retinal pigment epithelium function and does not diagnose optic neuritis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Electro-oculography evaluates retinal pigment epithelium function and does not diagnose optic neuritis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Electro-oculography evaluates retinal pigment epithelium function and does not diagnose optic neuritis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Painful visual loss plus colour desaturation: MRI brain and orbits.",
+      "examPearl": "Typical demyelinating optic neuritis often has a normal-looking disc because inflammation is retrobulbar.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. MRI Brain and orbit",
+        "auditedAnswer": "A. MRI Brain and orbit",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 333,
+        "sourcePdfPage": 61,
+        "reportedRepeatYears": [
+          2015,
+          2016
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1615 @@
+{
+  "questions": [
+    {
+      "questionId": "q004",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Stereotactic radiosurgery delivers a highly focused, ablative radiation dose to a small intracranial target. A compact arteriovenous malformation is a classic indication because radiation causes progressive vessel obliteration while limiting dose to surrounding brain.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Glioblastoma is diffuse and infiltrative, so surgery plus fractionated radiotherapy and temozolomide is the standard framework. SRS may have selected salvage roles but is not the classic answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Glioblastoma is diffuse and infiltrative, so surgery plus fractionated radiotherapy and temozolomide is the standard framework."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glioblastoma is diffuse and infiltrative, so surgery plus fractionated radiotherapy and temozolomide is the standard framework.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Glioblastoma is diffuse and infiltrative, so surgery plus fractionated radiotherapy and temozolomide is the standard framework.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Glioblastoma is diffuse and infiltrative, so surgery plus fractionated radiotherapy and temozolomide is the standard framework."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Medulloblastoma often requires craniospinal irradiation because of cerebrospinal fluid dissemination. A single focal stereotactic dose is inadequate for that disease pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Medulloblastoma often requires craniospinal irradiation because of cerebrospinal fluid dissemination."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Medulloblastoma often requires craniospinal irradiation because of cerebrospinal fluid dissemination.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Medulloblastoma often requires craniospinal irradiation because of cerebrospinal fluid dissemination.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Medulloblastoma often requires craniospinal irradiation because of cerebrospinal fluid dissemination."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ependymoma management commonly uses maximal safe resection and focal fractionated radiotherapy. SRS is not the standard broad indication tested here.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ependymoma management commonly uses maximal safe resection and focal fractionated radiotherapy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ependymoma management commonly uses maximal safe resection and focal fractionated radiotherapy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice management commonly uses maximal safe resection and focal fractionated radiotherapy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ependymoma management commonly uses maximal safe resection and focal fractionated radiotherapy."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Brain AVM is the best answer. The focused dose injures the nidus endothelium, with obliteration developing over months to years.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The focused dose injures the nidus endothelium, with obliteration developing over months to years."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The focused dose injures the nidus endothelium, with obliteration developing over months to years.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The focused dose injures the nidus endothelium, with obliteration developing over months to years.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The focused dose injures the nidus endothelium, with obliteration developing over months to years."
+            }
+          }
+        }
+      },
+      "memoryHook": "SRS suits Small, Sharp targets: AVM, selected metastasis, acoustic schwannoma.",
+      "examPearl": "Despite the word surgery, no incision is made. Gamma Knife, CyberKnife, and LINAC systems are delivery platforms.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. AV malformation of brain",
+        "auditedAnswer": "D. AV malformation of brain",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 4,
+        "sourcePdfPage": 2,
+        "reportedRepeatYears": [
+          2015,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q118",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The Caldwell, or occipitofrontal, projection demonstrates the frontal sinuses well and also provides information about anterior ethmoid air cells. Frontal sinus is the best single option.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Maxillary sinuses are better displayed with the Waters occipitomental view.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Maxillary sinuses are better displayed with the Waters occipitomental view."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Maxillary sinuses are better displayed with the Waters occipitomental view.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Maxillary sinuses are better displayed with the Waters occipitomental view.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Maxillary sinuses are better displayed with the Waters occipitomental view."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The petrous ridges are projected into the lower third of the orbits in a properly positioned Caldwell view.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The petrous ridges are projected into the lower third of the orbits in a properly positioned Caldwell view."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The petrous ridges are projected into the lower third of the orbits in a properly positioned Caldwell view.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The petrous ridges are projected into the lower third of the orbits in a properly positioned Caldwell view.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The petrous ridges are projected into the lower third of the orbits in a properly positioned Caldwell view."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ethmoid cells are also seen, especially anterior ethmoids, but frontal sinus is the classic single answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Ethmoid cells are also seen, especially anterior ethmoids, but frontal sinus is the classic single answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ethmoid cells are also seen, especially anterior ethmoids, but frontal sinus is the classic single answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ethmoid cells are also seen, especially anterior ethmoids, but frontal sinus is the classic single answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ethmoid cells are also seen, especially anterior ethmoids, but frontal sinus is the classic single answer."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Because maxillary sinus is not optimally demonstrated, all is not the best response.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Because maxillary sinus is not optimally demonstrated, all is not the best response."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Caldwell catches the cranium's frontal cells; Waters watches maxillary sinuses.",
+      "examPearl": "CT has largely replaced plain sinus radiography for complicated or chronic disease.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Frontal sinus",
+        "auditedAnswer": "B. Frontal sinus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 118,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q119",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The Waters, or occipitomental, projection places the maxillary sinuses above the petrous ridges and displays them clearly. It is the classic plain-film view for maxillary sinus and orbital floor.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Air-fluid levels and maxillary opacity can be seen if the patient is upright.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Air-fluid levels and maxillary opacity can be seen if the patient is upright."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Air-fluid levels and maxillary opacity can be seen if the patient is upright.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Air-fluid levels and maxillary opacity can be seen if the patient is upright.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Air-fluid levels and maxillary opacity can be seen if the patient is upright."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ethmoid sinuses are better assessed with Caldwell view or CT.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ethmoid sinuses are better assessed with Caldwell view or CT."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ethmoid sinuses are better assessed with Caldwell view or CT.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ethmoid sinuses are better assessed with Caldwell view or CT.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Ethmoid sinuses are better assessed with Caldwell view or CT."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Frontal sinuses are best displayed in Caldwell projection.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Frontal sinuses are best displayed in Caldwell projection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Frontal sinuses are best displayed in Caldwell projection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Frontal sinuses are best displayed in Caldwell projection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Frontal sinuses are best displayed in Caldwell projection."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sphenoid sinus may be seen in an open-mouth modified Waters view, but it is not the primary target.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Sphenoid sinus may be seen in an open-mouth modified Waters view, but it is not the primary target."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sphenoid sinus may be seen in an open-mouth modified Waters view, but it is not the primary target.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may be seen in an open-mouth modified Waters view, but it is not the primary target.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Sphenoid sinus may be seen in an open-mouth modified Waters view, but it is not the primary target."
+            }
+          }
+        }
+      },
+      "memoryHook": "Waters lets you look into the maxillary wells.",
+      "examPearl": "Waters view is also useful for zygomaticomaxillary complex and blow-out fractures, though CT is more sensitive.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Maxillary sinus",
+        "auditedAnswer": "A. Maxillary sinus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 119,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q164",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The pelvic radiograph shows rounded radiopaque calculi projected over the urinary bladder. Their dependent central pelvic location and dense mineral appearance favour bladder stones.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A calcified uterine fibroid often has coarse popcorn-like calcification rather than smooth dependent bladder calculi.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A calcified uterine fibroid often has coarse popcorn-like calcification rather than smooth dependent bladder calculi."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A calcified uterine fibroid often has coarse popcorn-like calcification rather than smooth dependent bladder calculi.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A calcified uterine fibroid often has coarse popcorn-like calcification rather than smooth dependent bladder calculi.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A calcified uterine fibroid often has coarse popcorn-like calcification rather than smooth dependent bladder calculi."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bladder carcinoma is usually a soft-tissue lesion and is not diagnosed as multiple dense free calculi on plain film.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bladder carcinoma is usually a soft-tissue lesion and is not diagnosed as multiple dense free calculi on plain film."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bladder carcinoma is usually a soft-tissue lesion and is not diagnosed as multiple dense free calculi on plain film.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is usually a soft-tissue lesion and is not diagnosed as multiple dense free calculi on plain film.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Bladder carcinoma is usually a soft-tissue lesion and is not diagnosed as multiple dense free calculi on plain film."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Bladder stones may occur with obstruction, neurogenic bladder, infection, or foreign material.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Bladder stones may occur with obstruction, neurogenic bladder, infection, or foreign material."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bladder stones may occur with obstruction, neurogenic bladder, infection, or foreign material.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bladder stones may occur with obstruction, neurogenic bladder, infection, or foreign material.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Bladder stones may occur with obstruction, neurogenic bladder, infection, or foreign material."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Genitourinary tuberculosis can cause bladder contraction and tract calcification but does not match these discrete intravesical stones.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Genitourinary tuberculosis can cause bladder contraction and tract calcification but does not match these discrete intravesical stones."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Genitourinary tuberculosis can cause bladder contraction and tract calcification but does not match these discrete intravesical stones.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Genitourinary tuberculosis can cause bladder contraction and tract calcification but does not match these discrete intravesical stones.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Genitourinary tuberculosis can cause bladder contraction and tract calcification but does not match these discrete intravesical stones."
+            }
+          }
+        }
+      },
+      "memoryHook": "Round stones low and central in the pelvis sit in the bladder.",
+      "examPearl": "Ultrasound and cystoscopy can confirm location, number, mobility, and associated obstruction.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Bladder stone",
+        "auditedAnswer": "C. Bladder stone",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 164,
+        "sourcePdfPage": 31,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q165",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The radiograph shows long radiopaque tubular devices tracking from renal pelvis to bladder with curled ends, typical double-J ureteric stents. The curls reduce migration.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Stents maintain ureteric drainage after obstruction, instrumentation, or repair.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Stents maintain ureteric drainage after obstruction, instrumentation, or repair."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Stents maintain ureteric drainage after obstruction, instrumentation, or repair.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Stents maintain ureteric drainage after obstruction, instrumentation, or repair.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Stents maintain ureteric drainage after obstruction, instrumentation, or repair."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Surgical clips are short focal metallic densities, not long bilateral tubes.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Surgical clips are short focal metallic densities, not long bilateral tubes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Surgical clips are short focal metallic densities, not long bilateral tubes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice are short focal metallic densities, not long bilateral tubes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Surgical clips are short focal metallic densities, not long bilateral tubes."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A Foley catheter lies through the urethra with a balloon in the bladder and does not extend to the kidneys.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A Foley catheter lies through the urethra with a balloon in the bladder and does not extend to the kidneys."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A Foley catheter lies through the urethra with a balloon in the bladder and does not extend to the kidneys.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A Foley catheter lies through the urethra with a balloon in the bladder and does not extend to the kidneys.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A Foley catheter lies through the urethra with a balloon in the bladder and does not extend to the kidneys."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An unspecified intravesical wire would remain in the bladder and would not follow both ureters.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: An unspecified intravesical wire would remain in the bladder and would not follow both ureters."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An unspecified intravesical wire would remain in the bladder and would not follow both ureters.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An unspecified intravesical wire would remain in the bladder and would not follow both ureters.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "An unspecified intravesical wire would remain in the bladder and would not follow both ureters."
+            }
+          }
+        }
+      },
+      "memoryHook": "Double-J means one J curl in kidney and one in bladder.",
+      "examPearl": "Stents can encrust, migrate, infect, and cause haematuria or irritative symptoms; removal or exchange timing matters.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Stent",
+        "auditedAnswer": "A. Stent",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 165,
+        "sourcePdfPage": 31,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q252",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The salt-and-pepper skull is a granular deossified appearance caused by trabecular resorption in hyperparathyroidism. Other skeletal findings include subperiosteal resorption and brown tumours.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It may occur in primary or secondary hyperparathyroidism.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It may occur in primary or secondary hyperparathyroidism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It may occur in primary or secondary hyperparathyroidism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It may occur in primary or secondary hyperparathyroidism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It may occur in primary or secondary hyperparathyroidism."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Multiple myeloma classically causes multiple punched-out lytic skull lesions.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Multiple myeloma classically causes multiple punched-out lytic skull lesions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Multiple myeloma classically causes multiple punched-out lytic skull lesions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice classically causes multiple punched-out lytic skull lesions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Multiple myeloma classically causes multiple punched-out lytic skull lesions."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hyperthyroidism can increase bone turnover but does not produce the classic salt-and-pepper skull pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hyperthyroidism can increase bone turnover but does not produce the classic salt-and-pepper skull pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hyperthyroidism can increase bone turnover but does not produce the classic salt-and-pepper skull pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can increase bone turnover but does not produce the classic salt-and-pepper skull pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Hyperthyroidism can increase bone turnover but does not produce the classic salt-and-pepper skull pattern."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pseudohypoparathyroidism causes PTH resistance with hypocalcaemia and characteristic skeletal phenotype, not excess-PTH resorption.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pseudohypoparathyroidism causes PTH resistance with hypocalcaemia and characteristic skeletal phenotype, not excess-PTH resorption."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pseudohypoparathyroidism causes PTH resistance with hypocalcaemia and characteristic skeletal phenotype, not excess-PTH resorption.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pseudohypoparathyroidism causes PTH resistance with hypocalcaemia and characteristic skeletal phenotype, not excess-PTH resorption.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pseudohypoparathyroidism causes PTH resistance with hypocalcaemia and characteristic skeletal phenotype, not excess-PTH resorption."
+            }
+          }
+        }
+      },
+      "memoryHook": "Too much PTH sprinkles the skull with salt and pepper.",
+      "examPearl": "Subperiosteal resorption along the radial aspects of middle phalanges is another high-yield sign.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Hyperparathyroidism",
+        "auditedAnswer": "A. Hyperparathyroidism",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 252,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q267",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "High-resolution CT is the best noninvasive imaging test to characterize interstitial lung fibrosis. It shows reticulation, traction bronchiectasis, honeycombing, ground-glass opacity, and the distribution needed for pattern diagnosis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Chest radiograph is a useful initial test but can miss early disease and lacks pattern detail.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chest radiograph is a useful initial test but can miss early disease and lacks pattern detail."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chest radiograph is a useful initial test but can miss early disease and lacks pattern detail.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Chest radiograph is a useful initial test but can miss early disease and lacks pattern detail.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Chest radiograph is a useful initial test but can miss early disease and lacks pattern detail."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "MRI is not routine for lung parenchyma because of low proton density and motion, though specialised applications exist.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: MRI is not routine for lung parenchyma because of low proton density and motion, though specialised applications exist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MRI is not routine for lung parenchyma because of low proton density and motion, though specialised applications exist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MRI is not routine for lung parenchyma because of low proton density and motion, though specialised applications exist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "MRI is not routine for lung parenchyma because of low proton density and motion, though specialised applications exist."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A confident usual-interstitial-pneumonia pattern on HRCT can sometimes avoid surgical biopsy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A confident usual-interstitial-pneumonia pattern on HRCT can sometimes avoid surgical biopsy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A confident usual-interstitial-pneumonia pattern on HRCT can sometimes avoid surgical biopsy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A confident usual-interstitial-pneumonia pattern on HRCT can sometimes avoid surgical biopsy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A confident usual-interstitial-pneumonia pattern on HRCT can sometimes avoid surgical biopsy."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Biopsy can establish histology when diagnosis remains uncertain, but it is invasive and not the best initial test.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Biopsy can establish histology when diagnosis remains uncertain, but it is invasive and not the best initial test."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Biopsy can establish histology when diagnosis remains uncertain, but it is invasive and not the best initial test.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can establish histology when diagnosis remains uncertain, but it is invasive and not the best initial test.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Biopsy can establish histology when diagnosis remains uncertain, but it is invasive and not the best initial test."
+            }
+          }
+        }
+      },
+      "memoryHook": "Interstitial pattern needs high-resolution CT.",
+      "examPearl": "Interpret HRCT with exposure, autoimmune, medication, and physiologic data in a multidisciplinary setting.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. HRCT",
+        "auditedAnswer": "C. HRCT",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 267,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q274",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The posterior fossa image shows cystic dilatation of the fourth ventricle with vermian hypoplasia and an enlarged posterior fossa, the Dandy-Walker malformation pattern.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Hydrocephalus and associated CNS anomalies may coexist.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Hydrocephalus and associated CNS anomalies may coexist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hydrocephalus and associated CNS anomalies may coexist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hydrocephalus and associated CNS anomalies may coexist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hydrocephalus and associated CNS anomalies may coexist."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Isolated vermian hypoplasia lacks the full combination of fourth-ventricular cystic enlargement and posterior-fossa expansion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Isolated vermian hypoplasia lacks the full combination of fourth-ventricular cystic enlargement and posterior-fossa expansion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Isolated vermian hypoplasia lacks the full combination of fourth-ventricular cystic enlargement and posterior-fossa expansion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Isolated vermian hypoplasia lacks the full combination of fourth-ventricular cystic enlargement and posterior-fossa expansion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Isolated vermian hypoplasia lacks the full combination of fourth-ventricular cystic enlargement and posterior-fossa expansion."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mega cisterna magna has an enlarged cisterna magna with intact vermis and fourth ventricle.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Mega cisterna magna has an enlarged cisterna magna with intact vermis and fourth ventricle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mega cisterna magna has an enlarged cisterna magna with intact vermis and fourth ventricle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has an enlarged cisterna magna with intact vermis and fourth ventricle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Mega cisterna magna has an enlarged cisterna magna with intact vermis and fourth ventricle."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A characteristic named malformation is present.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A characteristic named malformation is present."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dandy-Walker: dilated fourth ventricle, deficient vermis, big posterior fossa.",
+      "examPearl": "Differentiate posterior-fossa cystic entities using vermis, fourth-ventricle communication, and posterior-fossa size.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Dandy walker malformation",
+        "auditedAnswer": "A. Dandy walker malformation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 274,
+        "sourcePdfPage": 50,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q328",
+      "answer": {
+        "kind": "multiple_defensible",
+        "correctOptionIds": [
+          "A",
+          "D"
+        ],
+        "summary": "Initial contrast evaluation for suspected oesophageal perforation generally uses a water-soluble iodinated agent such as iohexol. Option A is the precise agent, while option D names its broader contrast class, so the choices overlap.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Corrected first-line answer. Iohexol is nonionic, water-soluble iodinated contrast.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Iohexol is nonionic, water-soluble iodinated contrast."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Iohexol is nonionic, water-soluble iodinated contrast.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is nonionic, water-soluble iodinated contrast.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Iohexol is nonionic, water-soluble iodinated contrast."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Barium coats mucosa well and may detect a small leak, but extravasated barium can cause severe mediastinal or pleural inflammation; it is commonly second-line after a negative water-soluble study.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Barium coats mucosa well and may detect a small leak, but extravasated barium can cause severe mediastinal or pleural inflammation; it is commonly second-line after a negative water-soluble study."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Barium coats mucosa well and may detect a small leak, but extravasated barium can cause severe mediastinal or pleural inflammation; it is commonly second-line after a negative water-soluble study.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Barium coats mucosa well and may detect a small leak, but extravasated barium can cause severe mediastinal or pleural inflammation; it is commonly second-line after a negative water-soluble study.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Barium coats mucosa well and may detect a small leak, but extravasated barium can cause severe mediastinal or pleural inflammation; it is commonly second-line after a negative water-soluble study."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gadolinium is mainly an MRI contrast agent and is not the routine swallow contrast for this emergency.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gadolinium is mainly an MRI contrast agent and is not the routine swallow contrast for this emergency."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gadolinium is mainly an MRI contrast agent and is not the routine swallow contrast for this emergency.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is mainly an MRI contrast agent and is not the routine swallow contrast for this emergency.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Gadolinium is mainly an MRI contrast agent and is not the routine swallow contrast for this emergency."
+            }
+          }
+        },
+        "D": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Iohexol is itself a water-soluble iodinated contrast agent. The phrase 'iodine dye' is imprecise, but it overlaps with the more specific option A and is therefore defensible.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The phrase 'iodine dye' is imprecise, but it overlaps with the more specific option A and is therefore defensible."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The phrase 'iodine dye' is imprecise, but it overlaps with the more specific option A and is therefore defensible.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The phrase 'iodine dye' is imprecise, but it overlaps with the more specific option A and is therefore defensible.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The phrase 'iodine dye' is imprecise, but it overlaps with the more specific option A and is therefore defensible."
+            }
+          }
+        }
+      },
+      "memoryHook": "Suspected oesophageal leak: water-soluble first, thin barium second if still suspicious.",
+      "examPearl": "CT with oral and IV contrast often adds crucial information about air, fluid collections, and the perforation site.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "B. Barium sulphate",
+        "auditedAnswer": "A. Iohexol",
+        "sourceKeyChanged": true,
+        "note": "Iohexol is an iodinated contrast agent, so options A and D overlap; exclude from single-answer scoring.",
+        "sourceStatus": "key_corrected",
+        "issueFlags": [
+          "nested_overlapping_options"
+        ]
+      },
+      "source": {
+        "bookQuestionNumber": 328,
+        "sourcePdfPage": 60,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q329",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The double-contrast oesophagram shows numerous fine, closely spaced transverse folds, the feline oesophagus appearance. These transient folds result from contraction of muscularis mucosa and can be associated with gastro-oesophageal reflux.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Oesophageal atresia presents in a newborn with a blind-ending pouch and inability to pass a tube, not transverse mucosal folds.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Oesophageal atresia presents in a newborn with a blind-ending pouch and inability to pass a tube, not transverse mucosal folds."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Oesophageal atresia presents in a newborn with a blind-ending pouch and inability to pass a tube, not transverse mucosal folds.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Oesophageal atresia presents in a newborn with a blind-ending pouch and inability to pass a tube, not transverse mucosal folds.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Oesophageal atresia presents in a newborn with a blind-ending pouch and inability to pass a tube, not transverse mucosal folds."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Stenosis produces a fixed focal narrowing rather than many fine rings.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Stenosis produces a fixed focal narrowing rather than many fine rings."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Stenosis produces a fixed focal narrowing rather than many fine rings.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Stenosis produces a fixed focal narrowing rather than many fine rings.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Stenosis produces a fixed focal narrowing rather than many fine rings."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Folds are thin, temporary, and extend across the lumen.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Folds are thin, temporary, and extend across the lumen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Folds are thin, temporary, and extend across the lumen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Folds are thin, temporary, and extend across the lumen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Folds are thin, temporary, and extend across the lumen."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A tracheo-oesophageal fistula shows abnormal communication or aspiration of contrast, not this fold pattern.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A tracheo-oesophageal fistula shows abnormal communication or aspiration of contrast, not this fold pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A tracheo-oesophageal fistula shows abnormal communication or aspiration of contrast, not this fold pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A tracheo-oesophageal fistula shows abnormal communication or aspiration of contrast, not this fold pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A tracheo-oesophageal fistula shows abnormal communication or aspiration of contrast, not this fold pattern."
+            }
+          }
+        }
+      },
+      "memoryHook": "Feline oesophagus has many fine cat-like transverse folds.",
+      "examPearl": "Differentiate from a fixed ringed oesophagus in eosinophilic oesophagitis, where rings persist and clinical context differs.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Feline oesophagus",
+        "auditedAnswer": "C. Feline oesophagus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 329,
+        "sourcePdfPage": 60,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q330",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Charged protons deposit relatively little entrance dose and release maximum energy near the end of their path, the Bragg peak, followed by a sharp fall in dose. This can spare tissue beyond a tumour.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "X-rays deposit dose continuously with an exit dose and do not have a pronounced Bragg peak.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: X-rays deposit dose continuously with an exit dose and do not have a pronounced Bragg peak."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: X-rays deposit dose continuously with an exit dose and do not have a pronounced Bragg peak.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? X-rays deposit dose continuously with an exit dose and do not have a pronounced Bragg peak.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "X-rays deposit dose continuously with an exit dose and do not have a pronounced Bragg peak."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Multiple energies are combined into a spread-out Bragg peak to cover tumour depth.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Multiple energies are combined into a spread-out Bragg peak to cover tumour depth."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Multiple energies are combined into a spread-out Bragg peak to cover tumour depth.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Multiple energies are combined into a spread-out Bragg peak to cover tumour depth.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Multiple energies are combined into a spread-out Bragg peak to cover tumour depth."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Neutron therapy has different high-LET characteristics but not the classic clinical Bragg-peak answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Neutron therapy has different high-LET characteristics but not the classic clinical Bragg-peak answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Neutron therapy has different high-LET characteristics but not the classic clinical Bragg-peak answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice therapy has different high-LET characteristics but not the classic clinical Bragg-peak answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Neutron therapy has different high-LET characteristics but not the classic clinical Bragg-peak answer."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Electrons have a finite range and rapid falloff but do not show the same pronounced Bragg peak as heavy charged particles.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Electrons have a finite range and rapid falloff but do not show the same pronounced Bragg peak as heavy charged particles."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Electrons have a finite range and rapid falloff but do not show the same pronounced Bragg peak as heavy charged particles.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Electrons have a finite range and rapid falloff but do not show the same pronounced Bragg peak as heavy charged particles.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Electrons have a finite range and rapid falloff but do not show the same pronounced Bragg peak as heavy charged particles."
+            }
+          }
+        }
+      },
+      "memoryHook": "Protons peak at the planned depth and then practically stop.",
+      "examPearl": "Range uncertainty, motion, and tissue-density changes must be considered in proton planning.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Proton",
+        "auditedAnswer": "B. Proton",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 330,
+        "sourcePdfPage": 60,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q331",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "CT is generally superior for calcification and cortical bone, while MRI excels at marrow, soft tissue, posterior fossa, spinal cord, and small brain lesions. Therefore the claim that MRI is better for calcified lesions is false.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Historically true but now overbroad. Many modern MR-conditional pacemakers can be scanned using device-specific protocols; unsafe or unknown devices still require careful assessment.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Many modern MR-conditional pacemakers can be scanned using device-specific protocols; unsafe or unknown devices still require careful assessment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Many modern MR-conditional pacemakers can be scanned using device-specific protocols; unsafe or unknown devices still require careful assessment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Many modern MR-conditional pacemakers can be scanned using device-specific protocols; unsafe or unknown devices still require careful assessment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Many modern MR-conditional pacemakers can be scanned using device-specific protocols; unsafe or unknown devices still require careful assessment."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. MRI is highly sensitive to marrow replacement, oedema, infarction, and tumour.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: MRI is highly sensitive to marrow replacement, oedema, infarction, and tumour."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MRI is highly sensitive to marrow replacement, oedema, infarction, and tumour.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MRI is highly sensitive to marrow replacement, oedema, infarction, and tumour.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "MRI is highly sensitive to marrow replacement, oedema, infarction, and tumour."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "False and therefore the best answer. CT detects and characterises calcification better.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: CT detects and characterises calcification better."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CT detects and characterises calcification better.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CT detects and characterises calcification better.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "CT detects and characterises calcification better."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. MRI provides excellent brain contrast and multiplanar localisation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: MRI provides excellent brain contrast and multiplanar localisation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MRI provides excellent brain contrast and multiplanar localisation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MRI provides excellent brain contrast and multiplanar localisation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "MRI provides excellent brain contrast and multiplanar localisation."
+            }
+          }
+        }
+      },
+      "memoryHook": "MRI for marrow and mind; CT for calcium and cortex.",
+      "examPearl": "Never label every pacemaker an absolute MRI contraindication; verify the exact device and institutional protocol.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. MRI is better for calcified lesions",
+        "auditedAnswer": "C. MRI is better for calcified lesions",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 331,
+        "sourcePdfPage": 60,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q332",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The skull radiograph shows patchy mixed sclerosis and lucency with a cotton-wool appearance and calvarial thickening, characteristic of Paget disease of bone.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Excess disorganised remodelling produces enlarged but mechanically weak bone and elevated alkaline phosphatase.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Excess disorganised remodelling produces enlarged but mechanically weak bone and elevated alkaline phosphatase."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Excess disorganised remodelling produces enlarged but mechanically weak bone and elevated alkaline phosphatase.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Excess disorganised remodelling produces enlarged but mechanically weak bone and elevated alkaline phosphatase.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Excess disorganised remodelling produces enlarged but mechanically weak bone and elevated alkaline phosphatase."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Multiple myeloma causes punched-out lytic lesions without the cotton-wool sclerosis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Multiple myeloma causes punched-out lytic lesions without the cotton-wool sclerosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Multiple myeloma causes punched-out lytic lesions without the cotton-wool sclerosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes punched-out lytic lesions without the cotton-wool sclerosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Multiple myeloma causes punched-out lytic lesions without the cotton-wool sclerosis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Osteosarcoma is usually a focal aggressive metaphyseal lesion; Paget disease can rarely predispose to secondary osteosarcoma.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Osteosarcoma is usually a focal aggressive metaphyseal lesion; Paget disease can rarely predispose to secondary osteosarcoma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Osteosarcoma is usually a focal aggressive metaphyseal lesion; Paget disease can rarely predispose to secondary osteosarcoma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is usually a focal aggressive metaphyseal lesion; Paget disease can rarely predispose to secondary osteosarcoma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Osteosarcoma is usually a focal aggressive metaphyseal lesion; Paget disease can rarely predispose to secondary osteosarcoma."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Skull osteomyelitis causes destructive infection rather than diffuse classic remodelling.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Skull osteomyelitis causes destructive infection rather than diffuse classic remodelling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Skull osteomyelitis causes destructive infection rather than diffuse classic remodelling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Skull osteomyelitis causes destructive infection rather than diffuse classic remodelling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Skull osteomyelitis causes destructive infection rather than diffuse classic remodelling."
+            }
+          }
+        }
+      },
+      "memoryHook": "Paget paints cotton wool on an enlarged skull.",
+      "examPearl": "Complications include hearing loss, deformity, fracture, high-output failure in extensive disease, and rare sarcomatous transformation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Paget's disease",
+        "auditedAnswer": "A. Paget's disease",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 332,
+        "sourcePdfPage": 61,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q336",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The double-track sign in congenital hypertrophic pyloric stenosis represents two thin channels of contrast separated by thickened pyloric mucosa. Ultrasound more commonly shows increased muscle thickness and elongated canal.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Duodenal atresia produces the double-bubble sign with no distal gas.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Duodenal atresia produces the double-bubble sign with no distal gas."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Duodenal atresia produces the double-bubble sign with no distal gas.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice produces the double-bubble sign with no distal gas.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Duodenal atresia produces the double-bubble sign with no distal gas."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. CHPS causes progressive nonbilious projectile vomiting and a hypochloraemic hypokalaemic metabolic alkalosis.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: CHPS causes progressive nonbilious projectile vomiting and a hypochloraemic hypokalaemic metabolic alkalosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CHPS causes progressive nonbilious projectile vomiting and a hypochloraemic hypokalaemic metabolic alkalosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CHPS causes progressive nonbilious projectile vomiting and a hypochloraemic hypokalaemic metabolic alkalosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "CHPS causes progressive nonbilious projectile vomiting and a hypochloraemic hypokalaemic metabolic alkalosis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gastric ulcer may show a niche or crater, not a double track.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gastric ulcer may show a niche or crater, not a double track."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gastric ulcer may show a niche or crater, not a double track.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may show a niche or crater, not a double track.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Gastric ulcer may show a niche or crater, not a double track."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Achalasia shows bird-beak narrowing and oesophageal dilatation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Achalasia shows bird-beak narrowing and oesophageal dilatation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Achalasia shows bird-beak narrowing and oesophageal dilatation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice shows bird-beak narrowing and oesophageal dilatation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Achalasia shows bird-beak narrowing and oesophageal dilatation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pyloric stenosis has a double track and ultrasound target.",
+      "examPearl": "Correct dehydration and electrolytes before Ramstedt pyloromyotomy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. CHPS",
+        "auditedAnswer": "B. CHPS",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 336,
+        "sourcePdfPage": 61,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q356",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "A protective apron commonly provides 0.5 mm lead-equivalent attenuation for diagnostic radiology and fluoroscopy. Requirements vary with beam energy, workload, garment type, and local regulation.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One millimetre is heavier than the common apron standard and is not usually required for routine wear.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: One millimetre is heavier than the common apron standard and is not usually required for routine wear."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One millimetre is heavier than the common apron standard and is not usually required for routine wear.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One millimetre is heavier than the common apron standard and is not usually required for routine wear.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "One millimetre is heavier than the common apron standard and is not usually required for routine wear."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Three millimetres would be impractically heavy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Three millimetres would be impractically heavy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Three millimetres would be impractically heavy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Three millimetres would be impractically heavy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Three millimetres would be impractically heavy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Protective aprons used for diagnostic radiology and fluoroscopy commonly provide 0.5 mm lead-equivalent attenuation, subject to local standards and workload.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Protective aprons used for diagnostic radiology and fluoroscopy commonly provide 0.5 mm lead-equivalent attenuation, subject to local standards and workload."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Protective aprons used for diagnostic radiology and fluoroscopy commonly provide 0.5 mm lead-equivalent attenuation, subject to local standards and workload.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Protective aprons used for diagnostic radiology and fluoroscopy commonly provide 0.5 mm lead-equivalent attenuation, subject to local standards and workload.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Protective aprons used for diagnostic radiology and fluoroscopy commonly provide 0.5 mm lead-equivalent attenuation, subject to local standards and workload."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Seven millimetres is far beyond wearable diagnostic protection.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Seven millimetres is far beyond wearable diagnostic protection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seven millimetres is far beyond wearable diagnostic protection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seven millimetres is far beyond wearable diagnostic protection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Seven millimetres is far beyond wearable diagnostic protection."
+            }
+          }
+        }
+      },
+      "memoryHook": "Lead apron: half a millimetre equivalent.",
+      "examPearl": "Distance and shielding complement time reduction; never rely on an apron to compensate for unnecessary exposure.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. 0.5 mm",
+        "auditedAnswer": "C. 0.5 mm",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 356,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    }
+  ]
+}

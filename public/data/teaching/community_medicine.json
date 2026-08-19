@@ -1,0 +1,3226 @@
+{
+  "questions": [
+    {
+      "questionId": "q122",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Proportional mortality is the proportion of all deaths in a defined period that are due to a particular cause: deaths from that cause divided by total deaths from all causes, multiplied by 100. Option A names the numerator but is incompletely worded.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Proportional mortality is deaths from a specified cause divided by deaths from all causes in the same population and period, multiplied by 100.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Proportional mortality is deaths from a specified cause divided by deaths from all causes in the same population and period, multiplied by 100."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Proportional mortality is deaths from a specified cause divided by deaths from all causes in the same population and period, multiplied by 100.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Proportional mortality is deaths from a specified cause divided by deaths from all causes in the same population and period, multiplied by 100.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Proportional mortality is deaths from a specified cause divided by deaths from all causes in the same population and period, multiplied by 100."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Total deaths during the year are the denominator, not the whole measure.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Total deaths during the year are the denominator, not the whole measure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Total deaths during the year are the denominator, not the whole measure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Total deaths during the year are the denominator, not the whole measure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Total deaths during the year are the denominator, not the whole measure."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A month can be the chosen period, but merely counting monthly deaths does not define proportional mortality.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A month can be the chosen period, but merely counting monthly deaths does not define proportional mortality."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A month can be the chosen period, but merely counting monthly deaths does not define proportional mortality.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A month can be the chosen period, but merely counting monthly deaths does not define proportional mortality.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A month can be the chosen period, but merely counting monthly deaths does not define proportional mortality."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A is the intended answer once completed as a ratio.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A is the intended answer once completed as a ratio."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Proportional mortality asks: among all who died, what share died from this cause?",
+      "examPearl": "It is not a mortality rate because the denominator is deaths, not the population at risk.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Number of death due to a particular cause",
+        "auditedAnswer": "A. Number of death due to a particular cause",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 122,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2012,
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q142",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "India launched measles-rubella vaccination campaigns beginning in 2017, targeting children from 9 months to under 15 years irrespective of prior vaccination in campaign areas. Therefore the statement that India had not launched the campaign is false.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "India's measles-rubella catch-up campaign targeted children aged 9 months to under 15 years in campaign areas, irrespective of prior vaccination.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: India's measles-rubella catch-up campaign targeted children aged 9 months to under 15 years in campaign areas, irrespective of prior vaccination."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: India's measles-rubella catch-up campaign targeted children aged 9 months to under 15 years in campaign areas, irrespective of prior vaccination.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? India's measles-rubella catch-up campaign targeted children aged 9 months to under 15 years in campaign areas, irrespective of prior vaccination.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "India's measles-rubella catch-up campaign targeted children aged 9 months to under 15 years in campaign areas, irrespective of prior vaccination."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Maternal rubella infection can cause congenital rubella syndrome with hearing, eye, cardiac, and developmental defects.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Maternal rubella infection can cause congenital rubella syndrome with hearing, eye, cardiac, and developmental defects."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Maternal rubella infection can cause congenital rubella syndrome with hearing, eye, cardiac, and developmental defects.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Maternal rubella infection can cause congenital rubella syndrome with hearing, eye, cardiac, and developmental defects.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Maternal rubella infection can cause congenital rubella syndrome with hearing, eye, cardiac, and developmental defects."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "False and therefore the answer. India did launch the MR campaign.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: India did launch the MR campaign."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: India did launch the MR campaign.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? India did launch the MR campaign.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "India did launch the MR campaign."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Broadly true in the intended programme context: MR vaccine replaced measles-only vaccine in the routine schedule, but a campaign dose does not erase the need to follow the routine schedule.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Broadly true in the intended programme context: MR vaccine replaced measles-only vaccine in the routine schedule, but a campaign dose does not erase the need to follow the routine schedule."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Broadly true in the intended programme context: MR vaccine replaced measles-only vaccine in the routine schedule, but a campaign dose does not erase the need to follow the routine schedule.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Broadly true in the intended programme context: MR vaccine replaced measles-only vaccine in the routine schedule, but a campaign dose does not erase the need to follow the routine schedule.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Broadly true in the intended programme context: MR vaccine replaced measles-only vaccine in the routine schedule, but a campaign dose does not erase the need to follow the routine schedule."
+            }
+          }
+        }
+      },
+      "memoryHook": "MR protects the child from measles and the future foetus from rubella.",
+      "examPearl": "Campaign eligibility and routine immunisation schedules are different concepts; follow current national guidance.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. India has not yet launched this campaign",
+        "auditedAnswer": "C. India has not yet launched this campaign",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 142,
+        "sourcePdfPage": 27,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q182",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "BCG, measles-containing vaccine, and diphtheria-containing vaccine are core Mission Indradhanush antigens. Official programme descriptions also include Japanese encephalitis vaccine in selected endemic districts. Therefore no listed vaccine is universally 'not included' under the programme as implemented.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "BCG for tuberculosis is a core vaccine in the programme.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: BCG for tuberculosis is a core vaccine in the programme."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: BCG for tuberculosis is a core vaccine in the programme.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? BCG for tuberculosis is a core vaccine in the programme.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "BCG for tuberculosis is a core vaccine in the programme."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Measles or measles-rubella vaccine is included.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Measles or measles-rubella vaccine is included."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Measles or measles-rubella vaccine is included.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice or measles-rubella vaccine is included.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Measles or measles-rubella vaccine is included."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Japanese encephalitis vaccine is included in Mission Indradhanush in selected endemic districts. It could be excluded only if a revised stem explicitly asked for a vaccine offered universally rather than regionally.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It could be excluded only if a revised stem explicitly asked for a vaccine offered universally rather than regionally."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It could be excluded only if a revised stem explicitly asked for a vaccine offered universally rather than regionally.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It could be excluded only if a revised stem explicitly asked for a vaccine offered universally rather than regionally.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "It could be excluded only if a revised stem explicitly asked for a vaccine offered universally rather than regionally."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Diphtheria protection through pentavalent, DPT, or Td-containing schedules is central to the programme.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Diphtheria protection through pentavalent, DPT, or Td-containing schedules is central to the programme."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Diphtheria protection through pentavalent, DPT, or Td-containing schedules is central to the programme.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice protection through pentavalent, DPT, or Td-containing schedules is central to the programme.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Diphtheria protection through pentavalent, DPT, or Td-containing schedules is central to the programme."
+            }
+          }
+        }
+      },
+      "memoryHook": "Indradhanush closes immunisation gaps; JE is included where the geography requires it.",
+      "examPearl": "Programme antigen lists evolve. For a current exam, use the latest Ministry of Health schedule and note 'selected districts' qualifiers.",
+      "audit": {
+        "status": "outdated",
+        "displayLabel": "Outdated",
+        "sourceKey": "C. Japanese Encephalitis",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 182,
+        "sourcePdfPage": 34,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q188",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Cytotoxic and expired drugs should be returned through an authorised system or destroyed by validated high-temperature hazardous-waste incineration, with encapsulation or other approved methods where specified. Ordinary landfill is unsafe. 'Burning' is the closest option only if it means controlled high-temperature incineration.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Open dumping exposes workers, scavengers, soil, and water and is unacceptable.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Open dumping exposes workers, scavengers, soil, and water and is unacceptable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Open dumping exposes workers, scavengers, soil, and water and is unacceptable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Open dumping exposes workers, scavengers, soil, and water and is unacceptable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Open dumping exposes workers, scavengers, soil, and water and is unacceptable."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Autoclaving decontaminates infectious waste but does not reliably destroy cytotoxic chemical compounds.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Autoclaving decontaminates infectious waste but does not reliably destroy cytotoxic chemical compounds."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Autoclaving decontaminates infectious waste but does not reliably destroy cytotoxic chemical compounds.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Autoclaving decontaminates infectious waste but does not reliably destroy cytotoxic chemical compounds.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Autoclaving decontaminates infectious waste but does not reliably destroy cytotoxic chemical compounds."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ordinary landfill is not appropriate for unprocessed cytotoxic waste; this source answer is outdated or wrong.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Ordinary landfill is not appropriate for unprocessed cytotoxic waste; this source answer is outdated or wrong."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ordinary landfill is not appropriate for unprocessed cytotoxic waste; this source answer is outdated or wrong.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ordinary landfill is not appropriate for unprocessed cytotoxic waste; this source answer is outdated or wrong.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ordinary landfill is not appropriate for unprocessed cytotoxic waste; this source answer is outdated or wrong."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Corrected closest answer when interpreted as authorised high-temperature incineration, not open burning.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Corrected closest answer when interpreted as authorised high-temperature incineration, not open burning."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Corrected closest answer when interpreted as authorised high-temperature incineration, not open burning.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Corrected closest answer when interpreted as authorised high-temperature incineration, not open burning.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Corrected closest answer when interpreted as authorised high-temperature incineration, not open burning."
+            }
+          }
+        }
+      },
+      "memoryHook": "Cytotoxic chemicals need return or high-temperature destruction, never ordinary dumping.",
+      "examPearl": "Follow current national biomedical-waste rules and authorised facility procedures because disposal categories are jurisdiction-specific.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Landfill",
+        "auditedAnswer": "D. Burning",
+        "sourceKeyChanged": true,
+        "note": "Burning is acceptable only when interpreted as authorised high-temperature hazardous-waste incineration, never open burning; exclude from scored GTs.",
+        "sourceStatus": "key_corrected",
+        "issueFlags": [
+          "unsafe_imprecise_disposal_term"
+        ]
+      },
+      "source": {
+        "bookQuestionNumber": 188,
+        "sourcePdfPage": 35,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q191",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Holder, or low-temperature long-time, pasteurisation uses about 63 degrees C for 30 minutes. High-temperature short-time pasteurisation uses about 72 degrees C for 15 seconds.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Seventy-three degrees for 20 minutes is far longer than standard HTST and would impair product quality.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Seventy-three degrees for 20 minutes is far longer than standard HTST and would impair product quality."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seventy-three degrees for 20 minutes is far longer than standard HTST and would impair product quality.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seventy-three degrees for 20 minutes is far longer than standard HTST and would impair product quality.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Seventy-three degrees for 20 minutes is far longer than standard HTST and would impair product quality."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The Holder method of pasteurisation heats milk to 63 °C for 30 minutes before rapid cooling.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The Holder method of pasteurisation heats milk to 63 °C for 30 minutes before rapid cooling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The Holder method of pasteurisation heats milk to 63 °C for 30 minutes before rapid cooling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The Holder method of pasteurisation heats milk to 63 °C for 30 minutes before rapid cooling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The Holder method of pasteurisation heats milk to 63 °C for 30 minutes before rapid cooling."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The temperature is close to HTST but the standard duration is 15 seconds, not 30 seconds.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The temperature is close to HTST but the standard duration is 15 seconds, not 30 seconds."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The temperature is close to HTST but the standard duration is 15 seconds, not 30 seconds.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The temperature is close to HTST but the standard duration is 15 seconds, not 30 seconds.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The temperature is close to HTST but the standard duration is 15 seconds, not 30 seconds."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sixty-three degrees for 30 seconds is too brief for the Holder method.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sixty-three degrees for 30 seconds is too brief for the Holder method."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sixty-three degrees for 30 seconds is too brief for the Holder method.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sixty-three degrees for 30 seconds is too brief for the Holder method.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Sixty-three degrees for 30 seconds is too brief for the Holder method."
+            }
+          }
+        }
+      },
+      "memoryHook": "Holder holds 63 for 30 minutes; flash is 72 for 15 seconds.",
+      "examPearl": "Pasteurisation reduces pathogens but does not sterilise milk.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 63 oC For 30 min",
+        "auditedAnswer": "B. 63 oC For 30 min",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 191,
+        "sourcePdfPage": 36,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q210",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Pearl index equals accidental pregnancies x 1,200 divided by total woman-months of exposure. Here 10 x 1,200 divided by 100 x 24 equals 5 pregnancies per 100 woman-years.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ten is the raw number of pregnancies, not adjusted for 24 months of exposure.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Ten is the raw number of pregnancies, not adjusted for 24 months of exposure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ten is the raw number of pregnancies, not adjusted for 24 months of exposure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ten is the raw number of pregnancies, not adjusted for 24 months of exposure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ten is the raw number of pregnancies, not adjusted for 24 months of exposure."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The two-year follow-up converts 100 women into 200 woman-years.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The two-year follow-up converts 100 women into 200 woman-years."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The two-year follow-up converts 100 women into 200 woman-years.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The two-year follow-up converts 100 women into 200 woman-years.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The two-year follow-up converts 100 women into 200 woman-years."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Four would result from an incorrect denominator or time conversion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Four would result from an incorrect denominator or time conversion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four would result from an incorrect denominator or time conversion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four would result from an incorrect denominator or time conversion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Four would result from an incorrect denominator or time conversion."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two substantially underestimates the observed failure rate.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Two substantially underestimates the observed failure rate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two substantially underestimates the observed failure rate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two substantially underestimates the observed failure rate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Two substantially underestimates the observed failure rate."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pearl per 100 woman-years: pregnancies times 1,200 over woman-months.",
+      "examPearl": "Life-table methods handle changing follow-up and discontinuation better than the simple Pearl index.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 5",
+        "auditedAnswer": "B. 5",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 210,
+        "sourcePdfPage": 39,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q228",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "WHO recommends about 250 micrograms of iodine per day during pregnancy and lactation to support maternal thyroid hormone production and iodine transfer in breast milk. National recommendations may express intake through iodised salt or supplements.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "150 micrograms per day is the typical adult nonpregnant requirement.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 150 micrograms per day is the typical adult nonpregnant requirement."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 150 micrograms per day is the typical adult nonpregnant requirement.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 150 micrograms per day is the typical adult nonpregnant requirement.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "150 micrograms per day is the typical adult nonpregnant requirement."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "220 micrograms appears in some national pregnancy recommendations but is below the WHO lactation value asked here.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: 220 micrograms appears in some national pregnancy recommendations but is below the WHO lactation value asked here."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 220 micrograms appears in some national pregnancy recommendations but is below the WHO lactation value asked here.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 220 micrograms appears in some national pregnancy recommendations but is below the WHO lactation value asked here.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "220 micrograms appears in some national pregnancy recommendations but is below the WHO lactation value asked here."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "100 micrograms is inadequate for the increased demand.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 100 micrograms is inadequate for the increased demand."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 100 micrograms is inadequate for the increased demand.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 100 micrograms is inadequate for the increased demand.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "100 micrograms is inadequate for the increased demand."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "WHO recommends an iodine intake of about 250 micrograms per day during lactation to support maternal thyroid function and iodine transfer in breast milk.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: WHO recommends an iodine intake of about 250 micrograms per day during lactation to support maternal thyroid function and iodine transfer in breast milk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: WHO recommends an iodine intake of about 250 micrograms per day during lactation to support maternal thyroid function and iodine transfer in breast milk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? WHO recommends an iodine intake of about 250 micrograms per day during lactation to support maternal thyroid function and iodine transfer in breast milk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "WHO recommends an iodine intake of about 250 micrograms per day during lactation to support maternal thyroid function and iodine transfer in breast milk."
+            }
+          }
+        }
+      },
+      "memoryHook": "Adult 150; pregnancy and lactation 250 by WHO.",
+      "examPearl": "Both deficiency and excessive iodine can disturb thyroid function, so use recommended rather than megadose supplementation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. 250",
+        "auditedAnswer": "D. 250",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 228,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q263",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Current HDI combines life expectancy, education, and gross national income per capita. Education is measured through expected years of schooling and mean years of schooling, not adult literacy rate as a direct component.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Longevity is represented by life expectancy at birth.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Longevity is represented by life expectancy at birth."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Longevity is represented by life expectancy at birth.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is represented by life expectancy at birth.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Longevity is represented by life expectancy at birth."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Knowledge or education is a core dimension.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Knowledge or education is a core dimension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Knowledge or education is a core dimension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice or education is a core dimension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Knowledge or education is a core dimension."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Income is represented by GNI per capita adjusted for purchasing power and transformed logarithmically.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Income is represented by GNI per capita adjusted for purchasing power and transformed logarithmically."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Income is represented by GNI per capita adjusted for purchasing power and transformed logarithmically.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is represented by GNI per capita adjusted for purchasing power and transformed logarithmically.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Income is represented by GNI per capita adjusted for purchasing power and transformed logarithmically."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception in the current formula. Adult literacy was used in older education indices but is not the present direct measure.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Adult literacy was used in older education indices but is not the present direct measure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adult literacy was used in older education indices but is not the present direct measure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Adult literacy was used in older education indices but is not the present direct measure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Adult literacy was used in older education indices but is not the present direct measure."
+            }
+          }
+        }
+      },
+      "memoryHook": "HDI: health, education, income.",
+      "examPearl": "Always distinguish current HDI from older versions and from the inequality-adjusted HDI.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Literacy rate",
+        "auditedAnswer": "D. Literacy rate",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 263,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q265",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "India's classic kala-azar endemic belt has centred on Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh. Assam is not part of the conventional four-state elimination focus and is the intended exception, though sporadic cases and geography can change.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "West Bengal has historically had endemic districts.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: West Bengal has historically had endemic districts."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: West Bengal has historically had endemic districts.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has historically had endemic districts.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "West Bengal has historically had endemic districts."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eastern Uttar Pradesh has been included in the endemic belt.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Eastern Uttar Pradesh has been included in the endemic belt."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eastern Uttar Pradesh has been included in the endemic belt.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eastern Uttar Pradesh has been included in the endemic belt.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Eastern Uttar Pradesh has been included in the endemic belt."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bihar has carried the largest historical burden.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bihar has carried the largest historical burden."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bihar has carried the largest historical burden.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has carried the largest historical burden.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Bihar has carried the largest historical burden."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Assam lies outside the conventional four-state kala-azar elimination focus of Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh. This is a historical programme convention rather than a claim that Assam can never report cases.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Assam lies outside the conventional four-state kala-azar elimination focus of Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Assam lies outside the conventional four-state kala-azar elimination focus of Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lies outside the conventional four-state kala-azar elimination focus of Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Assam lies outside the conventional four-state kala-azar elimination focus of Bihar, Jharkhand, West Bengal, and eastern Uttar Pradesh."
+            }
+          }
+        }
+      },
+      "memoryHook": "Kala-azar belt: Bihar first, with Jharkhand, West Bengal, and eastern UP.",
+      "examPearl": "For current programme questions, use the latest surveillance map rather than assuming historical endemicity is fixed.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "D. Assam",
+        "auditedAnswer": "D. Assam",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 265,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q276",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "The contraction phase of the family life cycle begins when the first child leaves the parental home. Family size and daily child-rearing roles then progressively contract until the couple's later-life stages.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Marriage begins the formation stage.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Marriage begins the formation stage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Marriage begins the formation stage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice begins the formation stage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Marriage begins the formation stage."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Birth of the first child begins or advances the extension phase.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Birth of the first child begins or advances the extension phase."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Birth of the first child begins or advances the extension phase.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Birth of the first child begins or advances the extension phase.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Birth of the first child begins or advances the extension phase."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Birth of the last child completes family extension but does not begin contraction.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Birth of the last child completes family extension but does not begin contraction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Birth of the last child completes family extension but does not begin contraction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Birth of the last child completes family extension but does not begin contraction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Birth of the last child completes family extension but does not begin contraction."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Departure of the first child marks the launching or contraction stage.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Departure of the first child marks the launching or contraction stage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Departure of the first child marks the launching or contraction stage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Departure of the first child marks the launching or contraction stage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Departure of the first child marks the launching or contraction stage."
+            }
+          }
+        }
+      },
+      "memoryHook": "Family extends when children arrive and contracts when the first leaves.",
+      "examPearl": "Terminology differs across family-life-cycle models, but the direction of household expansion and contraction is consistent.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Leaving home of first child",
+        "auditedAnswer": "D. Leaving home of first child",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 276,
+        "sourcePdfPage": 51,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q305",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "The item has no secure single answer. Standard epidemiology classifications include short-range droplet spread, sexual contact, transplacental spread, and direct contact with contaminated soil under direct transmission. The word 'respiratory' is also too broad because it may mean direct droplet or indirect airborne spread.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Transplacental vertical spread is direct transmission from mother to foetus.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Transplacental vertical spread is direct transmission from mother to foetus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Transplacental vertical spread is direct transmission from mother to foetus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Transplacental vertical spread is direct transmission from mother to foetus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Transplacental vertical spread is direct transmission from mother to foetus."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Direct contact with contaminated soil is classified as direct transmission in a standard epidemiologic taxonomy. Soil is therefore not a secure exception in this stem.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Direct contact with contaminated soil is classified as direct transmission in a standard epidemiologic taxonomy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Direct contact with contaminated soil is classified as direct transmission in a standard epidemiologic taxonomy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Direct contact with contaminated soil is classified as direct transmission in a standard epidemiologic taxonomy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Direct contact with contaminated soil is classified as direct transmission in a standard epidemiologic taxonomy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "If 'respiratory' means short-range droplet spread, it is direct. Airborne droplet nuclei over distance would be indirect, which shows why the wording is imprecise.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Airborne droplet nuclei over distance would be indirect, which shows why the wording is imprecise."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Airborne droplet nuclei over distance would be indirect, which shows why the wording is imprecise.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Airborne droplet nuclei over distance would be indirect, which shows why the wording is imprecise.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Airborne droplet nuclei over distance would be indirect, which shows why the wording is imprecise."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sexually transmitted infections spread by direct contact.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sexually transmitted infections spread by direct contact."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sexually transmitted infections spread by direct contact.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sexually transmitted infections spread by direct contact.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Sexually transmitted infections spread by direct contact."
+            }
+          }
+        }
+      },
+      "memoryHook": "Direct means person-to-person contact, droplets, inoculation, or placenta; vehicles such as soil are indirect.",
+      "examPearl": "The source key C confuses droplet with airborne transmission.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Respiratory",
+        "auditedAnswer": "B. Soil",
+        "sourceKeyChanged": true,
+        "note": "Authoritative transmission taxonomies make soil contact direct and distinguish droplet from airborne spread; no listed option is uniquely valid as written.",
+        "sourceStatus": "key_corrected",
+        "issueFlags": [
+          "classification_dependent_routes",
+          "imprecise_respiratory_label"
+        ]
+      },
+      "source": {
+        "bookQuestionNumber": 305,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q306",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Natural history requires observing disease evolution over time from exposure or preclinical stage to outcomes, so longitudinal follow-up is the appropriate study design.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Cohort studies can measure incidence, temporal sequence, prognosis, and multiple outcomes.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Cohort studies can measure incidence, temporal sequence, prognosis, and multiple outcomes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cohort studies can measure incidence, temporal sequence, prognosis, and multiple outcomes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cohort studies can measure incidence, temporal sequence, prognosis, and multiple outcomes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Cohort studies can measure incidence, temporal sequence, prognosis, and multiple outcomes."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cross-sectional studies provide a snapshot and estimate prevalence but cannot directly show individual progression over time.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cross-sectional studies provide a snapshot and estimate prevalence but cannot directly show individual progression over time."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cross-sectional studies provide a snapshot and estimate prevalence but cannot directly show individual progression over time.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice provide a snapshot and estimate prevalence but cannot directly show individual progression over time.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cross-sectional studies provide a snapshot and estimate prevalence but cannot directly show individual progression over time."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cross-sectional data can describe stages in a population but do not replace longitudinal natural-history observation.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Cross-sectional data can describe stages in a population but do not replace longitudinal natural-history observation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cross-sectional data can describe stages in a population but do not replace longitudinal natural-history observation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cross-sectional data can describe stages in a population but do not replace longitudinal natural-history observation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Cross-sectional data can describe stages in a population but do not replace longitudinal natural-history observation."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A suitable design is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A suitable design is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "History needs time, so follow people longitudinally.",
+      "examPearl": "Untreated natural history may now be ethically impossible to observe for diseases with effective therapy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Longitudinal studies",
+        "auditedAnswer": "A. Longitudinal studies",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 306,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q307",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Relative risk is incidence among exposed divided by incidence among unexposed. It measures the strength of association in cohort studies and trials.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. RR of 1 means no association, above 1 possible harm, below 1 possible protection.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: RR of 1 means no association, above 1 possible harm, below 1 possible protection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: RR of 1 means no association, above 1 possible harm, below 1 possible protection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? RR of 1 means no association, above 1 possible harm, below 1 possible protection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "RR of 1 means no association, above 1 possible harm, below 1 possible protection."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Odds ratio compares odds and is commonly used in case-control studies; it approximates RR when the outcome is rare.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Odds ratio compares odds and is commonly used in case-control studies; it approximates RR when the outcome is rare."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Odds ratio compares odds and is commonly used in case-control studies; it approximates RR when the outcome is rare.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice compares odds and is commonly used in case-control studies; it approximates RR when the outcome is rare.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Odds ratio compares odds and is commonly used in case-control studies; it approximates RR when the outcome is rare."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Attributable risk is incidence exposed minus incidence unexposed and measures excess absolute risk.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Attributable risk is incidence exposed minus incidence unexposed and measures excess absolute risk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Attributable risk is incidence exposed minus incidence unexposed and measures excess absolute risk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is incidence exposed minus incidence unexposed and measures excess absolute risk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Attributable risk is incidence exposed minus incidence unexposed and measures excess absolute risk."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The defined ratio is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The defined ratio is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Relative divides risks; attributable subtracts risks.",
+      "examPearl": "Always pair relative measures with absolute risk for clinical interpretation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Relative risk",
+        "auditedAnswer": "A. Relative risk",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 307,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q308",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Secondary attack rate is the proportion of susceptible contacts who develop disease within one incubation period after exposure to primary cases. It measures transmissibility in households or other closed groups.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Exclude primary cases from numerator and denominator.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Exclude primary cases from numerator and denominator."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exclude primary cases from numerator and denominator.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exclude primary cases from numerator and denominator.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Exclude primary cases from numerator and denominator."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Case fatality is deaths among diagnosed cases and measures severity.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Case fatality is deaths among diagnosed cases and measures severity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Case fatality is deaths among diagnosed cases and measures severity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Case fatality is deaths among diagnosed cases and measures severity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Case fatality is deaths among diagnosed cases and measures severity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Primary attack rate describes cases arising from the initial common exposure.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Primary attack rate describes cases arising from the initial common exposure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Primary attack rate describes cases arising from the initial common exposure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice describes cases arising from the initial common exposure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Primary attack rate describes cases arising from the initial common exposure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tertiary attack rate is not the standard measure defined here.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tertiary attack rate is not the standard measure defined here."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tertiary attack rate is not the standard measure defined here.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the standard measure defined here.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Tertiary attack rate is not the standard measure defined here."
+            }
+          }
+        }
+      },
+      "memoryHook": "Secondary cases follow the primary case among susceptible contacts.",
+      "examPearl": "The denominator should exclude immune or otherwise nonsusceptible contacts where known.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Secondary attack rate",
+        "auditedAnswer": "A. Secondary attack rate",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 308,
+        "sourcePdfPage": 56,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q309",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The Pearl index reports contraceptive failures per 100 woman-years of exposure. It can be calculated using woman-months or cycles with the appropriate conversion factor.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A Pearl index of 2 means about two pregnancies per 100 woman-years under the observed-use conditions.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A Pearl index of 2 means about two pregnancies per 100 woman-years under the observed-use conditions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A Pearl index of 2 means about two pregnancies per 100 woman-years under the observed-use conditions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A Pearl index of 2 means about two pregnancies per 100 woman-years under the observed-use conditions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A Pearl index of 2 means about two pregnancies per 100 woman-years under the observed-use conditions."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ten woman-years is not the standard reporting denominator.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ten woman-years is not the standard reporting denominator."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ten woman-years is not the standard reporting denominator.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ten woman-years is not the standard reporting denominator.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Ten woman-years is not the standard reporting denominator."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One thousand woman-years may be used in other incidence reporting but not the Pearl index convention.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: One thousand woman-years may be used in other incidence reporting but not the Pearl index convention."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One thousand woman-years may be used in other incidence reporting but not the Pearl index convention.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One thousand woman-years may be used in other incidence reporting but not the Pearl index convention.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "One thousand woman-years may be used in other incidence reporting but not the Pearl index convention."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fifty woman-years is not standard.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fifty woman-years is not standard."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fifty woman-years is not standard.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fifty woman-years is not standard.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Fifty woman-years is not standard."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pearl equals pregnancies per 100 woman-years.",
+      "examPearl": "Typical-use and perfect-use failure rates differ because adherence and discontinuation matter.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Per 100 woman years",
+        "auditedAnswer": "A. Per 100 woman years",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 309,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q310",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Water hardness is caused by dissolved calcium and magnesium salts. Bicarbonates cause temporary hardness and sulfates or chlorides cause permanent hardness; insoluble calcium carbonate itself does not remain dissolved to cause hardness.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Calcium carbonate precipitate is expressed as an equivalent unit but is not the usual dissolved causative salt.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Calcium carbonate precipitate is expressed as an equivalent unit but is not the usual dissolved causative salt."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Calcium carbonate precipitate is expressed as an equivalent unit but is not the usual dissolved causative salt.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice precipitate is expressed as an equivalent unit but is not the usual dissolved causative salt.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Calcium carbonate precipitate is expressed as an equivalent unit but is not the usual dissolved causative salt."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Calcium sulfate causes permanent hardness.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Calcium sulfate causes permanent hardness."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Calcium sulfate causes permanent hardness.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Calcium sulfate causes permanent hardness.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Calcium sulfate causes permanent hardness."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Calcium bicarbonate causes temporary hardness removable by boiling.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Calcium bicarbonate causes temporary hardness removable by boiling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Calcium bicarbonate causes temporary hardness removable by boiling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes temporary hardness removable by boiling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Calcium bicarbonate causes temporary hardness removable by boiling."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Magnesium bicarbonate also causes temporary hardness.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Magnesium bicarbonate also causes temporary hardness."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Magnesium bicarbonate also causes temporary hardness.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice also causes temporary hardness.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Magnesium bicarbonate also causes temporary hardness."
+            }
+          }
+        }
+      },
+      "memoryHook": "Bicarbonates boil away; sulfates and chlorides stay. Carbonate precipitate is not dissolved hardness.",
+      "examPearl": "Hardness impairs soap lathering but is not generally a direct health hazard.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Calcium carbonate",
+        "auditedAnswer": "A. Calcium carbonate",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 310,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q311",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Berkson bias is selection bias in hospital-based case-control studies. Admission probabilities can differ according to both exposure and disease, creating a spurious association.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The sampled hospital controls may not represent exposure distribution in the source population.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The sampled hospital controls may not represent exposure distribution in the source population."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The sampled hospital controls may not represent exposure distribution in the source population.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The sampled hospital controls may not represent exposure distribution in the source population.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The sampled hospital controls may not represent exposure distribution in the source population."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Interviewer bias is systematic influence from how questions are asked or recorded.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Interviewer bias is systematic influence from how questions are asked or recorded."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Interviewer bias is systematic influence from how questions are asked or recorded.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Interviewer bias is systematic influence from how questions are asked or recorded.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Interviewer bias is systematic influence from how questions are asked or recorded."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Information bias is a broader category of measurement error, not the classification of Berkson bias.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Information bias is a broader category of measurement error, not the classification of Berkson bias."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Information bias is a broader category of measurement error, not the classification of Berkson bias.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a broader category of measurement error, not the classification of Berkson bias.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Information bias is a broader category of measurement error, not the classification of Berkson bias."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Recall bias occurs when cases and controls remember past exposures differently.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Recall bias occurs when cases and controls remember past exposures differently."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Recall bias occurs when cases and controls remember past exposures differently.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Recall bias occurs when cases and controls remember past exposures differently.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Recall bias occurs when cases and controls remember past exposures differently."
+            }
+          }
+        }
+      },
+      "memoryHook": "Berkson is biased hospital selection.",
+      "examPearl": "Choose population-based controls representing the population that produced the cases.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Selection bias",
+        "auditedAnswer": "A. Selection bias",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 311,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q312",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Randomisation assigns participants to groups by chance, reducing systematic selection differences and tending to balance known and unknown confounders. Allocation concealment prevents foreknowledge from undermining that process.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Recall bias is reduced through better measurement and prospective data collection, not randomisation alone.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Recall bias is reduced through better measurement and prospective data collection, not randomisation alone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Recall bias is reduced through better measurement and prospective data collection, not randomisation alone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is reduced through better measurement and prospective data collection, not randomisation alone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Recall bias is reduced through better measurement and prospective data collection, not randomisation alone."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct best option. Random assignment reduces selection bias in treatment allocation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Random assignment reduces selection bias in treatment allocation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Random assignment reduces selection bias in treatment allocation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Random assignment reduces selection bias in treatment allocation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Random assignment reduces selection bias in treatment allocation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Berkson bias is a hospital-sampling problem rather than the main purpose of trial randomisation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Berkson bias is a hospital-sampling problem rather than the main purpose of trial randomisation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Berkson bias is a hospital-sampling problem rather than the main purpose of trial randomisation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Berkson bias is a hospital-sampling problem rather than the main purpose of trial randomisation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Berkson bias is a hospital-sampling problem rather than the main purpose of trial randomisation."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Reporting bias requires registration, prespecified outcomes, and transparent reporting.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Reporting bias requires registration, prespecified outcomes, and transparent reporting."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Reporting bias requires registration, prespecified outcomes, and transparent reporting.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice requires registration, prespecified outcomes, and transparent reporting.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Reporting bias requires registration, prespecified outcomes, and transparent reporting."
+            }
+          }
+        }
+      },
+      "memoryHook": "Randomise to balance groups; conceal allocation to protect randomisation; blind to reduce measurement bias.",
+      "examPearl": "Randomisation does not guarantee perfect balance in a small trial, so baseline characteristics still need review.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Selection bias",
+        "auditedAnswer": "B. Selection bias",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 312,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q313",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "Sensitivity equals true positives divided by all people who truly have disease. The stem says 90 screened positive and 100 were gold-standard positive but never states how many of the 90 were among those 100. Without the overlap, true positives are unknown and sensitivity cannot be calculated.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "This is the intended answer only if all 90 screening positives were true positives, an assumption not supplied.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: This is the intended answer only if all 90 screening positives were true positives, an assumption not supplied."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This is the intended answer only if all 90 screening positives were true positives, an assumption not supplied.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This is the intended answer only if all 90 screening positives were true positives, an assumption not supplied.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "This is the intended answer only if all 90 screening positives were true positives, an assumption not supplied."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "The denominator 110 has no basis in the stated data.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The denominator 110 has no basis in the stated data."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The denominator 110 has no basis in the stated data.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The denominator 110 has no basis in the stated data.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The denominator 110 has no basis in the stated data."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Eighty true positives were not given.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Eighty true positives were not given."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eighty true positives were not given.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eighty true positives were not given.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Eighty true positives were not given."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Perfect sensitivity would require all 100 diseased people to screen positive, which contradicts the reported 90 total positives unless data are inconsistent.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Perfect sensitivity would require all 100 diseased people to screen positive, which contradicts the reported 90 total positives unless data are inconsistent."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Perfect sensitivity would require all 100 diseased people to screen positive, which contradicts the reported 90 total positives unless data are inconsistent.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Perfect sensitivity would require all 100 diseased people to screen positive, which contradicts the reported 90 total positives unless data are inconsistent.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Perfect sensitivity would require all 100 diseased people to screen positive, which contradicts the reported 90 total positives unless data are inconsistent."
+            }
+          }
+        }
+      },
+      "memoryHook": "Sensitivity needs the 2 by 2 table cell TP, not just the two marginal totals.",
+      "examPearl": "Correct written answer: insufficient information. Source-intended answer: A under an unstated nesting assumption.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "A. 90/100",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 313,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q314",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "In a stable population with a relatively uncommon disease and steady incidence, prevalence is approximately incidence multiplied by average duration. Four per 1,000 per year times two years gives eight per 1,000.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "For a rare disease in a steady population, prevalence is approximately incidence multiplied by average duration: 4 per 1,000 per year times 2 years equals 8 per 1,000.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: For a rare disease in a steady population, prevalence is approximately incidence multiplied by average duration: 4 per 1,000 per year times 2 years equals 8 per 1,000."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: For a rare disease in a steady population, prevalence is approximately incidence multiplied by average duration: 4 per 1,000 per year times 2 years equals 8 per 1,000.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? For a rare disease in a steady population, prevalence is approximately incidence multiplied by average duration: 4 per 1,000 per year times 2 years equals 8 per 1,000.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "For a rare disease in a steady population, prevalence is approximately incidence multiplied by average duration: 4 per 1,000 per year times 2 years equals 8 per 1,000."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Four per 1,000 ignores duration.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Four per 1,000 ignores duration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four per 1,000 ignores duration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four per 1,000 ignores duration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Four per 1,000 ignores duration."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two per 1,000 incorrectly divides incidence by duration.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Two per 1,000 incorrectly divides incidence by duration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two per 1,000 incorrectly divides incidence by duration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two per 1,000 incorrectly divides incidence by duration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Two per 1,000 incorrectly divides incidence by duration."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Six per 1,000 has no correct derivation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Six per 1,000 has no correct derivation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Six per 1,000 has no correct derivation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Six per 1,000 has no correct derivation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Six per 1,000 has no correct derivation."
+            }
+          }
+        }
+      },
+      "memoryHook": "P equals I times D.",
+      "examPearl": "The approximation fails when incidence, duration, migration, cure, or mortality changes rapidly.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. 8/1000",
+        "auditedAnswer": "A. 8/1000",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 314,
+        "sourcePdfPage": 57,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q315",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "An ecological study analyses groups or populations rather than individual people. Exposure and outcome measures might be compared across countries, states, districts, schools, or time periods.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct broad answer. Population-level data are the unit of analysis.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Population-level data are the unit of analysis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Population-level data are the unit of analysis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice-level data are the unit of analysis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Population-level data are the unit of analysis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An individual patient is the unit in individual-level observational studies, not an ecological design.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: An individual patient is the unit in individual-level observational studies, not an ecological design."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An individual patient is the unit in individual-level observational studies, not an ecological design.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An individual patient is the unit in individual-level observational studies, not an ecological design.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "An individual patient is the unit in individual-level observational studies, not an ecological design."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A community can be one type of population group, so this is conceptually close but less general than A.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A community can be one type of population group, so this is conceptually close but less general than A."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A community can be one type of population group, so this is conceptually close but less general than A.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A community can be one type of population group, so this is conceptually close but less general than A.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A community can be one type of population group, so this is conceptually close but less general than A."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A case is the unit in case reports, case series, or case-control sampling.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A case is the unit in case reports, case series, or case-control sampling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A case is the unit in case reports, case series, or case-control sampling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A case is the unit in case reports, case series, or case-control sampling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A case is the unit in case reports, case series, or case-control sampling."
+            }
+          }
+        }
+      },
+      "memoryHook": "Ecological equals group-level exposure and group-level outcome.",
+      "examPearl": "Ecological fallacy occurs when group associations are incorrectly applied to individuals.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Population",
+        "auditedAnswer": "A. Population",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 315,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q316",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Nikshay is India's digital platform for notification, case-based tracking, treatment support, and monitoring under the national tuberculosis programme. RNTCP is now the National Tuberculosis Elimination Programme.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Nikshay links public and private TB notification and programme workflows.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Nikshay links public and private TB notification and programme workflows."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nikshay links public and private TB notification and programme workflows.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice links public and private TB notification and programme workflows.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Nikshay links public and private TB notification and programme workflows."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Nichay is a misspelling and not the official platform name.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Nichay is a misspelling and not the official platform name."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nichay is a misspelling and not the official platform name.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a misspelling and not the official platform name.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Nichay is a misspelling and not the official platform name."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Electronic adherence technologies may support DOT, but E-DOTS is not the central programme software asked here.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Electronic adherence technologies may support DOT, but E-DOTS is not the central programme software asked here."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Electronic adherence technologies may support DOT, but E-DOTS is not the central programme software asked here.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Electronic adherence technologies may support DOT, but E-DOTS is not the central programme software asked here.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Electronic adherence technologies may support DOT, but E-DOTS is not the central programme software asked here."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Nirbhaya refers to other policy initiatives and not TB surveillance software.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Nirbhaya refers to other policy initiatives and not TB surveillance software."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nirbhaya refers to other policy initiatives and not TB surveillance software.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Nirbhaya refers to other policy initiatives and not TB surveillance software.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Nirbhaya refers to other policy initiatives and not TB surveillance software."
+            }
+          }
+        }
+      },
+      "memoryHook": "Nikshay tracks TB toward elimination.",
+      "examPearl": "Use current NTEP terminology in modern answers even if the stem says RNTCP.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. NIKSHAY",
+        "auditedAnswer": "A. NIKSHAY",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 316,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q317",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Generation time is the interval between acquisition of infection by a primary case and the point of maximum infectivity of that case. It relates to how quickly infection propagates through successive generations.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Generation time is the interval between acquisition of infection by a host and that host reaching maximum infectivity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Generation time is the interval between acquisition of infection by a host and that host reaching maximum infectivity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Generation time is the interval between acquisition of infection by a host and that host reaching maximum infectivity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the interval between acquisition of infection by a host and that host reaching maximum infectivity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Generation time is the interval between acquisition of infection by a host and that host reaching maximum infectivity."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Communicable period is the entire time during which an infected host can transmit the agent.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Communicable period is the entire time during which an infected host can transmit the agent."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Communicable period is the entire time during which an infected host can transmit the agent.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the entire time during which an infected host can transmit the agent.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Communicable period is the entire time during which an infected host can transmit the agent."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Incubation period runs from infection to symptom onset.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Incubation period runs from infection to symptom onset."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Incubation period runs from infection to symptom onset.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice runs from infection to symptom onset.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Incubation period runs from infection to symptom onset."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Serial interval is time between symptom onset in a primary case and symptom onset in a secondary case.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Serial interval is time between symptom onset in a primary case and symptom onset in a secondary case."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Serial interval is time between symptom onset in a primary case and symptom onset in a secondary case.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is time between symptom onset in a primary case and symptom onset in a secondary case.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Serial interval is time between symptom onset in a primary case and symptom onset in a secondary case."
+            }
+          }
+        }
+      },
+      "memoryHook": "Incubation to symptoms; generation to peak infectivity; serial interval from one onset to the next.",
+      "examPearl": "Generation intervals are often estimated rather than directly observed.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Generation time",
+        "auditedAnswer": "A. Generation time",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 317,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2012,
+          2025
+        ]
+      }
+    },
+    {
+      "questionId": "q318",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Pertussis is highly contagious, so the theoretical herd-immunity threshold is very high, often estimated around 92 to 94 percent depending on the assumed basic reproduction number. Ninety percent is the closest option.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eighty percent is usually too low for a highly transmissible infection.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Eighty percent is usually too low for a highly transmissible infection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eighty percent is usually too low for a highly transmissible infection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eighty percent is usually too low for a highly transmissible infection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Eighty percent is usually too low for a highly transmissible infection."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Seventy percent is substantially too low.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Seventy percent is substantially too low."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seventy percent is substantially too low.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seventy percent is substantially too low.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Seventy percent is substantially too low."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Pertussis is highly transmissible, giving a theoretical herd-immunity threshold above 90% in many estimates; 90% is the closest listed value.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Pertussis is highly transmissible, giving a theoretical herd-immunity threshold above 90% in many estimates; 90% is the closest listed value."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pertussis is highly transmissible, giving a theoretical herd-immunity threshold above 90% in many estimates; 90% is the closest listed value.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pertussis is highly transmissible, giving a theoretical herd-immunity threshold above 90% in many estimates; 90% is the closest listed value.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Pertussis is highly transmissible, giving a theoretical herd-immunity threshold above 90% in many estimates; 90% is the closest listed value."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fifty percent would allow sustained transmission.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fifty percent would allow sustained transmission."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fifty percent would allow sustained transmission.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fifty percent would allow sustained transmission.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Fifty percent would allow sustained transmission."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pertussis needs roughly nine of ten or more immune.",
+      "examPearl": "Real-world herd protection is complicated by waning immunity and vaccines that protect better against disease than against all transmission.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. 90%",
+        "auditedAnswer": "C. 90%",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 318,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q319",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "When chlorine dissolves in water, it forms hypochlorous acid, HOCl, and hypochlorite ion, OCl-. HOCl is the more active disinfecting species because it penetrates microbial membranes readily.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypochlorite ion is disinfectant but less potent than undissociated HOCl.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hypochlorite ion is disinfectant but less potent than undissociated HOCl."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypochlorite ion is disinfectant but less potent than undissociated HOCl.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is disinfectant but less potent than undissociated HOCl.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hypochlorite ion is disinfectant but less potent than undissociated HOCl."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hydrogen chloride is hydrochloric acid and is not the active free-chlorine species.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hydrogen chloride is hydrochloric acid and is not the active free-chlorine species."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hydrogen chloride is hydrochloric acid and is not the active free-chlorine species.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is hydrochloric acid and is not the active free-chlorine species.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Hydrogen chloride is hydrochloric acid and is not the active free-chlorine species."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Lower pH shifts equilibrium toward more active HOCl.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Lower pH shifts equilibrium toward more active HOCl."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lower pH shifts equilibrium toward more active HOCl.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Lower pH shifts equilibrium toward more active HOCl.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Lower pH shifts equilibrium toward more active HOCl."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Chloride ion is relatively inert as a disinfectant.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chloride ion is relatively inert as a disinfectant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chloride ion is relatively inert as a disinfectant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is relatively inert as a disinfectant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Chloride ion is relatively inert as a disinfectant."
+            }
+          }
+        }
+      },
+      "memoryHook": "HOCl is the active chlorine killer.",
+      "examPearl": "Turbidity, organic load, pH, contact time, and residual chlorine all affect disinfection.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Hypochlorous acid",
+        "auditedAnswer": "C. Hypochlorous acid",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 319,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q320",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Older Indian public-health teaching estimates that a couple protection rate around 60 percent is needed to achieve net reproduction rate of 1, meaning one daughter replaces one woman in the next generation.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fifty percent is below the traditional programme estimate.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fifty percent is below the traditional programme estimate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fifty percent is below the traditional programme estimate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fifty percent is below the traditional programme estimate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Fifty percent is below the traditional programme estimate."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Older Indian public-health teaching used a couple-protection rate near 60% as the programme estimate associated with a net reproduction rate of one.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Older Indian public-health teaching used a couple-protection rate near 60% as the programme estimate associated with a net reproduction rate of one."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Older Indian public-health teaching used a couple-protection rate near 60% as the programme estimate associated with a net reproduction rate of one.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Older Indian public-health teaching used a couple-protection rate near 60% as the programme estimate associated with a net reproduction rate of one.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Older Indian public-health teaching used a couple-protection rate near 60% as the programme estimate associated with a net reproduction rate of one."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fifty-five percent is close but not the memorised value.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Fifty-five percent is close but not the memorised value."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fifty-five percent is close but not the memorised value.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fifty-five percent is close but not the memorised value.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Fifty-five percent is close but not the memorised value."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Seventy-five percent is higher than the conventional threshold.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Seventy-five percent is higher than the conventional threshold."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seventy-five percent is higher than the conventional threshold.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seventy-five percent is higher than the conventional threshold.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Seventy-five percent is higher than the conventional threshold."
+            }
+          }
+        }
+      },
+      "memoryHook": "NRR one needs CPR about sixty in the old programme rule.",
+      "examPearl": "Actual replacement fertility depends on mortality, sex ratio, contraceptive mix, effectiveness, and demographic context.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "B. 60%",
+        "auditedAnswer": "B. 60%",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 320,
+        "sourcePdfPage": 58,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q321",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "In the old WHO clinical surveillance case definition, major signs included weight loss greater than 10 percent, chronic diarrhoea for more than one month, and prolonged fever. The framework predates modern HIV testing and should not be used for individual diagnosis today.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Weight loss greater than 10% was a major sign in the historical WHO clinical surveillance case definition for AIDS.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Weight loss greater than 10% was a major sign in the historical WHO clinical surveillance case definition for AIDS."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Weight loss greater than 10% was a major sign in the historical WHO clinical surveillance case definition for AIDS.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Weight loss greater than 10% was a major sign in the historical WHO clinical surveillance case definition for AIDS.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Weight loss greater than 10% was a major sign in the historical WHO clinical surveillance case definition for AIDS."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cough lasting over one month was a minor or supportive sign in older schemes, not the listed major answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cough lasting over one month was a minor or supportive sign in older schemes, not the listed major answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cough lasting over one month was a minor or supportive sign in older schemes, not the listed major answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cough lasting over one month was a minor or supportive sign in older schemes, not the listed major answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cough lasting over one month was a minor or supportive sign in older schemes, not the listed major answer."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Generalised lymphadenopathy was a minor sign.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Generalised lymphadenopathy was a minor sign."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Generalised lymphadenopathy was a minor sign.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Generalised lymphadenopathy was a minor sign.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Generalised lymphadenopathy was a minor sign."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Disseminated or recurrent severe herpes could support HIV disease but is not the asked major surveillance sign.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Disseminated or recurrent severe herpes could support HIV disease but is not the asked major surveillance sign."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Disseminated or recurrent severe herpes could support HIV disease but is not the asked major surveillance sign.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Disseminated or recurrent severe herpes could support HIV disease but is not the asked major surveillance sign.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Disseminated or recurrent severe herpes could support HIV disease but is not the asked major surveillance sign."
+            }
+          }
+        }
+      },
+      "memoryHook": "Old major AIDS surveillance signs: over 10 percent weight loss, chronic diarrhoea, prolonged fever.",
+      "examPearl": "Modern diagnosis uses validated HIV tests and current clinical or immunologic staging.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "A. > 10% weight loss",
+        "auditedAnswer": "A. > 10% weight loss",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 321,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q322",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Two injectable or intranasal live vaccines should be given on the same day or separated by at least four weeks to avoid immune interference. This rule does not apply identically to all oral live vaccines.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two weeks is too short if the vaccines were not simultaneous.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Two weeks is too short if the vaccines were not simultaneous."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two weeks is too short if the vaccines were not simultaneous.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two weeks is too short if the vaccines were not simultaneous.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Two weeks is too short if the vaccines were not simultaneous."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Two injectable or intranasal live vaccines not given on the same day should generally be separated by at least 4 weeks to avoid immune interference.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Two injectable or intranasal live vaccines not given on the same day should generally be separated by at least 4 weeks to avoid immune interference."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two injectable or intranasal live vaccines not given on the same day should generally be separated by at least 4 weeks to avoid immune interference.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two injectable or intranasal live vaccines not given on the same day should generally be separated by at least 4 weeks to avoid immune interference.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Two injectable or intranasal live vaccines not given on the same day should generally be separated by at least 4 weeks to avoid immune interference."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eight weeks is safe but longer than necessary.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Eight weeks is safe but longer than necessary."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eight weeks is safe but longer than necessary.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eight weeks is safe but longer than necessary.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Eight weeks is safe but longer than necessary."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Twelve weeks creates unnecessary delay.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Twelve weeks creates unnecessary delay."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Twelve weeks creates unnecessary delay.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Twelve weeks creates unnecessary delay.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Twelve weeks creates unnecessary delay."
+            }
+          }
+        }
+      },
+      "memoryHook": "Live together today, or live apart four weeks.",
+      "examPearl": "Inactivated vaccines can generally be given at any interval relative to other vaccines.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 4 weeks",
+        "auditedAnswer": "B. 4 weeks",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 322,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q345",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Acculturation is cultural and behavioural change resulting from sustained contact between people or groups with different cultures. It may involve adopting language, diet, beliefs, or practices while retaining or changing parts of the original culture.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Triage prioritises patients according to urgency and resource need.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Triage prioritises patients according to urgency and resource need."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Triage prioritises patients according to urgency and resource need.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Triage prioritises patients according to urgency and resource need.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Triage prioritises patients according to urgency and resource need."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Acculturation is cultural and behavioural change resulting from sustained contact between people or groups from different cultures.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Acculturation is cultural and behavioural change resulting from sustained contact between people or groups from different cultures."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Acculturation is cultural and behavioural change resulting from sustained contact between people or groups from different cultures.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Acculturation is cultural and behavioural change resulting from sustained contact between people or groups from different cultures.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Acculturation is cultural and behavioural change resulting from sustained contact between people or groups from different cultures."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Attitude is an individual's learned tendency to respond favourably or unfavourably, not the group-contact process.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Attitude is an individual's learned tendency to respond favourably or unfavourably, not the group-contact process."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Attitude is an individual's learned tendency to respond favourably or unfavourably, not the group-contact process.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an individual's learned tendency to respond favourably or unfavourably, not the group-contact process.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Attitude is an individual's learned tendency to respond favourably or unfavourably, not the group-contact process."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Belief is a held proposition or conviction and is only one possible element changed during acculturation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Belief is a held proposition or conviction and is only one possible element changed during acculturation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Belief is a held proposition or conviction and is only one possible element changed during acculturation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a held proposition or conviction and is only one possible element changed during acculturation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Belief is a held proposition or conviction and is only one possible element changed during acculturation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Acculturation is culture altered by contact.",
+      "examPearl": "It is not synonymous with complete assimilation; bicultural identities and selective adoption are common.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Cultural changes due to socialisation",
+        "auditedAnswer": "B. Cultural changes due to socialisation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 345,
+        "sourcePdfPage": 63,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q354",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Coliform count is classically estimated by the multiple-tube fermentation most probable number method or membrane filtration. The Eijkman test incubates at elevated temperature to identify faecal coliforms, especially E. coli. It is the only relevant listed test but does not by itself name the general counting method.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The Eijkman test detects thermotolerant faecal coliforms, especially Escherichia coli, by incubation at an elevated temperature.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The Eijkman test detects thermotolerant faecal coliforms, especially Escherichia coli, by incubation at an elevated temperature."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The Eijkman test detects thermotolerant faecal coliforms, especially Escherichia coli, by incubation at an elevated temperature.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The Eijkman test detects thermotolerant faecal coliforms, especially Escherichia coli, by incubation at an elevated temperature.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The Eijkman test detects thermotolerant faecal coliforms, especially Escherichia coli, by incubation at an elevated temperature."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Casoni intradermal test was a historical hydatid-disease test.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Casoni intradermal test was a historical hydatid-disease test."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Casoni intradermal test was a historical hydatid-disease test.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Casoni intradermal test was a historical hydatid-disease test.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Casoni intradermal test was a historical hydatid-disease test."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Nitrate testing assesses bacterial reduction or water chemistry, not standard coliform count.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Nitrate testing assesses bacterial reduction or water chemistry, not standard coliform count."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nitrate testing assesses bacterial reduction or water chemistry, not standard coliform count.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Nitrate testing assesses bacterial reduction or water chemistry, not standard coliform count.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Nitrate testing assesses bacterial reduction or water chemistry, not standard coliform count."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Urease testing identifies urease-producing organisms such as H. pylori or Proteus.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Urease testing identifies urease-producing organisms such as H. pylori or Proteus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Urease testing identifies urease-producing organisms such as H. pylori or Proteus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Urease testing identifies urease-producing organisms such as H. pylori or Proteus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Urease testing identifies urease-producing organisms such as H. pylori or Proteus."
+            }
+          }
+        }
+      },
+      "memoryHook": "MPN counts coliforms; Eijkman confirms heat-tolerant faecal E. coli.",
+      "examPearl": "The stem should ask 'test for faecal coliform' if it expects Eijkman.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Eijkman test",
+        "auditedAnswer": "A. Eijkman test",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 354,
+        "sourcePdfPage": 64,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    }
+  ]
+}

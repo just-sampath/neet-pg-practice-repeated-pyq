@@ -1,0 +1,1075 @@
+{
+  "questions": [
+    {
+      "questionId": "q022",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The cord-like structure visible over the sternocleidomastoid in the image is the greater auricular nerve. It is a superficial cervical plexus nerve that may become palpably thickened in leprosy.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here."
+            }
+          }
+        }
+      },
+      "memoryHook": "Great auricular goes over SCM to the great ear.",
+      "examPearl": "Other commonly examined nerves in leprosy include ulnar, common peroneal, posterior tibial, and radial cutaneous nerves.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Greater auricular nerve",
+        "auditedAnswer": "B. Greater auricular nerve",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 22,
+        "sourcePdfPage": 6,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q032",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Miliaria results from obstruction and rupture of eccrine sweat ducts. The level of obstruction determines crystallina, rubra, or profunda.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice, such as Fordyce spots, do not explain miliaria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria."
+            }
+          }
+        }
+      },
+      "memoryHook": "Miliaria is miserable sweat: eccrine duct blocked by heat.",
+      "examPearl": "Miliaria crystallina is superficial and noninflamed; rubra is pruritic and erythematous; profunda is deeper and flesh-coloured.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Eccrine sweat glands",
+        "auditedAnswer": "A. Eccrine sweat glands",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 32,
+        "sourcePdfPage": 8,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q090",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Phrynoderma is follicular hyperkeratosis associated with broad malnutrition. Older examination keys often select essential fatty acid deficiency, while vitamin A deficiency and deficiencies of B vitamins and vitamin E have also been associated. It is not a specific single-nutrient sign.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Essential fatty acid deficiency has a strong historical association with phrynoderma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Essential fatty acid deficiency has a strong historical association with phrynoderma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency has a strong historical association with phrynoderma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Essential fatty acid deficiency has a strong historical association with phrynoderma."
+            }
+          }
+        }
+      },
+      "memoryHook": "Phrynoderma is toad skin from mixed malnutrition; old key favours essential fatty acids.",
+      "examPearl": "In practice, assess the whole diet and associated ocular or systemic signs rather than treating one guessed deficiency.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "D. Essential fatty acid",
+        "auditedAnswer": "D. Essential fatty acid",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 90,
+        "sourcePdfPage": 17,
+        "reportedRepeatYears": [
+          2012,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q110",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cutis marmorata is a transient reticular, mottled vascular pattern produced by an exaggerated vasomotor response to cold. It is common in neonates and usually resolves with warming.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Alternating vasoconstriction and vasodilation gives a marbled appearance.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Alternating vasoconstriction and vasodilation gives a marbled appearance."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alternating vasoconstriction and vasodilation gives a marbled appearance.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Alternating vasoconstriction and vasodilation gives a marbled appearance.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Alternating vasoconstriction and vasodilation gives a marbled appearance."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Humidity contributes to miliaria but is not the characteristic trigger here.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Humidity contributes to miliaria but is not the characteristic trigger here."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Humidity contributes to miliaria but is not the characteristic trigger here.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice contributes to miliaria but is not the characteristic trigger here.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Humidity contributes to miliaria but is not the characteristic trigger here."
+            }
+          }
+        }
+      },
+      "memoryHook": "Marmorata means marble skin in the cold.",
+      "examPearl": "Persistent fixed vascular patterns or associated limb asymmetry should prompt consideration of cutis marmorata telangiectatica congenita.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Cold temperature",
+        "auditedAnswer": "A. Cold temperature",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 110,
+        "sourcePdfPage": 21,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q111",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Varicella lesions are superficial, centripetal, pruritic, unilocular, and appear in crops so multiple stages coexist. Smallpox lesions were deep-seated, firm, centrifugal, and relatively synchronous in one area.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Centripetal distribution with greater trunk involvement favours varicella.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Centripetal distribution with greater trunk involvement favours varicella."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Centripetal distribution with greater trunk involvement favours varicella.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice distribution with greater trunk involvement favours varicella.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Centripetal distribution with greater trunk involvement favours varicella."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Deep-seated lesions characterize smallpox, not chickenpox.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Deep-seated lesions characterize smallpox, not chickenpox."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Deep-seated lesions characterize smallpox, not chickenpox.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lesions characterize smallpox, not chickenpox.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Deep-seated lesions characterize smallpox, not chickenpox."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular."
+            }
+          }
+        }
+      },
+      "memoryHook": "Chickenpox comes in crops toward the centre; smallpox stays same-stage and spreads outward.",
+      "examPearl": "Smallpox has been eradicated, but its contrast with varicella remains a frequent exam pattern.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Deep-seated",
+        "auditedAnswer": "C. Deep-seated",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 111,
+        "sourcePdfPage": 21,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q112",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The image shows a unilateral irregular hyperpigmented patch with increased hair over the upper trunk, typical of Becker naevus. It often becomes apparent around adolescence and is androgen-sensitive.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch."
+            }
+          }
+        }
+      },
+      "memoryHook": "Becker appears at boyhood with brown pigment and body hair.",
+      "examPearl": "Becker naevus syndrome can include ipsilateral breast hypoplasia or musculoskeletal anomalies.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Becker nevus",
+        "auditedAnswer": "A. Becker nevus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 112,
+        "sourcePdfPage": 21,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q113",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The child has a typical eczematous flexural eruption plus a family history of asthma, placing the condition within the atopic diathesis. The correct diagnosis is atopic dermatitis, not allergic contact dermatitis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice requires sensitization to a specific contact allergen and follows the exposure pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema."
+            }
+          }
+        }
+      },
+      "memoryHook": "Asthma plus itchy flexural eczema equals atopy.",
+      "examPearl": "Core care is regular emollient use, trigger reduction, and appropriately potent topical anti-inflammatory therapy; infection is treated only when clinically present.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "C. Allergic contact dermatitis",
+        "auditedAnswer": "B. Atopic dermatitis",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 113,
+        "sourcePdfPage": 22,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q114",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The image shows a smooth, sharply demarcated non-scarring patch of hair loss, typical of alopecia areata. Exclamation-mark hairs and nail pitting support the diagnosis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain."
+            }
+          }
+        }
+      },
+      "memoryHook": "Areata is an area that is smooth and bare.",
+      "examPearl": "Associations include autoimmune thyroid disease, vitiligo, and atopy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Alopecia areta",
+        "auditedAnswer": "B. Alopecia areta",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 114,
+        "sourcePdfPage": 22,
+        "reportedRepeatYears": [
+          2019,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q139",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Risk and incidence patterns for cutaneous lymphomas vary by subtype, but older age, male sex for several common subtypes, and immune dysfunction or immunosuppression are recognised associations. Therefore all listed categories can contribute.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Lymphoma risk rises with age and immune weakness; many cutaneous types favour men.",
+      "examPearl": "A persistent patch or plaque is not diagnosed clinically alone; skin biopsy with immunophenotyping and clinicopathologic correlation is essential.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. All",
+        "auditedAnswer": "D. All",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 139,
+        "sourcePdfPage": 26,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q358",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Vagabond disease is chronic body-louse infestation, pediculosis corporis, with excoriation, lichenification, and hyperpigmentation in people unable to wash or change clothing regularly.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Body lice live mainly in clothing seams and visit skin to feed.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Body lice live mainly in clothing seams and visit skin to feed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Body lice live mainly in clothing seams and visit skin to feed.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Body lice live mainly in clothing seams and visit skin to feed.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Body lice live mainly in clothing seams and visit skin to feed."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mites cause scabies and other infestations, not the named vagabond disease.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Mites cause scabies and other infestations, not the named vagabond disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mites cause scabies and other infestations, not the named vagabond disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mites cause scabies and other infestations, not the named vagabond disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Mites cause scabies and other infestations, not the named vagabond disease."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Blackflies transmit onchocerciasis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Blackflies transmit onchocerciasis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blackflies transmit onchocerciasis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Blackflies transmit onchocerciasis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Blackflies transmit onchocerciasis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Vagabond disease lives in lousy clothing seams.",
+      "examPearl": "Body lice transmit epidemic typhus, trench fever, and louse-borne relapsing fever.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Louse",
+        "auditedAnswer": "A. Louse",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 358,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    }
+  ]
+}

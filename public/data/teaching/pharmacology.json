@@ -1,0 +1,1610 @@
+{
+  "questions": [
+    {
+      "questionId": "q010",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Thiazides increase distal tubular calcium reabsorption, so they reduce urinary calcium and may cause mild hypercalcaemia. Hypocalcaemia is therefore the exception.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypokalaemia is common because increased distal sodium delivery promotes potassium and hydrogen secretion. Metabolic alkalosis may accompany it.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hypokalaemia is common because increased distal sodium delivery promotes potassium and hydrogen secretion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypokalaemia is common because increased distal sodium delivery promotes potassium and hydrogen secretion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hypokalaemia is common because increased distal sodium delivery promotes potassium and hydrogen secretion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Hypokalaemia is common because increased distal sodium delivery promotes potassium and hydrogen secretion."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Thiazides decrease calcium excretion, unlike loop diuretics, which increase calciuria and can produce hypocalcaemia.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Thiazides decrease calcium excretion, unlike loop diuretics, which increase calciuria and can produce hypocalcaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thiazides decrease calcium excretion, unlike loop diuretics, which increase calciuria and can produce hypocalcaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thiazides decrease calcium excretion, unlike loop diuretics, which increase calciuria and can produce hypocalcaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Thiazides decrease calcium excretion, unlike loop diuretics, which increase calciuria and can produce hypocalcaemia."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thiazide-induced hypokalaemia can precipitate hepatic encephalopathy in vulnerable cirrhotic patients, historically termed hepatic coma.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Thiazide-induced hypokalaemia can precipitate hepatic encephalopathy in vulnerable cirrhotic patients, historically termed hepatic coma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thiazide-induced hypokalaemia can precipitate hepatic encephalopathy in vulnerable cirrhotic patients, historically termed hepatic coma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thiazide-induced hypokalaemia can precipitate hepatic encephalopathy in vulnerable cirrhotic patients, historically termed hepatic coma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Thiazide-induced hypokalaemia can precipitate hepatic encephalopathy in vulnerable cirrhotic patients, historically termed hepatic coma."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Erectile dysfunction is a recognised adverse effect of thiazide therapy and can reduce adherence.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Erectile dysfunction is a recognised adverse effect of thiazide therapy and can reduce adherence."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Erectile dysfunction is a recognised adverse effect of thiazide therapy and can reduce adherence.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Erectile dysfunction is a recognised adverse effect of thiazide therapy and can reduce adherence.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Erectile dysfunction is a recognised adverse effect of thiazide therapy and can reduce adherence."
+            }
+          }
+        }
+      },
+      "memoryHook": "Thiazides save calcium but waste sodium, potassium, and sexual confidence.",
+      "examPearl": "High-yield metabolic effects: hyperGLUC - glucose, lipids, uric acid, and calcium rise; potassium falls.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Hypocalcemia",
+        "auditedAnswer": "B. Hypocalcemia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 10,
+        "sourcePdfPage": 4,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q074",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Nitisinone inhibits 4-hydroxyphenylpyruvate dioxygenase upstream of fumarylacetoacetate hydrolase, preventing formation of toxic metabolites in tyrosinaemia type I. Dietary restriction of tyrosine and phenylalanine is also required.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It dramatically improves hepatic and renal outcomes but raises tyrosine, so monitoring is essential.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It dramatically improves hepatic and renal outcomes but raises tyrosine, so monitoring is essential."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It dramatically improves hepatic and renal outcomes but raises tyrosine, so monitoring is essential.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It dramatically improves hepatic and renal outcomes but raises tyrosine, so monitoring is essential.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It dramatically improves hepatic and renal outcomes but raises tyrosine, so monitoring is essential."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Alogliptin is a DPP-4 inhibitor for type 2 diabetes.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Alogliptin is a DPP-4 inhibitor for type 2 diabetes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alogliptin is a DPP-4 inhibitor for type 2 diabetes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a DPP-4 inhibitor for type 2 diabetes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Alogliptin is a DPP-4 inhibitor for type 2 diabetes."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pemoline is an obsolete stimulant and has no role in tyrosinaemia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pemoline is an obsolete stimulant and has no role in tyrosinaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pemoline is an obsolete stimulant and has no role in tyrosinaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an obsolete stimulant and has no role in tyrosinaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Pemoline is an obsolete stimulant and has no role in tyrosinaemia."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Milrinone is a PDE3 inhibitor used as an inotrope in selected acute heart failure settings.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Milrinone is a PDE3 inhibitor used as an inotrope in selected acute heart failure settings."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Milrinone is a PDE3 inhibitor used as an inotrope in selected acute heart failure settings.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a PDE3 inhibitor used as an inotrope in selected acute heart failure settings.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Milrinone is a PDE3 inhibitor used as an inotrope in selected acute heart failure settings."
+            }
+          }
+        }
+      },
+      "memoryHook": "NITisinone nips toxic tyrosine metabolites before they form.",
+      "examPearl": "Succinylacetone is a diagnostic metabolite and also inhibits haem synthesis, helping explain porphyria-like crises.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Nitisinone",
+        "auditedAnswer": "A. Nitisinone",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 74,
+        "sourcePdfPage": 15,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q144",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Coumadin is warfarin, a vitamin K antagonist. Its effect is monitored with prothrombin time standardized as INR because factor VII falls early and the extrinsic pathway is sensitive.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Aspirin inhibits platelet COX-1; routine PT or INR monitoring does not measure its effect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Aspirin inhibits platelet COX-1; routine PT or INR monitoring does not measure its effect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Aspirin inhibits platelet COX-1; routine PT or INR monitoring does not measure its effect.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice inhibits platelet COX-1; routine PT or INR monitoring does not measure its effect.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Aspirin inhibits platelet COX-1; routine PT or INR monitoring does not measure its effect."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lepirudin is a direct thrombin inhibitor and is better reflected by aPTT or other specialized tests, not PT as routine.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Lepirudin is a direct thrombin inhibitor and is better reflected by aPTT or other specialized tests, not PT as routine."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lepirudin is a direct thrombin inhibitor and is better reflected by aPTT or other specialized tests, not PT as routine.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a direct thrombin inhibitor and is better reflected by aPTT or other specialized tests, not PT as routine.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Lepirudin is a direct thrombin inhibitor and is better reflected by aPTT or other specialized tests, not PT as routine."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Digoxin monitoring uses clinical status, renal function, electrolytes, ECG, and selected serum drug levels.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Digoxin monitoring uses clinical status, renal function, electrolytes, ECG, and selected serum drug levels."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Digoxin monitoring uses clinical status, renal function, electrolytes, ECG, and selected serum drug levels.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice monitoring uses clinical status, renal function, electrolytes, ECG, and selected serum drug levels.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Digoxin monitoring uses clinical status, renal function, electrolytes, ECG, and selected serum drug levels."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. INR targets depend on indication, commonly 2.0 to 3.0 for many conditions.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: INR targets depend on indication, commonly 2.0 to 3.0 for many conditions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: INR targets depend on indication, commonly 2.0 to 3.0 for many conditions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? INR targets depend on indication, commonly 2.0 to 3.0 for many conditions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "INR targets depend on indication, commonly 2.0 to 3.0 for many conditions."
+            }
+          }
+        }
+      },
+      "memoryHook": "Warfarin works on vitamin K factors and is watched with INR.",
+      "examPearl": "Major bleeding reversal may require vitamin K plus four-factor prothrombin complex concentrate according to severity and protocol.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Coumadin",
+        "auditedAnswer": "D. Coumadin",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 144,
+        "sourcePdfPage": 27,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q160",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Nitric oxide diffuses into smooth muscle and activates soluble guanylyl cyclase, increasing cGMP. Protein kinase G then lowers intracellular calcium and promotes relaxation.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "BRCA1 is a DNA-repair tumour-suppressor gene and is unrelated to acute NO signalling.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: BRCA1 is a DNA-repair tumour-suppressor gene and is unrelated to acute NO signalling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: BRCA1 is a DNA-repair tumour-suppressor gene and is unrelated to acute NO signalling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? BRCA1 is a DNA-repair tumour-suppressor gene and is unrelated to acute NO signalling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "BRCA1 is a DNA-repair tumour-suppressor gene and is unrelated to acute NO signalling."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "BRCA2 is also involved in homologous recombination repair, not vasodilation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: BRCA2 is also involved in homologous recombination repair, not vasodilation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: BRCA2 is also involved in homologous recombination repair, not vasodilation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? BRCA2 is also involved in homologous recombination repair, not vasodilation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "BRCA2 is also involved in homologous recombination repair, not vasodilation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Interleukins are immune cytokines, not the second messenger of NO.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Interleukins are immune cytokines, not the second messenger of NO."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Interleukins are immune cytokines, not the second messenger of NO.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Interleukins are immune cytokines, not the second messenger of NO.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Interleukins are immune cytokines, not the second messenger of NO."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Nitrates and endogenous endothelial NO converge on cGMP.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Nitrates and endogenous endothelial NO converge on cGMP."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Nitrates and endogenous endothelial NO converge on cGMP.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Nitrates and endogenous endothelial NO converge on cGMP.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Nitrates and endogenous endothelial NO converge on cGMP."
+            }
+          }
+        }
+      },
+      "memoryHook": "NO goes to guanylyl cyclase and grows cGMP.",
+      "examPearl": "PDE5 inhibitors prevent cGMP breakdown; combining them with nitrates can cause profound hypotension.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. cGMP",
+        "auditedAnswer": "D. cGMP",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 160,
+        "sourcePdfPage": 30,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q162",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "Colchicine binds tubulin and inhibits microtubule polymerization. In acute gout this suppresses neutrophil chemotaxis, adhesion, degranulation, and inflammasome-driven inflammation. None of the listed options states a mechanism.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Uric-acid nephrolithiasis is a complication of hyperuricaemia, not a drug mechanism.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Uric-acid nephrolithiasis is a complication of hyperuricaemia, not a drug mechanism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Uric-acid nephrolithiasis is a complication of hyperuricaemia, not a drug mechanism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Uric-acid nephrolithiasis is a complication of hyperuricaemia, not a drug mechanism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Uric-acid nephrolithiasis is a complication of hyperuricaemia, not a drug mechanism."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Xanthine oxidase inhibition is the mechanism of allopurinol and febuxostat, not colchicine; enzyme deficiency is not caused by the drug.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Xanthine oxidase inhibition is the mechanism of allopurinol and febuxostat, not colchicine; enzyme deficiency is not caused by the drug."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Xanthine oxidase inhibition is the mechanism of allopurinol and febuxostat, not colchicine; enzyme deficiency is not caused by the drug.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Xanthine oxidase inhibition is the mechanism of allopurinol and febuxostat, not colchicine; enzyme deficiency is not caused by the drug.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Xanthine oxidase inhibition is the mechanism of allopurinol and febuxostat, not colchicine; enzyme deficiency is not caused by the drug."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Colchicine does not lower serum urate and should not be described as raising it as its therapeutic mechanism.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Colchicine does not lower serum urate and should not be described as raising it as its therapeutic mechanism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Colchicine does not lower serum urate and should not be described as raising it as its therapeutic mechanism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Colchicine does not lower serum urate and should not be described as raising it as its therapeutic mechanism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Colchicine does not lower serum urate and should not be described as raising it as its therapeutic mechanism."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Interstitial renal disease may alter dosing and toxicity risk but is not the anti-inflammatory mechanism.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Interstitial renal disease may alter dosing and toxicity risk but is not the anti-inflammatory mechanism."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Interstitial renal disease may alter dosing and toxicity risk but is not the anti-inflammatory mechanism.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Interstitial renal disease may alter dosing and toxicity risk but is not the anti-inflammatory mechanism.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Interstitial renal disease may alter dosing and toxicity risk but is not the anti-inflammatory mechanism."
+            }
+          }
+        }
+      },
+      "memoryHook": "COLchicine Collapses microtubules and calms crawling neutrophils.",
+      "examPearl": "Colchicine has a narrow therapeutic index. Gastrointestinal toxicity is common; severe overdose can cause marrow, neuromuscular, and multiorgan toxicity.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "B. Deficiency of enzyme Xanthine oxidase",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 162,
+        "sourcePdfPage": 30,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q287",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Rifampicin is a classic chemoprophylactic drug for close contacts of invasive meningococcal disease. Ceftriaxone and ciprofloxacin are alternatives depending on age, pregnancy, resistance, and local guidance.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct classic answer. A short course eradicates nasopharyngeal carriage, but orange secretions and drug interactions matter.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A short course eradicates nasopharyngeal carriage, but orange secretions and drug interactions matter."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A short course eradicates nasopharyngeal carriage, but orange secretions and drug interactions matter.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A short course eradicates nasopharyngeal carriage, but orange secretions and drug interactions matter.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A short course eradicates nasopharyngeal carriage, but orange secretions and drug interactions matter."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Chloramphenicol can treat meningococcal disease where appropriate but is not the routine contact prophylaxis choice.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chloramphenicol can treat meningococcal disease where appropriate but is not the routine contact prophylaxis choice."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chloramphenicol can treat meningococcal disease where appropriate but is not the routine contact prophylaxis choice.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can treat meningococcal disease where appropriate but is not the routine contact prophylaxis choice.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Chloramphenicol can treat meningococcal disease where appropriate but is not the routine contact prophylaxis choice."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tetracycline is not standard mass prophylaxis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tetracycline is not standard mass prophylaxis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tetracycline is not standard mass prophylaxis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not standard mass prophylaxis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Tetracycline is not standard mass prophylaxis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Penicillin treats susceptible invasive infection but does not reliably eradicate carriage for contact prophylaxis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Penicillin treats susceptible invasive infection but does not reliably eradicate carriage for contact prophylaxis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Penicillin treats susceptible invasive infection but does not reliably eradicate carriage for contact prophylaxis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice treats susceptible invasive infection but does not reliably eradicate carriage for contact prophylaxis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Penicillin treats susceptible invasive infection but does not reliably eradicate carriage for contact prophylaxis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Meningococcal close contacts: rifampicin, single-dose ciprofloxacin, or ceftriaxone.",
+      "examPearl": "Chemoprophylaxis is for defined close contacts and should be given promptly; casual contacts do not all need antibiotics.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Rifampicin",
+        "auditedAnswer": "A. Rifampicin",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 287,
+        "sourcePdfPage": 53,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q289",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Methotrexate has not shown reliable efficacy for inducing or maintaining remission in ulcerative colitis and is not a standard UC drug. Corticosteroids, thiopurines, 5-ASA, biologics, and small molecules have established roles.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Corticosteroids induce remission in moderate to severe flares but should not be used for long-term maintenance.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Corticosteroids induce remission in moderate to severe flares but should not be used for long-term maintenance."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Corticosteroids induce remission in moderate to severe flares but should not be used for long-term maintenance.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice induce remission in moderate to severe flares but should not be used for long-term maintenance.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Corticosteroids induce remission in moderate to severe flares but should not be used for long-term maintenance."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Azathioprine can maintain steroid-free remission but has a slow onset and requires toxicity monitoring.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Azathioprine can maintain steroid-free remission but has a slow onset and requires toxicity monitoring."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Azathioprine can maintain steroid-free remission but has a slow onset and requires toxicity monitoring.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can maintain steroid-free remission but has a slow onset and requires toxicity monitoring.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Azathioprine can maintain steroid-free remission but has a slow onset and requires toxicity monitoring."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sulfasalazine and mesalamine are core therapies for mild to moderate colonic disease.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sulfasalazine and mesalamine are core therapies for mild to moderate colonic disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sulfasalazine and mesalamine are core therapies for mild to moderate colonic disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice and mesalamine are core therapies for mild to moderate colonic disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Sulfasalazine and mesalamine are core therapies for mild to moderate colonic disease."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Methotrexate is more useful in Crohn disease and rheumatology than UC.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Methotrexate is more useful in Crohn disease and rheumatology than UC."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Methotrexate is more useful in Crohn disease and rheumatology than UC.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is more useful in Crohn disease and rheumatology than UC.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Methotrexate is more useful in Crohn disease and rheumatology than UC."
+            }
+          }
+        }
+      },
+      "memoryHook": "5-ASA fits UC; methotrexate misses UC.",
+      "examPearl": "Acute severe UC needs hospital assessment, IV steroids, thromboprophylaxis, infection testing, and timely rescue or surgical decisions.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Methotrexate",
+        "auditedAnswer": "D. Methotrexate",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 289,
+        "sourcePdfPage": 53,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q290",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Imatinib and sunitinib are small-molecule tyrosine kinase inhibitors that compete at ATP-binding sites of target kinases. Imatinib targets BCR-ABL, KIT, and PDGFR; sunitinib inhibits multiple receptor tyrosine kinases including VEGFR and PDGFR.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. These drugs end in '-tinib,' a common kinase-inhibitor clue.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: These drugs end in '-tinib,' a common kinase-inhibitor clue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: These drugs end in '-tinib,' a common kinase-inhibitor clue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? These drugs end in '-tinib,' a common kinase-inhibitor clue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "These drugs end in '-tinib,' a common kinase-inhibitor clue."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Letrozole inhibits aromatase and reduces oestrogen synthesis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Letrozole inhibits aromatase and reduces oestrogen synthesis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Letrozole inhibits aromatase and reduces oestrogen synthesis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice inhibits aromatase and reduces oestrogen synthesis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Letrozole inhibits aromatase and reduces oestrogen synthesis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bicalutamide antagonises the androgen receptor.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bicalutamide antagonises the androgen receptor."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bicalutamide antagonises the androgen receptor.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice antagonises the androgen receptor.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Bicalutamide antagonises the androgen receptor."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fulvestrant is a selective oestrogen-receptor degrader.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fulvestrant is a selective oestrogen-receptor degrader."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fulvestrant is a selective oestrogen-receptor degrader.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a selective oestrogen-receptor degrader.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Fulvestrant is a selective oestrogen-receptor degrader."
+            }
+          }
+        }
+      },
+      "memoryHook": "Tinibs inhibit kinases; letrozole lowers oestrogen; bicalutamide blocks androgen; fulvestrant degrades ER.",
+      "examPearl": "Not every '-tinib' has the same target or toxicity, so pair each drug with its key kinase.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Imatinib and sunitinib",
+        "auditedAnswer": "A. Imatinib and sunitinib",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 290,
+        "sourcePdfPage": 53,
+        "reportedRepeatYears": [
+          2014,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q291",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Physostigmine is a tertiary amine and crosses the blood-brain barrier. Glycopyrrolate and neostigmine are quaternary ammonium compounds with poor CNS penetration.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Glycopyrrolate does not readily cross the BBB, which limits central antimuscarinic effects.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Glycopyrrolate does not readily cross the BBB, which limits central antimuscarinic effects."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glycopyrrolate does not readily cross the BBB, which limits central antimuscarinic effects.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice does not readily cross the BBB, which limits central antimuscarinic effects.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Glycopyrrolate does not readily cross the BBB, which limits central antimuscarinic effects."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Neostigmine acts peripherally at neuromuscular and autonomic sites.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Neostigmine acts peripherally at neuromuscular and autonomic sites."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Neostigmine acts peripherally at neuromuscular and autonomic sites.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice acts peripherally at neuromuscular and autonomic sites.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Neostigmine acts peripherally at neuromuscular and autonomic sites."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Physostigmine can reverse severe central and peripheral antimuscarinic toxicity in selected monitored patients.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Physostigmine can reverse severe central and peripheral antimuscarinic toxicity in selected monitored patients."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Physostigmine can reverse severe central and peripheral antimuscarinic toxicity in selected monitored patients.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can reverse severe central and peripheral antimuscarinic toxicity in selected monitored patients.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Physostigmine can reverse severe central and peripheral antimuscarinic toxicity in selected monitored patients."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Not all cross because A and B are quaternary compounds.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Not all cross because A and B are quaternary compounds."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "PHYSostigmine reaches the psyche; NEO and glyco stay peripheral.",
+      "examPearl": "Physostigmine can cause bradycardia or seizures and is avoided in important conduction disease or suspected tricyclic overdose.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Physostigmine",
+        "auditedAnswer": "C. Physostigmine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 291,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q293",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Apraclonidine is a relatively selective alpha-2 adrenergic agonist that reduces aqueous humour production. It is often used short term, such as around laser procedures, because tachyphylaxis and allergic reactions limit chronic use.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It can also help confirm Horner syndrome through denervation hypersensitivity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It can also help confirm Horner syndrome through denervation hypersensitivity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It can also help confirm Horner syndrome through denervation hypersensitivity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It can also help confirm Horner syndrome through denervation hypersensitivity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It can also help confirm Horner syndrome through denervation hypersensitivity."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Timolol is a nonselective beta blocker.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Timolol is a nonselective beta blocker."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Timolol is a nonselective beta blocker.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a nonselective beta blocker.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Timolol is a nonselective beta blocker."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Prostaglandin analogues act mainly at FP receptors and increase uveoscleral outflow.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Prostaglandin analogues act mainly at FP receptors and increase uveoscleral outflow."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Prostaglandin analogues act mainly at FP receptors and increase uveoscleral outflow.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Prostaglandin analogues act mainly at FP receptors and increase uveoscleral outflow.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Prostaglandin analogues act mainly at FP receptors and increase uveoscleral outflow."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Verapamil is an L-type calcium-channel blocker, not an ocular alpha-2 agonist.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Verapamil is an L-type calcium-channel blocker, not an ocular alpha-2 agonist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Verapamil is an L-type calcium-channel blocker, not an ocular alpha-2 agonist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Verapamil is an L-type calcium-channel blocker, not an ocular alpha-2 agonist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Verapamil is an L-type calcium-channel blocker, not an ocular alpha-2 agonist."
+            }
+          }
+        }
+      },
+      "memoryHook": "Apraclonidine and brimonidine are alpha-2 eye drugs.",
+      "examPearl": "Brimonidine is more alpha-2 selective and generally better suited for longer-term glaucoma use.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Apraclonidine",
+        "auditedAnswer": "A. Apraclonidine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 293,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2015,
+          2019
+        ]
+      }
+    },
+    {
+      "questionId": "q294",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "NSAIDs are a well-recognised cause of acute interstitial nephritis, sometimes with nephrotic-range proteinuria and fewer classic hypersensitivity signs than antibiotic-induced AIN.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. NSAIDs also cause haemodynamically mediated AKI, papillary necrosis, sodium retention, and hyperkalaemia.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: NSAIDs also cause haemodynamically mediated AKI, papillary necrosis, sodium retention, and hyperkalaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: NSAIDs also cause haemodynamically mediated AKI, papillary necrosis, sodium retention, and hyperkalaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? NSAIDs also cause haemodynamically mediated AKI, papillary necrosis, sodium retention, and hyperkalaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "NSAIDs also cause haemodynamically mediated AKI, papillary necrosis, sodium retention, and hyperkalaemia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Blackwater fever causes massive intravascular haemolysis and haemoglobinuria in severe malaria.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Blackwater fever causes massive intravascular haemolysis and haemoglobinuria in severe malaria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blackwater fever causes massive intravascular haemolysis and haemoglobinuria in severe malaria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Blackwater fever causes massive intravascular haemolysis and haemoglobinuria in severe malaria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Blackwater fever causes massive intravascular haemolysis and haemoglobinuria in severe malaria."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Rhabdomyolysis causes pigment-induced acute tubular injury from myoglobin.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Rhabdomyolysis causes pigment-induced acute tubular injury from myoglobin."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rhabdomyolysis causes pigment-induced acute tubular injury from myoglobin.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes pigment-induced acute tubular injury from myoglobin.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Rhabdomyolysis causes pigment-induced acute tubular injury from myoglobin."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tumour lysis syndrome causes uric-acid and calcium-phosphate crystal nephropathy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tumour lysis syndrome causes uric-acid and calcium-phosphate crystal nephropathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tumour lysis syndrome causes uric-acid and calcium-phosphate crystal nephropathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Tumour lysis syndrome causes uric-acid and calcium-phosphate crystal nephropathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Tumour lysis syndrome causes uric-acid and calcium-phosphate crystal nephropathy."
+            }
+          }
+        }
+      },
+      "memoryHook": "NSAIDs can inflame the interstitium; muscle breakdown injures tubules with myoglobin.",
+      "examPearl": "The fever-rash-eosinophilia triad is absent in many AIN cases; stop the culprit early.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. NSAID",
+        "auditedAnswer": "A. NSAID",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 294,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q295",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Terbinafine is available orally and topically but not as a routine intravenous formulation. It inhibits fungal squalene epoxidase and is fungicidal against dermatophytes.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Voriconazole is available orally and intravenously.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Voriconazole is available orally and intravenously."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Voriconazole is available orally and intravenously.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is available orally and intravenously.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Voriconazole is available orally and intravenously."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Amphotericin B is administered intravenously for systemic infection; oral formulations are not systemically absorbed.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Amphotericin B is administered intravenously for systemic infection; oral formulations are not systemically absorbed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amphotericin B is administered intravenously for systemic infection; oral formulations are not systemically absorbed.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is administered intravenously for systemic infection; oral formulations are not systemically absorbed.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Amphotericin B is administered intravenously for systemic infection; oral formulations are not systemically absorbed."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Oral terbinafine is commonly used for onychomycosis and tinea capitis.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Oral terbinafine is commonly used for onychomycosis and tinea capitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Oral terbinafine is commonly used for onychomycosis and tinea capitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Oral terbinafine is commonly used for onychomycosis and tinea capitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Oral terbinafine is commonly used for onychomycosis and tinea capitis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A matching drug is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A matching drug is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Terbinafine treats tinea by mouth, but not by vein.",
+      "examPearl": "Review liver disease and drug interactions; taste disturbance and hepatotoxicity are important adverse effects.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Terbinafine",
+        "auditedAnswer": "C. Terbinafine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 295,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q296",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Ampicillin is the treatment backbone for Listeria monocytogenes meningitis, often with gentamicin in selected severe cases. Listeria is intrinsically resistant to cephalosporins.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Add ampicillin empirically in neonates, older adults, pregnancy, and immunocompromised patients when Listeria risk is relevant.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Add ampicillin empirically in neonates, older adults, pregnancy, and immunocompromised patients when Listeria risk is relevant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Add ampicillin empirically in neonates, older adults, pregnancy, and immunocompromised patients when Listeria risk is relevant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Add ampicillin empirically in neonates, older adults, pregnancy, and immunocompromised patients when Listeria risk is relevant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Add ampicillin empirically in neonates, older adults, pregnancy, and immunocompromised patients when Listeria risk is relevant."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cefotaxime does not reliably cover Listeria.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cefotaxime does not reliably cover Listeria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cefotaxime does not reliably cover Listeria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice does not reliably cover Listeria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cefotaxime does not reliably cover Listeria."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ceftriaxone also lacks reliable Listeria activity.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Ceftriaxone also lacks reliable Listeria activity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ceftriaxone also lacks reliable Listeria activity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ceftriaxone also lacks reliable Listeria activity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ceftriaxone also lacks reliable Listeria activity."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ciprofloxacin is not the standard first-line meningitis treatment.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ciprofloxacin is not the standard first-line meningitis treatment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ciprofloxacin is not the standard first-line meningitis treatment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the standard first-line meningitis treatment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Ciprofloxacin is not the standard first-line meningitis treatment."
+            }
+          }
+        }
+      },
+      "memoryHook": "Listeria laughs at cephalosporins; add ampicillin.",
+      "examPearl": "Trimethoprim-sulfamethoxazole is an important alternative for serious beta-lactam allergy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Ampicillin",
+        "auditedAnswer": "A. Ampicillin",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 296,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q297",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "D2-like receptors, D2, D3, and D4, couple to Gi and inhibit adenylyl cyclase. D1-like receptors, D1 and D5, couple to Gs and stimulate cAMP.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "D5 is D1-like and stimulatory through Gs.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: D5 is D1-like and stimulatory through Gs."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: D5 is D1-like and stimulatory through Gs.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? D5 is D1-like and stimulatory through Gs.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "D5 is D1-like and stimulatory through Gs."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The printed 'Di' likely means D1, which is stimulatory.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The printed 'Di' likely means D1, which is stimulatory."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The printed 'Di' likely means D1, which is stimulatory.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The printed 'Di' likely means D1, which is stimulatory.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The printed 'Di' likely means D1, which is stimulatory."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. D2 is the major inhibitory receptor targeted by many antipsychotics and antiemetics.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: D2 is the major inhibitory receptor targeted by many antipsychotics and antiemetics."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: D2 is the major inhibitory receptor targeted by many antipsychotics and antiemetics.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? D2 is the major inhibitory receptor targeted by many antipsychotics and antiemetics.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "D2 is the major inhibitory receptor targeted by many antipsychotics and antiemetics."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A defined inhibitory receptor is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A defined inhibitory receptor is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "D1 and D5 drive cAMP up; D2, D3, D4 drive it down.",
+      "examPearl": "D2 blockade in nigrostriatal, tuberoinfundibular, and chemoreceptor pathways explains EPS, hyperprolactinaemia, and antiemesis.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. D2",
+        "auditedAnswer": "C. D2",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 297,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q298",
+      "answer": {
+        "kind": "multiple_defensible",
+        "correctOptionIds": [
+          "B",
+          "C"
+        ],
+        "summary": "Acute hereditary angioedema attacks are treated with on-demand bradykinin-pathway therapy. Plasma-derived or recombinant C1 inhibitor concentrate and the bradykinin B2 antagonist icatibant are both accepted first-line options where available.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Danazol increases hepatic C1 inhibitor synthesis and was used for prophylaxis, not preferred acute rescue.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Danazol increases hepatic C1 inhibitor synthesis and was used for prophylaxis, not preferred acute rescue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Danazol increases hepatic C1 inhibitor synthesis and was used for prophylaxis, not preferred acute rescue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice increases hepatic C1 inhibitor synthesis and was used for prophylaxis, not preferred acute rescue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Danazol increases hepatic C1 inhibitor synthesis and was used for prophylaxis, not preferred acute rescue."
+            }
+          }
+        },
+        "B": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Correct. C1 inhibitor concentrate replaces the deficient functional regulator.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: C1 inhibitor concentrate replaces the deficient functional regulator."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: C1 inhibitor concentrate replaces the deficient functional regulator.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice replaces the deficient functional regulator.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "C1 inhibitor concentrate replaces the deficient functional regulator."
+            }
+          }
+        },
+        "C": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Also correct. Icatibant blocks the bradykinin B2 receptor and is an on-demand treatment.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Icatibant blocks the bradykinin B2 receptor and is an on-demand treatment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Icatibant blocks the bradykinin B2 receptor and is an on-demand treatment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice blocks the bradykinin B2 receptor and is an on-demand treatment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Icatibant blocks the bradykinin B2 receptor and is an on-demand treatment."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Corticosteroids do not reliably treat bradykinin-mediated hereditary angioedema, unlike histamine-mediated allergy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Corticosteroids do not reliably treat bradykinin-mediated hereditary angioedema, unlike histamine-mediated allergy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Corticosteroids do not reliably treat bradykinin-mediated hereditary angioedema, unlike histamine-mediated allergy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Corticosteroids do not reliably treat bradykinin-mediated hereditary angioedema, unlike histamine-mediated allergy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Corticosteroids do not reliably treat bradykinin-mediated hereditary angioedema, unlike histamine-mediated allergy."
+            }
+          }
+        }
+      },
+      "memoryHook": "Hereditary angioedema is bradykinin, so give C1 inhibitor or block B2; antihistamines and steroids usually fail.",
+      "examPearl": "Airway symptoms demand immediate emergency management. The item incorrectly assumes only one of B and C can be right.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "B. Cl, inhibitor concentrate",
+        "auditedAnswer": "Multiple defensible options: B + C",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 298,
+        "sourcePdfPage": 55,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    }
+  ]
+}

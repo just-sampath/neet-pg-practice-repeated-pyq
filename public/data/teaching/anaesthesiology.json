@@ -1,0 +1,648 @@
+{
+  "questions": [
+    {
+      "questionId": "q001",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Ketamine usually supports sympathetic tone, so heart rate, blood pressure, and bronchodilation are relatively preserved during induction. That makes it the best option here for a shocked patient, provided severe catecholamine depletion and contraindications are considered.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Isoflurane is a volatile maintenance anaesthetic, not the usual intravenous induction choice in shock. It causes dose-dependent vasodilation and can worsen hypotension.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Isoflurane is a volatile maintenance anaesthetic, not the usual intravenous induction choice in shock."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Isoflurane is a volatile maintenance anaesthetic, not the usual intravenous induction choice in shock.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a volatile maintenance anaesthetic, not the usual intravenous induction choice in shock.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Isoflurane is a volatile maintenance anaesthetic, not the usual intravenous induction choice in shock."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Desflurane is also an inhalational maintenance agent. Rapid concentration changes can irritate the airway and sympathetic stimulation does not make it a safe induction solution for shock.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Rapid concentration changes can irritate the airway and sympathetic stimulation does not make it a safe induction solution for shock."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rapid concentration changes can irritate the airway and sympathetic stimulation does not make it a safe induction solution for shock.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Rapid concentration changes can irritate the airway and sympathetic stimulation does not make it a safe induction solution for shock.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Rapid concentration changes can irritate the airway and sympathetic stimulation does not make it a safe induction solution for shock."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Ketamine is an intravenous dissociative anaesthetic with analgesia and bronchodilation. Its indirect sympathomimetic effect often preserves blood pressure, although myocardial depression may appear in profoundly catecholamine-depleted shock.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Its indirect sympathomimetic effect often preserves blood pressure, although myocardial depression may appear in profoundly catecholamine-depleted shock."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Its indirect sympathomimetic effect often preserves blood pressure, although myocardial depression may appear in profoundly catecholamine-depleted shock.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Its indirect sympathomimetic effect often preserves blood pressure, although myocardial depression may appear in profoundly catecholamine-depleted shock.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Its indirect sympathomimetic effect often preserves blood pressure, although myocardial depression may appear in profoundly catecholamine-depleted shock."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thiopentone reduces systemic vascular resistance and myocardial contractility and can produce marked hypotension in hypovolaemia. It is a classic dangerous distractor in shock.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Thiopentone reduces systemic vascular resistance and myocardial contractility and can produce marked hypotension in hypovolaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thiopentone reduces systemic vascular resistance and myocardial contractility and can produce marked hypotension in hypovolaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice reduces systemic vascular resistance and myocardial contractility and can produce marked hypotension in hypovolaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Thiopentone reduces systemic vascular resistance and myocardial contractility and can produce marked hypotension in hypovolaemia."
+            }
+          }
+        }
+      },
+      "memoryHook": "KETAmine Keeps the pressure up, while THIO can Throw it down.",
+      "examPearl": "Resuscitation and haemodynamic preparation come before any induction drug. Etomidate is another commonly considered stable agent, but it is not offered here.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Ketamine",
+        "auditedAnswer": "C. Ketamine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 1,
+        "sourcePdfPage": 2,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q002",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Traction on an extraocular muscle can trigger a trigemino-vagal reflex with abrupt bradycardia and hypotension. The immediate first action is removal of the stimulus: ask the surgeon to stop traction. Give atropine if the response does not promptly resolve or is severe.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Atropine blocks the vagal efferent limb and is appropriate for persistent or severe bradycardia. It follows immediate release of traction rather than replacing that first step.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Atropine blocks the vagal efferent limb and is appropriate for persistent or severe bradycardia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atropine blocks the vagal efferent limb and is appropriate for persistent or severe bradycardia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Atropine blocks the vagal efferent limb and is appropriate for persistent or severe bradycardia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Atropine blocks the vagal efferent limb and is appropriate for persistent or severe bradycardia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Light anaesthesia can increase reflex susceptibility, so anaesthetic depth should be checked after the stimulus is stopped. Simply deepening anaesthesia during profound bradycardia can further depress circulation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Light anaesthesia can increase reflex susceptibility, so anaesthetic depth should be checked after the stimulus is stopped."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Light anaesthesia can increase reflex susceptibility, so anaesthetic depth should be checked after the stimulus is stopped.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Light anaesthesia can increase reflex susceptibility, so anaesthetic depth should be checked after the stimulus is stopped.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Light anaesthesia can increase reflex susceptibility, so anaesthetic depth should be checked after the stimulus is stopped."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Stopping ocular manipulation removes the afferent trigger and is the fastest, least harmful first manoeuvre. This is the corrected answer; the source key gave adrenaline.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Stopping ocular manipulation removes the afferent trigger and is the fastest, least harmful first manoeuvre."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Stopping ocular manipulation removes the afferent trigger and is the fastest, least harmful first manoeuvre.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Stopping ocular manipulation removes the afferent trigger and is the fastest, least harmful first manoeuvre.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Stopping ocular manipulation removes the afferent trigger and is the fastest, least harmful first manoeuvre."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Adrenaline is reserved for cardiac arrest or refractory instability according to the resuscitation context. It is not the first treatment of an uncomplicated oculocardiac reflex.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Adrenaline is reserved for cardiac arrest or refractory instability according to the resuscitation context."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adrenaline is reserved for cardiac arrest or refractory instability according to the resuscitation context.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Adrenaline is reserved for cardiac arrest or refractory instability according to the resuscitation context.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Adrenaline is reserved for cardiac arrest or refractory instability according to the resuscitation context."
+            }
+          }
+        }
+      },
+      "memoryHook": "Eye pulled, pulse falls: hands off first, atropine next.",
+      "examPearl": "Afferent limb: ophthalmic division of trigeminal nerve. Efferent limb: vagus nerve.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "D. Give adrenaline",
+        "auditedAnswer": "C. Ask the surgeon to stop the surgery",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 2,
+        "sourcePdfPage": 2,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q003",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The blood-gas partition coefficient describes how soluble an inhaled anaesthetic is in blood relative to alveolar gas. Low blood solubility lets alveolar and brain partial pressure rise and fall quickly, producing rapid induction and recovery.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Potency is better correlated with lipid solubility and expressed clinically by minimum alveolar concentration, or MAC. A lower MAC means a more potent agent.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Potency is better correlated with lipid solubility and expressed clinically by minimum alveolar concentration, or MAC."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Potency is better correlated with lipid solubility and expressed clinically by minimum alveolar concentration, or MAC.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Potency is better correlated with lipid solubility and expressed clinically by minimum alveolar concentration, or MAC.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Potency is better correlated with lipid solubility and expressed clinically by minimum alveolar concentration, or MAC."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Speed is the correct association. Low blood-gas coefficient means less drug must dissolve in blood before alveolar partial pressure rises.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Low blood-gas coefficient means less drug must dissolve in blood before alveolar partial pressure rises."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Low blood-gas coefficient means less drug must dissolve in blood before alveolar partial pressure rises.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Low blood-gas coefficient means less drug must dissolve in blood before alveolar partial pressure rises.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Low blood-gas coefficient means less drug must dissolve in blood before alveolar partial pressure rises."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lipid solubility relates to anaesthetic potency through the Meyer-Overton relationship, not to the blood-gas coefficient itself.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Lipid solubility relates to anaesthetic potency through the Meyer-Overton relationship, not to the blood-gas coefficient itself."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lipid solubility relates to anaesthetic potency through the Meyer-Overton relationship, not to the blood-gas coefficient itself.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Lipid solubility relates to anaesthetic potency through the Meyer-Overton relationship, not to the blood-gas coefficient itself.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Lipid solubility relates to anaesthetic potency through the Meyer-Overton relationship, not to the blood-gas coefficient itself."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A defined pharmacokinetic relationship is present, so 'none' is incorrect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A defined pharmacokinetic relationship is present, so 'none' is incorrect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Blood holds less, brain gets it faster: low blood-gas means fast on and fast off.",
+      "examPearl": "Desflurane and nitrous oxide are fast because of low blood solubility; halothane is slower.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Speed of induction and recovery",
+        "auditedAnswer": "B. Speed of induction and recovery",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 3,
+        "sourcePdfPage": 2,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q005",
+      "answer": {
+        "kind": "multiple_defensible",
+        "correctOptionIds": [
+          "A",
+          "C"
+        ],
+        "summary": "Current practice generally favours neuraxial anaesthesia in severe pre-eclampsia when platelets, coagulation, airway, and urgency permit. For a caesarean delivery requiring a new block, single-shot spinal is rapid, reliable, and safe; epidural is also appropriate, especially when a functioning labour catheter is already present or gradual titration is desired. The stem lacks the context needed to make A or C universally superior.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Correct for many patients needing a new, rapid and reliable caesarean block. Severe pre-eclampsia alone is not a contraindication, and hypotension is usually manageable.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Severe pre-eclampsia alone is not a contraindication, and hypotension is usually manageable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe pre-eclampsia alone is not a contraindication, and hypotension is usually manageable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe pre-eclampsia alone is not a contraindication, and hypotension is usually manageable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Severe pre-eclampsia alone is not a contraindication, and hypotension is usually manageable."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "General anaesthesia risks a difficult or oedematous airway and a dangerous hypertensive response to laryngoscopy. It is used for true emergency, contraindicated neuraxial block, coagulopathy, or failed regional technique.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: General anaesthesia risks a difficult or oedematous airway and a dangerous hypertensive response to laryngoscopy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: General anaesthesia risks a difficult or oedematous airway and a dangerous hypertensive response to laryngoscopy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? General anaesthesia risks a difficult or oedematous airway and a dangerous hypertensive response to laryngoscopy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "General anaesthesia risks a difficult or oedematous airway and a dangerous hypertensive response to laryngoscopy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Also correct in appropriate context. Epidural allows gradual dosing and excellent haemodynamic control and may be preferred when an effective labour catheter is already in place; this explains the source key.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Epidural allows gradual dosing and excellent haemodynamic control and may be preferred when an effective labour catheter is already in place"
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Epidural allows gradual dosing and excellent haemodynamic control and may be preferred when an effective labour catheter is already in place",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice allows gradual dosing and excellent haemodynamic control and may be preferred when an effective labour catheter is already in place",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Epidural allows gradual dosing and excellent haemodynamic control and may be preferred when an effective labour catheter is already in place"
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Combined spinal-epidural is reasonable when a titratable or prolonged block is useful, but it is not automatically superior to a straightforward spinal for every caesarean.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Combined spinal-epidural is reasonable when a titratable or prolonged block is useful, but it is not automatically superior to a straightforward spinal for every caesarean."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Combined spinal-epidural is reasonable when a titratable or prolonged block is useful, but it is not automatically superior to a straightforward spinal for every caesarean.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Combined spinal-epidural is reasonable when a titratable or prolonged block is useful, but it is not automatically superior to a straightforward spinal for every caesarean.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Combined spinal-epidural is reasonable when a titratable or prolonged block is useful, but it is not automatically superior to a straightforward spinal for every caesarean."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pre-eclampsia: prefer the neuraxis, fear the airway.",
+      "examPearl": "Always check platelet trend and clinical bleeding risk. Do not preload aggressively because pulmonary oedema risk is increased.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Epidural",
+        "auditedAnswer": "Multiple defensible options: A + C",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 5,
+        "sourcePdfPage": 2,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q046",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The oculocardiac reflex has an afferent limb through ciliary nerves, ciliary ganglion, and ophthalmic trigeminal division to the brainstem, with a vagal efferent limb to the heart. Oculomotor nerve is not the mediator.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. The reflex is also called the Aschner or Aschner-Dagnini phenomenon.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The reflex is also called the Aschner or Aschner-Dagnini phenomenon."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The reflex is also called the Aschner or Aschner-Dagnini phenomenon.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The reflex is also called the Aschner or Aschner-Dagnini phenomenon.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The reflex is also called the Aschner or Aschner-Dagnini phenomenon."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "False and therefore the answer. Replace 'oculomotor' with ophthalmic trigeminal, V1.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Replace 'oculomotor' with ophthalmic trigeminal, V1."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Replace 'oculomotor' with ophthalmic trigeminal, V1.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Replace 'oculomotor' with ophthalmic trigeminal, V1.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Replace 'oculomotor' with ophthalmic trigeminal, V1."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Extraocular muscle traction, especially medial rectus traction, may provoke bradycardia, arrhythmia, or hypotension.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Extraocular muscle traction, especially medial rectus traction, may provoke bradycardia, arrhythmia, or hypotension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Extraocular muscle traction, especially medial rectus traction, may provoke bradycardia, arrhythmia, or hypotension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Extraocular muscle traction, especially medial rectus traction, may provoke bradycardia, arrhythmia, or hypotension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Extraocular muscle traction, especially medial rectus traction, may provoke bradycardia, arrhythmia, or hypotension."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Children and neonates have stronger vagal tone and are more susceptible.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Children and neonates have stronger vagal tone and are more susceptible."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Children and neonates have stronger vagal tone and are more susceptible.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Children and neonates have stronger vagal tone and are more susceptible.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Children and neonates have stronger vagal tone and are more susceptible."
+            }
+          }
+        }
+      },
+      "memoryHook": "Eye sensation goes by V1; heart slowing returns by X.",
+      "examPearl": "Immediate management is release of traction, then treat persistent bradycardia with an anticholinergic.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. It is mediated by occulomotor and vagus nerve",
+        "auditedAnswer": "B. It is mediated by occulomotor and vagus nerve",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 46,
+        "sourcePdfPage": 10,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q285",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Jackson-Rees modification of Ayre's T-piece, Mapleson F, has low resistance and low apparatus dead space, making it suitable for infants and small children. Its reservoir bag also permits assisted or controlled ventilation.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The Jackson-Rees modification of Ayre's T-piece is a low-resistance Mapleson F circuit well suited to spontaneous or controlled ventilation in infants.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The Jackson-Rees modification of Ayre's T-piece is a low-resistance Mapleson F circuit well suited to spontaneous or controlled ventilation in infants."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The Jackson-Rees modification of Ayre's T-piece is a low-resistance Mapleson F circuit well suited to spontaneous or controlled ventilation in infants.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The Jackson-Rees modification of Ayre's T-piece is a low-resistance Mapleson F circuit well suited to spontaneous or controlled ventilation in infants.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The Jackson-Rees modification of Ayre's T-piece is a low-resistance Mapleson F circuit well suited to spontaneous or controlled ventilation in infants."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mapleson A is efficient for spontaneous breathing in larger patients but has valves and more resistance than a T-piece system.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Mapleson A is efficient for spontaneous breathing in larger patients but has valves and more resistance than a T-piece system."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mapleson A is efficient for spontaneous breathing in larger patients but has valves and more resistance than a T-piece system.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mapleson A is efficient for spontaneous breathing in larger patients but has valves and more resistance than a T-piece system.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Mapleson A is efficient for spontaneous breathing in larger patients but has valves and more resistance than a T-piece system."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mapleson C and to-and-fro systems are not preferred for routine spontaneous infant anaesthesia because of resistance and rebreathing concerns.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mapleson C and to-and-fro systems are not preferred for routine spontaneous infant anaesthesia because of resistance and rebreathing concerns."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mapleson C and to-and-fro systems are not preferred for routine spontaneous infant anaesthesia because of resistance and rebreathing concerns.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mapleson C and to-and-fro systems are not preferred for routine spontaneous infant anaesthesia because of resistance and rebreathing concerns.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Mapleson C and to-and-fro systems are not preferred for routine spontaneous infant anaesthesia because of resistance and rebreathing concerns."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bain circuit is a coaxial Mapleson D and requires higher fresh-gas flows; it is less ideal for a small spontaneously breathing infant.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bain circuit is a coaxial Mapleson D and requires higher fresh-gas flows; it is less ideal for a small spontaneously breathing infant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bain circuit is a coaxial Mapleson D and requires higher fresh-gas flows; it is less ideal for a small spontaneously breathing infant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bain circuit is a coaxial Mapleson D and requires higher fresh-gas flows; it is less ideal for a small spontaneously breathing infant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Bain circuit is a coaxial Mapleson D and requires higher fresh-gas flows; it is less ideal for a small spontaneously breathing infant."
+            }
+          }
+        }
+      },
+      "memoryHook": "Infant needs a light, low-resistance T-piece: Jackson-Rees.",
+      "examPearl": "Circuit choice also depends on weight, ventilation mode, monitoring, heat and humidification, and anaesthetist familiarity.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. jackson Rees modification of Ayre's T piece",
+        "auditedAnswer": "A. jackson Rees modification of Ayre's T piece",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 285,
+        "sourcePdfPage": 52,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    }
+  ]
+}

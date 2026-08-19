@@ -1,0 +1,2038 @@
+{
+  "curriculumPhases": [
+    {
+      "id": "pre_clinical",
+      "label": "Pre-clinical"
+    },
+    {
+      "id": "para_clinical",
+      "label": "Para-clinical"
+    },
+    {
+      "id": "clinical",
+      "label": "Clinical"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "anatomy",
+      "label": "Anatomy",
+      "curriculumPhaseId": "pre_clinical"
+    },
+    {
+      "id": "physiology",
+      "label": "Physiology",
+      "curriculumPhaseId": "pre_clinical"
+    },
+    {
+      "id": "biochemistry",
+      "label": "Biochemistry",
+      "curriculumPhaseId": "pre_clinical"
+    },
+    {
+      "id": "pathology",
+      "label": "Pathology",
+      "curriculumPhaseId": "para_clinical"
+    },
+    {
+      "id": "pharmacology",
+      "label": "Pharmacology",
+      "curriculumPhaseId": "para_clinical"
+    },
+    {
+      "id": "microbiology",
+      "label": "Microbiology",
+      "curriculumPhaseId": "para_clinical"
+    },
+    {
+      "id": "forensic_medicine",
+      "label": "Forensic Medicine",
+      "curriculumPhaseId": "para_clinical"
+    },
+    {
+      "id": "community_medicine",
+      "label": "Community Medicine",
+      "curriculumPhaseId": "para_clinical"
+    },
+    {
+      "id": "medicine",
+      "label": "Medicine",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "surgery",
+      "label": "Surgery",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "obstetrics_gynaecology",
+      "label": "Obstetrics and Gynaecology",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "paediatrics",
+      "label": "Paediatrics",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "ophthalmology",
+      "label": "Ophthalmology",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "ent",
+      "label": "ENT",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "orthopaedics",
+      "label": "Orthopaedics",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "anaesthesiology",
+      "label": "Anaesthesiology",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "radiodiagnosis",
+      "label": "Radiodiagnosis",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "psychiatry",
+      "label": "Psychiatry",
+      "curriculumPhaseId": "clinical"
+    },
+    {
+      "id": "dermatology",
+      "label": "Dermatology",
+      "curriculumPhaseId": "clinical"
+    }
+  ],
+  "subdisciplines": [
+    {
+      "id": "embryology",
+      "label": "Embryology",
+      "subjectIds": [
+        "anatomy"
+      ]
+    },
+    {
+      "id": "histology",
+      "label": "Histology",
+      "subjectIds": [
+        "anatomy"
+      ]
+    },
+    {
+      "id": "immunology",
+      "label": "Immunology",
+      "subjectIds": [
+        "microbiology"
+      ]
+    },
+    {
+      "id": "radiotherapy",
+      "label": "Radiotherapy",
+      "subjectIds": [
+        "radiodiagnosis"
+      ]
+    },
+    {
+      "id": "dentistry",
+      "label": "Dentistry",
+      "subjectIds": [
+        "anatomy",
+        "surgery"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "anaesthesiology.caesarean_anaesthesia_in_severe_pre_eclampsia",
+      "subjectId": "anaesthesiology",
+      "label": "Caesarean anaesthesia in severe pre-eclampsia"
+    },
+    {
+      "id": "anaesthesiology.induction_agent_in_shock",
+      "subjectId": "anaesthesiology",
+      "label": "Induction agent in shock"
+    },
+    {
+      "id": "anaesthesiology.inhalational_anaesthetic_kinetics",
+      "subjectId": "anaesthesiology",
+      "label": "Inhalational anaesthetic kinetics"
+    },
+    {
+      "id": "anaesthesiology.oculocardiac_reflex",
+      "subjectId": "anaesthesiology",
+      "label": "Oculocardiac reflex"
+    },
+    {
+      "id": "anaesthesiology.oculocardiac_reflex_pathway",
+      "subjectId": "anaesthesiology",
+      "label": "Oculocardiac reflex pathway"
+    },
+    {
+      "id": "anaesthesiology.paediatric_breathing_circuits",
+      "subjectId": "anaesthesiology",
+      "label": "Paediatric breathing circuits"
+    },
+    {
+      "id": "anatomy.anterior_intercostal_arteries",
+      "subjectId": "anatomy",
+      "label": "Anterior intercostal arteries"
+    },
+    {
+      "id": "anatomy.azygos_vein",
+      "subjectId": "anatomy",
+      "label": "Azygos vein"
+    },
+    {
+      "id": "anatomy.broca_area",
+      "subjectId": "anatomy",
+      "label": "Broca area"
+    },
+    {
+      "id": "anatomy.carpal_ossification",
+      "subjectId": "anatomy",
+      "label": "Carpal ossification"
+    },
+    {
+      "id": "anatomy.cavernous_sinus_contents",
+      "subjectId": "anatomy",
+      "label": "Cavernous sinus contents"
+    },
+    {
+      "id": "anatomy.chorda_tympani",
+      "subjectId": "anatomy",
+      "label": "Chorda tympani"
+    },
+    {
+      "id": "anatomy.coronary_sinus_tributaries",
+      "subjectId": "anatomy",
+      "label": "Coronary sinus tributaries"
+    },
+    {
+      "id": "anatomy.development_of_the_eye",
+      "subjectId": "anatomy",
+      "label": "Development of the eye"
+    },
+    {
+      "id": "anatomy.development_of_urinary_bladder",
+      "subjectId": "anatomy",
+      "label": "Development of urinary bladder"
+    },
+    {
+      "id": "anatomy.diaphragmatic_openings",
+      "subjectId": "anatomy",
+      "label": "Diaphragmatic openings"
+    },
+    {
+      "id": "anatomy.digital_sensory_innervation",
+      "subjectId": "anatomy",
+      "label": "Digital sensory innervation"
+    },
+    {
+      "id": "anatomy.dorsal_extensor_compartments",
+      "subjectId": "anatomy",
+      "label": "Dorsal extensor compartments"
+    },
+    {
+      "id": "anatomy.ducts_of_bellini",
+      "subjectId": "anatomy",
+      "label": "Ducts of Bellini"
+    },
+    {
+      "id": "anatomy.external_oblique_aponeurosis",
+      "subjectId": "anatomy",
+      "label": "External oblique aponeurosis"
+    },
+    {
+      "id": "anatomy.femoral_artery_branches",
+      "subjectId": "anatomy",
+      "label": "Femoral artery branches"
+    },
+    {
+      "id": "anatomy.fetoplacental_circulation",
+      "subjectId": "anatomy",
+      "label": "Fetoplacental circulation"
+    },
+    {
+      "id": "anatomy.glomus_cells",
+      "subjectId": "anatomy",
+      "label": "Glomus cells"
+    },
+    {
+      "id": "anatomy.hip_flexors",
+      "subjectId": "anatomy",
+      "label": "Hip flexors"
+    },
+    {
+      "id": "anatomy.interatrial_septum",
+      "subjectId": "anatomy",
+      "label": "Interatrial septum"
+    },
+    {
+      "id": "anatomy.interchondral_joints",
+      "subjectId": "anatomy",
+      "label": "Interchondral joints"
+    },
+    {
+      "id": "anatomy.intrinsic_hand_muscle_action",
+      "subjectId": "anatomy",
+      "label": "Intrinsic hand muscle action"
+    },
+    {
+      "id": "anatomy.large_intestinal_haustra",
+      "subjectId": "anatomy",
+      "label": "Large-intestinal haustra"
+    },
+    {
+      "id": "anatomy.malpighian_layer_of_epidermis",
+      "subjectId": "anatomy",
+      "label": "Malpighian layer of epidermis"
+    },
+    {
+      "id": "anatomy.muscle_architecture",
+      "subjectId": "anatomy",
+      "label": "Muscle architecture"
+    },
+    {
+      "id": "anatomy.notochord",
+      "subjectId": "anatomy",
+      "label": "Notochord"
+    },
+    {
+      "id": "anatomy.onset_of_foetal_cardiac_activity",
+      "subjectId": "anatomy",
+      "label": "Onset of foetal cardiac activity"
+    },
+    {
+      "id": "anatomy.ossification_around_the_knee",
+      "subjectId": "anatomy",
+      "label": "Ossification around the knee"
+    },
+    {
+      "id": "anatomy.peripheral_myelination",
+      "subjectId": "anatomy",
+      "label": "Peripheral myelination"
+    },
+    {
+      "id": "anatomy.permanent_tooth_eruption",
+      "subjectId": "anatomy",
+      "label": "Permanent tooth eruption"
+    },
+    {
+      "id": "anatomy.pharyngeal_arch_muscle_derivatives",
+      "subjectId": "anatomy",
+      "label": "Pharyngeal arch muscle derivatives"
+    },
+    {
+      "id": "anatomy.pharyngeal_arch_nerve_development",
+      "subjectId": "anatomy",
+      "label": "Pharyngeal arch nerve development"
+    },
+    {
+      "id": "anatomy.pharyngeal_arch_ossicles",
+      "subjectId": "anatomy",
+      "label": "Pharyngeal arch ossicles"
+    },
+    {
+      "id": "anatomy.popliteus_muscle",
+      "subjectId": "anatomy",
+      "label": "Popliteus muscle"
+    },
+    {
+      "id": "anatomy.portal_venous_anatomy_on_ct",
+      "subjectId": "anatomy",
+      "label": "Portal venous anatomy on CT"
+    },
+    {
+      "id": "anatomy.radial_nerve_in_spiral_groove",
+      "subjectId": "anatomy",
+      "label": "Radial nerve in spiral groove"
+    },
+    {
+      "id": "anatomy.special_visceral_efferent_nuclei",
+      "subjectId": "anatomy",
+      "label": "Special visceral efferent nuclei"
+    },
+    {
+      "id": "anatomy.spermatogenesis",
+      "subjectId": "anatomy",
+      "label": "Spermatogenesis"
+    },
+    {
+      "id": "anatomy.spheno_occipital_synchondrosis",
+      "subjectId": "anatomy",
+      "label": "Spheno-occipital synchondrosis"
+    },
+    {
+      "id": "anatomy.structures_deep_to_inguinal_ligament",
+      "subjectId": "anatomy",
+      "label": "Structures deep to inguinal ligament"
+    },
+    {
+      "id": "anatomy.styloid_process_development",
+      "subjectId": "anatomy",
+      "label": "Styloid process development"
+    },
+    {
+      "id": "anatomy.superior_mesenteric_artery_angiography",
+      "subjectId": "anatomy",
+      "label": "Superior mesenteric artery angiography"
+    },
+    {
+      "id": "anatomy.suprapleural_membrane",
+      "subjectId": "anatomy",
+      "label": "Suprapleural membrane"
+    },
+    {
+      "id": "anatomy.suprarenal_venous_drainage",
+      "subjectId": "anatomy",
+      "label": "Suprarenal venous drainage"
+    },
+    {
+      "id": "anatomy.temporomandibular_joint",
+      "subjectId": "anatomy",
+      "label": "Temporomandibular joint"
+    },
+    {
+      "id": "anatomy.thoracodorsal_nerve",
+      "subjectId": "anatomy",
+      "label": "Thoracodorsal nerve"
+    },
+    {
+      "id": "anatomy.ureteric_bud",
+      "subjectId": "anatomy",
+      "label": "Ureteric bud"
+    },
+    {
+      "id": "anatomy.urinary_bladder_epithelium",
+      "subjectId": "anatomy",
+      "label": "Urinary bladder epithelium"
+    },
+    {
+      "id": "biochemistry.allosteric_inhibition",
+      "subjectId": "biochemistry",
+      "label": "Allosteric inhibition"
+    },
+    {
+      "id": "biochemistry.amino_acid_classification",
+      "subjectId": "biochemistry",
+      "label": "Amino acid classification"
+    },
+    {
+      "id": "biochemistry.bacterial_dna_polymerase_i",
+      "subjectId": "biochemistry",
+      "label": "Bacterial DNA polymerase I"
+    },
+    {
+      "id": "biochemistry.brain_fuel_in_starvation",
+      "subjectId": "biochemistry",
+      "label": "Brain fuel in starvation"
+    },
+    {
+      "id": "biochemistry.catecholamine_metabolites",
+      "subjectId": "biochemistry",
+      "label": "Catecholamine metabolites"
+    },
+    {
+      "id": "biochemistry.catecholamine_synthesis",
+      "subjectId": "biochemistry",
+      "label": "Catecholamine synthesis"
+    },
+    {
+      "id": "biochemistry.cellular_energy_currency",
+      "subjectId": "biochemistry",
+      "label": "Cellular energy currency"
+    },
+    {
+      "id": "biochemistry.classic_galactosaemia",
+      "subjectId": "biochemistry",
+      "label": "Classic galactosaemia"
+    },
+    {
+      "id": "biochemistry.cytosolic_nadph_sources",
+      "subjectId": "biochemistry",
+      "label": "Cytosolic NADPH sources"
+    },
+    {
+      "id": "biochemistry.de_novo_purine_synthesis",
+      "subjectId": "biochemistry",
+      "label": "De novo purine synthesis"
+    },
+    {
+      "id": "biochemistry.definition_of_glycaemic_index",
+      "subjectId": "biochemistry",
+      "label": "Definition of glycaemic index"
+    },
+    {
+      "id": "biochemistry.dietary_protein_content",
+      "subjectId": "biochemistry",
+      "label": "Dietary protein content"
+    },
+    {
+      "id": "biochemistry.dna_replication",
+      "subjectId": "biochemistry",
+      "label": "DNA replication"
+    },
+    {
+      "id": "biochemistry.fatty_acid_synthesis",
+      "subjectId": "biochemistry",
+      "label": "Fatty acid synthesis"
+    },
+    {
+      "id": "biochemistry.fibrin_formation",
+      "subjectId": "biochemistry",
+      "label": "Fibrin formation"
+    },
+    {
+      "id": "biochemistry.glucagon_actions",
+      "subjectId": "biochemistry",
+      "label": "Glucagon actions"
+    },
+    {
+      "id": "biochemistry.glycaemic_index",
+      "subjectId": "biochemistry",
+      "label": "Glycaemic index"
+    },
+    {
+      "id": "biochemistry.glycolysis_energy_yield",
+      "subjectId": "biochemistry",
+      "label": "Glycolysis energy yield"
+    },
+    {
+      "id": "biochemistry.haem_synthesis_regulation",
+      "subjectId": "biochemistry",
+      "label": "Haem synthesis regulation"
+    },
+    {
+      "id": "biochemistry.hexokinase_and_glucokinase",
+      "subjectId": "biochemistry",
+      "label": "Hexokinase and glucokinase"
+    },
+    {
+      "id": "biochemistry.hunter_syndrome",
+      "subjectId": "biochemistry",
+      "label": "Hunter syndrome"
+    },
+    {
+      "id": "biochemistry.ketone_body_synthesis",
+      "subjectId": "biochemistry",
+      "label": "Ketone body synthesis"
+    },
+    {
+      "id": "biochemistry.lcat_deficiency",
+      "subjectId": "biochemistry",
+      "label": "LCAT deficiency"
+    },
+    {
+      "id": "biochemistry.lesch_nyhan_syndrome",
+      "subjectId": "biochemistry",
+      "label": "Lesch-Nyhan syndrome"
+    },
+    {
+      "id": "biochemistry.maple_syrup_urine_disease",
+      "subjectId": "biochemistry",
+      "label": "Maple syrup urine disease"
+    },
+    {
+      "id": "biochemistry.nitric_oxide_synthesis",
+      "subjectId": "biochemistry",
+      "label": "Nitric oxide synthesis"
+    },
+    {
+      "id": "biochemistry.oxidative_phosphorylation_inhibitors",
+      "subjectId": "biochemistry",
+      "label": "Oxidative phosphorylation inhibitors"
+    },
+    {
+      "id": "biochemistry.porphyrin_structure_of_haem",
+      "subjectId": "biochemistry",
+      "label": "Porphyrin structure of haem"
+    },
+    {
+      "id": "biochemistry.purine_degradation",
+      "subjectId": "biochemistry",
+      "label": "Purine degradation"
+    },
+    {
+      "id": "biochemistry.pyruvate_dehydrogenase_cofactors",
+      "subjectId": "biochemistry",
+      "label": "Pyruvate dehydrogenase cofactors"
+    },
+    {
+      "id": "biochemistry.riboflavin_and_fmo3",
+      "subjectId": "biochemistry",
+      "label": "Riboflavin and FMO3"
+    },
+    {
+      "id": "biochemistry.rice_polishing_and_thiamine",
+      "subjectId": "biochemistry",
+      "label": "Rice polishing and thiamine"
+    },
+    {
+      "id": "biochemistry.shared_glycolysis_and_gluconeogenesis_enzymes",
+      "subjectId": "biochemistry",
+      "label": "Shared glycolysis and gluconeogenesis enzymes"
+    },
+    {
+      "id": "biochemistry.sirtuins",
+      "subjectId": "biochemistry",
+      "label": "Sirtuins"
+    },
+    {
+      "id": "biochemistry.substrates_for_haem_synthesis",
+      "subjectId": "biochemistry",
+      "label": "Substrates for haem synthesis"
+    },
+    {
+      "id": "biochemistry.trimethylaminuria",
+      "subjectId": "biochemistry",
+      "label": "Trimethylaminuria"
+    },
+    {
+      "id": "biochemistry.tyrosinaemia_type_i",
+      "subjectId": "biochemistry",
+      "label": "Tyrosinaemia type I"
+    },
+    {
+      "id": "biochemistry.udp_glucose_functions",
+      "subjectId": "biochemistry",
+      "label": "UDP-glucose functions"
+    },
+    {
+      "id": "biochemistry.vitamin_b12_sources",
+      "subjectId": "biochemistry",
+      "label": "Vitamin B12 sources"
+    },
+    {
+      "id": "community_medicine.acculturation",
+      "subjectId": "community_medicine",
+      "label": "Acculturation"
+    },
+    {
+      "id": "community_medicine.berkson_bias",
+      "subjectId": "community_medicine",
+      "label": "Berkson bias"
+    },
+    {
+      "id": "community_medicine.chlorination_chemistry",
+      "subjectId": "community_medicine",
+      "label": "Chlorination chemistry"
+    },
+    {
+      "id": "community_medicine.coliform_testing",
+      "subjectId": "community_medicine",
+      "label": "Coliform testing"
+    },
+    {
+      "id": "community_medicine.couple_protection_rate_and_nrr",
+      "subjectId": "community_medicine",
+      "label": "Couple protection rate and NRR"
+    },
+    {
+      "id": "community_medicine.cytotoxic_pharmaceutical_waste",
+      "subjectId": "community_medicine",
+      "label": "Cytotoxic pharmaceutical waste"
+    },
+    {
+      "id": "community_medicine.ecological_study",
+      "subjectId": "community_medicine",
+      "label": "Ecological study"
+    },
+    {
+      "id": "community_medicine.family_life_cycle",
+      "subjectId": "community_medicine",
+      "label": "Family life cycle"
+    },
+    {
+      "id": "community_medicine.generation_time",
+      "subjectId": "community_medicine",
+      "label": "Generation time"
+    },
+    {
+      "id": "community_medicine.hardness_of_water",
+      "subjectId": "community_medicine",
+      "label": "Hardness of water"
+    },
+    {
+      "id": "community_medicine.human_development_index",
+      "subjectId": "community_medicine",
+      "label": "Human Development Index"
+    },
+    {
+      "id": "community_medicine.incidence_prevalence_relation",
+      "subjectId": "community_medicine",
+      "label": "Incidence-prevalence relation"
+    },
+    {
+      "id": "community_medicine.iodine_requirement_in_lactation",
+      "subjectId": "community_medicine",
+      "label": "Iodine requirement in lactation"
+    },
+    {
+      "id": "community_medicine.measles_rubella_campaign",
+      "subjectId": "community_medicine",
+      "label": "Measles-rubella campaign"
+    },
+    {
+      "id": "community_medicine.mission_indradhanush_vaccines",
+      "subjectId": "community_medicine",
+      "label": "Mission Indradhanush vaccines"
+    },
+    {
+      "id": "community_medicine.modes_of_disease_transmission",
+      "subjectId": "community_medicine",
+      "label": "Modes of disease transmission"
+    },
+    {
+      "id": "community_medicine.natural_history_of_disease",
+      "subjectId": "community_medicine",
+      "label": "Natural history of disease"
+    },
+    {
+      "id": "community_medicine.nikshay_tb_platform",
+      "subjectId": "community_medicine",
+      "label": "Nikshay TB platform"
+    },
+    {
+      "id": "community_medicine.pasteurisation",
+      "subjectId": "community_medicine",
+      "label": "Pasteurisation"
+    },
+    {
+      "id": "community_medicine.pearl_index",
+      "subjectId": "community_medicine",
+      "label": "Pearl index"
+    },
+    {
+      "id": "community_medicine.pearl_index_calculation",
+      "subjectId": "community_medicine",
+      "label": "Pearl index calculation"
+    },
+    {
+      "id": "community_medicine.pertussis_herd_immunity_threshold",
+      "subjectId": "community_medicine",
+      "label": "Pertussis herd-immunity threshold"
+    },
+    {
+      "id": "community_medicine.proportional_mortality",
+      "subjectId": "community_medicine",
+      "label": "Proportional mortality"
+    },
+    {
+      "id": "community_medicine.randomisation",
+      "subjectId": "community_medicine",
+      "label": "Randomisation"
+    },
+    {
+      "id": "community_medicine.relative_risk",
+      "subjectId": "community_medicine",
+      "label": "Relative risk"
+    },
+    {
+      "id": "community_medicine.secondary_attack_rate",
+      "subjectId": "community_medicine",
+      "label": "Secondary attack rate"
+    },
+    {
+      "id": "community_medicine.sensitivity_calculation",
+      "subjectId": "community_medicine",
+      "label": "Sensitivity calculation"
+    },
+    {
+      "id": "community_medicine.spacing_of_live_vaccines",
+      "subjectId": "community_medicine",
+      "label": "Spacing of live vaccines"
+    },
+    {
+      "id": "community_medicine.visceral_leishmaniasis_endemicity",
+      "subjectId": "community_medicine",
+      "label": "Visceral leishmaniasis endemicity"
+    },
+    {
+      "id": "community_medicine.who_clinical_aids_surveillance_definition",
+      "subjectId": "community_medicine",
+      "label": "WHO clinical AIDS surveillance definition"
+    },
+    {
+      "id": "dermatology.alopecia_areata",
+      "subjectId": "dermatology",
+      "label": "Alopecia areata"
+    },
+    {
+      "id": "dermatology.atopic_dermatitis",
+      "subjectId": "dermatology",
+      "label": "Atopic dermatitis"
+    },
+    {
+      "id": "dermatology.becker_naevus",
+      "subjectId": "dermatology",
+      "label": "Becker naevus"
+    },
+    {
+      "id": "dermatology.cutaneous_lymphoma_risk",
+      "subjectId": "dermatology",
+      "label": "Cutaneous lymphoma risk"
+    },
+    {
+      "id": "dermatology.cutis_marmorata",
+      "subjectId": "dermatology",
+      "label": "Cutis marmorata"
+    },
+    {
+      "id": "dermatology.miliaria",
+      "subjectId": "dermatology",
+      "label": "Miliaria"
+    },
+    {
+      "id": "dermatology.phrynoderma_and_nutritional_deficiency",
+      "subjectId": "dermatology",
+      "label": "Phrynoderma and nutritional deficiency"
+    },
+    {
+      "id": "dermatology.thickened_peripheral_nerve_in_leprosy",
+      "subjectId": "dermatology",
+      "label": "Thickened peripheral nerve in leprosy"
+    },
+    {
+      "id": "dermatology.vagabond_disease",
+      "subjectId": "dermatology",
+      "label": "Vagabond disease"
+    },
+    {
+      "id": "dermatology.varicella_versus_smallpox_rash",
+      "subjectId": "dermatology",
+      "label": "Varicella versus smallpox rash"
+    },
+    {
+      "id": "ent.galen_anastomosis",
+      "subjectId": "ent",
+      "label": "Galen anastomosis"
+    },
+    {
+      "id": "ent.gradenigo_syndrome",
+      "subjectId": "ent",
+      "label": "Gradenigo syndrome"
+    },
+    {
+      "id": "ent.indications_for_tracheostomy",
+      "subjectId": "ent",
+      "label": "Indications for tracheostomy"
+    },
+    {
+      "id": "ent.intrinsic_laryngeal_muscles",
+      "subjectId": "ent",
+      "label": "Intrinsic laryngeal muscles"
+    },
+    {
+      "id": "ent.korner_septum",
+      "subjectId": "ent",
+      "label": "Korner septum"
+    },
+    {
+      "id": "ent.passavant_ridge",
+      "subjectId": "ent",
+      "label": "Passavant ridge"
+    },
+    {
+      "id": "ent.plummer_vinson_syndrome",
+      "subjectId": "ent",
+      "label": "Plummer-Vinson syndrome"
+    },
+    {
+      "id": "ent.sensory_innervation_of_tonsil",
+      "subjectId": "ent",
+      "label": "Sensory innervation of tonsil"
+    },
+    {
+      "id": "forensic_medicine.bansdola_strangulation",
+      "subjectId": "forensic_medicine",
+      "label": "Bansdola strangulation"
+    },
+    {
+      "id": "forensic_medicine.barbiturate_poisoning",
+      "subjectId": "forensic_medicine",
+      "label": "Barbiturate poisoning"
+    },
+    {
+      "id": "forensic_medicine.cadmium_toxicity",
+      "subjectId": "forensic_medicine",
+      "label": "Cadmium toxicity"
+    },
+    {
+      "id": "forensic_medicine.cephalic_index",
+      "subjectId": "forensic_medicine",
+      "label": "Cephalic index"
+    },
+    {
+      "id": "forensic_medicine.constitutional_provisions_for_children",
+      "subjectId": "forensic_medicine",
+      "label": "Constitutional provisions for children"
+    },
+    {
+      "id": "forensic_medicine.exhumation_authority_in_india",
+      "subjectId": "forensic_medicine",
+      "label": "Exhumation authority in India"
+    },
+    {
+      "id": "forensic_medicine.heavy_metal_proximal_tubulopathy",
+      "subjectId": "forensic_medicine",
+      "label": "Heavy-metal proximal tubulopathy"
+    },
+    {
+      "id": "forensic_medicine.hymenal_tears",
+      "subjectId": "forensic_medicine",
+      "label": "Hymenal tears"
+    },
+    {
+      "id": "forensic_medicine.hyoid_fracture",
+      "subjectId": "forensic_medicine",
+      "label": "Hyoid fracture"
+    },
+    {
+      "id": "forensic_medicine.incised_looking_laceration",
+      "subjectId": "forensic_medicine",
+      "label": "Incised-looking laceration"
+    },
+    {
+      "id": "forensic_medicine.insanity_defence",
+      "subjectId": "forensic_medicine",
+      "label": "Insanity defence"
+    },
+    {
+      "id": "forensic_medicine.juvenile_justice_act",
+      "subjectId": "forensic_medicine",
+      "label": "Juvenile Justice Act"
+    },
+    {
+      "id": "forensic_medicine.maastricht_donation_after_circulatory_death",
+      "subjectId": "forensic_medicine",
+      "label": "Maastricht donation after circulatory death"
+    },
+    {
+      "id": "forensic_medicine.mummification",
+      "subjectId": "forensic_medicine",
+      "label": "Mummification"
+    },
+    {
+      "id": "forensic_medicine.starvation_and_lethal_body_mass_index",
+      "subjectId": "forensic_medicine",
+      "label": "Starvation and lethal body mass index"
+    },
+    {
+      "id": "forensic_medicine.white_phosphorus_toxicity",
+      "subjectId": "forensic_medicine",
+      "label": "White phosphorus toxicity"
+    },
+    {
+      "id": "medicine.acute_severe_asthma",
+      "subjectId": "medicine",
+      "label": "Acute severe asthma"
+    },
+    {
+      "id": "medicine.aids_related_complex",
+      "subjectId": "medicine",
+      "label": "AIDS-related complex"
+    },
+    {
+      "id": "medicine.alport_syndrome_genetics",
+      "subjectId": "medicine",
+      "label": "Alport syndrome genetics"
+    },
+    {
+      "id": "medicine.alzheimer_disease",
+      "subjectId": "medicine",
+      "label": "Alzheimer disease"
+    },
+    {
+      "id": "medicine.arterial_blood_gas_interpretation",
+      "subjectId": "medicine",
+      "label": "Arterial blood gas interpretation"
+    },
+    {
+      "id": "medicine.aspiration_lung_abscess",
+      "subjectId": "medicine",
+      "label": "Aspiration lung abscess"
+    },
+    {
+      "id": "medicine.bronchiectasis_sicca",
+      "subjectId": "medicine",
+      "label": "Bronchiectasis sicca"
+    },
+    {
+      "id": "medicine.crohn_disease",
+      "subjectId": "medicine",
+      "label": "Crohn disease"
+    },
+    {
+      "id": "medicine.diabetic_third_nerve_palsy",
+      "subjectId": "medicine",
+      "label": "Diabetic third nerve palsy"
+    },
+    {
+      "id": "medicine.haemodialysis_complications",
+      "subjectId": "medicine",
+      "label": "Haemodialysis complications"
+    },
+    {
+      "id": "medicine.hypokalaemia_ecg",
+      "subjectId": "medicine",
+      "label": "Hypokalaemia ECG"
+    },
+    {
+      "id": "medicine.infection_after_kidney_transplantation",
+      "subjectId": "medicine",
+      "label": "Infection after kidney transplantation"
+    },
+    {
+      "id": "medicine.lateral_medullary_syndrome",
+      "subjectId": "medicine",
+      "label": "Lateral medullary syndrome"
+    },
+    {
+      "id": "medicine.left_ventricular_aneurysm_after_myocardial_infarction",
+      "subjectId": "medicine",
+      "label": "Left-ventricular aneurysm after myocardial infarction"
+    },
+    {
+      "id": "medicine.massive_transfusion_complications",
+      "subjectId": "medicine",
+      "label": "Massive transfusion complications"
+    },
+    {
+      "id": "medicine.mechanical_and_right_ventricular_cardiogenic_shock",
+      "subjectId": "medicine",
+      "label": "Mechanical and right-ventricular cardiogenic shock"
+    },
+    {
+      "id": "medicine.meld_score",
+      "subjectId": "medicine",
+      "label": "MELD score"
+    },
+    {
+      "id": "medicine.migraine_pathophysiology",
+      "subjectId": "medicine",
+      "label": "Migraine pathophysiology"
+    },
+    {
+      "id": "medicine.muehrcke_lines",
+      "subjectId": "medicine",
+      "label": "Muehrcke lines"
+    },
+    {
+      "id": "medicine.myasthenia_gravis",
+      "subjectId": "medicine",
+      "label": "Myasthenia gravis"
+    },
+    {
+      "id": "medicine.osteoarthritis_hand_distribution",
+      "subjectId": "medicine",
+      "label": "Osteoarthritis hand distribution"
+    },
+    {
+      "id": "medicine.pleural_effusion_in_hiv",
+      "subjectId": "medicine",
+      "label": "Pleural effusion in HIV"
+    },
+    {
+      "id": "medicine.seropositive_rheumatoid_arthritis",
+      "subjectId": "medicine",
+      "label": "Seropositive rheumatoid arthritis"
+    },
+    {
+      "id": "medicine.shock_refractory_ventricular_fibrillation",
+      "subjectId": "medicine",
+      "label": "Shock-refractory ventricular fibrillation"
+    },
+    {
+      "id": "medicine.symptomatic_acute_hyponatraemia",
+      "subjectId": "medicine",
+      "label": "Symptomatic acute hyponatraemia"
+    },
+    {
+      "id": "medicine.syndromic_obesity",
+      "subjectId": "medicine",
+      "label": "Syndromic obesity"
+    },
+    {
+      "id": "medicine.water_hammer_pulse",
+      "subjectId": "medicine",
+      "label": "Water-hammer pulse"
+    },
+    {
+      "id": "medicine.weber_syndrome",
+      "subjectId": "medicine",
+      "label": "Weber syndrome"
+    },
+    {
+      "id": "microbiology.actinomycosis",
+      "subjectId": "microbiology",
+      "label": "Actinomycosis"
+    },
+    {
+      "id": "microbiology.acute_bacterial_prostatitis",
+      "subjectId": "microbiology",
+      "label": "Acute bacterial prostatitis"
+    },
+    {
+      "id": "microbiology.acute_haemorrhagic_conjunctivitis",
+      "subjectId": "microbiology",
+      "label": "Acute haemorrhagic conjunctivitis"
+    },
+    {
+      "id": "microbiology.babesiosis_vector",
+      "subjectId": "microbiology",
+      "label": "Babesiosis vector"
+    },
+    {
+      "id": "microbiology.bile_esculin_test",
+      "subjectId": "microbiology",
+      "label": "Bile-esculin test"
+    },
+    {
+      "id": "microbiology.blood_agar",
+      "subjectId": "microbiology",
+      "label": "Blood agar"
+    },
+    {
+      "id": "microbiology.blood_culture_anticoagulant",
+      "subjectId": "microbiology",
+      "label": "Blood culture anticoagulant"
+    },
+    {
+      "id": "microbiology.burkholderia_cepacia_resistance",
+      "subjectId": "microbiology",
+      "label": "Burkholderia cepacia resistance"
+    },
+    {
+      "id": "microbiology.chlamydia_biology",
+      "subjectId": "microbiology",
+      "label": "Chlamydia biology"
+    },
+    {
+      "id": "microbiology.cholera",
+      "subjectId": "microbiology",
+      "label": "Cholera"
+    },
+    {
+      "id": "microbiology.cholera_enrichment_medium",
+      "subjectId": "microbiology",
+      "label": "Cholera enrichment medium"
+    },
+    {
+      "id": "microbiology.complement_fixation_tests",
+      "subjectId": "microbiology",
+      "label": "Complement fixation tests"
+    },
+    {
+      "id": "microbiology.cryptococcus",
+      "subjectId": "microbiology",
+      "label": "Cryptococcus"
+    },
+    {
+      "id": "microbiology.culex_mosquito_identification",
+      "subjectId": "microbiology",
+      "label": "Culex mosquito identification"
+    },
+    {
+      "id": "microbiology.cutaneous_larva_migrans",
+      "subjectId": "microbiology",
+      "label": "Cutaneous larva migrans"
+    },
+    {
+      "id": "microbiology.darting_motility",
+      "subjectId": "microbiology",
+      "label": "Darting motility"
+    },
+    {
+      "id": "microbiology.dermatophytes",
+      "subjectId": "microbiology",
+      "label": "Dermatophytes"
+    },
+    {
+      "id": "microbiology.echinococcus_granulosus_life_cycle",
+      "subjectId": "microbiology",
+      "label": "Echinococcus granulosus life cycle"
+    },
+    {
+      "id": "microbiology.herpes_zoster",
+      "subjectId": "microbiology",
+      "label": "Herpes zoster"
+    },
+    {
+      "id": "microbiology.hiv_viral_load_assay_sensitivity",
+      "subjectId": "microbiology",
+      "label": "HIV viral-load assay sensitivity"
+    },
+    {
+      "id": "microbiology.hyperacute_bacterial_conjunctivitis",
+      "subjectId": "microbiology",
+      "label": "Hyperacute bacterial conjunctivitis"
+    },
+    {
+      "id": "microbiology.interferon_gamma_release_assay_specimen",
+      "subjectId": "microbiology",
+      "label": "Interferon-gamma release assay specimen"
+    },
+    {
+      "id": "microbiology.interleukin_2",
+      "subjectId": "microbiology",
+      "label": "Interleukin-2"
+    },
+    {
+      "id": "microbiology.japanese_encephalitis_ecology",
+      "subjectId": "microbiology",
+      "label": "Japanese encephalitis ecology"
+    },
+    {
+      "id": "microbiology.laparoscope_reprocessing",
+      "subjectId": "microbiology",
+      "label": "Laparoscope reprocessing"
+    },
+    {
+      "id": "microbiology.listeria_monocytogenes",
+      "subjectId": "microbiology",
+      "label": "Listeria monocytogenes"
+    },
+    {
+      "id": "microbiology.milk_ring_test",
+      "subjectId": "microbiology",
+      "label": "Milk ring test"
+    },
+    {
+      "id": "microbiology.nocardia_pneumonia",
+      "subjectId": "microbiology",
+      "label": "Nocardia pneumonia"
+    },
+    {
+      "id": "microbiology.osteomyelitis_in_sickle_cell_disease",
+      "subjectId": "microbiology",
+      "label": "Osteomyelitis in sickle cell disease"
+    },
+    {
+      "id": "microbiology.parvovirus_b19",
+      "subjectId": "microbiology",
+      "label": "Parvovirus B19"
+    },
+    {
+      "id": "microbiology.pneumocystis_jirovecii_pneumonia",
+      "subjectId": "microbiology",
+      "label": "Pneumocystis jirovecii pneumonia"
+    },
+    {
+      "id": "microbiology.rhino_orbital_mucormycosis_in_dka",
+      "subjectId": "microbiology",
+      "label": "Rhino-orbital mucormycosis in DKA"
+    },
+    {
+      "id": "microbiology.sabin_feldman_dye_test",
+      "subjectId": "microbiology",
+      "label": "Sabin-Feldman dye test"
+    },
+    {
+      "id": "microbiology.scombroid_histamine_poisoning",
+      "subjectId": "microbiology",
+      "label": "Scombroid histamine poisoning"
+    },
+    {
+      "id": "microbiology.th2_cytokines",
+      "subjectId": "microbiology",
+      "label": "Th2 cytokines"
+    },
+    {
+      "id": "microbiology.urea_breath_test",
+      "subjectId": "microbiology",
+      "label": "Urea breath test"
+    },
+    {
+      "id": "microbiology.vibrio_parahaemolyticus",
+      "subjectId": "microbiology",
+      "label": "Vibrio parahaemolyticus"
+    },
+    {
+      "id": "microbiology.waterhouse_friderichsen_syndrome",
+      "subjectId": "microbiology",
+      "label": "Waterhouse-Friderichsen syndrome"
+    },
+    {
+      "id": "obstetrics_gynaecology.antenatal_corticosteroids",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Antenatal corticosteroids"
+    },
+    {
+      "id": "obstetrics_gynaecology.antihypertensives_in_pregnancy",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Antihypertensives in pregnancy"
+    },
+    {
+      "id": "obstetrics_gynaecology.breech_presentation",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Breech presentation"
+    },
+    {
+      "id": "obstetrics_gynaecology.dilatation_and_curettage_contraindications",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Dilatation and curettage contraindications"
+    },
+    {
+      "id": "obstetrics_gynaecology.extramammary_paget_disease",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Extramammary Paget disease"
+    },
+    {
+      "id": "obstetrics_gynaecology.female_sterilisation_techniques",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Female sterilisation techniques"
+    },
+    {
+      "id": "obstetrics_gynaecology.high_risk_pregnancy",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "High-risk pregnancy"
+    },
+    {
+      "id": "obstetrics_gynaecology.iud_contraindications",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "IUD contraindications"
+    },
+    {
+      "id": "obstetrics_gynaecology.menopausal_hormone_therapy",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Menopausal hormone therapy"
+    },
+    {
+      "id": "obstetrics_gynaecology.mullerian_anomalies",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Mullerian anomalies"
+    },
+    {
+      "id": "obstetrics_gynaecology.obstetric_peripheral_nerve_injury",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Obstetric peripheral nerve injury"
+    },
+    {
+      "id": "obstetrics_gynaecology.ovotesticular_disorder_of_sex_development",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Ovotesticular disorder of sex development"
+    },
+    {
+      "id": "obstetrics_gynaecology.peripartum_cardiomyopathy",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Peripartum cardiomyopathy"
+    },
+    {
+      "id": "obstetrics_gynaecology.placental_physiology",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Placental physiology"
+    },
+    {
+      "id": "obstetrics_gynaecology.quadruple_screening_test",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Quadruple screening test"
+    },
+    {
+      "id": "obstetrics_gynaecology.ring_pessary_fitting",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Ring pessary fitting"
+    },
+    {
+      "id": "obstetrics_gynaecology.secondary_postpartum_haemorrhage",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Secondary postpartum haemorrhage"
+    },
+    {
+      "id": "obstetrics_gynaecology.submucosal_leiomyoma",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Submucosal leiomyoma"
+    },
+    {
+      "id": "obstetrics_gynaecology.superfecundation",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Superfecundation"
+    },
+    {
+      "id": "obstetrics_gynaecology.tibolone",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Tibolone"
+    },
+    {
+      "id": "obstetrics_gynaecology.unicornuate_uterus_on_hsg",
+      "subjectId": "obstetrics_gynaecology",
+      "label": "Unicornuate uterus on HSG"
+    },
+    {
+      "id": "ophthalmology.acanthamoeba_keratitis",
+      "subjectId": "ophthalmology",
+      "label": "Acanthamoeba keratitis"
+    },
+    {
+      "id": "ophthalmology.acute_postoperative_endophthalmitis",
+      "subjectId": "ophthalmology",
+      "label": "Acute postoperative endophthalmitis"
+    },
+    {
+      "id": "ophthalmology.alpha_2_agonists_in_glaucoma",
+      "subjectId": "ophthalmology",
+      "label": "Alpha-2 agonists in glaucoma"
+    },
+    {
+      "id": "ophthalmology.anterior_uveitis_activity",
+      "subjectId": "ophthalmology",
+      "label": "Anterior uveitis activity"
+    },
+    {
+      "id": "ophthalmology.carotid_cavernous_fistula",
+      "subjectId": "ophthalmology",
+      "label": "Carotid-cavernous fistula"
+    },
+    {
+      "id": "ophthalmology.cataract_risk_factors",
+      "subjectId": "ophthalmology",
+      "label": "Cataract risk factors"
+    },
+    {
+      "id": "ophthalmology.corneal_endothelial_cell_count",
+      "subjectId": "ophthalmology",
+      "label": "Corneal endothelial cell count"
+    },
+    {
+      "id": "ophthalmology.glaucoma_treatment_in_asthma",
+      "subjectId": "ophthalmology",
+      "label": "Glaucoma treatment in asthma"
+    },
+    {
+      "id": "ophthalmology.homonymous_hemianopia",
+      "subjectId": "ophthalmology",
+      "label": "Homonymous hemianopia"
+    },
+    {
+      "id": "ophthalmology.iridodialysis",
+      "subjectId": "ophthalmology",
+      "label": "Iridodialysis"
+    },
+    {
+      "id": "ophthalmology.keratic_precipitate_colour",
+      "subjectId": "ophthalmology",
+      "label": "Keratic precipitate colour"
+    },
+    {
+      "id": "ophthalmology.methanol_optic_toxicity",
+      "subjectId": "ophthalmology",
+      "label": "Methanol optic toxicity"
+    },
+    {
+      "id": "ophthalmology.neovascular_glaucoma_after_crvo",
+      "subjectId": "ophthalmology",
+      "label": "Neovascular glaucoma after CRVO"
+    },
+    {
+      "id": "ophthalmology.non_proliferative_diabetic_retinopathy",
+      "subjectId": "ophthalmology",
+      "label": "Non-proliferative diabetic retinopathy"
+    },
+    {
+      "id": "ophthalmology.ocular_cysticercosis",
+      "subjectId": "ophthalmology",
+      "label": "Ocular cysticercosis"
+    },
+    {
+      "id": "ophthalmology.ophthalmia_neonatorum",
+      "subjectId": "ophthalmology",
+      "label": "Ophthalmia neonatorum"
+    },
+    {
+      "id": "ophthalmology.optic_neuritis_imaging",
+      "subjectId": "ophthalmology",
+      "label": "Optic neuritis imaging"
+    },
+    {
+      "id": "ophthalmology.orbital_blow_out_fracture",
+      "subjectId": "ophthalmology",
+      "label": "Orbital blow-out fracture"
+    },
+    {
+      "id": "ophthalmology.pupillary_light_reflex",
+      "subjectId": "ophthalmology",
+      "label": "Pupillary light reflex"
+    },
+    {
+      "id": "ophthalmology.retinal_detachment_anatomy",
+      "subjectId": "ophthalmology",
+      "label": "Retinal detachment anatomy"
+    },
+    {
+      "id": "ophthalmology.rhegmatogenous_retinal_detachment",
+      "subjectId": "ophthalmology",
+      "label": "Rhegmatogenous retinal detachment"
+    },
+    {
+      "id": "ophthalmology.simple_myopic_astigmatism",
+      "subjectId": "ophthalmology",
+      "label": "Simple myopic astigmatism"
+    },
+    {
+      "id": "ophthalmology.timing_of_congenital_cataract_surgery",
+      "subjectId": "ophthalmology",
+      "label": "Timing of congenital cataract surgery"
+    },
+    {
+      "id": "ophthalmology.yoke_muscles",
+      "subjectId": "ophthalmology",
+      "label": "Yoke muscles"
+    },
+    {
+      "id": "orthopaedics.boxing_related_hand_fracture",
+      "subjectId": "orthopaedics",
+      "label": "Boxing-related hand fracture"
+    },
+    {
+      "id": "orthopaedics.chronic_osteomyelitis",
+      "subjectId": "orthopaedics",
+      "label": "Chronic osteomyelitis"
+    },
+    {
+      "id": "orthopaedics.de_quervain_tenosynovitis",
+      "subjectId": "orthopaedics",
+      "label": "De Quervain tenosynovitis"
+    },
+    {
+      "id": "orthopaedics.fracture_triage_and_limb_ischaemia",
+      "subjectId": "orthopaedics",
+      "label": "Fracture triage and limb ischaemia"
+    },
+    {
+      "id": "orthopaedics.lateral_ankle_sprain",
+      "subjectId": "orthopaedics",
+      "label": "Lateral ankle sprain"
+    },
+    {
+      "id": "orthopaedics.osteoporotic_vertebral_fracture",
+      "subjectId": "orthopaedics",
+      "label": "Osteoporotic vertebral fracture"
+    },
+    {
+      "id": "orthopaedics.scaphoid_fracture",
+      "subjectId": "orthopaedics",
+      "label": "Scaphoid fracture"
+    },
+    {
+      "id": "orthopaedics.tom_smith_arthritis",
+      "subjectId": "orthopaedics",
+      "label": "Tom Smith arthritis"
+    },
+    {
+      "id": "paediatrics.apgar_interpretation",
+      "subjectId": "paediatrics",
+      "label": "APGAR interpretation"
+    },
+    {
+      "id": "paediatrics.apgar_reflex_irritability",
+      "subjectId": "paediatrics",
+      "label": "APGAR reflex irritability"
+    },
+    {
+      "id": "paediatrics.asymmetric_tonic_neck_reflex",
+      "subjectId": "paediatrics",
+      "label": "Asymmetric tonic neck reflex"
+    },
+    {
+      "id": "paediatrics.childhood_abdominal_solid_tumours",
+      "subjectId": "paediatrics",
+      "label": "Childhood abdominal solid tumours"
+    },
+    {
+      "id": "paediatrics.cranial_irradiation_in_childhood_leukaemia",
+      "subjectId": "paediatrics",
+      "label": "Cranial irradiation in childhood leukaemia"
+    },
+    {
+      "id": "paediatrics.developmental_milestones",
+      "subjectId": "paediatrics",
+      "label": "Developmental milestones"
+    },
+    {
+      "id": "paediatrics.ebstein_anomaly",
+      "subjectId": "paediatrics",
+      "label": "Ebstein anomaly"
+    },
+    {
+      "id": "paediatrics.fontanelle_closure",
+      "subjectId": "paediatrics",
+      "label": "Fontanelle closure"
+    },
+    {
+      "id": "paediatrics.infantile_epileptic_spasms_syndrome",
+      "subjectId": "paediatrics",
+      "label": "Infantile epileptic spasms syndrome"
+    },
+    {
+      "id": "paediatrics.large_patent_ductus_arteriosus",
+      "subjectId": "paediatrics",
+      "label": "Large patent ductus arteriosus"
+    },
+    {
+      "id": "paediatrics.mortality_in_childhood_sle",
+      "subjectId": "paediatrics",
+      "label": "Mortality in childhood SLE"
+    },
+    {
+      "id": "paediatrics.neonatal_red_cell_lifespan",
+      "subjectId": "paediatrics",
+      "label": "Neonatal red-cell lifespan"
+    },
+    {
+      "id": "paediatrics.newborn_vitamin_k_prophylaxis",
+      "subjectId": "paediatrics",
+      "label": "Newborn vitamin K prophylaxis"
+    },
+    {
+      "id": "paediatrics.ortolani_test",
+      "subjectId": "paediatrics",
+      "label": "Ortolani test"
+    },
+    {
+      "id": "paediatrics.roseola_infantum",
+      "subjectId": "paediatrics",
+      "label": "Roseola infantum"
+    },
+    {
+      "id": "paediatrics.therapeutic_vitamin_a_dosing",
+      "subjectId": "paediatrics",
+      "label": "Therapeutic vitamin A dosing"
+    },
+    {
+      "id": "paediatrics.who_dehydration_assessment",
+      "subjectId": "paediatrics",
+      "label": "WHO dehydration assessment"
+    },
+    {
+      "id": "paediatrics.zinc_requirement_in_children",
+      "subjectId": "paediatrics",
+      "label": "Zinc requirement in children"
+    },
+    {
+      "id": "pathology.acute_inflammation_vascular_permeability",
+      "subjectId": "pathology",
+      "label": "Acute inflammation vascular permeability"
+    },
+    {
+      "id": "pathology.aml_with_gingival_infiltration",
+      "subjectId": "pathology",
+      "label": "AML with gingival infiltration"
+    },
+    {
+      "id": "pathology.birbeck_granules",
+      "subjectId": "pathology",
+      "label": "Birbeck granules"
+    },
+    {
+      "id": "pathology.cellular_adaptation",
+      "subjectId": "pathology",
+      "label": "Cellular adaptation"
+    },
+    {
+      "id": "pathology.dystrophic_calcification",
+      "subjectId": "pathology",
+      "label": "Dystrophic calcification"
+    },
+    {
+      "id": "pathology.gastric_carcinoma_molecular_changes",
+      "subjectId": "pathology",
+      "label": "Gastric carcinoma molecular changes"
+    },
+    {
+      "id": "pathology.heavy_chain_disease",
+      "subjectId": "pathology",
+      "label": "Heavy-chain disease"
+    },
+    {
+      "id": "pathology.hereditary_spherocytosis",
+      "subjectId": "pathology",
+      "label": "Hereditary spherocytosis"
+    },
+    {
+      "id": "pathology.hodgkin_lymphoma",
+      "subjectId": "pathology",
+      "label": "Hodgkin lymphoma"
+    },
+    {
+      "id": "pathology.hyperacute_graft_rejection",
+      "subjectId": "pathology",
+      "label": "Hyperacute graft rejection"
+    },
+    {
+      "id": "pathology.inherited_bleeding_disorders",
+      "subjectId": "pathology",
+      "label": "Inherited bleeding disorders"
+    },
+    {
+      "id": "pathology.lobar_pneumonia_stages",
+      "subjectId": "pathology",
+      "label": "Lobar pneumonia stages"
+    },
+    {
+      "id": "pathology.meaning_of_pathology",
+      "subjectId": "pathology",
+      "label": "Meaning of pathology"
+    },
+    {
+      "id": "pathology.microcytic_anaemia_laboratory_pattern",
+      "subjectId": "pathology",
+      "label": "Microcytic anaemia laboratory pattern"
+    },
+    {
+      "id": "pathology.tertiary_syphilitic_aortitis",
+      "subjectId": "pathology",
+      "label": "Tertiary syphilitic aortitis"
+    },
+    {
+      "id": "pathology.whipple_disease",
+      "subjectId": "pathology",
+      "label": "Whipple disease"
+    },
+    {
+      "id": "pharmacology.acute_hereditary_angioedema",
+      "subjectId": "pharmacology",
+      "label": "Acute hereditary angioedema"
+    },
+    {
+      "id": "pharmacology.anticholinesterases_and_blood_brain_barrier",
+      "subjectId": "pharmacology",
+      "label": "Anticholinesterases and blood-brain barrier"
+    },
+    {
+      "id": "pharmacology.apraclonidine",
+      "subjectId": "pharmacology",
+      "label": "Apraclonidine"
+    },
+    {
+      "id": "pharmacology.colchicine_mechanism",
+      "subjectId": "pharmacology",
+      "label": "Colchicine mechanism"
+    },
+    {
+      "id": "pharmacology.dopamine_receptors",
+      "subjectId": "pharmacology",
+      "label": "Dopamine receptors"
+    },
+    {
+      "id": "pharmacology.drug_induced_interstitial_nephritis",
+      "subjectId": "pharmacology",
+      "label": "Drug-induced interstitial nephritis"
+    },
+    {
+      "id": "pharmacology.hereditary_tyrosinaemia_type_i",
+      "subjectId": "pharmacology",
+      "label": "Hereditary tyrosinaemia type I"
+    },
+    {
+      "id": "pharmacology.listeria_meningitis",
+      "subjectId": "pharmacology",
+      "label": "Listeria meningitis"
+    },
+    {
+      "id": "pharmacology.meningococcal_chemoprophylaxis",
+      "subjectId": "pharmacology",
+      "label": "Meningococcal chemoprophylaxis"
+    },
+    {
+      "id": "pharmacology.nitric_oxide_signalling",
+      "subjectId": "pharmacology",
+      "label": "Nitric oxide signalling"
+    },
+    {
+      "id": "pharmacology.terbinafine_route",
+      "subjectId": "pharmacology",
+      "label": "Terbinafine route"
+    },
+    {
+      "id": "pharmacology.thiazide_adverse_effects",
+      "subjectId": "pharmacology",
+      "label": "Thiazide adverse effects"
+    },
+    {
+      "id": "pharmacology.tyrosine_kinase_inhibitors",
+      "subjectId": "pharmacology",
+      "label": "Tyrosine kinase inhibitors"
+    },
+    {
+      "id": "pharmacology.ulcerative_colitis_therapy",
+      "subjectId": "pharmacology",
+      "label": "Ulcerative colitis therapy"
+    },
+    {
+      "id": "pharmacology.warfarin_monitoring",
+      "subjectId": "pharmacology",
+      "label": "Warfarin monitoring"
+    },
+    {
+      "id": "physiology.arrhythmia_mechanisms",
+      "subjectId": "physiology",
+      "label": "Arrhythmia mechanisms"
+    },
+    {
+      "id": "physiology.arterial_baroreceptors",
+      "subjectId": "physiology",
+      "label": "Arterial baroreceptors"
+    },
+    {
+      "id": "physiology.capacitance_vessels",
+      "subjectId": "physiology",
+      "label": "Capacitance vessels"
+    },
+    {
+      "id": "physiology.cholecystokinin_actions",
+      "subjectId": "physiology",
+      "label": "Cholecystokinin actions"
+    },
+    {
+      "id": "physiology.expired_air_oxygen",
+      "subjectId": "physiology",
+      "label": "Expired-air oxygen"
+    },
+    {
+      "id": "physiology.hering_breuer_inflation_reflex",
+      "subjectId": "physiology",
+      "label": "Hering-Breuer inflation reflex"
+    },
+    {
+      "id": "physiology.pepsin_activation",
+      "subjectId": "physiology",
+      "label": "Pepsin activation"
+    },
+    {
+      "id": "physiology.sleep_architecture",
+      "subjectId": "physiology",
+      "label": "Sleep architecture"
+    },
+    {
+      "id": "physiology.sleepwalking",
+      "subjectId": "physiology",
+      "label": "Sleepwalking"
+    },
+    {
+      "id": "physiology.tetany_in_respiratory_alkalosis",
+      "subjectId": "physiology",
+      "label": "Tetany in respiratory alkalosis"
+    },
+    {
+      "id": "physiology.transpulmonary_pressure",
+      "subjectId": "physiology",
+      "label": "Transpulmonary pressure"
+    },
+    {
+      "id": "physiology.type_iii_respiratory_failure",
+      "subjectId": "physiology",
+      "label": "Type III respiratory failure"
+    },
+    {
+      "id": "physiology.vital_capacity",
+      "subjectId": "physiology",
+      "label": "Vital capacity"
+    },
+    {
+      "id": "physiology.zollinger_ellison_syndrome",
+      "subjectId": "physiology",
+      "label": "Zollinger-Ellison syndrome"
+    },
+    {
+      "id": "psychiatry.anorexia_nervosa_versus_bulimia_nervosa",
+      "subjectId": "psychiatry",
+      "label": "Anorexia nervosa versus bulimia nervosa"
+    },
+    {
+      "id": "psychiatry.electroconvulsive_therapy_contraindications",
+      "subjectId": "psychiatry",
+      "label": "Electroconvulsive therapy contraindications"
+    },
+    {
+      "id": "psychiatry.intellectual_disability_severity",
+      "subjectId": "psychiatry",
+      "label": "Intellectual disability severity"
+    },
+    {
+      "id": "psychiatry.korsakoff_syndrome",
+      "subjectId": "psychiatry",
+      "label": "Korsakoff syndrome"
+    },
+    {
+      "id": "psychiatry.lithium_nephrotoxicity",
+      "subjectId": "psychiatry",
+      "label": "Lithium nephrotoxicity"
+    },
+    {
+      "id": "psychiatry.major_depressive_episode_duration",
+      "subjectId": "psychiatry",
+      "label": "Major depressive episode duration"
+    },
+    {
+      "id": "psychiatry.postpartum_blues",
+      "subjectId": "psychiatry",
+      "label": "Postpartum blues"
+    },
+    {
+      "id": "psychiatry.schizophrenia_prognosis",
+      "subjectId": "psychiatry",
+      "label": "Schizophrenia prognosis"
+    },
+    {
+      "id": "radiodiagnosis.bladder_calculus",
+      "subjectId": "radiodiagnosis",
+      "label": "Bladder calculus"
+    },
+    {
+      "id": "radiodiagnosis.bragg_peak",
+      "subjectId": "radiodiagnosis",
+      "label": "Bragg peak"
+    },
+    {
+      "id": "radiodiagnosis.caldwell_view",
+      "subjectId": "radiodiagnosis",
+      "label": "Caldwell view"
+    },
+    {
+      "id": "radiodiagnosis.congenital_hypertrophic_pyloric_stenosis",
+      "subjectId": "radiodiagnosis",
+      "label": "Congenital hypertrophic pyloric stenosis"
+    },
+    {
+      "id": "radiodiagnosis.contrast_study_for_oesophageal_perforation",
+      "subjectId": "radiodiagnosis",
+      "label": "Contrast study for oesophageal perforation"
+    },
+    {
+      "id": "radiodiagnosis.dandy_walker_malformation",
+      "subjectId": "radiodiagnosis",
+      "label": "Dandy-Walker malformation"
+    },
+    {
+      "id": "radiodiagnosis.feline_oesophagus",
+      "subjectId": "radiodiagnosis",
+      "label": "Feline oesophagus"
+    },
+    {
+      "id": "radiodiagnosis.hyperparathyroid_skull",
+      "subjectId": "radiodiagnosis",
+      "label": "Hyperparathyroid skull"
+    },
+    {
+      "id": "radiodiagnosis.lead_apron_thickness",
+      "subjectId": "radiodiagnosis",
+      "label": "Lead apron thickness"
+    },
+    {
+      "id": "radiodiagnosis.mri_strengths_and_limitations",
+      "subjectId": "radiodiagnosis",
+      "label": "MRI strengths and limitations"
+    },
+    {
+      "id": "radiodiagnosis.paget_disease_of_bone",
+      "subjectId": "radiodiagnosis",
+      "label": "Paget disease of bone"
+    },
+    {
+      "id": "radiodiagnosis.pulmonary_fibrosis_imaging",
+      "subjectId": "radiodiagnosis",
+      "label": "Pulmonary fibrosis imaging"
+    },
+    {
+      "id": "radiodiagnosis.stereotactic_radiosurgery",
+      "subjectId": "radiodiagnosis",
+      "label": "Stereotactic radiosurgery"
+    },
+    {
+      "id": "radiodiagnosis.ureteric_stents",
+      "subjectId": "radiodiagnosis",
+      "label": "Ureteric stents"
+    },
+    {
+      "id": "radiodiagnosis.waters_view",
+      "subjectId": "radiodiagnosis",
+      "label": "Waters view"
+    },
+    {
+      "id": "surgery.achalasia_cardia",
+      "subjectId": "surgery",
+      "label": "Achalasia cardia"
+    },
+    {
+      "id": "surgery.breast_reconstruction_flaps",
+      "subjectId": "surgery",
+      "label": "Breast reconstruction flaps"
+    },
+    {
+      "id": "surgery.burn_surface_area",
+      "subjectId": "surgery",
+      "label": "Burn surface area"
+    },
+    {
+      "id": "surgery.chronic_pancreatitis",
+      "subjectId": "surgery",
+      "label": "Chronic pancreatitis"
+    },
+    {
+      "id": "surgery.chylothorax_causes",
+      "subjectId": "surgery",
+      "label": "Chylothorax causes"
+    },
+    {
+      "id": "surgery.elective_abdominal_aortic_aneurysm_repair",
+      "subjectId": "surgery",
+      "label": "Elective abdominal aortic aneurysm repair"
+    },
+    {
+      "id": "surgery.epulis",
+      "subjectId": "surgery",
+      "label": "Epulis"
+    },
+    {
+      "id": "surgery.fasciotomy",
+      "subjectId": "surgery",
+      "label": "Fasciotomy"
+    },
+    {
+      "id": "surgery.femoropopliteal_bypass_conduit",
+      "subjectId": "surgery",
+      "label": "Femoropopliteal bypass conduit"
+    },
+    {
+      "id": "surgery.killian_dehiscence",
+      "subjectId": "surgery",
+      "label": "Killian dehiscence"
+    },
+    {
+      "id": "surgery.malignant_adrenal_mass",
+      "subjectId": "surgery",
+      "label": "Malignant adrenal mass"
+    },
+    {
+      "id": "surgery.mediastinal_masses",
+      "subjectId": "surgery",
+      "label": "Mediastinal masses"
+    },
+    {
+      "id": "surgery.parkland_burn_resuscitation",
+      "subjectId": "surgery",
+      "label": "Parkland burn resuscitation"
+    },
+    {
+      "id": "surgery.posterior_urethral_valves",
+      "subjectId": "surgery",
+      "label": "Posterior urethral valves"
+    },
+    {
+      "id": "surgery.van_nuys_prognostic_index",
+      "subjectId": "surgery",
+      "label": "Van Nuys prognostic index"
+    },
+    {
+      "id": "surgery.zenker_diverticulum",
+      "subjectId": "surgery",
+      "label": "Zenker diverticulum"
+    }
+  ]
+}

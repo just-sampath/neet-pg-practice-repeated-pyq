@@ -1,0 +1,860 @@
+{
+  "questions": [
+    {
+      "questionId": "q031",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Osteoporotic compression fractures cluster at the thoracolumbar junction, especially T11 to L2, where the rigid thoracic spine transitions to the more mobile lumbar spine.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The dorsolumbar or thoracolumbar junction experiences high mechanical stress and is the classic site.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The dorsolumbar or thoracolumbar junction experiences high mechanical stress and is the classic site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The dorsolumbar or thoracolumbar junction experiences high mechanical stress and is the classic site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The dorsolumbar or thoracolumbar junction experiences high mechanical stress and is the classic site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The dorsolumbar or thoracolumbar junction experiences high mechanical stress and is the classic site."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cervical osteoporotic compression fracture is less common and should raise concern for trauma or other pathology.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cervical osteoporotic compression fracture is less common and should raise concern for trauma or other pathology."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cervical osteoporotic compression fracture is less common and should raise concern for trauma or other pathology.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cervical osteoporotic compression fracture is less common and should raise concern for trauma or other pathology.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cervical osteoporotic compression fracture is less common and should raise concern for trauma or other pathology."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The lumbosacral junction is not the most frequent osteoporotic vertebral compression site.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The lumbosacral junction is not the most frequent osteoporotic vertebral compression site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The lumbosacral junction is not the most frequent osteoporotic vertebral compression site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The lumbosacral junction is not the most frequent osteoporotic vertebral compression site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The lumbosacral junction is not the most frequent osteoporotic vertebral compression site."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thoracic fractures occur, but the transition zone extending into the upper lumbar spine is more characteristic than the dorsal spine alone.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Thoracic fractures occur, but the transition zone extending into the upper lumbar spine is more characteristic than the dorsal spine alone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thoracic fractures occur, but the transition zone extending into the upper lumbar spine is more characteristic than the dorsal spine alone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thoracic fractures occur, but the transition zone extending into the upper lumbar spine is more characteristic than the dorsal spine alone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Thoracic fractures occur, but the transition zone extending into the upper lumbar spine is more characteristic than the dorsal spine alone."
+            }
+          }
+        }
+      },
+      "memoryHook": "Weak bone breaks at the transition: T11 to L2.",
+      "examPearl": "A low-trauma vertebral fracture is diagnostic of osteoporosis and predicts future hip and vertebral fractures.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Dorsolumbar spine",
+        "auditedAnswer": "A. Dorsolumbar spine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 31,
+        "sourcePdfPage": 7,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q059",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Most ankle sprains are inversion injuries. The anterior talofibular ligament is the weakest lateral ligament and is injured first, especially in plantar flexion.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. ATFL injury causes tenderness anterior and inferior to the lateral malleolus and may produce a positive anterior drawer test.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: ATFL injury causes tenderness anterior and inferior to the lateral malleolus and may produce a positive anterior drawer test."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: ATFL injury causes tenderness anterior and inferior to the lateral malleolus and may produce a positive anterior drawer test.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? ATFL injury causes tenderness anterior and inferior to the lateral malleolus and may produce a positive anterior drawer test.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "ATFL injury causes tenderness anterior and inferior to the lateral malleolus and may produce a positive anterior drawer test."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Calcaneofibular ligament is commonly the second lateral structure injured when inversion force is greater, particularly in neutral or dorsiflexed ankle.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Calcaneofibular ligament is commonly the second lateral structure injured when inversion force is greater, particularly in neutral or dorsiflexed ankle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Calcaneofibular ligament is commonly the second lateral structure injured when inversion force is greater, particularly in neutral or dorsiflexed ankle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is commonly the second lateral structure injured when inversion force is greater, particularly in neutral or dorsiflexed ankle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Calcaneofibular ligament is commonly the second lateral structure injured when inversion force is greater, particularly in neutral or dorsiflexed ankle."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Posterior talofibular ligament is strong and usually torn only in severe dislocation-type injuries.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Posterior talofibular ligament is strong and usually torn only in severe dislocation-type injuries."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Posterior talofibular ligament is strong and usually torn only in severe dislocation-type injuries.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is strong and usually torn only in severe dislocation-type injuries.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Posterior talofibular ligament is strong and usually torn only in severe dislocation-type injuries."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The spring ligament supports the medial longitudinal arch and talar head; it is not the common lateral sprain ligament.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The spring ligament supports the medial longitudinal arch and talar head; it is not the common lateral sprain ligament."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The spring ligament supports the medial longitudinal arch and talar head; it is not the common lateral sprain ligament.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The spring ligament supports the medial longitudinal arch and talar head; it is not the common lateral sprain ligament.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The spring ligament supports the medial longitudinal arch and talar head; it is not the common lateral sprain ligament."
+            }
+          }
+        }
+      },
+      "memoryHook": "ATFL is first to fail in an ankle twist.",
+      "examPearl": "Use Ottawa ankle rules to decide when radiographs are indicated; ligament tenderness alone does not always require imaging.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Anterior talofibular ligament",
+        "auditedAnswer": "A. Anterior talofibular ligament",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 59,
+        "sourcePdfPage": 12,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q243",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Tom Smith arthritis is an older term for septic arthritis of the hip in infancy. It may damage the femoral head and produce later deformity if not urgently drained and treated.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gonococcal arthritis affects sexually active adolescents or adults and is not the named infant syndrome.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gonococcal arthritis affects sexually active adolescents or adults and is not the named infant syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gonococcal arthritis affects sexually active adolescents or adults and is not the named infant syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Gonococcal arthritis affects sexually active adolescents or adults and is not the named infant syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Gonococcal arthritis affects sexually active adolescents or adults and is not the named infant syndrome."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Smallpox arthritis is not Tom Smith disease.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Smallpox arthritis is not Tom Smith disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Smallpox arthritis is not Tom Smith disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not Tom Smith disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Smallpox arthritis is not Tom Smith disease."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The term refers to acute destructive infantile septic arthritis, usually of the hip.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The term refers to acute destructive infantile septic arthritis, usually of the hip."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The term refers to acute destructive infantile septic arthritis, usually of the hip.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The term refers to acute destructive infantile septic arthritis, usually of the hip.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The term refers to acute destructive infantile septic arthritis, usually of the hip."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It is an acute paediatric infection, not merely chronic pyogenic arthritis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It is an acute paediatric infection, not merely chronic pyogenic arthritis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It is an acute paediatric infection, not merely chronic pyogenic arthritis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It is an acute paediatric infection, not merely chronic pyogenic arthritis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "It is an acute paediatric infection, not merely chronic pyogenic arthritis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Tom Smith means septic hip in a tiny infant.",
+      "examPearl": "A febrile infant with painful limited hip movement requires urgent ultrasound, aspiration, antibiotics, and orthopaedic input.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Septic arthritis of infancy",
+        "auditedAnswer": "C. Septic arthritis of infancy",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 243,
+        "sourcePdfPage": 45,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q245",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Pain and swelling at an old trauma site with radiographic sclerosis, cortical irregularity, and probable sequestrum or involucrum suggest chronic osteomyelitis. Infection can smoulder for years after an open fracture or surgery.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Osteosarcoma may show mixed lytic-sclerotic destruction, sunburst periosteal reaction, and Codman triangle, but the old-trauma infection pattern and image favour osteomyelitis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Osteosarcoma may show mixed lytic-sclerotic destruction, sunburst periosteal reaction, and Codman triangle, but the old-trauma infection pattern and image favour osteomyelitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Osteosarcoma may show mixed lytic-sclerotic destruction, sunburst periosteal reaction, and Codman triangle, but the old-trauma infection pattern and image favour osteomyelitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Osteosarcoma may show mixed lytic-sclerotic destruction, sunburst periosteal reaction, and Codman triangle, but the old-trauma infection pattern and image favour osteomyelitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Osteosarcoma may show mixed lytic-sclerotic destruction, sunburst periosteal reaction, and Codman triangle, but the old-trauma infection pattern and image favour osteomyelitis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ewing sarcoma typically affects children or adolescents with permeative destruction and onion-skin periosteal reaction.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ewing sarcoma typically affects children or adolescents with permeative destruction and onion-skin periosteal reaction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ewing sarcoma typically affects children or adolescents with permeative destruction and onion-skin periosteal reaction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ewing sarcoma typically affects children or adolescents with permeative destruction and onion-skin periosteal reaction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Ewing sarcoma typically affects children or adolescents with permeative destruction and onion-skin periosteal reaction."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A sequestrum is dead bone; involucrum is reactive new bone; a cloaca drains pus.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A sequestrum is dead bone; involucrum is reactive new bone; a cloaca drains pus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A sequestrum is dead bone; involucrum is reactive new bone; a cloaca drains pus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A sequestrum is dead bone; involucrum is reactive new bone; a cloaca drains pus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A sequestrum is dead bone; involucrum is reactive new bone; a cloaca drains pus."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Multiple myeloma causes punched-out lytic lesions in older adults rather than this localized post-traumatic process.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Multiple myeloma causes punched-out lytic lesions in older adults rather than this localized post-traumatic process."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Multiple myeloma causes punched-out lytic lesions in older adults rather than this localized post-traumatic process.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes punched-out lytic lesions in older adults rather than this localized post-traumatic process.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Multiple myeloma causes punched-out lytic lesions in older adults rather than this localized post-traumatic process."
+            }
+          }
+        }
+      },
+      "memoryHook": "Chronic osteomyelitis: dead sequestrum wrapped by new involucrum, draining through cloaca.",
+      "examPearl": "Treatment often requires culture-guided antibiotics plus debridement of devitalised bone and management of dead space.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Chronic osteomyelitis",
+        "auditedAnswer": "C. Chronic osteomyelitis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 245,
+        "sourcePdfPage": 45,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q246",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "De Quervain tenosynovitis affects the first dorsal extensor compartment at the radial styloid, containing abductor pollicis longus and extensor pollicis brevis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Repetitive thumb abduction and extension produce radial wrist pain and tenderness.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Repetitive thumb abduction and extension produce radial wrist pain and tenderness."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Repetitive thumb abduction and extension produce radial wrist pain and tenderness.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Repetitive thumb abduction and extension produce radial wrist pain and tenderness.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Repetitive thumb abduction and extension produce radial wrist pain and tenderness."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "There is no standard adductor pollicis longus tendon in this compartment.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: There is no standard adductor pollicis longus tendon in this compartment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: There is no standard adductor pollicis longus tendon in this compartment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? There is no standard adductor pollicis longus tendon in this compartment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "There is no standard adductor pollicis longus tendon in this compartment."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Flexor pollicis brevis is an intrinsic thenar muscle on the palmar side, not a dorsal compartment tendon.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Flexor pollicis brevis is an intrinsic thenar muscle on the palmar side, not a dorsal compartment tendon."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Flexor pollicis brevis is an intrinsic thenar muscle on the palmar side, not a dorsal compartment tendon.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Flexor pollicis brevis is an intrinsic thenar muscle on the palmar side, not a dorsal compartment tendon.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Flexor pollicis brevis is an intrinsic thenar muscle on the palmar side, not a dorsal compartment tendon."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Both named adductor longus and palmar flexor combination are anatomically wrong.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Both named adductor longus and palmar flexor combination are anatomically wrong."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both named adductor longus and palmar flexor combination are anatomically wrong.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both named adductor longus and palmar flexor combination are anatomically wrong.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Both named adductor longus and palmar flexor combination are anatomically wrong."
+            }
+          }
+        }
+      },
+      "memoryHook": "First dorsal compartment: APL and EPB.",
+      "examPearl": "Finkelstein-type manoeuvres reproduce pain, but perform gently because forced testing can be very uncomfortable.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Abductor pollicis longus and extensor pollicis brevis",
+        "auditedAnswer": "A. Abductor pollicis longus and extensor pollicis brevis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 246,
+        "sourcePdfPage": 45,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q247",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "The medical target is the scaphoid, the most commonly fractured carpal bone after a fall on an outstretched hand. However, the supplied image contains no visible numeric labels, so the number-to-bone mapping cannot be verified. The source key says option A, number 1, but the written item is not answerable from the displayed figure.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Source-intended choice, number 1. It would be correct only if the missing label 1 pointed to the scaphoid.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It would be correct only if the missing label 1 pointed to the scaphoid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It would be correct only if the missing label 1 pointed to the scaphoid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It would be correct only if the missing label 1 pointed to the scaphoid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It would be correct only if the missing label 1 pointed to the scaphoid."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Number 2 cannot be evaluated because no number 2 is visible on the supplied image.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Number 2 cannot be evaluated because no number 2 is visible on the supplied image."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Number 2 cannot be evaluated because no number 2 is visible on the supplied image.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Number 2 cannot be evaluated because no number 2 is visible on the supplied image.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Number 2 cannot be evaluated because no number 2 is visible on the supplied image."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Number 3 cannot be evaluated because no number 3 is visible on the supplied image.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Number 3 cannot be evaluated because no number 3 is visible on the supplied image."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Number 3 cannot be evaluated because no number 3 is visible on the supplied image.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Number 3 cannot be evaluated because no number 3 is visible on the supplied image.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Number 3 cannot be evaluated because no number 3 is visible on the supplied image."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Number 4 cannot be evaluated because no number 4 is visible on the supplied image.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Number 4 cannot be evaluated because no number 4 is visible on the supplied image."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Number 4 cannot be evaluated because no number 4 is visible on the supplied image.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Number 4 cannot be evaluated because no number 4 is visible on the supplied image.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Number 4 cannot be evaluated because no number 4 is visible on the supplied image."
+            }
+          }
+        }
+      },
+      "memoryHook": "FOOSH plus snuffbox pain: scaphoid until proved otherwise.",
+      "examPearl": "Exam-intended answer: A if number 1 was meant to indicate the scaphoid. Initial X-rays can be normal; immobilise a clinically suspected fracture and repeat imaging or obtain MRI or CT as appropriate.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "A. 1",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 247,
+        "sourcePdfPage": 46,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q249",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The true classic boxer's fracture is a fifth metacarpal neck fracture, but it is absent from the options. A Bennett fracture-dislocation at the base of the first metacarpal can occur from axial loading of a flexed thumb during punching, making C the best listed choice.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Monteggia injury is proximal ulna fracture with radial-head dislocation, usually from forearm trauma.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Monteggia injury is proximal ulna fracture with radial-head dislocation, usually from forearm trauma."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Monteggia injury is proximal ulna fracture with radial-head dislocation, usually from forearm trauma.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Monteggia injury is proximal ulna fracture with radial-head dislocation, usually from forearm trauma.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Monteggia injury is proximal ulna fracture with radial-head dislocation, usually from forearm trauma."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Galeazzi injury is radial-shaft fracture with distal radioulnar-joint disruption.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Galeazzi injury is radial-shaft fracture with distal radioulnar-joint disruption."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Galeazzi injury is radial-shaft fracture with distal radioulnar-joint disruption.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Galeazzi injury is radial-shaft fracture with distal radioulnar-joint disruption.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Galeazzi injury is radial-shaft fracture with distal radioulnar-joint disruption."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best available answer. Bennett is an intra-articular first-metacarpal-base fracture-dislocation caused by axial force.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Bennett is an intra-articular first-metacarpal-base fracture-dislocation caused by axial force."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bennett is an intra-articular first-metacarpal-base fracture-dislocation caused by axial force.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bennett is an intra-articular first-metacarpal-base fracture-dislocation caused by axial force.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Bennett is an intra-articular first-metacarpal-base fracture-dislocation caused by axial force."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Smith fracture is a volarly displaced distal radius fracture, usually from a fall onto a flexed wrist.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Smith fracture is a volarly displaced distal radius fracture, usually from a fall onto a flexed wrist."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Smith fracture is a volarly displaced distal radius fracture, usually from a fall onto a flexed wrist.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Smith fracture is a volarly displaced distal radius fracture, usually from a fall onto a flexed wrist.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Smith fracture is a volarly displaced distal radius fracture, usually from a fall onto a flexed wrist."
+            }
+          }
+        }
+      },
+      "memoryHook": "Boxer's fracture is fifth metacarpal neck; Bennett is the thumb-base alternative.",
+      "examPearl": "The source item is incomplete because the canonical answer is omitted.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Bennett's fracture dislocation",
+        "auditedAnswer": "C. Bennett's fracture dislocation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 249,
+        "sourcePdfPage": 46,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q250",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A finger turning black suggests critically impaired perfusion, evolving necrosis, compartment syndrome, tight cast or dressing, or vascular injury. Limb viability is time-sensitive and requires immediate senior assessment.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct first priority. Check capillary refill, temperature, pulse or Doppler signal, sensation, pain, and constrictive dressings while urgently escalating.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Check capillary refill, temperature, pulse or Doppler signal, sensation, pain, and constrictive dressings while urgently escalating."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Check capillary refill, temperature, pulse or Doppler signal, sensation, pain, and constrictive dressings while urgently escalating.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Check capillary refill, temperature, pulse or Doppler signal, sensation, pain, and constrictive dressings while urgently escalating.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Check capillary refill, temperature, pulse or Doppler signal, sensation, pain, and constrictive dressings while urgently escalating."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Inability to extend can reflect tendon or nerve injury and needs timely review, but it is generally less immediately limb-threatening than blackening.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Inability to extend can reflect tendon or nerve injury and needs timely review, but it is generally less immediately limb-threatening than blackening."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Inability to extend can reflect tendon or nerve injury and needs timely review, but it is generally less immediately limb-threatening than blackening.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Inability to extend can reflect tendon or nerve injury and needs timely review, but it is generally less immediately limb-threatening than blackening.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Inability to extend can reflect tendon or nerve injury and needs timely review, but it is generally less immediately limb-threatening than blackening."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A 10 cm abrasion needs cleaning and assessment but is not inherently the highest priority without bleeding or deep injury.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A 10 cm abrasion needs cleaning and assessment but is not inherently the highest priority without bleeding or deep injury."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A 10 cm abrasion needs cleaning and assessment but is not inherently the highest priority without bleeding or deep injury.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice needs cleaning and assessment but is not inherently the highest priority without bleeding or deep injury.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A 10 cm abrasion needs cleaning and assessment but is not inherently the highest priority without bleeding or deep injury."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An intra-articular elbow fracture is important and may need surgery, but vascular compromise takes priority.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: An intra-articular elbow fracture is important and may need surgery, but vascular compromise takes priority."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An intra-articular elbow fracture is important and may need surgery, but vascular compromise takes priority.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An intra-articular elbow fracture is important and may need surgery, but vascular compromise takes priority.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "An intra-articular elbow fracture is important and may need surgery, but vascular compromise takes priority."
+            }
+          }
+        }
+      },
+      "memoryHook": "Black digit means blood is not reaching it: vascular emergency first.",
+      "examPearl": "Follow ABCs in major trauma, then protect the limb. Never allow a normal proximal pulse to falsely reassure you about digital perfusion.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Patient's finger is blackening",
+        "auditedAnswer": "A. Patient's finger is blackening",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 250,
+        "sourcePdfPage": 46,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    }
+  ]
+}

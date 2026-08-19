@@ -1,0 +1,1716 @@
+{
+  "questions": [
+    {
+      "questionId": "q072",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Dystrophic calcification is calcium deposition in dead or damaged tissue despite normal serum calcium. Atherosclerotic plaques, old infarcts, damaged valves, and caseous necrosis are classic examples.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Milk-alkali syndrome produces hypercalcaemia and can cause metastatic calcification in otherwise viable tissues.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Milk-alkali syndrome produces hypercalcaemia and can cause metastatic calcification in otherwise viable tissues."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Milk-alkali syndrome produces hypercalcaemia and can cause metastatic calcification in otherwise viable tissues.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Milk-alkali syndrome produces hypercalcaemia and can cause metastatic calcification in otherwise viable tissues.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Milk-alkali syndrome produces hypercalcaemia and can cause metastatic calcification in otherwise viable tissues."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Atheromatous plaques undergo necrosis and dystrophic mineralisation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Atheromatous plaques undergo necrosis and dystrophic mineralisation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atheromatous plaques undergo necrosis and dystrophic mineralisation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Atheromatous plaques undergo necrosis and dystrophic mineralisation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Atheromatous plaques undergo necrosis and dystrophic mineralisation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hyperparathyroidism raises serum calcium and promotes metastatic calcification.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hyperparathyroidism raises serum calcium and promotes metastatic calcification."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hyperparathyroidism raises serum calcium and promotes metastatic calcification.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice raises serum calcium and promotes metastatic calcification.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Hyperparathyroidism raises serum calcium and promotes metastatic calcification."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vitamin intoxication can disturb calcium metabolism; vitamin D, rather than vitamin A, is the classic metastatic calcification association.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Vitamin intoxication can disturb calcium metabolism; vitamin D, rather than vitamin A, is the classic metastatic calcification association."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitamin intoxication can disturb calcium metabolism; vitamin D, rather than vitamin A, is the classic metastatic calcification association.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Vitamin intoxication can disturb calcium metabolism; vitamin D, rather than vitamin A, is the classic metastatic calcification association.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Vitamin intoxication can disturb calcium metabolism; vitamin D, rather than vitamin A, is the classic metastatic calcification association."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dystrophic equals damaged tissue with normal serum calcium; metastatic equals metabolic hypercalcaemia.",
+      "examPearl": "Psammoma bodies are concentrically laminated dystrophic calcifications seen in several tumours.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Atheromatous plaque",
+        "auditedAnswer": "B. Atheromatous plaque",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 72,
+        "sourcePdfPage": 14,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q136",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Whipple disease shows lamina propria packed with foamy macrophages containing PAS-positive, diastase-resistant bacterial glycoprotein material. The organism is Tropheryma whipplei.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Clinical clues include weight loss, diarrhoea, abdominal pain, arthralgia, lymphadenopathy, and possible neurologic or cardiac disease.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Clinical clues include weight loss, diarrhoea, abdominal pain, arthralgia, lymphadenopathy, and possible neurologic or cardiac disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Clinical clues include weight loss, diarrhoea, abdominal pain, arthralgia, lymphadenopathy, and possible neurologic or cardiac disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Clinical clues include weight loss, diarrhoea, abdominal pain, arthralgia, lymphadenopathy, and possible neurologic or cardiac disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Clinical clues include weight loss, diarrhoea, abdominal pain, arthralgia, lymphadenopathy, and possible neurologic or cardiac disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Crohn disease shows transmural inflammation and sometimes noncaseating granulomas, not sheets of PAS-positive foamy macrophages.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Crohn disease shows transmural inflammation and sometimes noncaseating granulomas, not sheets of PAS-positive foamy macrophages."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Crohn disease shows transmural inflammation and sometimes noncaseating granulomas, not sheets of PAS-positive foamy macrophages.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice shows transmural inflammation and sometimes noncaseating granulomas, not sheets of PAS-positive foamy macrophages.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Crohn disease shows transmural inflammation and sometimes noncaseating granulomas, not sheets of PAS-positive foamy macrophages."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "AIDS predisposes to infections such as Mycobacterium avium, whose macrophages are acid-fast positive; PAS staining alone does not define AIDS.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: AIDS predisposes to infections such as Mycobacterium avium, whose macrophages are acid-fast positive; PAS staining alone does not define AIDS."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: AIDS predisposes to infections such as Mycobacterium avium, whose macrophages are acid-fast positive; PAS staining alone does not define AIDS.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice predisposes to infections such as Mycobacterium avium, whose macrophages are acid-fast positive; PAS staining alone does not define AIDS.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "AIDS predisposes to infections such as Mycobacterium avium, whose macrophages are acid-fast positive; PAS staining alone does not define AIDS."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A classic listed disease is present.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A classic listed disease is present."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Whipple is white PAS-positive macrophages in the bowel wall.",
+      "examPearl": "Differentiate from MAC in an immunocompromised patient with acid-fast staining and organism-specific testing.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Whipple disease",
+        "auditedAnswer": "A. Whipple disease",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 136,
+        "sourcePdfPage": 26,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q137",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Reed-Sternberg cells are large atypical cells with bilobed or multinucleated nuclei, prominent eosinophilic nucleoli, and an owl-eye appearance in classic Hodgkin lymphoma. Classic cells are usually CD15 and CD30 positive.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Diagnosis depends on the characteristic cells within an appropriate reactive background and immunophenotype.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Diagnosis depends on the characteristic cells within an appropriate reactive background and immunophenotype."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Diagnosis depends on the characteristic cells within an appropriate reactive background and immunophenotype.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Diagnosis depends on the characteristic cells within an appropriate reactive background and immunophenotype.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Diagnosis depends on the characteristic cells within an appropriate reactive background and immunophenotype."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sickle cell disease is a haemoglobinopathy with sickled erythrocytes, not Reed-Sternberg cells.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Sickle cell disease is a haemoglobinopathy with sickled erythrocytes, not Reed-Sternberg cells."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sickle cell disease is a haemoglobinopathy with sickled erythrocytes, not Reed-Sternberg cells.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sickle cell disease is a haemoglobinopathy with sickled erythrocytes, not Reed-Sternberg cells.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Sickle cell disease is a haemoglobinopathy with sickled erythrocytes, not Reed-Sternberg cells."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thalassaemia produces microcytosis, target cells, and ineffective erythropoiesis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Thalassaemia produces microcytosis, target cells, and ineffective erythropoiesis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thalassaemia produces microcytosis, target cells, and ineffective erythropoiesis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thalassaemia produces microcytosis, target cells, and ineffective erythropoiesis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Thalassaemia produces microcytosis, target cells, and ineffective erythropoiesis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "CML shows granulocytic proliferation and BCR-ABL1; blast transformation does not create classic Reed-Sternberg cells.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: CML shows granulocytic proliferation and BCR-ABL1; blast transformation does not create classic Reed-Sternberg cells."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CML shows granulocytic proliferation and BCR-ABL1; blast transformation does not create classic Reed-Sternberg cells.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CML shows granulocytic proliferation and BCR-ABL1; blast transformation does not create classic Reed-Sternberg cells.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "CML shows granulocytic proliferation and BCR-ABL1; blast transformation does not create classic Reed-Sternberg cells."
+            }
+          }
+        }
+      },
+      "memoryHook": "Reed-Sternberg owl eyes see Hodgkin.",
+      "examPearl": "Nodular lymphocyte-predominant Hodgkin lymphoma has popcorn cells and a different phenotype, typically CD20 positive and CD15/CD30 negative.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Hodgkin's disease",
+        "auditedAnswer": "A. Hodgkin's disease",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 137,
+        "sourcePdfPage": 26,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q138",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "Pathology comes from Greek pathos, meaning suffering or disease, and logos, meaning study or discourse. It is the study of disease, including causes, mechanisms, structural changes, and functional consequences. None of the listed words gives the definition.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Work is not the meaning of pathology, but it would be the answer if a revised etymology question asked for the meaning of the Greek root ergon.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Work is not the meaning of pathology, but it would be the answer if a revised etymology question asked for the meaning of the Greek root ergon."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Work is not the meaning of pathology, but it would be the answer if a revised etymology question asked for the meaning of the Greek root ergon.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the meaning of pathology, but it would be the answer if a revised etymology question asked for the meaning of the Greek root ergon.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Work is not the meaning of pathology, but it would be the answer if a revised etymology question asked for the meaning of the Greek root ergon."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Function is studied in pathophysiology, but it is not the literal definition of pathology.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Function is studied in pathophysiology, but it is not the literal definition of pathology."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Function is studied in pathophysiology, but it is not the literal definition of pathology.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is studied in pathophysiology, but it is not the literal definition of pathology.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Function is studied in pathophysiology, but it is not the literal definition of pathology."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Details is not the root meaning.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Details is not the root meaning."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Details is not the root meaning.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the root meaning.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Details is not the root meaning."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Pathology can explain disease, but 'explains' is a verb and not the term's definition.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pathology can explain disease, but 'explains' is a verb and not the term's definition."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pathology can explain disease, but 'explains' is a verb and not the term's definition.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pathology can explain disease, but 'explains' is a verb and not the term's definition.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pathology can explain disease, but 'explains' is a verb and not the term's definition."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pathos is suffering; logos is study: pathology is study of disease.",
+      "examPearl": "This item has no valid option and should not be used to reinforce the source key.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "A. Work",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 138,
+        "sourcePdfPage": 26,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q143",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "The option printed as 'VMA disease' is almost certainly von Willebrand disease. Von Willebrand disease, haemophilia A, and haemophilia B can all cause clinically important bleeding, so the intended answer is all of the above.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Interpreted as von Willebrand disease, this causes mucocutaneous bleeding from impaired platelet adhesion and may prolong aPTT by reducing factor VIII stability.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Interpreted as von Willebrand disease, this causes mucocutaneous bleeding from impaired platelet adhesion and may prolong aPTT by reducing factor VIII stability."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Interpreted as von Willebrand disease, this causes mucocutaneous bleeding from impaired platelet adhesion and may prolong aPTT by reducing factor VIII stability.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Interpreted as von Willebrand disease, this causes mucocutaneous bleeding from impaired platelet adhesion and may prolong aPTT by reducing factor VIII stability.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Interpreted as von Willebrand disease, this causes mucocutaneous bleeding from impaired platelet adhesion and may prolong aPTT by reducing factor VIII stability."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Haemophilia A is factor VIII deficiency and causes deep tissue bleeding, haemarthroses, and prolonged aPTT.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Haemophilia A is factor VIII deficiency and causes deep tissue bleeding, haemarthroses, and prolonged aPTT."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Haemophilia A is factor VIII deficiency and causes deep tissue bleeding, haemarthroses, and prolonged aPTT.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is factor VIII deficiency and causes deep tissue bleeding, haemarthroses, and prolonged aPTT.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Haemophilia A is factor VIII deficiency and causes deep tissue bleeding, haemarthroses, and prolonged aPTT."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Haemophilia B is factor IX deficiency and has a similar clinical pattern to haemophilia A.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Haemophilia B is factor IX deficiency and has a similar clinical pattern to haemophilia A."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Haemophilia B is factor IX deficiency and has a similar clinical pattern to haemophilia A.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is factor IX deficiency and has a similar clinical pattern to haemophilia A.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Haemophilia B is factor IX deficiency and has a similar clinical pattern to haemophilia A."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct intended answer because all three disorders may produce marked bleeding.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Correct intended answer because all three disorders may produce marked bleeding."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "vWD bleeds from surfaces; haemophilia bleeds deep into joints and muscle.",
+      "examPearl": "The stem contains an OCR or source typo. Read VMA as vWD only because the bleeding context makes that intent clear.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. All of the above",
+        "auditedAnswer": "D. All of the above",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 143,
+        "sourcePdfPage": 27,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q147",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Histamine is a major immediate vasoactive mediator released from mast cells, basophils, and platelets. It causes arteriolar vasodilation and endothelial contraction in postcapillary venules, increasing permeability.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Its rapid, short-lived action contributes to the immediate transient response.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Its rapid, short-lived action contributes to the immediate transient response."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Its rapid, short-lived action contributes to the immediate transient response.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Its rapid, short-lived action contributes to the immediate transient response.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Its rapid, short-lived action contributes to the immediate transient response."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "IL-2 mainly drives T-cell proliferation and immune activation rather than immediate vascular leak.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: IL-2 mainly drives T-cell proliferation and immune activation rather than immediate vascular leak."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: IL-2 mainly drives T-cell proliferation and immune activation rather than immediate vascular leak.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice mainly drives T-cell proliferation and immune activation rather than immediate vascular leak.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "IL-2 mainly drives T-cell proliferation and immune activation rather than immediate vascular leak."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "TGF-beta regulates repair, fibrosis, immune suppression, and extracellular matrix production.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: TGF-beta regulates repair, fibrosis, immune suppression, and extracellular matrix production."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: TGF-beta regulates repair, fibrosis, immune suppression, and extracellular matrix production.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? TGF-beta regulates repair, fibrosis, immune suppression, and extracellular matrix production.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "TGF-beta regulates repair, fibrosis, immune suppression, and extracellular matrix production."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "FGF promotes angiogenesis and tissue repair rather than the initial permeability response.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: FGF promotes angiogenesis and tissue repair rather than the initial permeability response."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: FGF promotes angiogenesis and tissue repair rather than the initial permeability response.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? FGF promotes angiogenesis and tissue repair rather than the initial permeability response.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "FGF promotes angiogenesis and tissue repair rather than the initial permeability response."
+            }
+          }
+        }
+      },
+      "memoryHook": "Histamine opens venular gaps in the first minutes of inflammation.",
+      "examPearl": "Bradykinin and leukotrienes also increase permeability; bradykinin additionally causes pain.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Histamine",
+        "auditedAnswer": "A. Histamine",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 147,
+        "sourcePdfPage": 28,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q168",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Classic lobar pneumonia evolves through congestion, red hepatization, grey hepatization, and resolution. Resolution is the terminal stage as macrophages digest intra-alveolar exudate and normal architecture is restored.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Congestion is the early phase with heavy, red, boggy lung, vascular engorgement, oedema, and bacteria.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Congestion is the early phase with heavy, red, boggy lung, vascular engorgement, oedema, and bacteria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Congestion is the early phase with heavy, red, boggy lung, vascular engorgement, oedema, and bacteria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the early phase with heavy, red, boggy lung, vascular engorgement, oedema, and bacteria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Congestion is the early phase with heavy, red, boggy lung, vascular engorgement, oedema, and bacteria."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Red hepatization follows, with alveoli packed by red cells, neutrophils, and fibrin.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Red hepatization follows, with alveoli packed by red cells, neutrophils, and fibrin."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Red hepatization follows, with alveoli packed by red cells, neutrophils, and fibrin.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice follows, with alveoli packed by red cells, neutrophils, and fibrin.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Red hepatization follows, with alveoli packed by red cells, neutrophils, and fibrin."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Grey hepatization reflects red-cell breakdown with persistent fibrinopurulent exudate.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Grey hepatization reflects red-cell breakdown with persistent fibrinopurulent exudate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Grey hepatization reflects red-cell breakdown with persistent fibrinopurulent exudate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Grey hepatization reflects red-cell breakdown with persistent fibrinopurulent exudate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Grey hepatization reflects red-cell breakdown with persistent fibrinopurulent exudate."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct final phase. Exudate is enzymatically digested, resorbed, expectorated, or organized if clearance fails.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Exudate is enzymatically digested, resorbed, expectorated, or organized if clearance fails."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exudate is enzymatically digested, resorbed, expectorated, or organized if clearance fails.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exudate is enzymatically digested, resorbed, expectorated, or organized if clearance fails.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Exudate is enzymatically digested, resorbed, expectorated, or organized if clearance fails."
+            }
+          }
+        }
+      },
+      "memoryHook": "Congestion, red, grey, resolution.",
+      "examPearl": "Antibiotic-treated pneumonia may not display the textbook sequence neatly, but the pathology framework remains testable.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Resolution",
+        "auditedAnswer": "D. Resolution",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 168,
+        "sourcePdfPage": 32,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q170",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Tertiary syphilis can cause obliterative endarteritis of the vasa vasorum, especially in the ascending thoracic aorta. Ischaemic medial injury leads to tree-bark intimal wrinkling, aneurysm, aortic regurgitation, and coronary ostial narrowing.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Treponema pallidum-driven inflammation damages the aortic media indirectly through vasa vasorum.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Treponema pallidum-driven inflammation damages the aortic media indirectly through vasa vasorum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Treponema pallidum-driven inflammation damages the aortic media indirectly through vasa vasorum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Treponema pallidum-driven inflammation damages the aortic media indirectly through vasa vasorum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Treponema pallidum-driven inflammation damages the aortic media indirectly through vasa vasorum."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Granulomatosis with polyangiitis affects small to medium vessels and respiratory or renal systems, not this classic aortic lesion.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Granulomatosis with polyangiitis affects small to medium vessels and respiratory or renal systems, not this classic aortic lesion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Granulomatosis with polyangiitis affects small to medium vessels and respiratory or renal systems, not this classic aortic lesion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Granulomatosis with polyangiitis affects small to medium vessels and respiratory or renal systems, not this classic aortic lesion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Granulomatosis with polyangiitis affects small to medium vessels and respiratory or renal systems, not this classic aortic lesion."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eosinophilic granulomatosis with polyangiitis is associated with asthma, eosinophilia, and small-vessel vasculitis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Eosinophilic granulomatosis with polyangiitis is associated with asthma, eosinophilia, and small-vessel vasculitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eosinophilic granulomatosis with polyangiitis is associated with asthma, eosinophilia, and small-vessel vasculitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eosinophilic granulomatosis with polyangiitis is associated with asthma, eosinophilia, and small-vessel vasculitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Eosinophilic granulomatosis with polyangiitis is associated with asthma, eosinophilia, and small-vessel vasculitis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Paroxysmal cold haemoglobinuria is an autoimmune haemolytic anaemia and does not cause aortitis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Paroxysmal cold haemoglobinuria is an autoimmune haemolytic anaemia and does not cause aortitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Paroxysmal cold haemoglobinuria is an autoimmune haemolytic anaemia and does not cause aortitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Paroxysmal cold haemoglobinuria is an autoimmune haemolytic anaemia and does not cause aortitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Paroxysmal cold haemoglobinuria is an autoimmune haemolytic anaemia and does not cause aortitis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Syphilis strangles the vasa vasorum and scars the ascending aorta.",
+      "examPearl": "This late manifestation is now uncommon where syphilis is diagnosed and treated early.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Syphilis",
+        "auditedAnswer": "A. Syphilis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 170,
+        "sourcePdfPage": 32,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q190",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Hyperacute rejection occurs within minutes to hours because the recipient already has antibodies against donor ABO or HLA antigens. Complement activation causes endothelial injury, thrombosis, ischaemia, and immediate graft failure.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Twenty-four hours is later than the classic immediate onset, although a process begun earlier may be evident by then.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Twenty-four hours is later than the classic immediate onset, although a process begun earlier may be evident by then."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Twenty-four hours is later than the classic immediate onset, although a process begun earlier may be evident by then.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Twenty-four hours is later than the classic immediate onset, although a process begun earlier may be evident by then.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Twenty-four hours is later than the classic immediate onset, although a process begun earlier may be evident by then."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two weeks fits acute cellular or antibody-mediated rejection rather than hyperacute rejection.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Two weeks fits acute cellular or antibody-mediated rejection rather than hyperacute rejection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two weeks fits acute cellular or antibody-mediated rejection rather than hyperacute rejection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two weeks fits acute cellular or antibody-mediated rejection rather than hyperacute rejection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Two weeks fits acute cellular or antibody-mediated rejection rather than hyperacute rejection."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Preformed antibody makes the reaction almost immediate after perfusion.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Preformed antibody makes the reaction almost immediate after perfusion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Preformed antibody makes the reaction almost immediate after perfusion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Preformed antibody makes the reaction almost immediate after perfusion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Preformed antibody makes the reaction almost immediate after perfusion."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Years suggests chronic rejection with vascular narrowing and interstitial fibrosis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Years suggests chronic rejection with vascular narrowing and interstitial fibrosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Years suggests chronic rejection with vascular narrowing and interstitial fibrosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice suggests chronic rejection with vascular narrowing and interstitial fibrosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Years suggests chronic rejection with vascular narrowing and interstitial fibrosis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Hyperacute has antibodies already waiting.",
+      "examPearl": "ABO compatibility and crossmatching have made hyperacute rejection uncommon.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. In minutes",
+        "auditedAnswer": "C. In minutes",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 190,
+        "sourcePdfPage": 36,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q253",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Gingival hypertrophy is strongly associated with acute myelomonocytic and monocytic leukemias because monocytes infiltrate tissues. FAB M5 is most classic, but it is absent; M4 is the best listed answer.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "M1 is AML without maturation and is not especially linked to gingival infiltration.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: M1 is AML without maturation and is not especially linked to gingival infiltration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: M1 is AML without maturation and is not especially linked to gingival infiltration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? M1 is AML without maturation and is not especially linked to gingival infiltration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "M1 is AML without maturation and is not especially linked to gingival infiltration."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "M2 has maturation and may carry t(8;21), but gingival hypertrophy is less characteristic.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: M2 has maturation and may carry t(8;21), but gingival hypertrophy is less characteristic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: M2 has maturation and may carry t(8;21), but gingival hypertrophy is less characteristic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? M2 has maturation and may carry t(8;21), but gingival hypertrophy is less characteristic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "M2 has maturation and may carry t(8;21), but gingival hypertrophy is less characteristic."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "M3 acute promyelocytic leukaemia is associated with DIC and t(15;17), not gingival infiltration.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: M3 acute promyelocytic leukaemia is associated with DIC and t(15;17), not gingival infiltration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: M3 acute promyelocytic leukaemia is associated with DIC and t(15;17), not gingival infiltration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? M3 acute promyelocytic leukaemia is associated with DIC and t(15;17), not gingival infiltration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "M3 acute promyelocytic leukaemia is associated with DIC and t(15;17), not gingival infiltration."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct among options. M4 has both myeloid and monocytic differentiation; M4Eo is linked to inv(16).",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: M4 has both myeloid and monocytic differentiation; M4Eo is linked to inv(16)."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: M4 has both myeloid and monocytic differentiation; M4Eo is linked to inv(16).",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? M4 has both myeloid and monocytic differentiation; M4Eo is linked to inv(16).",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "M4 has both myeloid and monocytic differentiation; M4Eo is linked to inv(16)."
+            }
+          }
+        }
+      },
+      "memoryHook": "Monocytes move into tissues: M4 and especially M5 enlarge gums.",
+      "examPearl": "If M5 is offered, choose it as the most classic gingival-infiltration subtype.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. M4",
+        "auditedAnswer": "D. M4",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 253,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q254",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Gastric carcinoma can involve TP53 inactivation, ERBB2 or c-erbB2 amplification, and MET overexpression or amplification. RAS activation is not a characteristic recurrent driver used in the standard gastric-carcinoma pathway.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "TP53 abnormalities are common, particularly in chromosomal-instability intestinal-type tumours.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: TP53 abnormalities are common, particularly in chromosomal-instability intestinal-type tumours."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: TP53 abnormalities are common, particularly in chromosomal-instability intestinal-type tumours.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? TP53 abnormalities are common, particularly in chromosomal-instability intestinal-type tumours.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "TP53 abnormalities are common, particularly in chromosomal-instability intestinal-type tumours."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "HER2, encoded by ERBB2, is overexpressed in a subset and can be a therapeutic target.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: HER2, encoded by ERBB2, is overexpressed in a subset and can be a therapeutic target."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: HER2, encoded by ERBB2, is overexpressed in a subset and can be a therapeutic target.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? HER2, encoded by ERBB2, is overexpressed in a subset and can be a therapeutic target.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "HER2, encoded by ERBB2, is overexpressed in a subset and can be a therapeutic target."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "MET pathway activation or amplification occurs in a subset of gastric cancers.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: MET pathway activation or amplification occurs in a subset of gastric cancers."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MET pathway activation or amplification occurs in a subset of gastric cancers.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? MET pathway activation or amplification occurs in a subset of gastric cancers.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "MET pathway activation or amplification occurs in a subset of gastric cancers."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. RAS activation is a more classic driver in colorectal, pancreatic, and other cancers than in standard gastric-cancer teaching.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: RAS activation is a more classic driver in colorectal, pancreatic, and other cancers than in standard gastric-cancer teaching."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: RAS activation is a more classic driver in colorectal, pancreatic, and other cancers than in standard gastric-cancer teaching.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? RAS activation is a more classic driver in colorectal, pancreatic, and other cancers than in standard gastric-cancer teaching.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "RAS activation is a more classic driver in colorectal, pancreatic, and other cancers than in standard gastric-cancer teaching."
+            }
+          }
+        }
+      },
+      "memoryHook": "Gastric targets can include HER2 and MET; do not force the colorectal RAS sequence onto stomach.",
+      "examPearl": "Diffuse hereditary gastric cancer is strongly associated with germline CDH1 loss and signet-ring cells.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Activation of RAS",
+        "auditedAnswer": "D. Activation of RAS",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 254,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q256",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Hypertrophy is an increase in individual cell size that enlarges an organ, usually through increased structural proteins and organelles. It is prominent in tissues with limited cell division, such as cardiac muscle.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Increase in cell number is hyperplasia.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Increase in cell number is hyperplasia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Increase in cell number is hyperplasia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is hyperplasia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Increase in cell number is hyperplasia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Pressure overload causing left-ventricular wall thickening is a classic pathologic hypertrophy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Pressure overload causing left-ventricular wall thickening is a classic pathologic hypertrophy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pressure overload causing left-ventricular wall thickening is a classic pathologic hypertrophy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pressure overload causing left-ventricular wall thickening is a classic pathologic hypertrophy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pressure overload causing left-ventricular wall thickening is a classic pathologic hypertrophy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Decrease in cell number can contribute to atrophy but is not hypertrophy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Decrease in cell number can contribute to atrophy but is not hypertrophy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Decrease in cell number can contribute to atrophy but is not hypertrophy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can contribute to atrophy but is not hypertrophy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Decrease in cell number can contribute to atrophy but is not hypertrophy."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Decrease in cell size defines atrophy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Decrease in cell size defines atrophy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Decrease in cell size defines atrophy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice defines atrophy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Decrease in cell size defines atrophy."
+            }
+          }
+        }
+      },
+      "memoryHook": "HyperTROPHY grows the trophy-sized cell; hyperPLASIA adds more cells.",
+      "examPearl": "Hypertrophy and hyperplasia can coexist, as in the pregnant uterus.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Increase in cell size",
+        "auditedAnswer": "B. Increase in cell size",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 256,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q264",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Iron-deficiency anaemia usually has increased RDW because red cells vary in size as deficiency evolves. A reduced RDW is not expected. The generic stem is imperfect because ferritin, serum iron, and TIBC vary among iron deficiency, thalassaemia, sideroblastic anaemia, and anaemia of chronic disease.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Reduced serum iron is expected in iron deficiency and inflammation, but not necessarily in thalassaemia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Reduced serum iron is expected in iron deficiency and inflammation, but not necessarily in thalassaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Reduced serum iron is expected in iron deficiency and inflammation, but not necessarily in thalassaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is expected in iron deficiency and inflammation, but not necessarily in thalassaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Reduced serum iron is expected in iron deficiency and inflammation, but not necessarily in thalassaemia."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best answer. RDW is increased in iron deficiency and often normal in thalassaemia, not characteristically reduced.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: RDW is increased in iron deficiency and often normal in thalassaemia, not characteristically reduced."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: RDW is increased in iron deficiency and often normal in thalassaemia, not characteristically reduced.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? RDW is increased in iron deficiency and often normal in thalassaemia, not characteristically reduced.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "RDW is increased in iron deficiency and often normal in thalassaemia, not characteristically reduced."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Normal ferritin can occur in thalassaemia or early deficiency and ferritin can be falsely normal or high during inflammation.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Normal ferritin can occur in thalassaemia or early deficiency and ferritin can be falsely normal or high during inflammation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Normal ferritin can occur in thalassaemia or early deficiency and ferritin can be falsely normal or high during inflammation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Normal ferritin can occur in thalassaemia or early deficiency and ferritin can be falsely normal or high during inflammation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Normal ferritin can occur in thalassaemia or early deficiency and ferritin can be falsely normal or high during inflammation."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Increased TIBC supports iron deficiency but TIBC is low or normal in inflammation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Increased TIBC supports iron deficiency but TIBC is low or normal in inflammation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Increased TIBC supports iron deficiency but TIBC is low or normal in inflammation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice supports iron deficiency but TIBC is low or normal in inflammation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Increased TIBC supports iron deficiency but TIBC is low or normal in inflammation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Iron deficiency makes cells progressively smaller, so RDW widens.",
+      "examPearl": "Use ferritin with inflammation context, transferrin saturation, reticulocytes, smear, and haemoglobin studies rather than one value.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "B. Reduced Total RBC distribution Width",
+        "auditedAnswer": "B. Reduced Total RBC distribution Width",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 264,
+        "sourcePdfPage": 49,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q353",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Birbeck granules are rod-shaped cytoplasmic organelles with a terminal expansion, giving a tennis-racket appearance on electron microscopy. They are characteristic of Langerhans cells and contain langerin, CD207.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. They are associated with antigen processing and endosomal function.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: They are associated with antigen processing and endosomal function."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: They are associated with antigen processing and endosomal function.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? They are associated with antigen processing and endosomal function.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "They are associated with antigen processing and endosomal function."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hockey-stick is not the classic ultrastructural analogy.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hockey-stick is not the classic ultrastructural analogy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hockey-stick is not the classic ultrastructural analogy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hockey-stick is not the classic ultrastructural analogy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Hockey-stick is not the classic ultrastructural analogy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bat-shaped granules do not describe Langerhans cells.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bat-shaped granules do not describe Langerhans cells."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bat-shaped granules do not describe Langerhans cells.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bat-shaped granules do not describe Langerhans cells.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Bat-shaped granules do not describe Langerhans cells."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Spherical granules lack the diagnostic rod and bulb shape.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Spherical granules lack the diagnostic rod and bulb shape."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Spherical granules lack the diagnostic rod and bulb shape.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Spherical granules lack the diagnostic rod and bulb shape.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Spherical granules lack the diagnostic rod and bulb shape."
+            }
+          }
+        }
+      },
+      "memoryHook": "Langerhans plays tennis with Birbeck rackets.",
+      "examPearl": "Langerhans-cell histiocytosis cells are typically CD1a, S100, and langerin positive.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Tennis racket",
+        "auditedAnswer": "A. Tennis racket",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 353,
+        "sourcePdfPage": 64,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q360",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Hereditary spherocytosis is an intrinsic red-cell membrane-cytoskeleton disorder and is direct Coombs negative. Spherocytes lose surface area, become osmotically fragile, and are trapped in the spleen.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. A positive direct Coombs test suggests autoimmune haemolytic anaemia, which can also show spherocytes.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A positive direct Coombs test suggests autoimmune haemolytic anaemia, which can also show spherocytes."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A positive direct Coombs test suggests autoimmune haemolytic anaemia, which can also show spherocytes.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A positive direct Coombs test suggests autoimmune haemolytic anaemia, which can also show spherocytes.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A positive direct Coombs test suggests autoimmune haemolytic anaemia, which can also show spherocytes."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Increased osmotic fragility is characteristic, though modern eosin-5-maleimide binding is often more useful.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Increased osmotic fragility is characteristic, though modern eosin-5-maleimide binding is often more useful."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Increased osmotic fragility is characteristic, though modern eosin-5-maleimide binding is often more useful.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is characteristic, though modern eosin-5-maleimide binding is often more useful.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Increased osmotic fragility is characteristic, though modern eosin-5-maleimide binding is often more useful."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Splenomegaly occurs from extravascular haemolysis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Splenomegaly occurs from extravascular haemolysis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Splenomegaly occurs from extravascular haemolysis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice occurs from extravascular haemolysis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Splenomegaly occurs from extravascular haemolysis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pigment gallstones result from chronic bilirubin turnover.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pigment gallstones result from chronic bilirubin turnover."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pigment gallstones result from chronic bilirubin turnover.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pigment gallstones result from chronic bilirubin turnover.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pigment gallstones result from chronic bilirubin turnover."
+            }
+          }
+        }
+      },
+      "memoryHook": "Spherocytes plus Coombs negative suggests hereditary; Coombs positive suggests autoimmune.",
+      "examPearl": "Splenectomy improves haemolysis but does not correct the membrane defect and requires infection prevention.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Direct Coomb's Positive",
+        "auditedAnswer": "A. Direct Coomb's Positive",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 360,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q371",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Alpha heavy-chain disease, also called Seligmann disease or immunoproliferative small-intestinal disease, is the most common heavy-chain disease. It produces abnormal alpha chains without light chains and often presents with malabsorption.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Franklin disease is gamma heavy-chain disease, rarer and associated with lymphoplasmacytic disease.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Franklin disease is gamma heavy-chain disease, rarer and associated with lymphoplasmacytic disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Franklin disease is gamma heavy-chain disease, rarer and associated with lymphoplasmacytic disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is gamma heavy-chain disease, rarer and associated with lymphoplasmacytic disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Franklin disease is gamma heavy-chain disease, rarer and associated with lymphoplasmacytic disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It is linked to Mediterranean or Middle Eastern regions and may be related to chronic antigenic stimulation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It is linked to Mediterranean or Middle Eastern regions and may be related to chronic antigenic stimulation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It is linked to Mediterranean or Middle Eastern regions and may be related to chronic antigenic stimulation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It is linked to Mediterranean or Middle Eastern regions and may be related to chronic antigenic stimulation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "It is linked to Mediterranean or Middle Eastern regions and may be related to chronic antigenic stimulation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mu heavy-chain disease is very rare and resembles chronic lymphocytic leukaemia.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mu heavy-chain disease is very rare and resembles chronic lymphocytic leukaemia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mu heavy-chain disease is very rare and resembles chronic lymphocytic leukaemia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mu heavy-chain disease is very rare and resembles chronic lymphocytic leukaemia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Mu heavy-chain disease is very rare and resembles chronic lymphocytic leukaemia."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Waldenstrom macroglobulinaemia produces intact IgM and is not a heavy-chain disease category.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Waldenstrom macroglobulinaemia produces intact IgM and is not a heavy-chain disease category."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Waldenstrom macroglobulinaemia produces intact IgM and is not a heavy-chain disease category.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Waldenstrom macroglobulinaemia produces intact IgM and is not a heavy-chain disease category.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Waldenstrom macroglobulinaemia produces intact IgM and is not a heavy-chain disease category."
+            }
+          }
+        }
+      },
+      "memoryHook": "Most heavy-chain disease is alpha, named Seligmann, in small intestine.",
+      "examPearl": "Early-stage alpha heavy-chain disease can sometimes respond to antibiotics; advanced lymphoma requires oncologic therapy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Seligmann disease",
+        "auditedAnswer": "B. Seligmann disease",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 371,
+        "sourcePdfPage": 67,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    }
+  ]
+}

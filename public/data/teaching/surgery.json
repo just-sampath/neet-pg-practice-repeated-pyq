@@ -1,0 +1,1719 @@
+{
+  "questions": [
+    {
+      "questionId": "q027",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "A therapeutic fasciotomy for compartment syndrome must open the noncompliant deep fascia surrounding the affected muscle compartments. The incision necessarily passes through skin and subcutaneous or superficial fascial tissue first.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cutting skin alone does not decompress a muscle compartment.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cutting skin alone does not decompress a muscle compartment."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cutting skin alone does not decompress a muscle compartment.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cutting skin alone does not decompress a muscle compartment.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Cutting skin alone does not decompress a muscle compartment."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Skin and subcutaneous tissue expose the fascia but leave the constricting deep fascial envelope intact.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Skin and subcutaneous tissue expose the fascia but leave the constricting deep fascial envelope intact."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Skin and subcutaneous tissue expose the fascia but leave the constricting deep fascial envelope intact.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Skin and subcutaneous tissue expose the fascia but leave the constricting deep fascial envelope intact.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Skin and subcutaneous tissue expose the fascia but leave the constricting deep fascial envelope intact."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Superficial fascia is essentially part of subcutaneous tissue. Stopping before deep fascia fails the purpose of fasciotomy.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Superficial fascia is essentially part of subcutaneous tissue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Superficial fascia is essentially part of subcutaneous tissue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Superficial fascia is essentially part of subcutaneous tissue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Superficial fascia is essentially part of subcutaneous tissue."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Skin, subcutaneous tissue, superficial fascia, and the deep compartment fascia are opened, with all threatened compartments released.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Skin, subcutaneous tissue, superficial fascia, and the deep compartment fascia are opened, with all threatened compartments released."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Skin, subcutaneous tissue, superficial fascia, and the deep compartment fascia are opened, with all threatened compartments released.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Skin, subcutaneous tissue, superficial fascia, and the deep compartment fascia are opened, with all threatened compartments released.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Skin, subcutaneous tissue, superficial fascia, and the deep compartment fascia are opened, with all threatened compartments released."
+            }
+          }
+        }
+      },
+      "memoryHook": "Fasciotomy is not complete until the deep fascia is fully split.",
+      "examPearl": "Pain out of proportion and pain with passive stretch are early clues. Pulselessness is late and must not be awaited.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Skin+subcutaneous tissue+Superficial fascia+deep fascia",
+        "auditedAnswer": "D. Skin+subcutaneous tissue+Superficial fascia+deep fascia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 27,
+        "sourcePdfPage": 7,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q128",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The adult Rule of Nines rapidly estimates the percentage of total body surface area burned. It divides the body into regions worth 9 percent or multiples of 9.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Burn depth is classified by tissue injury, such as superficial, partial-thickness, and full-thickness, not by the Rule of Nines.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Burn depth is classified by tissue injury, such as superficial, partial-thickness, and full-thickness, not by the Rule of Nines."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Burn depth is classified by tissue injury, such as superficial, partial-thickness, and full-thickness, not by the Rule of Nines.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Burn depth is classified by tissue injury, such as superficial, partial-thickness, and full-thickness, not by the Rule of Nines.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Burn depth is classified by tissue injury, such as superficial, partial-thickness, and full-thickness, not by the Rule of Nines."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Only partial- and full-thickness burns are generally counted for formal fluid-resuscitation TBSA.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Only partial- and full-thickness burns are generally counted for formal fluid-resuscitation TBSA."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Only partial- and full-thickness burns are generally counted for formal fluid-resuscitation TBSA.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Only partial- and full-thickness burns are generally counted for formal fluid-resuscitation TBSA.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Only partial- and full-thickness burns are generally counted for formal fluid-resuscitation TBSA."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "TBSA contributes to severity, but the rule directly estimates area rather than a complete severity score.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: TBSA contributes to severity, but the rule directly estimates area rather than a complete severity score."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: TBSA contributes to severity, but the rule directly estimates area rather than a complete severity score.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? TBSA contributes to severity, but the rule directly estimates area rather than a complete severity score.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "TBSA contributes to severity, but the rule directly estimates area rather than a complete severity score."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The mechanism or type of burn is not determined by body-region percentages.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The mechanism or type of burn is not determined by body-region percentages."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The mechanism or type of burn is not determined by body-region percentages.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The mechanism or type of burn is not determined by body-region percentages.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The mechanism or type of burn is not determined by body-region percentages."
+            }
+          }
+        }
+      },
+      "memoryHook": "Rule of Nines is the map of burned surface, not depth.",
+      "examPearl": "Use Lund-Browder chart in children because head and limb proportions change with age; the patient's palm including fingers is about 1 percent TBSA.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. % of total body surfacearea",
+        "auditedAnswer": "B. % of total body surfacearea",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 128,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q129",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Parkland formula gives 4 mL x body weight in kg x percent TBSA for the first 24 hours. Here 4 x 50 x 40 = 8,000 mL, with half, 4,000 mL, in the first 8 hours from the time of burn.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eight litres is the full calculated 24-hour volume, not the first-8-hour portion.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Eight litres is the full calculated 24-hour volume, not the first-8-hour portion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eight litres is the full calculated 24-hour volume, not the first-8-hour portion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eight litres is the full calculated 24-hour volume, not the first-8-hour portion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Eight litres is the full calculated 24-hour volume, not the first-8-hour portion."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Four litres is given in the first 8 hours, then four litres over the next 16 hours.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Four litres is given in the first 8 hours, then four litres over the next 16 hours."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four litres is given in the first 8 hours, then four litres over the next 16 hours.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four litres is given in the first 8 hours, then four litres over the next 16 hours.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Four litres is given in the first 8 hours, then four litres over the next 16 hours."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two litres is only one quarter of the calculated total and would under-resuscitate if used rigidly.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Two litres is only one quarter of the calculated total and would under-resuscitate if used rigidly."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two litres is only one quarter of the calculated total and would under-resuscitate if used rigidly.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two litres is only one quarter of the calculated total and would under-resuscitate if used rigidly.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Two litres is only one quarter of the calculated total and would under-resuscitate if used rigidly."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Six litres does not follow the half-first-eight-hours schedule.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Six litres does not follow the half-first-eight-hours schedule."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Six litres does not follow the half-first-eight-hours schedule.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Six litres does not follow the half-first-eight-hours schedule.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Six litres does not follow the half-first-eight-hours schedule."
+            }
+          }
+        }
+      },
+      "memoryHook": "Four times kg times percent; half by hour eight from injury.",
+      "examPearl": "The formula is a starting estimate. Titrate to perfusion and urine output, commonly about 0.5 mL/kg/hour in adults, while avoiding fluid creep.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 4 lt",
+        "auditedAnswer": "B. 4 lt",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 129,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q134",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The Dohlman procedure is an endoscopic treatment for Zenker diverticulum that divides the common wall, including cricopharyngeal muscle, between the oesophagus and the pouch. Modern flexible or stapled variations achieve the same septotomy principle.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Meckel diverticulum is treated by diverticulectomy or segmental bowel resection when indicated.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Meckel diverticulum is treated by diverticulectomy or segmental bowel resection when indicated."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Meckel diverticulum is treated by diverticulectomy or segmental bowel resection when indicated.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Meckel diverticulum is treated by diverticulectomy or segmental bowel resection when indicated.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Meckel diverticulum is treated by diverticulectomy or segmental bowel resection when indicated."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Zenker is a pulsion pseudodiverticulum through Killian dehiscence above the cricopharyngeus.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Zenker is a pulsion pseudodiverticulum through Killian dehiscence above the cricopharyngeus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Zenker is a pulsion pseudodiverticulum through Killian dehiscence above the cricopharyngeus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Zenker is a pulsion pseudodiverticulum through Killian dehiscence above the cricopharyngeus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Zenker is a pulsion pseudodiverticulum through Killian dehiscence above the cricopharyngeus."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dermatomyositis is an inflammatory myopathy treated medically, not by Dohlman procedure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dermatomyositis is an inflammatory myopathy treated medically, not by Dohlman procedure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dermatomyositis is an inflammatory myopathy treated medically, not by Dohlman procedure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an inflammatory myopathy treated medically, not by Dohlman procedure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Dermatomyositis is an inflammatory myopathy treated medically, not by Dohlman procedure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Menetrier disease is a hypertrophic gastropathy and has no relation to endoscopic pharyngeal septotomy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Menetrier disease is a hypertrophic gastropathy and has no relation to endoscopic pharyngeal septotomy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Menetrier disease is a hypertrophic gastropathy and has no relation to endoscopic pharyngeal septotomy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Menetrier disease is a hypertrophic gastropathy and has no relation to endoscopic pharyngeal septotomy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Menetrier disease is a hypertrophic gastropathy and has no relation to endoscopic pharyngeal septotomy."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dohlman divides the divider in Zenker.",
+      "examPearl": "Symptoms include regurgitation of undigested food, halitosis, dysphagia, cough, and aspiration.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Zenker's diverticulum",
+        "auditedAnswer": "B. Zenker's diverticulum",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 134,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2016,
+          2019
+        ]
+      }
+    },
+    {
+      "questionId": "q152",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "The classic anterior mediastinal mass mnemonic is the four Ts: thymic lesions, teratoma and other germ-cell tumours, terrible lymphoma, and thyroid tissue. Neurogenic tumours favour the posterior mediastinum.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Substernal thyroid and ectopic thyroid tissue can occupy the anterior superior mediastinum.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Substernal thyroid and ectopic thyroid tissue can occupy the anterior superior mediastinum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Substernal thyroid and ectopic thyroid tissue can occupy the anterior superior mediastinum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Substernal thyroid and ectopic thyroid tissue can occupy the anterior superior mediastinum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Substernal thyroid and ectopic thyroid tissue can occupy the anterior superior mediastinum."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thymoma is a classic anterior mediastinal tumour and may be associated with myasthenia gravis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Thymoma is a classic anterior mediastinal tumour and may be associated with myasthenia gravis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thymoma is a classic anterior mediastinal tumour and may be associated with myasthenia gravis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a classic anterior mediastinal tumour and may be associated with myasthenia gravis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Thymoma is a classic anterior mediastinal tumour and may be associated with myasthenia gravis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lymphoma commonly creates anterior mediastinal adenopathy or mass.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Lymphoma commonly creates anterior mediastinal adenopathy or mass."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lymphoma commonly creates anterior mediastinal adenopathy or mass.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice commonly creates anterior mediastinal adenopathy or mass.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Lymphoma commonly creates anterior mediastinal adenopathy or mass."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Neurogenic tumours usually arise in the paravertebral posterior mediastinum.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Neurogenic tumours usually arise in the paravertebral posterior mediastinum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Neurogenic tumours usually arise in the paravertebral posterior mediastinum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Neurogenic tumours usually arise in the paravertebral posterior mediastinum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Neurogenic tumours usually arise in the paravertebral posterior mediastinum."
+            }
+          }
+        }
+      },
+      "memoryHook": "Anterior has four Ts; posterior has neurogenic tumours.",
+      "examPearl": "A large anterior mass can make supine anaesthesia dangerous by compressing airway or great vessels.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Neurogenic tumor",
+        "auditedAnswer": "D. Neurogenic tumor",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 152,
+        "sourcePdfPage": 29,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q159",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The stem contains stray Babesia text, but the actual question asks for the best conduit for femoropopliteal bypass. Autologous great saphenous vein, commonly reversed or used in situ, generally offers the best long-term patency, especially for below-knee targets.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dacron is a synthetic graft more often used for large-calibre aortoiliac reconstruction than distal infrainguinal bypass.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Dacron is a synthetic graft more often used for large-calibre aortoiliac reconstruction than distal infrainguinal bypass."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dacron is a synthetic graft more often used for large-calibre aortoiliac reconstruction than distal infrainguinal bypass.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a synthetic graft more often used for large-calibre aortoiliac reconstruction than distal infrainguinal bypass.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Dacron is a synthetic graft more often used for large-calibre aortoiliac reconstruction than distal infrainguinal bypass."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Reversed saphenous vein avoids valve obstruction and provides a durable biologic conduit.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Reversed saphenous vein avoids valve obstruction and provides a durable biologic conduit."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Reversed saphenous vein avoids valve obstruction and provides a durable biologic conduit.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice avoids valve obstruction and provides a durable biologic conduit.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Reversed saphenous vein avoids valve obstruction and provides a durable biologic conduit."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "PTFE is an alternative when suitable vein is unavailable and may perform acceptably above the knee, but it is not the overall best conduit.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: PTFE is an alternative when suitable vein is unavailable and may perform acceptably above the knee, but it is not the overall best conduit."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: PTFE is an alternative when suitable vein is unavailable and may perform acceptably above the knee, but it is not the overall best conduit.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an alternative when suitable vein is unavailable and may perform acceptably above the knee, but it is not the overall best conduit.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "PTFE is an alternative when suitable vein is unavailable and may perform acceptably above the knee, but it is not the overall best conduit."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A suitable listed autologous conduit exists.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A suitable listed autologous conduit exists."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "For leg bypass, use the patient's vein when you can.",
+      "examPearl": "Map vein quality preoperatively and distinguish above-knee from below-knee targets when comparing graft options.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "C. PTFE",
+        "auditedAnswer": "B. Reversed saphenous vein",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 159,
+        "sourcePdfPage": 30,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q251",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Trauma, especially iatrogenic injury during thoracic, oesophageal, neck, or cardiac surgery, is the most common overall cause of chylothorax. Lymphoma is the most common nontraumatic cause.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Corrected overall answer. Thoracic-duct disruption allows triglyceride-rich lymph to enter the pleural space.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Thoracic-duct disruption allows triglyceride-rich lymph to enter the pleural space."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thoracic-duct disruption allows triglyceride-rich lymph to enter the pleural space.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thoracic-duct disruption allows triglyceride-rich lymph to enter the pleural space.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Thoracic-duct disruption allows triglyceride-rich lymph to enter the pleural space."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lymphoma is the most common nontraumatic cause of chylothorax.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Lymphoma is the most common nontraumatic cause of chylothorax."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lymphoma is the most common nontraumatic cause of chylothorax.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the most common nontraumatic cause of chylothorax.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Lymphoma is the most common nontraumatic cause of chylothorax."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Heart failure causes transudative pleural effusions and rarely chylous-appearing pseudochylothorax, not the common true chylothorax.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Heart failure causes transudative pleural effusions and rarely chylous-appearing pseudochylothorax, not the common true chylothorax."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heart failure causes transudative pleural effusions and rarely chylous-appearing pseudochylothorax, not the common true chylothorax.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Heart failure causes transudative pleural effusions and rarely chylous-appearing pseudochylothorax, not the common true chylothorax.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Heart failure causes transudative pleural effusions and rarely chylous-appearing pseudochylothorax, not the common true chylothorax."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Infections such as tuberculosis or filariasis can obstruct lymphatics but are less common overall.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Infections such as tuberculosis or filariasis can obstruct lymphatics but are less common overall."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Infections such as tuberculosis or filariasis can obstruct lymphatics but are less common overall.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice such as tuberculosis or filariasis can obstruct lymphatics but are less common overall.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Infections such as tuberculosis or filariasis can obstruct lymphatics but are less common overall."
+            }
+          }
+        }
+      },
+      "memoryHook": "Chylothorax overall: trauma; without trauma: lymphoma.",
+      "examPearl": "Pleural triglycerides above 110 mg/dL or chylomicrons support true chylothorax; appearance alone is unreliable.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "B. Lymphoma",
+        "auditedAnswer": "A. Trauma",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 251,
+        "sourcePdfPage": 46,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q255",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Heller myotomy divides the lower oesophageal sphincter muscle to relieve outflow obstruction in achalasia. A partial fundoplication is often added surgically to reduce reflux; POEM is an endoscopic alternative.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Oesophageal carcinoma requires staging and oncologic treatment, not Heller myotomy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Oesophageal carcinoma requires staging and oncologic treatment, not Heller myotomy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Oesophageal carcinoma requires staging and oncologic treatment, not Heller myotomy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Oesophageal carcinoma requires staging and oncologic treatment, not Heller myotomy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Oesophageal carcinoma requires staging and oncologic treatment, not Heller myotomy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypertrophic pyloric stenosis is treated by Ramstedt pyloromyotomy.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hypertrophic pyloric stenosis is treated by Ramstedt pyloromyotomy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypertrophic pyloric stenosis is treated by Ramstedt pyloromyotomy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Hypertrophic pyloric stenosis is treated by Ramstedt pyloromyotomy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Hypertrophic pyloric stenosis is treated by Ramstedt pyloromyotomy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Achalasia features impaired LES relaxation and absent normal peristalsis.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Achalasia features impaired LES relaxation and absent normal peristalsis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Achalasia features impaired LES relaxation and absent normal peristalsis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Achalasia features impaired LES relaxation and absent normal peristalsis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Achalasia features impaired LES relaxation and absent normal peristalsis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Inguinal hernia is repaired with tissue or mesh techniques.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Inguinal hernia is repaired with tissue or mesh techniques."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Inguinal hernia is repaired with tissue or mesh techniques.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is repaired with tissue or mesh techniques.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Inguinal hernia is repaired with tissue or mesh techniques."
+            }
+          }
+        }
+      },
+      "memoryHook": "Heller helps the held-up oesophagus; Ramstedt releases the pylorus.",
+      "examPearl": "Manometry is the diagnostic gold standard, while endoscopy excludes pseudoachalasia or malignancy.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Achalasia cardia",
+        "auditedAnswer": "C. Achalasia cardia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 255,
+        "sourcePdfPage": 47,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q261",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Metastasis from another solid tumour is the most common malignant lesion involving the adrenal gland. Lung, breast, melanoma, kidney, and gastrointestinal cancers commonly spread there.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Adrenocortical carcinoma is the main primary cortical malignancy but is much less common than metastasis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Adrenocortical carcinoma is the main primary cortical malignancy but is much less common than metastasis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adrenocortical carcinoma is the main primary cortical malignancy but is much less common than metastasis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is the main primary cortical malignancy but is much less common than metastasis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Adrenocortical carcinoma is the main primary cortical malignancy but is much less common than metastasis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Malignant pheochromocytoma or metastatic paraganglioma is uncommon; malignancy is defined by metastasis rather than histology alone.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Malignant pheochromocytoma or metastatic paraganglioma is uncommon; malignancy is defined by metastasis rather than histology alone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Malignant pheochromocytoma or metastatic paraganglioma is uncommon; malignancy is defined by metastasis rather than histology alone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Malignant pheochromocytoma or metastatic paraganglioma is uncommon; malignancy is defined by metastasis rather than histology alone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Malignant pheochromocytoma or metastatic paraganglioma is uncommon; malignancy is defined by metastasis rather than histology alone."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Primary adrenal lymphoma is rare, often bilateral, and not the commonest malignant adrenal mass.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Primary adrenal lymphoma is rare, often bilateral, and not the commonest malignant adrenal mass."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Primary adrenal lymphoma is rare, often bilateral, and not the commonest malignant adrenal mass.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Primary adrenal lymphoma is rare, often bilateral, and not the commonest malignant adrenal mass.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Primary adrenal lymphoma is rare, often bilateral, and not the commonest malignant adrenal mass."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Bilateral adrenal lesions in a patient with known cancer strongly suggest metastases, though benign adenomas remain common.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Bilateral adrenal lesions in a patient with known cancer strongly suggest metastases, though benign adenomas remain common."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bilateral adrenal lesions in a patient with known cancer strongly suggest metastases, though benign adenomas remain common.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bilateral adrenal lesions in a patient with known cancer strongly suggest metastases, though benign adenomas remain common.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Bilateral adrenal lesions in a patient with known cancer strongly suggest metastases, though benign adenomas remain common."
+            }
+          }
+        }
+      },
+      "memoryHook": "The common malignant adrenal lesion came from elsewhere.",
+      "examPearl": "Before biopsy of an adrenal mass, exclude pheochromocytoma to avoid a catecholamine crisis.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Metastasis from another solid tissue tumor",
+        "auditedAnswer": "D. Metastasis from another solid tissue tumor",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 261,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q334",
+      "answer": {
+        "kind": "multiple_defensible",
+        "correctOptionIds": [
+          "B",
+          "D"
+        ],
+        "summary": "The modified Van Nuys Prognostic Index for ductal carcinoma in situ scores tumour size, margin width, pathologic classification, and patient age. ER status is not included. Microcalcification itself is also not a formal scoring component, although mammographic calcification extent can help estimate lesion size.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Included in the modified index.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Included in the modified index."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Included in the modified index.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Included in the modified index.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Included in the modified index."
+            }
+          }
+        },
+        "B": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Not a formal component as written. Imaging microcalcifications may lead to the diagnosis and help define size but are not independently scored.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Imaging microcalcifications may lead to the diagnosis and help define size but are not independently scored."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Imaging microcalcifications may lead to the diagnosis and help define size but are not independently scored.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Imaging microcalcifications may lead to the diagnosis and help define size but are not independently scored.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Imaging microcalcifications may lead to the diagnosis and help define size but are not independently scored."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tumour size is one of the variables scored in the modified Van Nuys Prognostic Index for ductal carcinoma in situ.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tumour size is one of the variables scored in the modified Van Nuys Prognostic Index for ductal carcinoma in situ."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tumour size is one of the variables scored in the modified Van Nuys Prognostic Index for ductal carcinoma in situ.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Tumour size is one of the variables scored in the modified Van Nuys Prognostic Index for ductal carcinoma in situ.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Tumour size is one of the variables scored in the modified Van Nuys Prognostic Index for ductal carcinoma in situ."
+            }
+          }
+        },
+        "D": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Not included and the source-intended answer. ER status influences modern risk assessment and endocrine therapy but not the classic VNPI.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: ER status influences modern risk assessment and endocrine therapy but not the classic VNPI."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: ER status influences modern risk assessment and endocrine therapy but not the classic VNPI.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice influences modern risk assessment and endocrine therapy but not the classic VNPI.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "ER status influences modern risk assessment and endocrine therapy but not the classic VNPI."
+            }
+          }
+        }
+      },
+      "memoryHook": "VNPI: age, size, margin, pathology.",
+      "examPearl": "The item has two noncomponents. If forced to follow the source, choose D; scientifically, B and D are both not formal score inputs.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "D. ER status",
+        "auditedAnswer": "Multiple defensible options: B + D",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 334,
+        "sourcePdfPage": 61,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q338",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm remains the classic diameter threshold for considering elective repair. Women may be considered at a smaller diameter, often around 5.0 cm, because rupture risk differs.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm is the classic elective-repair threshold.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm is the classic elective-repair threshold."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm is the classic elective-repair threshold.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm is the classic elective-repair threshold.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "For an asymptomatic fusiform abdominal aortic aneurysm in a man with acceptable operative risk, 5.5 cm is the classic elective-repair threshold."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Waiting to 6.5 cm exposes the patient to greater rupture risk.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Waiting to 6.5 cm exposes the patient to greater rupture risk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Waiting to 6.5 cm exposes the patient to greater rupture risk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Waiting to 6.5 cm exposes the patient to greater rupture risk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Waiting to 6.5 cm exposes the patient to greater rupture risk."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "7.5 cm is far beyond standard elective consideration.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 7.5 cm is far beyond standard elective consideration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 7.5 cm is far beyond standard elective consideration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 7.5 cm is far beyond standard elective consideration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "7.5 cm is far beyond standard elective consideration."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "8.5 cm represents a giant high-risk aneurysm and is not a screening threshold.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 8.5 cm represents a giant high-risk aneurysm and is not a screening threshold."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 8.5 cm represents a giant high-risk aneurysm and is not a screening threshold.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 8.5 cm represents a giant high-risk aneurysm and is not a screening threshold.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "8.5 cm represents a giant high-risk aneurysm and is not a screening threshold."
+            }
+          }
+        }
+      },
+      "memoryHook": "AAA elective threshold: five and a half for the classic male question.",
+      "examPearl": "Repair is also considered for symptoms, rapid expansion, saccular morphology, rupture, or other high-risk features regardless of diameter.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. 5.5cm",
+        "auditedAnswer": "A. 5.5cm",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 338,
+        "sourcePdfPage": 62,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q339",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Chronic heavy alcohol exposure is a common cause of chronic pancreatitis in adults in many exam settings, producing recurrent inflammation, fibrosis, calcification, pain, exocrine failure, and diabetes. Cause distributions vary by region.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct classic answer. Smoking independently accelerates disease.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Smoking independently accelerates disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Smoking independently accelerates disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Smoking independently accelerates disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Smoking independently accelerates disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pancreatic calculi are a consequence and imaging feature, not usually the initiating cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pancreatic calculi are a consequence and imaging feature, not usually the initiating cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pancreatic calculi are a consequence and imaging feature, not usually the initiating cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pancreatic calculi are a consequence and imaging feature, not usually the initiating cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pancreatic calculi are a consequence and imaging feature, not usually the initiating cause."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pancreas divisum is a debated or uncommon predisposition and not the commonest cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pancreas divisum is a debated or uncommon predisposition and not the commonest cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pancreas divisum is a debated or uncommon predisposition and not the commonest cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a debated or uncommon predisposition and not the commonest cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Pancreas divisum is a debated or uncommon predisposition and not the commonest cause."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gallstones are a leading cause of acute pancreatitis but rarely cause chronic pancreatitis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Gallstones are a leading cause of acute pancreatitis but rarely cause chronic pancreatitis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gallstones are a leading cause of acute pancreatitis but rarely cause chronic pancreatitis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Gallstones are a leading cause of acute pancreatitis but rarely cause chronic pancreatitis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Gallstones are a leading cause of acute pancreatitis but rarely cause chronic pancreatitis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Gallstones and alcohol cause acute attacks; alcohol is the classic chronic cause.",
+      "examPearl": "In tropical regions, idiopathic or genetic forms may be prominent, so epidemiology matters.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Chronic alcohol",
+        "auditedAnswer": "A. Chronic alcohol",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 339,
+        "sourcePdfPage": 62,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q340",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Killian dehiscence is a weak triangular area between the oblique thyropharyngeus and transverse cricopharyngeus parts of the inferior pharyngeal constrictor. Zenker diverticulum protrudes through it.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The superior constrictor lies above and does not form this specific weak zone.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The superior constrictor lies above and does not form this specific weak zone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The superior constrictor lies above and does not form this specific weak zone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The superior constrictor lies above and does not form this specific weak zone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The superior constrictor lies above and does not form this specific weak zone."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Both bordering muscle parts belong to the inferior constrictor.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Both bordering muscle parts belong to the inferior constrictor."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both bordering muscle parts belong to the inferior constrictor.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both bordering muscle parts belong to the inferior constrictor.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Both bordering muscle parts belong to the inferior constrictor."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Middle constrictor is not the relevant muscle.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Middle constrictor is not the relevant muscle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Middle constrictor is not the relevant muscle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the relevant muscle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Middle constrictor is not the relevant muscle."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A matching muscle is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A matching muscle is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Killian gap lies within the inferior constrictor, above cricopharyngeus.",
+      "examPearl": "Zenker is a pulsion pseudodiverticulum containing mucosa and submucosa, not all wall layers.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Inferior constrictor",
+        "auditedAnswer": "B. Inferior constrictor",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 340,
+        "sourcePdfPage": 62,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q342",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Posterior urethral valves obstruct the male posterior urethra, causing a thick-walled palpable bladder, hydroureteronephrosis, recurrent UTI, poor stream, and renal impairment. Painful stress incontinence is not characteristic.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Chronic outlet obstruction can make the bladder enlarged and palpable.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Chronic outlet obstruction can make the bladder enlarged and palpable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Chronic outlet obstruction can make the bladder enlarged and palpable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Chronic outlet obstruction can make the bladder enlarged and palpable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Chronic outlet obstruction can make the bladder enlarged and palpable."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Back pressure can dilate ureters and renal collecting systems.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Back pressure can dilate ureters and renal collecting systems."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Back pressure can dilate ureters and renal collecting systems.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Back pressure can dilate ureters and renal collecting systems.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Back pressure can dilate ureters and renal collecting systems."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "False and therefore the answer. Dribbling or overflow may occur, but painful stress incontinence is not the syndrome.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Dribbling or overflow may occur, but painful stress incontinence is not the syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dribbling or overflow may occur, but painful stress incontinence is not the syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Dribbling or overflow may occur, but painful stress incontinence is not the syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Dribbling or overflow may occur, but painful stress incontinence is not the syndrome."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Stasis and reflux increase UTI risk.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Stasis and reflux increase UTI risk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Stasis and reflux increase UTI risk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Stasis and reflux increase UTI risk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Stasis and reflux increase UTI risk."
+            }
+          }
+        }
+      },
+      "memoryHook": "PUV boy: poor stream, big bladder, bilateral back pressure, UTIs.",
+      "examPearl": "Antenatal hydronephrosis or a thick bladder may be the first clue; stabilise renal and electrolyte status before valve ablation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Painful stress incontinence",
+        "auditedAnswer": "C. Painful stress incontinence",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 342,
+        "sourcePdfPage": 62,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q347",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Epulis is a clinical term for a localised gingival mass. Common examples include pyogenic granuloma, peripheral giant-cell granuloma, and peripheral ossifying fibroma.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Enamel covers the tooth crown and does not give rise to an epulis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Enamel covers the tooth crown and does not give rise to an epulis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Enamel covers the tooth crown and does not give rise to an epulis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice covers the tooth crown and does not give rise to an epulis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Enamel covers the tooth crown and does not give rise to an epulis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The tooth root is not the tissue of origin for a gingival mass.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The tooth root is not the tissue of origin for a gingival mass."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The tooth root is not the tissue of origin for a gingival mass.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The tooth root is not the tissue of origin for a gingival mass.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The tooth root is not the tissue of origin for a gingival mass."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Epulis arises from gingiva or periodontal soft tissue.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Epulis arises from gingiva or periodontal soft tissue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Epulis arises from gingiva or periodontal soft tissue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Epulis arises from gingiva or periodontal soft tissue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Epulis arises from gingiva or periodontal soft tissue."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pulp lies within the tooth and causes pulpitis or intradental lesions, not epulis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pulp lies within the tooth and causes pulpitis or intradental lesions, not epulis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pulp lies within the tooth and causes pulpitis or intradental lesions, not epulis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lies within the tooth and causes pulpitis or intradental lesions, not epulis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pulp lies within the tooth and causes pulpitis or intradental lesions, not epulis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Epulis sits upon the gingiva.",
+      "examPearl": "The label is descriptive, so histopathology establishes the exact lesion.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Gingiva",
+        "auditedAnswer": "C. Gingiva",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 347,
+        "sourcePdfPage": 63,
+        "reportedRepeatYears": [
+          2012,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q367",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The transverse rectus abdominis myocutaneous, TRAM, flap is a classic widely taught autologous breast-reconstruction flap using lower abdominal skin, fat, and rectus muscle. Muscle-sparing TRAM and DIEP perforator flaps now reduce abdominal-wall morbidity in many centres.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Serratus anterior may be used locally in chest-wall reconstruction but is not the classic common whole-breast flap.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Serratus anterior may be used locally in chest-wall reconstruction but is not the classic common whole-breast flap."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Serratus anterior may be used locally in chest-wall reconstruction but is not the classic common whole-breast flap.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice may be used locally in chest-wall reconstruction but is not the classic common whole-breast flap.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Serratus anterior may be used locally in chest-wall reconstruction but is not the classic common whole-breast flap."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The TRAM flap is the classic abdominally based autologous breast-reconstruction flap. Muscle-sparing TRAM and DIEP flaps are now often chosen to reduce donor-site morbidity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Muscle-sparing TRAM and DIEP flaps are now often chosen to reduce donor-site morbidity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Muscle-sparing TRAM and DIEP flaps are now often chosen to reduce donor-site morbidity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Muscle-sparing TRAM and DIEP flaps are now often chosen to reduce donor-site morbidity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Muscle-sparing TRAM and DIEP flaps are now often chosen to reduce donor-site morbidity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Arm flaps are not standard primary autologous breast-volume options.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Arm flaps are not standard primary autologous breast-volume options."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Arm flaps are not standard primary autologous breast-volume options.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Arm flaps are not standard primary autologous breast-volume options.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Arm flaps are not standard primary autologous breast-volume options."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Deltopectoral flap is useful in head, neck, and chest-wall coverage but not the common breast mound reconstruction.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Deltopectoral flap is useful in head, neck, and chest-wall coverage but not the common breast mound reconstruction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Deltopectoral flap is useful in head, neck, and chest-wall coverage but not the common breast mound reconstruction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Deltopectoral flap is useful in head, neck, and chest-wall coverage but not the common breast mound reconstruction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Deltopectoral flap is useful in head, neck, and chest-wall coverage but not the common breast mound reconstruction."
+            }
+          }
+        }
+      },
+      "memoryHook": "TRAM transfers the tummy's transverse skin and rectus to reconstruct a breast.",
+      "examPearl": "Modern choice is individualised among implant, latissimus, TRAM, DIEP, and other perforator flaps.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "B. TRAM",
+        "auditedAnswer": "B. TRAM",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 367,
+        "sourcePdfPage": 67,
+        "reportedRepeatYears": [
+          2014,
+          2020
+        ]
+      }
+    }
+  ]
+}

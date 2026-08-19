@@ -1,0 +1,1722 @@
+{
+  "questions": [
+    {
+      "questionId": "q026",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Older forensic texts describe a BMI near 13 kg/m2 in adult men as a critical or potentially lethal starvation level. This is an examination convention, not a clinical threshold below which every person dies or above which a severely malnourished person is safe.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A BMI of 12 is extremely low and carries grave risk, but it is not the classic male value keyed by this question.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A BMI of 12 is extremely low and carries grave risk, but it is not the classic male value keyed by this question."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A BMI of 12 is extremely low and carries grave risk, but it is not the classic male value keyed by this question.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A BMI of 12 is extremely low and carries grave risk, but it is not the classic male value keyed by this question.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A BMI of 12 is extremely low and carries grave risk, but it is not the classic male value keyed by this question."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A BMI of 18 is underweight or near the underweight boundary, not the historical 'lethal' range.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A BMI of 18 is underweight or near the underweight boundary, not the historical 'lethal' range."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A BMI of 18 is underweight or near the underweight boundary, not the historical 'lethal' range.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A BMI of 18 is underweight or near the underweight boundary, not the historical 'lethal' range.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A BMI of 18 is underweight or near the underweight boundary, not the historical 'lethal' range."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "This is the traditional male forensic answer. Severe electrolyte, cardiac, infectious, and refeeding complications drive actual mortality.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Severe electrolyte, cardiac, infectious, and refeeding complications drive actual mortality."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe electrolyte, cardiac, infectious, and refeeding complications drive actual mortality.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe electrolyte, cardiac, infectious, and refeeding complications drive actual mortality.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Severe electrolyte, cardiac, infectious, and refeeding complications drive actual mortality."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A BMI of 14 is also profound malnutrition but is one point above the memorised conventional value.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A BMI of 14 is also profound malnutrition but is one point above the memorised conventional value."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A BMI of 14 is also profound malnutrition but is one point above the memorised conventional value.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A BMI of 14 is also profound malnutrition but is one point above the memorised conventional value.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A BMI of 14 is also profound malnutrition but is one point above the memorised conventional value."
+            }
+          }
+        }
+      },
+      "memoryHook": "For the old forensic pair, think men 13, women 11.",
+      "examPearl": "Never delay treatment or risk assessment because a patient has not crossed a memorised BMI. Clinical instability matters more than one number.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "C. 13",
+        "auditedAnswer": "C. 13",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 26,
+        "sourcePdfPage": 7,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q120",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Bansdola is a form of homicidal strangulation in which the neck is compressed between or by rigid wooden sticks or bamboo poles. It is a historical named method in forensic medicine.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ligature strangulation uses a cord-like ligature tightened around the neck without body suspension.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ligature strangulation uses a cord-like ligature tightened around the neck without body suspension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ligature strangulation uses a cord-like ligature tightened around the neck without body suspension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice strangulation uses a cord-like ligature tightened around the neck without body suspension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ligature strangulation uses a cord-like ligature tightened around the neck without body suspension."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Compression by hands is manual strangulation or throttling.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Compression by hands is manual strangulation or throttling."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Compression by hands is manual strangulation or throttling.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Compression by hands is manual strangulation or throttling.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Compression by hands is manual strangulation or throttling."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Wooden or bamboo sticks are the characteristic instrument.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Wooden or bamboo sticks are the characteristic instrument."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Wooden or bamboo sticks are the characteristic instrument.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Wooden or bamboo sticks are the characteristic instrument.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Wooden or bamboo sticks are the characteristic instrument."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Compression by the bend of elbow or forearm is mugging or choke-hold type strangulation.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Compression by the bend of elbow or forearm is mugging or choke-hold type strangulation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Compression by the bend of elbow or forearm is mugging or choke-hold type strangulation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Compression by the bend of elbow or forearm is mugging or choke-hold type strangulation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Compression by the bend of elbow or forearm is mugging or choke-hold type strangulation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Bansdola means bamboo bar on the neck.",
+      "examPearl": "Named historical methods are exam vocabulary; in real cases document injuries and mechanism objectively rather than relying on labels.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Wooden sticks",
+        "auditedAnswer": "C. Wooden sticks",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 120,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q121",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Maastricht category III is controlled donation after circulatory death in a patient awaiting cardiac arrest after planned withdrawal of life-sustaining treatment. Categories I and II are uncontrolled dead-on-arrival or failed resuscitation cases.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The arrest is anticipated and occurs in a controlled hospital setting after a prior end-of-life decision independent of donation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The arrest is anticipated and occurs in a controlled hospital setting after a prior end-of-life decision independent of donation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The arrest is anticipated and occurs in a controlled hospital setting after a prior end-of-life decision independent of donation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The arrest is anticipated and occurs in a controlled hospital setting after a prior end-of-life decision independent of donation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The arrest is anticipated and occurs in a controlled hospital setting after a prior end-of-life decision independent of donation."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Brought in dead is category I.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Brought in dead is category I."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Brought in dead is category I.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is category I.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Brought in dead is category I."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Unsuccessful resuscitation is category II.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Unsuccessful resuscitation is category II."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Unsuccessful resuscitation is category II.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is category II.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Unsuccessful resuscitation is category II."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cardiac arrest in a brain-dead donor was historically category IV.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Cardiac arrest in a brain-dead donor was historically category IV."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cardiac arrest in a brain-dead donor was historically category IV.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cardiac arrest in a brain-dead donor was historically category IV.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Cardiac arrest in a brain-dead donor was historically category IV."
+            }
+          }
+        }
+      },
+      "memoryHook": "Maastricht III is planned withdrawal, then awaited arrest.",
+      "examPearl": "Donation protocols require clear separation of end-of-life decisions, death determination, and transplant-team actions.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Awaiting cardiac arrest",
+        "auditedAnswer": "A. Awaiting cardiac arrest",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 121,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q123",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Mummification is desiccation of a body and is promoted by hot, dry, well-ventilated conditions. Rapid water loss inhibits putrefactive bacteria and preserves dry, leathery tissues.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Heat accelerates drying, but moisture promotes putrefaction, so this combination is unfavourable.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Heat accelerates drying, but moisture promotes putrefaction, so this combination is unfavourable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heat accelerates drying, but moisture promotes putrefaction, so this combination is unfavourable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Heat accelerates drying, but moisture promotes putrefaction, so this combination is unfavourable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Heat accelerates drying, but moisture promotes putrefaction, so this combination is unfavourable."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Moist cool conditions slow some decay but do not create efficient desiccation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Moist cool conditions slow some decay but do not create efficient desiccation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Moist cool conditions slow some decay but do not create efficient desiccation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Moist cool conditions slow some decay but do not create efficient desiccation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Moist cool conditions slow some decay but do not create efficient desiccation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Dry heat strongly favours water loss and natural mummification.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Dry heat strongly favours water loss and natural mummification."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dry heat strongly favours water loss and natural mummification.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Dry heat strongly favours water loss and natural mummification.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Dry heat strongly favours water loss and natural mummification."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Dry cool air may desiccate slowly, but hot dry air is the classic optimum.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Dry cool air may desiccate slowly, but hot dry air is the classic optimum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dry cool air may desiccate slowly, but hot dry air is the classic optimum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Dry cool air may desiccate slowly, but hot dry air is the classic optimum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Dry cool air may desiccate slowly, but hot dry air is the classic optimum."
+            }
+          }
+        }
+      },
+      "memoryHook": "Mummy equals dry, hot, airy.",
+      "examPearl": "Adipocere is the contrasting preservation process favoured by moist, anaerobic environments.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Dry and hot air",
+        "auditedAnswer": "C. Dry and hot air",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 123,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q124",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Current Indian juvenile justice law defines a child as a person who has not completed 18 years, irrespective of sex. Option C is true for a male but is incomplete because the same age applies to females; the sex-specific framing is outdated.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Incorrect. The general child threshold is not 16 years for males, though special procedures may distinguish ages and alleged offences.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The general child threshold is not 16 years for males, though special procedures may distinguish ages and alleged offences."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The general child threshold is not 16 years for males, though special procedures may distinguish ages and alleged offences.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The general child threshold is not 16 years for males, though special procedures may distinguish ages and alleged offences.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The general child threshold is not 16 years for males, though special procedures may distinguish ages and alleged offences."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Incorrect. Females are not limited to a lower 16-year threshold.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Females are not limited to a lower 16-year threshold."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Females are not limited to a lower 16-year threshold.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Females are not limited to a lower 16-year threshold.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Females are not limited to a lower 16-year threshold."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best available option because a male below 18 is a child, but remember that the law is sex-neutral.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Best available option because a male below 18 is a child, but remember that the law is sex-neutral."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Best available option because a male below 18 is a child, but remember that the law is sex-neutral.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Best available option because a male below 18 is a child, but remember that the law is sex-neutral.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Best available option because a male below 18 is a child, but remember that the law is sex-neutral."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "If interpreted as asking for the complete legal definition, none of the options states it fully. For old single-best marking, C is expected.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: If interpreted as asking for the complete legal definition, none of the options states it fully."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Juvenile Justice: under 18, any sex.",
+      "examPearl": "Use the statute applicable on the event date; do not rely on older male-female age distinctions.",
+      "audit": {
+        "status": "outdated",
+        "displayLabel": "Outdated",
+        "sourceKey": "C. Male below 18 years",
+        "auditedAnswer": "C. Male below 18 years",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 124,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q125",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Article 42 directs the state to secure just and humane conditions of work and maternity relief. It supports maternal welfare but is not specifically a constitutional child-protection provision like the other listed articles.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Article 23 prohibits trafficking in human beings, begar, and forced labour and is relevant to protection of children.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Article 23 prohibits trafficking in human beings, begar, and forced labour and is relevant to protection of children."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Article 23 prohibits trafficking in human beings, begar, and forced labour and is relevant to protection of children.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Article 23 prohibits trafficking in human beings, begar, and forced labour and is relevant to protection of children.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Article 23 prohibits trafficking in human beings, begar, and forced labour and is relevant to protection of children."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Article 21A provides free and compulsory education for children aged 6 to 14 years.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Article 21A provides free and compulsory education for children aged 6 to 14 years."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Article 21A provides free and compulsory education for children aged 6 to 14 years.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Article 21A provides free and compulsory education for children aged 6 to 14 years.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Article 21A provides free and compulsory education for children aged 6 to 14 years."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Article 42 concerns work conditions and maternity relief.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Article 42 concerns work conditions and maternity relief."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Article 42 concerns work conditions and maternity relief.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Article 42 concerns work conditions and maternity relief.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Article 42 concerns work conditions and maternity relief."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Article 24 prohibits employment of children below 14 years in factories, mines, and hazardous employment as constitutionally framed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Article 24 prohibits employment of children below 14 years in factories, mines, and hazardous employment as constitutionally framed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Article 24 prohibits employment of children below 14 years in factories, mines, and hazardous employment as constitutionally framed.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Article 24 prohibits employment of children below 14 years in factories, mines, and hazardous employment as constitutionally framed.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Article 24 prohibits employment of children below 14 years in factories, mines, and hazardous employment as constitutionally framed."
+            }
+          }
+        }
+      },
+      "memoryHook": "21A education, 24 child labour, 23 trafficking; 42 maternity and humane work.",
+      "examPearl": "Constitutional wording and later legislation should be distinguished; statutes may create broader protections than the bare article text.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. 42",
+        "auditedAnswer": "C. 42",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 125,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q126",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The M'Naghten rules supplied the classic legal test behind the defence of unsoundness of mind in former Indian Penal Code section 84. Since 1 July 2024, the Bharatiya Nyaya Sanhita has replaced the IPC for new offences, and the analogous provision is section 22.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "CrPC governed criminal procedure; section 84 of CrPC was not the classic substantive insanity defence.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: CrPC governed criminal procedure; section 84 of CrPC was not the classic substantive insanity defence."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CrPC governed criminal procedure; section 84 of CrPC was not the classic substantive insanity defence.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CrPC governed criminal procedure; section 84 of CrPC was not the classic substantive insanity defence.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "CrPC governed criminal procedure; section 84 of CrPC was not the classic substantive insanity defence."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "This is neither the recognised code abbreviation nor the relevant provision.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: This is neither the recognised code abbreviation nor the relevant provision."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This is neither the recognised code abbreviation nor the relevant provision.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This is neither the recognised code abbreviation nor the relevant provision.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "This is neither the recognised code abbreviation nor the relevant provision."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct for the historical question: IPC section 84. For current law, learn BNS section 22.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: For current law, learn BNS section 22."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: For current law, learn BNS section 22.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? For current law, learn BNS section 22.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "For current law, learn BNS section 22."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "IPC section 48 defined 'vessel' in the old code, not unsoundness of mind.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: IPC section 48 defined 'vessel' in the old code, not unsoundness of mind."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: IPC section 48 defined 'vessel' in the old code, not unsoundness of mind.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? IPC section 48 defined 'vessel' in the old code, not unsoundness of mind.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "IPC section 48 defined 'vessel' in the old code, not unsoundness of mind."
+            }
+          }
+        }
+      },
+      "memoryHook": "Old exam: IPC 84. Current India: BNS 22.",
+      "examPearl": "The legal test concerns cognitive incapacity at the time of the act, not merely the presence of a psychiatric diagnosis.",
+      "audit": {
+        "status": "outdated",
+        "displayLabel": "Outdated",
+        "sourceKey": "C. Ipc 84",
+        "auditedAnswer": "C. Ipc 84",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 126,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q127",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A blunt impact over a bony prominence can split skin by compression against underlying bone, creating a clean linear wound that resembles an incision. Forehead and scalp are classic sites.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Thin skin over frontal bone can split sharply, but tissue bridges and bruised margins reveal a laceration.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Thin skin over frontal bone can split sharply, but tissue bridges and bruised margins reveal a laceration."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thin skin over frontal bone can split sharply, but tissue bridges and bruised margins reveal a laceration.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thin skin over frontal bone can split sharply, but tissue bridges and bruised margins reveal a laceration.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Thin skin over frontal bone can split sharply, but tissue bridges and bruised margins reveal a laceration."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The hand can lacerate, but its soft tissue and variable surface make the classic incised-looking pattern less characteristic.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The hand can lacerate, but its soft tissue and variable surface make the classic incised-looking pattern less characteristic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The hand can lacerate, but its soft tissue and variable surface make the classic incised-looking pattern less characteristic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The hand can lacerate, but its soft tissue and variable surface make the classic incised-looking pattern less characteristic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The hand can lacerate, but its soft tissue and variable surface make the classic incised-looking pattern less characteristic."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The thorax has more soft tissue over much of its surface and is not the standard site.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The thorax has more soft tissue over much of its surface and is not the standard site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The thorax has more soft tissue over much of its surface and is not the standard site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The thorax has more soft tissue over much of its surface and is not the standard site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The thorax has more soft tissue over much of its surface and is not the standard site."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The abdominal wall is soft and mobile, so blunt trauma more often bruises or tears irregularly than creates a sharp split.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The abdominal wall is soft and mobile, so blunt trauma more often bruises or tears irregularly than creates a sharp split."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The abdominal wall is soft and mobile, so blunt trauma more often bruises or tears irregularly than creates a sharp split.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The abdominal wall is soft and mobile, so blunt trauma more often bruises or tears irregularly than creates a sharp split.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The abdominal wall is soft and mobile, so blunt trauma more often bruises or tears irregularly than creates a sharp split."
+            }
+          }
+        }
+      },
+      "memoryHook": "Blunt force plus bone beneath can fake a cut.",
+      "examPearl": "Examine with magnification for abraded or bruised margins, hair bulbs, and tissue bridges before calling a wound incised.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Forehead",
+        "auditedAnswer": "A. Forehead",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 127,
+        "sourcePdfPage": 24,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q130",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Phossy jaw was an occupational osteonecrosis of the jaw in workers exposed to white or yellow phosphorus, especially historical match manufacture. Chronic exposure caused painful jaw necrosis, infection, and deformity.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. White phosphorus is highly reactive and toxic.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: White phosphorus is highly reactive and toxic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: White phosphorus is highly reactive and toxic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is highly reactive and toxic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "White phosphorus is highly reactive and toxic."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Red phosphorus is more stable and much less toxic than white phosphorus.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Red phosphorus is more stable and much less toxic than white phosphorus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Red phosphorus is more stable and much less toxic than white phosphorus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is more stable and much less toxic than white phosphorus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Red phosphorus is more stable and much less toxic than white phosphorus."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Arsenic causes gastrointestinal, neurologic, dermatologic, marrow, and cardiovascular toxicity, not phossy jaw.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Arsenic causes gastrointestinal, neurologic, dermatologic, marrow, and cardiovascular toxicity, not phossy jaw."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Arsenic causes gastrointestinal, neurologic, dermatologic, marrow, and cardiovascular toxicity, not phossy jaw.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes gastrointestinal, neurologic, dermatologic, marrow, and cardiovascular toxicity, not phossy jaw.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Arsenic causes gastrointestinal, neurologic, dermatologic, marrow, and cardiovascular toxicity, not phossy jaw."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Antimony poisoning resembles arsenic in some respects but is not the named cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Antimony poisoning resembles arsenic in some respects but is not the named cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Antimony poisoning resembles arsenic in some respects but is not the named cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice poisoning resembles arsenic in some respects but is not the named cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Antimony poisoning resembles arsenic in some respects but is not the named cause."
+            }
+          }
+        }
+      },
+      "memoryHook": "Phossy jaw from phosphorus, specifically white.",
+      "examPearl": "Modern workplace regulation has made the classic syndrome rare, but acute white-phosphorus burns remain dangerous and can cause hypocalcaemia and organ failure.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. White phosphorus",
+        "auditedAnswer": "A. White phosphorus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 130,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q131",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Older forensic descriptions link blue staining of gastric contents or mucosa to coloured amobarbital, historically sold as blue tablets or capsules. This is formulation-dependent, not a reliable toxicologic sign of the active drug itself.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mercury salts cause corrosive gastroenteritis and grey-white mucosal changes, not the classic blue-tablet clue.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Mercury salts cause corrosive gastroenteritis and grey-white mucosal changes, not the classic blue-tablet clue."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mercury salts cause corrosive gastroenteritis and grey-white mucosal changes, not the classic blue-tablet clue.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice salts cause corrosive gastroenteritis and grey-white mucosal changes, not the classic blue-tablet clue.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Mercury salts cause corrosive gastroenteritis and grey-white mucosal changes, not the classic blue-tablet clue."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cadmium ingestion causes severe gastrointestinal irritation but no standard blue gastric staining.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cadmium ingestion causes severe gastrointestinal irritation but no standard blue gastric staining."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cadmium ingestion causes severe gastrointestinal irritation but no standard blue gastric staining.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice ingestion causes severe gastrointestinal irritation but no standard blue gastric staining.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cadmium ingestion causes severe gastrointestinal irritation but no standard blue gastric staining."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Intended historical answer. Amytal is amobarbital; dye in older preparations could produce bluish material.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Amytal is amobarbital; dye in older preparations could produce bluish material."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amytal is amobarbital; dye in older preparations could produce bluish material.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Amytal is amobarbital; dye in older preparations could produce bluish material.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Amytal is amobarbital; dye in older preparations could produce bluish material."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Arsenic commonly causes severe gastroenteritis with haemorrhagic inflammation, not a characteristic blue colour.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Arsenic commonly causes severe gastroenteritis with haemorrhagic inflammation, not a characteristic blue colour."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Arsenic commonly causes severe gastroenteritis with haemorrhagic inflammation, not a characteristic blue colour.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice commonly causes severe gastroenteritis with haemorrhagic inflammation, not a characteristic blue colour.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Arsenic commonly causes severe gastroenteritis with haemorrhagic inflammation, not a characteristic blue colour."
+            }
+          }
+        }
+      },
+      "memoryHook": "Old 'blue bird' barbiturate clue points to Amytal.",
+      "examPearl": "Do not diagnose poisoning from colour alone. Stabilization, toxidrome, history, and analytical testing are far more important.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "C. Amytal sodium",
+        "auditedAnswer": "C. Amytal sodium",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 131,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q132",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The recoverable stem is garbled, but muscle or bone pain plus nephropathy best fits chronic cadmium poisoning. Cadmium damages proximal tubules and causes phosphate wasting, osteomalacia, osteoporosis, and painful Itai-itai disease.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Arsenic causes painful peripheral neuropathy, gastrointestinal illness, skin changes, Mees lines, and malignancy risk, but renal-bone disease is less characteristic.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Arsenic causes painful peripheral neuropathy, gastrointestinal illness, skin changes, Mees lines, and malignancy risk, but renal-bone disease is less characteristic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Arsenic causes painful peripheral neuropathy, gastrointestinal illness, skin changes, Mees lines, and malignancy risk, but renal-bone disease is less characteristic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes painful peripheral neuropathy, gastrointestinal illness, skin changes, Mees lines, and malignancy risk, but renal-bone disease is less characteristic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Arsenic causes painful peripheral neuropathy, gastrointestinal illness, skin changes, Mees lines, and malignancy risk, but renal-bone disease is less characteristic."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Corrected answer. Cadmium classically targets kidney proximal tubules and bone.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Cadmium classically targets kidney proximal tubules and bone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cadmium classically targets kidney proximal tubules and bone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice classically targets kidney proximal tubules and bone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cadmium classically targets kidney proximal tubules and bone."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mercury can cause neuropsychiatric, renal, and mucosal toxicity, but the bone-pain nephropathy combination is not its signature.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mercury can cause neuropsychiatric, renal, and mucosal toxicity, but the bone-pain nephropathy combination is not its signature."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mercury can cause neuropsychiatric, renal, and mucosal toxicity, but the bone-pain nephropathy combination is not its signature.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause neuropsychiatric, renal, and mucosal toxicity, but the bone-pain nephropathy combination is not its signature.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Mercury can cause neuropsychiatric, renal, and mucosal toxicity, but the bone-pain nephropathy combination is not its signature."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lead can cause abdominal colic, neuropathy, anaemia, hypertension, and nephropathy; painful osteomalacia from phosphate loss points more strongly to cadmium.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Lead can cause abdominal colic, neuropathy, anaemia, hypertension, and nephropathy; painful osteomalacia from phosphate loss points more strongly to cadmium."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lead can cause abdominal colic, neuropathy, anaemia, hypertension, and nephropathy; painful osteomalacia from phosphate loss points more strongly to cadmium.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can cause abdominal colic, neuropathy, anaemia, hypertension, and nephropathy; painful osteomalacia from phosphate loss points more strongly to cadmium.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Lead can cause abdominal colic, neuropathy, anaemia, hypertension, and nephropathy; painful osteomalacia from phosphate loss points more strongly to cadmium."
+            }
+          }
+        }
+      },
+      "memoryHook": "Cadmium damages the kidney, then calcium and phosphate leave the bone: Itai-itai means ouch-ouch.",
+      "examPearl": "The source key A is inconsistent with the clinical pattern. The source stem also contains stray text, so learn the toxidrome rather than the wording.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "A. Arsenic",
+        "auditedAnswer": "B. Cadmium",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 132,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q133",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cadmium-metallothionein accumulates in proximal tubular cells and causes low-molecular-weight proteinuria, glycosuria, aminoaciduria, phosphate wasting, and proximal renal tubular acidosis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Beta-2 microglobulin in urine can be an early marker of cadmium tubular injury.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Beta-2 microglobulin in urine can be an early marker of cadmium tubular injury."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Beta-2 microglobulin in urine can be an early marker of cadmium tubular injury.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Beta-2 microglobulin in urine can be an early marker of cadmium tubular injury.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Beta-2 microglobulin in urine can be an early marker of cadmium tubular injury."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mercury can injure kidneys, including glomerular or tubular disease depending on the compound, but cadmium is the classic proximal-tubule proteinuria answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Mercury can injure kidneys, including glomerular or tubular disease depending on the compound, but cadmium is the classic proximal-tubule proteinuria answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mercury can injure kidneys, including glomerular or tubular disease depending on the compound, but cadmium is the classic proximal-tubule proteinuria answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can injure kidneys, including glomerular or tubular disease depending on the compound, but cadmium is the classic proximal-tubule proteinuria answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Mercury can injure kidneys, including glomerular or tubular disease depending on the compound, but cadmium is the classic proximal-tubule proteinuria answer."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Gold therapy can cause membranous nephropathy and proteinuria rather than the classic Fanconi-like proximal tubulopathy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Gold therapy can cause membranous nephropathy and proteinuria rather than the classic Fanconi-like proximal tubulopathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gold therapy can cause membranous nephropathy and proteinuria rather than the classic Fanconi-like proximal tubulopathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice therapy can cause membranous nephropathy and proteinuria rather than the classic Fanconi-like proximal tubulopathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Gold therapy can cause membranous nephropathy and proteinuria rather than the classic Fanconi-like proximal tubulopathy."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lead nephropathy causes chronic tubulointerstitial disease and hyperuricaemia; cadmium is more closely tied to low-molecular-weight proximal tubular proteinuria.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Lead nephropathy causes chronic tubulointerstitial disease and hyperuricaemia; cadmium is more closely tied to low-molecular-weight proximal tubular proteinuria."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lead nephropathy causes chronic tubulointerstitial disease and hyperuricaemia; cadmium is more closely tied to low-molecular-weight proximal tubular proteinuria.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice nephropathy causes chronic tubulointerstitial disease and hyperuricaemia; cadmium is more closely tied to low-molecular-weight proximal tubular proteinuria.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Lead nephropathy causes chronic tubulointerstitial disease and hyperuricaemia; cadmium is more closely tied to low-molecular-weight proximal tubular proteinuria."
+            }
+          }
+        }
+      },
+      "memoryHook": "Cadmium collects in the proximal tubule.",
+      "examPearl": "Proximal tubular phosphate loss contributes to osteomalacia and fractures.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Cadmium",
+        "auditedAnswer": "A. Cadmium",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 133,
+        "sourcePdfPage": 25,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q221",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cephalic index is maximum skull breadth divided by maximum skull length times 100. Older physical anthropology used it to classify head shape and infer population or 'race,' but such racial inference is scientifically limited and should not be treated as a deterministic biological label.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Historical exam answer. It was used in anthropometric population classification.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It was used in anthropometric population classification."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It was used in anthropometric population classification.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It was used in anthropometric population classification.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It was used in anthropometric population classification."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Age is estimated using dentition, ossification, pubic symphysis, skull sutures, and other methods, not cephalic index alone.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Age is estimated using dentition, ossification, pubic symphysis, skull sutures, and other methods, not cephalic index alone."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Age is estimated using dentition, ossification, pubic symphysis, skull sutures, and other methods, not cephalic index alone.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Age is estimated using dentition, ossification, pubic symphysis, skull sutures, and other methods, not cephalic index alone.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Age is estimated using dentition, ossification, pubic symphysis, skull sutures, and other methods, not cephalic index alone."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Sex estimation relies on multiple cranial and pelvic traits; cephalic index is not the main sex measure.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Sex estimation relies on multiple cranial and pelvic traits; cephalic index is not the main sex measure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sex estimation relies on multiple cranial and pelvic traits; cephalic index is not the main sex measure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sex estimation relies on multiple cranial and pelvic traits; cephalic index is not the main sex measure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Sex estimation relies on multiple cranial and pelvic traits; cephalic index is not the main sex measure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Stature is estimated from long-bone length and population-specific equations.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Stature is estimated from long-bone length and population-specific equations."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Stature is estimated from long-bone length and population-specific equations.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is estimated from long-bone length and population-specific equations.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Stature is estimated from long-bone length and population-specific equations."
+            }
+          }
+        }
+      },
+      "memoryHook": "Cephalic index measures head breadth over length.",
+      "examPearl": "Modern forensic identification uses multiple validated traits and uncertainty, not typological racial categories.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "A. Race",
+        "auditedAnswer": "A. Race",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 221,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q244",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Hyoid fracture is classically associated with manual strangulation because fingers compress the neck directly. It is more likely in older people after ossification and fusion of hyoid components.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Fracture often involves greater cornua and supports significant neck compression, though absence does not exclude strangulation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Fracture often involves greater cornua and supports significant neck compression, though absence does not exclude strangulation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fracture often involves greater cornua and supports significant neck compression, though absence does not exclude strangulation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fracture often involves greater cornua and supports significant neck compression, though absence does not exclude strangulation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Fracture often involves greater cornua and supports significant neck compression, though absence does not exclude strangulation."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hanging can fracture hyoid, especially in older victims or long-drop cases, but manual strangulation is the classic common association.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Hanging can fracture hyoid, especially in older victims or long-drop cases, but manual strangulation is the classic common association."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hanging can fracture hyoid, especially in older victims or long-drop cases, but manual strangulation is the classic common association.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can fracture hyoid, especially in older victims or long-drop cases, but manual strangulation is the classic common association.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Hanging can fracture hyoid, especially in older victims or long-drop cases, but manual strangulation is the classic common association."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Smothering obstructs external air passages and does not directly compress the hyoid.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Smothering obstructs external air passages and does not directly compress the hyoid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Smothering obstructs external air passages and does not directly compress the hyoid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice obstructs external air passages and does not directly compress the hyoid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Smothering obstructs external air passages and does not directly compress the hyoid."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Traumatic asphyxia results from chest compression rather than focal hyoid injury.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Traumatic asphyxia results from chest compression rather than focal hyoid injury."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Traumatic asphyxia results from chest compression rather than focal hyoid injury.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice results from chest compression rather than focal hyoid injury.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Traumatic asphyxia results from chest compression rather than focal hyoid injury."
+            }
+          }
+        }
+      },
+      "memoryHook": "Hands on the neck can break the hyoid horns.",
+      "examPearl": "Neck dissection technique and postmortem imaging help distinguish true fracture with haemorrhage from handling artefact.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Manual strangulation",
+        "auditedAnswer": "A. Manual strangulation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 244,
+        "sourcePdfPage": 45,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q352",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Textbook descriptions place common fresh hymenal tears after penetrative intercourse in the posterior or posterolateral region, often around the 5 and 7 o'clock positions in the supine examination orientation. Normal hymenal anatomy is highly variable.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Anterior tears are less typical in the classic teaching.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Anterior tears are less typical in the classic teaching."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anterior tears are less typical in the classic teaching.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice tears are less typical in the classic teaching.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Anterior tears are less typical in the classic teaching."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Anterolateral is not the usual memorised site.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Anterolateral is not the usual memorised site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anterolateral is not the usual memorised site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the usual memorised site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Anterolateral is not the usual memorised site."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Older forensic texts describe fresh hymenal tears after penetrative trauma as commonly posterior or posterolateral. Hymenal appearance alone cannot establish prior sexual activity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Older forensic texts describe fresh hymenal tears after penetrative trauma as commonly posterior or posterolateral."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Older forensic texts describe fresh hymenal tears after penetrative trauma as commonly posterior or posterolateral.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Older forensic texts describe fresh hymenal tears after penetrative trauma as commonly posterior or posterolateral.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Older forensic texts describe fresh hymenal tears after penetrative trauma as commonly posterior or posterolateral."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Posterior midline tears can occur, but posterolateral positions are more often cited.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Posterior midline tears can occur, but posterolateral positions are more often cited."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Posterior midline tears can occur, but posterolateral positions are more often cited.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice midline tears can occur, but posterolateral positions are more often cited.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Posterior midline tears can occur, but posterolateral positions are more often cited."
+            }
+          }
+        }
+      },
+      "memoryHook": "Classic tear sites are posterolateral at about five and seven.",
+      "examPearl": "Hymenal appearance cannot prove or disprove prior intercourse or assault. Examination findings require careful, trauma-informed interpretation.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "C. Posterolateral",
+        "auditedAnswer": "C. Posterolateral",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 352,
+        "sourcePdfPage": 64,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q368",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "In India, exhumation for medicolegal investigation is ordered by an authorised magistrate and performed under legal supervision with identification, documentation, and chain of custody.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Police or medical officers do not independently order exhumation without lawful authority.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Police or medical officers do not independently order exhumation without lawful authority."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Police or medical officers do not independently order exhumation without lawful authority.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Police or medical officers do not independently order exhumation without lawful authority.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Police or medical officers do not independently order exhumation without lawful authority."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A health secretary is not the routine statutory ordering authority.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A health secretary is not the routine statutory ordering authority."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A health secretary is not the routine statutory ordering authority.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A health secretary is not the routine statutory ordering authority.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A health secretary is not the routine statutory ordering authority."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A health minister does not issue case-specific exhumation orders in ordinary procedure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A health minister does not issue case-specific exhumation orders in ordinary procedure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A health minister does not issue case-specific exhumation orders in ordinary procedure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A health minister does not issue case-specific exhumation orders in ordinary procedure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A health minister does not issue case-specific exhumation orders in ordinary procedure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A local legislator has no such judicial power.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A local legislator has no such judicial power."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A local legislator has no such judicial power.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A local legislator has no such judicial power.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A local legislator has no such judicial power."
+            }
+          }
+        }
+      },
+      "memoryHook": "Exhumation needs a magistrate's order.",
+      "examPearl": "The exact procedure follows current criminal procedure law and local rules, so verify jurisdictional requirements.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Magistrate",
+        "auditedAnswer": "A. Magistrate",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 368,
+        "sourcePdfPage": 67,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    }
+  ]
+}

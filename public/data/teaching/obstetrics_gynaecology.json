@@ -1,0 +1,2253 @@
+{
+  "questions": [
+    {
+      "questionId": "q018",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The older term 'true hermaphroditism' refers to ovotesticular disorder of sex development, defined by both ovarian and testicular tissue. The most frequent karyotype is 46,XX, often with an ovotestis.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "45,X with streak gonads describes Turner syndrome and gonadal dysgenesis, not ovotesticular DSD.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: 45,X with streak gonads describes Turner syndrome and gonadal dysgenesis, not ovotesticular DSD."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 45,X with streak gonads describes Turner syndrome and gonadal dysgenesis, not ovotesticular DSD.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 45,X with streak gonads describes Turner syndrome and gonadal dysgenesis, not ovotesticular DSD.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "45,X with streak gonads describes Turner syndrome and gonadal dysgenesis, not ovotesticular DSD."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A 46,XX individual with ovotesticular tissue is the classic pattern.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A 46,XX individual with ovotesticular tissue is the classic pattern."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A 46,XX individual with ovotesticular tissue is the classic pattern.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A 46,XX individual with ovotesticular tissue is the classic pattern.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A 46,XX individual with ovotesticular tissue is the classic pattern."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "47,XY,+9 is not a standard karyotype for this disorder and full trisomy 9 is usually severe.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 47,XY,+9 is not a standard karyotype for this disorder and full trisomy 9 is usually severe."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 47,XY,+9 is not a standard karyotype for this disorder and full trisomy 9 is usually severe.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 47,XY,+9 is not a standard karyotype for this disorder and full trisomy 9 is usually severe.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "47,XY,+9 is not a standard karyotype for this disorder and full trisomy 9 is usually severe."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "47,XX is not a complete conventional karyotype because the extra chromosome is unspecified.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 47,XX is not a complete conventional karyotype because the extra chromosome is unspecified."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 47,XX is not a complete conventional karyotype because the extra chromosome is unspecified.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 47,XX is not a complete conventional karyotype because the extra chromosome is unspecified.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "47,XX is not a complete conventional karyotype because the extra chromosome is unspecified."
+            }
+          }
+        }
+      },
+      "memoryHook": "Ovo plus testis, usually XX.",
+      "examPearl": "Use current respectful terminology: ovotesticular DSD. Diagnosis depends on gonadal histology, not external appearance alone.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 46 XX Ovotestis",
+        "auditedAnswer": "B. 46 XX Ovotestis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 18,
+        "sourcePdfPage": 5,
+        "reportedRepeatYears": [
+          2018,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q055",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "The placenta is an endocrine organ that produces oestrogens, progesterone, hCG, hPL, and other mediators. Wharton's jelly surrounds the umbilical vessels within the umbilical cord, not within placental tissue itself.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Foetal blood in two umbilical arteries travels from the foetus to the placenta and is relatively deoxygenated. Oxygenated, nutrient-rich blood returns through the umbilical vein.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Foetal blood in two umbilical arteries travels from the foetus to the placenta and is relatively deoxygenated."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Foetal blood in two umbilical arteries travels from the foetus to the placenta and is relatively deoxygenated.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Foetal blood in two umbilical arteries travels from the foetus to the placenta and is relatively deoxygenated.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Foetal blood in two umbilical arteries travels from the foetus to the placenta and is relatively deoxygenated."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Incorrect. Wharton's jelly is mucoid connective tissue of the umbilical cord. This was the erroneous source answer.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Wharton's jelly is mucoid connective tissue of the umbilical cord."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Wharton's jelly is mucoid connective tissue of the umbilical cord.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Wharton's jelly is mucoid connective tissue of the umbilical cord.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Wharton's jelly is mucoid connective tissue of the umbilical cord."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The normal cord has two arteries and one vein, not two veins and one artery.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The normal cord has two arteries and one vein, not two veins and one artery."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The normal cord has two arteries and one vein, not two veins and one artery.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The normal cord has two arteries and one vein, not two veins and one artery.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The normal cord has two arteries and one vein, not two veins and one artery."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Placental syncytiotrophoblast and foetoplacental cooperation produce oestrogens, especially oestriol.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Placental syncytiotrophoblast and foetoplacental cooperation produce oestrogens, especially oestriol."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Placental syncytiotrophoblast and foetoplacental cooperation produce oestrogens, especially oestriol.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Placental syncytiotrophoblast and foetoplacental cooperation produce oestrogens, especially oestriol.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Placental syncytiotrophoblast and foetoplacental cooperation produce oestrogens, especially oestriol."
+            }
+          }
+        }
+      },
+      "memoryHook": "Two arteries Away, one vein Visits the baby; Wharton wraps the cord.",
+      "examPearl": "The placenta cannot make oestrogen entirely alone because it lacks key enzymes; it uses foetal adrenal precursors in the foetoplacental unit.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "B. Placenta has Wharton's jelly",
+        "auditedAnswer": "D. Estrogen is secreted by placenta",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 55,
+        "sourcePdfPage": 12,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q057",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Femoral neuropathy can occur in labour and puerperium from prolonged hip flexion, abduction, external rotation, retractor pressure, or compression beneath the inguinal ligament. It produces weak knee extension, reduced patellar reflex, and anterior thigh or medial leg sensory loss.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Radial nerve compression can occur from positioning or crutch use but is not the classic pelvic or labour-related neuropathy among these choices.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Radial nerve compression can occur from positioning or crutch use but is not the classic pelvic or labour-related neuropathy among these choices."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Radial nerve compression can occur from positioning or crutch use but is not the classic pelvic or labour-related neuropathy among these choices.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice compression can occur from positioning or crutch use but is not the classic pelvic or labour-related neuropathy among these choices.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Radial nerve compression can occur from positioning or crutch use but is not the classic pelvic or labour-related neuropathy among these choices."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Median nerve compression commonly causes carpal tunnel symptoms during pregnancy from oedema, but the question's traditional puerperal nerve injury answer is femoral.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Median nerve compression commonly causes carpal tunnel symptoms during pregnancy from oedema, but the question's traditional puerperal nerve injury answer is femoral."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Median nerve compression commonly causes carpal tunnel symptoms during pregnancy from oedema, but the question's traditional puerperal nerve injury answer is femoral.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice compression commonly causes carpal tunnel symptoms during pregnancy from oedema, but the question's traditional puerperal nerve injury answer is femoral.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Median nerve compression commonly causes carpal tunnel symptoms during pregnancy from oedema, but the question's traditional puerperal nerve injury answer is femoral."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The femoral nerve is vulnerable during difficult labour, lithotomy positioning, and pelvic surgery.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The femoral nerve is vulnerable during difficult labour, lithotomy positioning, and pelvic surgery."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The femoral nerve is vulnerable during difficult labour, lithotomy positioning, and pelvic surgery.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The femoral nerve is vulnerable during difficult labour, lithotomy positioning, and pelvic surgery.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The femoral nerve is vulnerable during difficult labour, lithotomy positioning, and pelvic surgery."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Facial palsy has a modestly increased association with pregnancy but is not a mechanical puerperal compression neuropathy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Facial palsy has a modestly increased association with pregnancy but is not a mechanical puerperal compression neuropathy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Facial palsy has a modestly increased association with pregnancy but is not a mechanical puerperal compression neuropathy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Facial palsy has a modestly increased association with pregnancy but is not a mechanical puerperal compression neuropathy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Facial palsy has a modestly increased association with pregnancy but is not a mechanical puerperal compression neuropathy."
+            }
+          }
+        }
+      },
+      "memoryHook": "Femoral injury: cannot kick the knee forward and patellar reflex fades.",
+      "examPearl": "If the question instead asks the common pregnancy entrapment neuropathy, carpal tunnel syndrome involving the median nerve is common.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Femoral nerve",
+        "auditedAnswer": "C. Femoral nerve",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 57,
+        "sourcePdfPage": 12,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q208",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Superfecundation is fertilization of two or more ova released in the same menstrual cycle by sperm from separate acts of intercourse. If the fathers differ, it is heteropaternal superfecundation.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fertilization of multiple ova after one act can produce dizygotic twins but is not the defining separate-intercourse concept.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fertilization of multiple ova after one act can produce dizygotic twins but is not the defining separate-intercourse concept."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fertilization of multiple ova after one act can produce dizygotic twins but is not the defining separate-intercourse concept.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fertilization of multiple ova after one act can produce dizygotic twins but is not the defining separate-intercourse concept.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Fertilization of multiple ova after one act can produce dizygotic twins but is not the defining separate-intercourse concept."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Both conceptions occur within the same ovulatory cycle.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Both conceptions occur within the same ovulatory cycle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both conceptions occur within the same ovulatory cycle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both conceptions occur within the same ovulatory cycle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Both conceptions occur within the same ovulatory cycle."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Division of one fertilized ovum produces monozygotic twins.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Division of one fertilized ovum produces monozygotic twins."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Division of one fertilized ovum produces monozygotic twins.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Division of one fertilized ovum produces monozygotic twins.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Division of one fertilized ovum produces monozygotic twins."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fertilization during an established pregnancy at a later cycle is called superfetation, an exceptionally rare and disputed phenomenon in humans.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Fertilization during an established pregnancy at a later cycle is called superfetation, an exceptionally rare and disputed phenomenon in humans."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fertilization during an established pregnancy at a later cycle is called superfetation, an exceptionally rare and disputed phenomenon in humans.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fertilization during an established pregnancy at a later cycle is called superfetation, an exceptionally rare and disputed phenomenon in humans.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Fertilization during an established pregnancy at a later cycle is called superfetation, an exceptionally rare and disputed phenomenon in humans."
+            }
+          }
+        }
+      },
+      "memoryHook": "Superfecundation: same cycle, separate sex acts. Superfetation: supposedly separate cycles.",
+      "examPearl": "Dizygotic twins can differ greatly in appearance even with the same father; paternity testing is needed to establish heteropaternal cases.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Fertilization of two or more ova in different intercourses in same menstrual cycle",
+        "auditedAnswer": "B. Fertilization of two or more ova in different intercourses in same menstrual cycle",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 208,
+        "sourcePdfPage": 39,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q209",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The hysteroscopic image shows a smooth pale rounded mass projecting into the uterine cavity, consistent with a submucosal leiomyoma. Such fibroids commonly cause heavy or irregular uterine bleeding and infertility.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Leiomyomas are benign smooth-muscle tumours whose symptoms depend on size and location.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Leiomyomas are benign smooth-muscle tumours whose symptoms depend on size and location."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Leiomyomas are benign smooth-muscle tumours whose symptoms depend on size and location.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Leiomyomas are benign smooth-muscle tumours whose symptoms depend on size and location.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Leiomyomas are benign smooth-muscle tumours whose symptoms depend on size and location."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Adenomyosis is endometrial glands and stroma within myometrium and produces a diffusely enlarged tender uterus, not a discrete intracavitary hysteroscopic mass.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Adenomyosis is endometrial glands and stroma within myometrium and produces a diffusely enlarged tender uterus, not a discrete intracavitary hysteroscopic mass."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Adenomyosis is endometrial glands and stroma within myometrium and produces a diffusely enlarged tender uterus, not a discrete intracavitary hysteroscopic mass.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is endometrial glands and stroma within myometrium and produces a diffusely enlarged tender uterus, not a discrete intracavitary hysteroscopic mass.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Adenomyosis is endometrial glands and stroma within myometrium and produces a diffusely enlarged tender uterus, not a discrete intracavitary hysteroscopic mass."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An ovarian neoplasm is extrauterine and would not appear as a mass inside the uterine cavity.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: An ovarian neoplasm is extrauterine and would not appear as a mass inside the uterine cavity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: An ovarian neoplasm is extrauterine and would not appear as a mass inside the uterine cavity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? An ovarian neoplasm is extrauterine and would not appear as a mass inside the uterine cavity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "An ovarian neoplasm is extrauterine and would not appear as a mass inside the uterine cavity."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Endometrial carcinoma often appears irregular, friable, or necrotic and requires histologic diagnosis; the smooth circumscribed lesion favours fibroid.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Endometrial carcinoma often appears irregular, friable, or necrotic and requires histologic diagnosis; the smooth circumscribed lesion favours fibroid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Endometrial carcinoma often appears irregular, friable, or necrotic and requires histologic diagnosis; the smooth circumscribed lesion favours fibroid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Endometrial carcinoma often appears irregular, friable, or necrotic and requires histologic diagnosis; the smooth circumscribed lesion favours fibroid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Endometrial carcinoma often appears irregular, friable, or necrotic and requires histologic diagnosis; the smooth circumscribed lesion favours fibroid."
+            }
+          }
+        }
+      },
+      "memoryHook": "A smooth white ball bulging into the cavity is a submucosal fibroid.",
+      "examPearl": "Hysteroscopic myomectomy is often appropriate for symptomatic accessible submucosal fibroids.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Leiomyoma",
+        "auditedAnswer": "A. Leiomyoma",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 209,
+        "sourcePdfPage": 39,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q211",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "In gynaecologic questions, Paget disease usually means extramammary Paget disease of the vulva, an intraepithelial adenocarcinoma that may be associated with underlying adnexal or other malignancy. Vulva is therefore the intended site.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It presents as a chronic pruritic erythematous eczematous vulvar plaque and requires biopsy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It presents as a chronic pruritic erythematous eczematous vulvar plaque and requires biopsy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It presents as a chronic pruritic erythematous eczematous vulvar plaque and requires biopsy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It presents as a chronic pruritic erythematous eczematous vulvar plaque and requires biopsy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It presents as a chronic pruritic erythematous eczematous vulvar plaque and requires biopsy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Primary vaginal Paget disease is much less common and is not the classic association.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Primary vaginal Paget disease is much less common and is not the classic association."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Primary vaginal Paget disease is much less common and is not the classic association.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Primary vaginal Paget disease is much less common and is not the classic association.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Primary vaginal Paget disease is much less common and is not the classic association."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cervical carcinoma is not the defining associated gynaecologic site.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cervical carcinoma is not the defining associated gynaecologic site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cervical carcinoma is not the defining associated gynaecologic site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cervical carcinoma is not the defining associated gynaecologic site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Cervical carcinoma is not the defining associated gynaecologic site."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Uterine malignancy is not the standard answer in this formulation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Uterine malignancy is not the standard answer in this formulation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Uterine malignancy is not the standard answer in this formulation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Uterine malignancy is not the standard answer in this formulation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Uterine malignancy is not the standard answer in this formulation."
+            }
+          }
+        }
+      },
+      "memoryHook": "Extramammary Paget in gynaecology points to the vulva.",
+      "examPearl": "Persistent 'eczema' of the nipple or vulva that does not respond as expected should be biopsied.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Vulva",
+        "auditedAnswer": "A. Vulva",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 211,
+        "sourcePdfPage": 39,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q213",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "Pregnancy, current pelvic inflammatory infection, unexplained vaginal bleeding suspicious for serious disease, and a uterine anomaly that distorts the cavity can all be category 4 situations for IUD initiation. 'Uterine malformation' is too broad because a non-distorting anomaly may be acceptable, but a distorting one is an absolute contraindication.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Do not insert an IUD in known pregnancy.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Do not insert an IUD in known pregnancy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Do not insert an IUD in known pregnancy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Do not insert an IUD in known pregnancy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Do not insert an IUD in known pregnancy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Unexplained bleeding requires evaluation; suspected serious pathology can make initiation unacceptable until assessed.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Unexplained bleeding requires evaluation; suspected serious pathology can make initiation unacceptable until assessed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Unexplained bleeding requires evaluation; suspected serious pathology can make initiation unacceptable until assessed.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Unexplained bleeding requires evaluation; suspected serious pathology can make initiation unacceptable until assessed.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Unexplained bleeding requires evaluation; suspected serious pathology can make initiation unacceptable until assessed."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Current PID or purulent cervicitis is a contraindication to insertion, though an existing IUD is not always removed automatically when treatment begins.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Current PID or purulent cervicitis is a contraindication to insertion, though an existing IUD is not always removed automatically when treatment begins."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Current PID or purulent cervicitis is a contraindication to insertion, though an existing IUD is not always removed automatically when treatment begins.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Current PID or purulent cervicitis is a contraindication to insertion, though an existing IUD is not always removed automatically when treatment begins.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Current PID or purulent cervicitis is a contraindication to insertion, though an existing IUD is not always removed automatically when treatment begins."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "Only a cavity-distorting malformation is category 4. Because the option omits 'distorting,' it may be the historical intended exception, but it is not safely generalizable.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Because the option omits 'distorting,' it may be the historical intended exception, but it is not safely generalizable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Because the option omits 'distorting,' it may be the historical intended exception, but it is not safely generalizable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Because the option omits 'distorting,' it may be the historical intended exception, but it is not safely generalizable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Because the option omits 'distorting,' it may be the historical intended exception, but it is not safely generalizable."
+            }
+          }
+        }
+      },
+      "memoryHook": "IUD needs no pregnancy, no active pelvic infection, no unexplained dangerous bleeding, and a usable uterine cavity.",
+      "examPearl": "The source key D depends on imprecise wording. Use current medical eligibility categories rather than memorizing 'all malformations are fine.'",
+      "audit": {
+        "status": "outdated",
+        "displayLabel": "Outdated",
+        "sourceKey": "D. Uterine malformation",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 213,
+        "sourcePdfPage": 40,
+        "reportedRepeatYears": [
+          2015,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q214",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Acute pelvic inflammatory disease is a contraindication to elective D&C because cervical instrumentation may spread infection into the upper genital tract or peritoneum. Urgent uterine evacuation may still be necessary in infected retained products with antibiotic cover and appropriate technique.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct for elective D&C. Treat active infection and use safer indicated management.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Treat active infection and use safer indicated management."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Treat active infection and use safer indicated management.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Treat active infection and use safer indicated management.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Treat active infection and use safer indicated management."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Endometriosis is not itself a contraindication to uterine curettage.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Endometriosis is not itself a contraindication to uterine curettage."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Endometriosis is not itself a contraindication to uterine curettage.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not itself a contraindication to uterine curettage.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Endometriosis is not itself a contraindication to uterine curettage."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "D&C does not treat ectopic pregnancy, but suspected ectopic is not an absolute procedural contraindication if endometrial sampling is diagnostically indicated and the patient is stable.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: D&C does not treat ectopic pregnancy, but suspected ectopic is not an absolute procedural contraindication if endometrial sampling is diagnostically indicated and the patient is stable."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: D&C does not treat ectopic pregnancy, but suspected ectopic is not an absolute procedural contraindication if endometrial sampling is diagnostically indicated and the patient is stable.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? D&C does not treat ectopic pregnancy, but suspected ectopic is not an absolute procedural contraindication if endometrial sampling is diagnostically indicated and the patient is stable.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "D&C does not treat ectopic pregnancy, but suspected ectopic is not an absolute procedural contraindication if endometrial sampling is diagnostically indicated and the patient is stable."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A clear contraindication is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A clear contraindication is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Do not instrument an acutely infected pelvis electively.",
+      "examPearl": "Modern hysteroscopy-directed sampling or suction methods are often preferred to blind sharp curettage, depending on indication.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Pelvic inflammatory disease (PID)",
+        "auditedAnswer": "A. Pelvic inflammatory disease (PID)",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 214,
+        "sourcePdfPage": 40,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q216",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Anaemia, diabetes, and obesity clearly increase maternal or foetal risk. A previous manual removal usually indicates retained placenta, which itself recurs and increases postpartum-haemorrhage risk, so it also merits antenatal documentation and delivery planning. The source nevertheless expects A as the least conventional high-risk label.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Source-intended answer, but clinically important. Prior retained placenta or manual removal increases recurrence and haemorrhage risk.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Prior retained placenta or manual removal increases recurrence and haemorrhage risk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Prior retained placenta or manual removal increases recurrence and haemorrhage risk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Prior retained placenta or manual removal increases recurrence and haemorrhage risk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Prior retained placenta or manual removal increases recurrence and haemorrhage risk."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Anaemia raises risks of poor tolerance of blood loss, preterm birth, low birth weight, and maternal morbidity depending on severity.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Anaemia raises risks of poor tolerance of blood loss, preterm birth, low birth weight, and maternal morbidity depending on severity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anaemia raises risks of poor tolerance of blood loss, preterm birth, low birth weight, and maternal morbidity depending on severity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Anaemia raises risks of poor tolerance of blood loss, preterm birth, low birth weight, and maternal morbidity depending on severity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Anaemia raises risks of poor tolerance of blood loss, preterm birth, low birth weight, and maternal morbidity depending on severity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Diabetes increases congenital, growth, hypertensive, metabolic, and delivery complications.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Diabetes increases congenital, growth, hypertensive, metabolic, and delivery complications."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Diabetes increases congenital, growth, hypertensive, metabolic, and delivery complications.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice increases congenital, growth, hypertensive, metabolic, and delivery complications.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Diabetes increases congenital, growth, hypertensive, metabolic, and delivery complications."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Obesity increases thromboembolism, diabetes, hypertension, anaesthetic, operative, and foetal risks.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Obesity increases thromboembolism, diabetes, hypertension, anaesthetic, operative, and foetal risks."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Obesity increases thromboembolism, diabetes, hypertension, anaesthetic, operative, and foetal risks.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice increases thromboembolism, diabetes, hypertension, anaesthetic, operative, and foetal risks.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Obesity increases thromboembolism, diabetes, hypertension, anaesthetic, operative, and foetal risks."
+            }
+          }
+        }
+      },
+      "memoryHook": "High risk is anything that changes surveillance, place of delivery, or emergency preparation.",
+      "examPearl": "Use A only as the old-key response. Do not dismiss previous retained placenta in real antenatal planning.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "A. Previous history of manual removal of placenta",
+        "auditedAnswer": "A. Previous history of manual removal of placenta",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 216,
+        "sourcePdfPage": 40,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q217",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Dexamethasone and betamethasone cross the placenta and accelerate foetal lung maturation when preterm birth is expected. They reduce respiratory distress syndrome, intraventricular haemorrhage, and neonatal death in appropriate gestations.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A common dexamethasone regimen is 6 mg IM every 12 hours for four doses, depending on protocol.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A common dexamethasone regimen is 6 mg IM every 12 hours for four doses, depending on protocol."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A common dexamethasone regimen is 6 mg IM every 12 hours for four doses, depending on protocol.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A common dexamethasone regimen is 6 mg IM every 12 hours for four doses, depending on protocol.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A common dexamethasone regimen is 6 mg IM every 12 hours for four doses, depending on protocol."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Folic acid prevents neural-tube defects and treats folate deficiency; it does not acutely mature lungs.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Folic acid prevents neural-tube defects and treats folate deficiency; it does not acutely mature lungs."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Folic acid prevents neural-tube defects and treats folate deficiency; it does not acutely mature lungs.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice prevents neural-tube defects and treats folate deficiency; it does not acutely mature lungs.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Folic acid prevents neural-tube defects and treats folate deficiency; it does not acutely mature lungs."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Beclomethasone is primarily an inhaled or topical corticosteroid with high first-pass metabolism and is not the antenatal lung-maturation drug.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Beclomethasone is primarily an inhaled or topical corticosteroid with high first-pass metabolism and is not the antenatal lung-maturation drug."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Beclomethasone is primarily an inhaled or topical corticosteroid with high first-pass metabolism and is not the antenatal lung-maturation drug.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is primarily an inhaled or topical corticosteroid with high first-pass metabolism and is not the antenatal lung-maturation drug.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Beclomethasone is primarily an inhaled or topical corticosteroid with high first-pass metabolism and is not the antenatal lung-maturation drug."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "An effective listed drug is present.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: An effective listed drug is present."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Beta or dexa before preterm birth helps the baby breathe.",
+      "examPearl": "Do not delay a medically necessary delivery solely to complete the steroid course.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Dexamethasone",
+        "auditedAnswer": "A. Dexamethasone",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 217,
+        "sourcePdfPage": 40,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q222",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "A septate uterus is commonly cited as the most frequent major congenital uterine anomaly and results from failed resorption of the midline septum after Mullerian duct fusion. Classification changes and inclusion of minor arcuate variants can alter prevalence rankings.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bicornuate uterus results from incomplete Mullerian duct fusion and has a deep external fundal cleft.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Bicornuate uterus results from incomplete Mullerian duct fusion and has a deep external fundal cleft."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bicornuate uterus results from incomplete Mullerian duct fusion and has a deep external fundal cleft.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice results from incomplete Mullerian duct fusion and has a deep external fundal cleft.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Bicornuate uterus results from incomplete Mullerian duct fusion and has a deep external fundal cleft."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct classic answer. The outer fundal contour is near normal but an internal septum divides the cavity.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The outer fundal contour is near normal but an internal septum divides the cavity."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The outer fundal contour is near normal but an internal septum divides the cavity.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The outer fundal contour is near normal but an internal septum divides the cavity.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The outer fundal contour is near normal but an internal septum divides the cavity."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Unicornuate uterus results from failure or hypoplasia of one Mullerian duct.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Unicornuate uterus results from failure or hypoplasia of one Mullerian duct."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Unicornuate uterus results from failure or hypoplasia of one Mullerian duct.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice results from failure or hypoplasia of one Mullerian duct.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Unicornuate uterus results from failure or hypoplasia of one Mullerian duct."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Arcuate uterus is a mild fundal indentation and is considered a normal or minor variant in some modern classifications.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Arcuate uterus is a mild fundal indentation and is considered a normal or minor variant in some modern classifications."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Arcuate uterus is a mild fundal indentation and is considered a normal or minor variant in some modern classifications.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a mild fundal indentation and is considered a normal or minor variant in some modern classifications.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Arcuate uterus is a mild fundal indentation and is considered a normal or minor variant in some modern classifications."
+            }
+          }
+        }
+      },
+      "memoryHook": "Fusion failure makes two outer horns; resorption failure leaves an inner septum.",
+      "examPearl": "Three-dimensional ultrasound or MRI helps assess both internal cavity and external fundal contour.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Septate uterus",
+        "auditedAnswer": "B. Septate uterus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 222,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q224",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Frank breech, with hips flexed and knees extended, is the most common breech type, especially in primigravidae. The buttocks present while feet lie near the foetal head.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Complete or flexed breech has both hips and knees flexed and is less common than frank breech.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Complete or flexed breech has both hips and knees flexed and is less common than frank breech."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Complete or flexed breech has both hips and knees flexed and is less common than frank breech.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Complete or flexed breech has both hips and knees flexed and is less common than frank breech.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Complete or flexed breech has both hips and knees flexed and is less common than frank breech."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It forms the majority of term breech presentations.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It forms the majority of term breech presentations."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It forms the majority of term breech presentations.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It forms the majority of term breech presentations.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "It forms the majority of term breech presentations."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Footling breech has one or both feet below the buttocks and carries a higher cord-prolapse risk.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Footling breech has one or both feet below the buttocks and carries a higher cord-prolapse risk."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Footling breech has one or both feet below the buttocks and carries a higher cord-prolapse risk.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Footling breech has one or both feet below the buttocks and carries a higher cord-prolapse risk.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Footling breech has one or both feet below the buttocks and carries a higher cord-prolapse risk."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Incomplete breech includes footling or kneeling variants and is not the most common.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Incomplete breech includes footling or kneeling variants and is not the most common."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Incomplete breech includes footling or kneeling variants and is not the most common.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice breech includes footling or kneeling variants and is not the most common.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Incomplete breech includes footling or kneeling variants and is not the most common."
+            }
+          }
+        }
+      },
+      "memoryHook": "Frank breech is folded like a pike: hips flexed, knees straight.",
+      "examPearl": "Delivery planning depends on gestation, foetal size and anomalies, pelvis, head flexion, labour, and local expertise.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Frank breech",
+        "auditedAnswer": "B. Frank breech",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 224,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q225",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Atenolol is generally avoided in pregnancy because early or prolonged exposure has been associated with foetal growth restriction and lower birth weight. Labetalol, nifedipine, methyldopa, and hydralazine have established roles.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Methyldopa has a long safety record for chronic hypertension, though sedation and slower onset limit some use.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Methyldopa has a long safety record for chronic hypertension, though sedation and slower onset limit some use."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Methyldopa has a long safety record for chronic hypertension, though sedation and slower onset limit some use.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has a long safety record for chronic hypertension, though sedation and slower onset limit some use.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Methyldopa has a long safety record for chronic hypertension, though sedation and slower onset limit some use."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Atenolol is not a preferred pregnancy antihypertensive.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Atenolol is not a preferred pregnancy antihypertensive."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Atenolol is not a preferred pregnancy antihypertensive.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a preferred pregnancy antihypertensive.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Atenolol is not a preferred pregnancy antihypertensive."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Labetalol is commonly used orally for chronic control and intravenously for acute severe hypertension.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Labetalol is commonly used orally for chronic control and intravenously for acute severe hypertension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Labetalol is commonly used orally for chronic control and intravenously for acute severe hypertension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is commonly used orally for chronic control and intravenously for acute severe hypertension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Labetalol is commonly used orally for chronic control and intravenously for acute severe hypertension."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hydralazine is an accepted IV option for acute severe hypertension.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hydralazine is an accepted IV option for acute severe hypertension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hydralazine is an accepted IV option for acute severe hypertension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an accepted IV option for acute severe hypertension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Hydralazine is an accepted IV option for acute severe hypertension."
+            }
+          }
+        }
+      },
+      "memoryHook": "Pregnancy pressure drugs: labetalol, nifedipine, methyldopa; avoid ACE inhibitors and avoid atenolol as a preferred beta blocker.",
+      "examPearl": "Treat persistent severe hypertension urgently to reduce maternal stroke risk.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Atenolol",
+        "auditedAnswer": "B. Atenolol",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 225,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q226",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Systemic menopausal hormone therapy is the most effective treatment for troublesome vasomotor symptoms such as hot flushes and night sweats in appropriately selected patients. Individual risk, uterus status, age, and time since menopause guide therapy.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Moderate to severe hot flushes are a standard indication when benefits outweigh risks.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Moderate to severe hot flushes are a standard indication when benefits outweigh risks."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Moderate to severe hot flushes are a standard indication when benefits outweigh risks.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Moderate to severe hot flushes are a standard indication when benefits outweigh risks.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Moderate to severe hot flushes are a standard indication when benefits outweigh risks."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Known or suspected breast cancer is generally a contraindication to systemic menopausal hormone therapy.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Known or suspected breast cancer is generally a contraindication to systemic menopausal hormone therapy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Known or suspected breast cancer is generally a contraindication to systemic menopausal hormone therapy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Known or suspected breast cancer is generally a contraindication to systemic menopausal hormone therapy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Known or suspected breast cancer is generally a contraindication to systemic menopausal hormone therapy."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Endometriosis is not a routine indication and may influence regimen because residual disease can be hormonally stimulated.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Endometriosis is not a routine indication and may influence regimen because residual disease can be hormonally stimulated."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Endometriosis is not a routine indication and may influence regimen because residual disease can be hormonally stimulated.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a routine indication and may influence regimen because residual disease can be hormonally stimulated.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Endometriosis is not a routine indication and may influence regimen because residual disease can be hormonally stimulated."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Unexplained uterine bleeding must be evaluated before hormone therapy and is not an indication.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Unexplained uterine bleeding must be evaluated before hormone therapy and is not an indication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Unexplained uterine bleeding must be evaluated before hormone therapy and is not an indication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Unexplained uterine bleeding must be evaluated before hormone therapy and is not an indication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Unexplained uterine bleeding must be evaluated before hormone therapy and is not an indication."
+            }
+          }
+        }
+      },
+      "memoryHook": "Hormone therapy treats hot flushes; unexplained bleeding and hormone-sensitive cancer stop and evaluate.",
+      "examPearl": "If the uterus is present, add adequate progestogen to systemic oestrogen to protect the endometrium.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Hot flash",
+        "auditedAnswer": "A. Hot flash",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 226,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q227",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A properly fitted ring pessary should remain in place during walking, coughing, Valsalva, and voiding without pain or pressure. Retention during increased abdominal pressure is the best listed bedside check.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. After insertion, ask the patient to strain, cough, walk, and urinate before leaving.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: After insertion, ask the patient to strain, cough, walk, and urinate before leaving."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: After insertion, ask the patient to strain, cough, walk, and urinate before leaving.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? After insertion, ask the patient to strain, cough, walk, and urinate before leaving.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "After insertion, ask the patient to strain, cough, walk, and urinate before leaving."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Absence of bleeding is expected but does not prove correct size or position.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Absence of bleeding is expected but does not prove correct size or position."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Absence of bleeding is expected but does not prove correct size or position.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Absence of bleeding is expected but does not prove correct size or position.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Absence of bleeding is expected but does not prove correct size or position."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Discomfort suggests poor fit, pressure, or incorrect placement rather than successful positioning.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Discomfort suggests poor fit, pressure, or incorrect placement rather than successful positioning."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Discomfort suggests poor fit, pressure, or incorrect placement rather than successful positioning.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Discomfort suggests poor fit, pressure, or incorrect placement rather than successful positioning.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Discomfort suggests poor fit, pressure, or incorrect placement rather than successful positioning."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A practical retention test is listed.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A practical retention test is listed."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "A good ring stays with strain and lets the patient void in comfort.",
+      "examPearl": "Arrange removal or follow-up, vaginal examination, and management of discharge, erosion, or bleeding.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. If not expelled after increased abdominal pressure",
+        "auditedAnswer": "A. If not expelled after increased abdominal pressure",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 227,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q229",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Secondary postpartum haemorrhage occurs after the first 24 hours, commonly from retained placental tissue, endometritis, or subinvolution of the placental site. Placenta previa causes antepartum bleeding and can contribute to primary PPH, not usually delayed secondary PPH.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Placenta previa is a placental-location problem presenting before or around delivery.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Placenta previa is a placental-location problem presenting before or around delivery."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Placenta previa is a placental-location problem presenting before or around delivery.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a placental-location problem presenting before or around delivery.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Placenta previa is a placental-location problem presenting before or around delivery."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Retained placental fragments prevent involution and can cause delayed bleeding.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Retained placental fragments prevent involution and can cause delayed bleeding."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Retained placental fragments prevent involution and can cause delayed bleeding.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Retained placental fragments prevent involution and can cause delayed bleeding.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Retained placental fragments prevent involution and can cause delayed bleeding."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Endometritis causes poor uterine involution, fever, tenderness, offensive lochia, and bleeding.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Endometritis causes poor uterine involution, fever, tenderness, offensive lochia, and bleeding."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Endometritis causes poor uterine involution, fever, tenderness, offensive lochia, and bleeding.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice causes poor uterine involution, fever, tenderness, offensive lochia, and bleeding.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Endometritis causes poor uterine involution, fever, tenderness, offensive lochia, and bleeding."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A placental polyp from retained organised tissue can cause persistent or recurrent secondary PPH.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A placental polyp from retained organised tissue can cause persistent or recurrent secondary PPH."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A placental polyp from retained organised tissue can cause persistent or recurrent secondary PPH.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A placental polyp from retained organised tissue can cause persistent or recurrent secondary PPH.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A placental polyp from retained organised tissue can cause persistent or recurrent secondary PPH."
+            }
+          }
+        }
+      },
+      "memoryHook": "Secondary PPH: retained tissue, infection, subinvolution.",
+      "examPearl": "Assess haemodynamic status first, then use examination, ultrasound, blood tests, antibiotics, uterotonics, and evacuation or embolisation as indicated.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Placenta previa",
+        "auditedAnswer": "A. Placenta previa",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 229,
+        "sourcePdfPage": 42,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q272",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The second-trimester quadruple screen, AFP, hCG, unconjugated estriol, and inhibin A, is performed around 15 to 20 weeks, with many programmes preferring 16 to 18 weeks.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eight to twelve weeks is first-trimester screening territory and too early for the quad screen.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Eight to twelve weeks is first-trimester screening territory and too early for the quad screen."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eight to twelve weeks is first-trimester screening territory and too early for the quad screen.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eight to twelve weeks is first-trimester screening territory and too early for the quad screen.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Eight to twelve weeks is first-trimester screening territory and too early for the quad screen."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eleven to fifteen weeks overlaps nuchal translucency and combined first-trimester screening, but the quad test starts later.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Eleven to fifteen weeks overlaps nuchal translucency and combined first-trimester screening, but the quad test starts later."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eleven to fifteen weeks overlaps nuchal translucency and combined first-trimester screening, but the quad test starts later.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eleven to fifteen weeks overlaps nuchal translucency and combined first-trimester screening, but the quad test starts later.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Eleven to fifteen weeks overlaps nuchal translucency and combined first-trimester screening, but the quad test starts later."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The maternal serum quadruple screen is performed in the second trimester, typically from 15 to 20 weeks, with 16 to 18 weeks often preferred.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The maternal serum quadruple screen is performed in the second trimester, typically from 15 to 20 weeks, with 16 to 18 weeks often preferred."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The maternal serum quadruple screen is performed in the second trimester, typically from 15 to 20 weeks, with 16 to 18 weeks often preferred.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The maternal serum quadruple screen is performed in the second trimester, typically from 15 to 20 weeks, with 16 to 18 weeks often preferred.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The maternal serum quadruple screen is performed in the second trimester, typically from 15 to 20 weeks, with 16 to 18 weeks often preferred."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Eighteen to twenty-two weeks is the anomaly-scan window; the quad test can overlap early in it but should not be delayed unnecessarily.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Eighteen to twenty-two weeks is the anomaly-scan window; the quad test can overlap early in it but should not be delayed unnecessarily."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Eighteen to twenty-two weeks is the anomaly-scan window; the quad test can overlap early in it but should not be delayed unnecessarily.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Eighteen to twenty-two weeks is the anomaly-scan window; the quad test can overlap early in it but should not be delayed unnecessarily.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Eighteen to twenty-two weeks is the anomaly-scan window; the quad test can overlap early in it but should not be delayed unnecessarily."
+            }
+          }
+        }
+      },
+      "memoryHook": "Quad is a second-trimester 15 to 20 week screen.",
+      "examPearl": "It is a screening test, not a diagnosis; cell-free DNA and diagnostic testing options depend on risk and availability.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. 15-20 weeks",
+        "auditedAnswer": "C. 15-20 weeks",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 272,
+        "sourcePdfPage": 50,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q277",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Kroener fimbriectomy removes the fimbrial end of the fallopian tube as a sterilisation method. It is largely historical because standard partial salpingectomy or complete salpingectomy is more commonly used.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Uchida method excises a tubal segment and buries the proximal stump within mesosalpinx.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Uchida method excises a tubal segment and buries the proximal stump within mesosalpinx."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Uchida method excises a tubal segment and buries the proximal stump within mesosalpinx.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice excises a tubal segment and buries the proximal stump within mesosalpinx.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Uchida method excises a tubal segment and buries the proximal stump within mesosalpinx."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Irving method buries the proximal stump in myometrium and distal stump in mesosalpinx.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Irving method buries the proximal stump in myometrium and distal stump in mesosalpinx."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Irving method buries the proximal stump in myometrium and distal stump in mesosalpinx.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice buries the proximal stump in myometrium and distal stump in mesosalpinx.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Irving method buries the proximal stump in myometrium and distal stump in mesosalpinx."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Madlener method crushes and ligates a loop without excision and has a higher failure rate.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Madlener method crushes and ligates a loop without excision and has a higher failure rate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Madlener method crushes and ligates a loop without excision and has a higher failure rate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Madlener method crushes and ligates a loop without excision and has a higher failure rate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Madlener method crushes and ligates a loop without excision and has a higher failure rate."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The Kroener sterilisation method is fimbriectomy, in which the fimbrial end of the fallopian tube is excised.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The Kroener sterilisation method is fimbriectomy, in which the fimbrial end of the fallopian tube is excised."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The Kroener sterilisation method is fimbriectomy, in which the fimbrial end of the fallopian tube is excised.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The Kroener sterilisation method is fimbriectomy, in which the fimbrial end of the fallopian tube is excised.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The Kroener sterilisation method is fimbriectomy, in which the fimbrial end of the fallopian tube is excised."
+            }
+          }
+        }
+      },
+      "memoryHook": "Kroener cuts the crown-like fimbrial end.",
+      "examPearl": "Opportunistic bilateral salpingectomy may also reduce future high-grade serous ovarian cancer risk.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Kroener method",
+        "auditedAnswer": "D. Kroener method",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 277,
+        "sourcePdfPage": 51,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q281",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "The traditional definition places peripartum cardiomyopathy in the last month of pregnancy or within five months after delivery, with new systolic dysfunction and no other cause. Modern definitions may use a broader late-pregnancy to postpartum window.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Within seven days is too narrow and would miss many cases.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Within seven days is too narrow and would miss many cases."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Within seven days is too narrow and would miss many cases.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Within seven days is too narrow and would miss many cases.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Within seven days is too narrow and would miss many cases."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Within six weeks captures part of the postpartum risk but not the full traditional interval.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Within six weeks captures part of the postpartum risk but not the full traditional interval."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Within six weeks captures part of the postpartum risk but not the full traditional interval.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Within six weeks captures part of the postpartum risk but not the full traditional interval.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Within six weeks captures part of the postpartum risk but not the full traditional interval."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Twenty-four months is much broader than the conventional definition.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Twenty-four months is much broader than the conventional definition."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Twenty-four months is much broader than the conventional definition.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Twenty-four months is much broader than the conventional definition.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Twenty-four months is much broader than the conventional definition."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The traditional definition of peripartum cardiomyopathy includes onset in the last month of pregnancy or within 5 months after delivery.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The traditional definition of peripartum cardiomyopathy includes onset in the last month of pregnancy or within 5 months after delivery."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The traditional definition of peripartum cardiomyopathy includes onset in the last month of pregnancy or within 5 months after delivery.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The traditional definition of peripartum cardiomyopathy includes onset in the last month of pregnancy or within 5 months after delivery.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The traditional definition of peripartum cardiomyopathy includes onset in the last month of pregnancy or within 5 months after delivery."
+            }
+          }
+        }
+      },
+      "memoryHook": "Classic PPCM: last month pregnant to five months postpartum.",
+      "examPearl": "Think PPCM in postpartum breathlessness, orthopnoea, oedema, or reduced ejection fraction rather than attributing everything to normal pregnancy.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "D. Within 5 months",
+        "auditedAnswer": "D. Within 5 months",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 281,
+        "sourcePdfPage": 52,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q286",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The HSG shows a single, laterally deviated banana-shaped uterine cavity with one fallopian tube, typical of a unicornuate uterus from development of only one Mullerian duct.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A septate uterus shows two endometrial cavities within a near-normal outer fundus; HSG alone may not define outer contour.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: A septate uterus shows two endometrial cavities within a near-normal outer fundus; HSG alone may not define outer contour."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A septate uterus shows two endometrial cavities within a near-normal outer fundus; HSG alone may not define outer contour.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A septate uterus shows two endometrial cavities within a near-normal outer fundus; HSG alone may not define outer contour.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A septate uterus shows two endometrial cavities within a near-normal outer fundus; HSG alone may not define outer contour."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Uterus didelphys has two separate uterine cavities and usually two cervices.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Uterus didelphys has two separate uterine cavities and usually two cervices."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Uterus didelphys has two separate uterine cavities and usually two cervices.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has two separate uterine cavities and usually two cervices.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Uterus didelphys has two separate uterine cavities and usually two cervices."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A rudimentary contralateral horn may be present and can contain functioning endometrium.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A rudimentary contralateral horn may be present and can contain functioning endometrium."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A rudimentary contralateral horn may be present and can contain functioning endometrium.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A rudimentary contralateral horn may be present and can contain functioning endometrium.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "A rudimentary contralateral horn may be present and can contain functioning endometrium."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Bicornuate uterus has two divergent horns and a deep external fundal cleft.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Bicornuate uterus has two divergent horns and a deep external fundal cleft."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bicornuate uterus has two divergent horns and a deep external fundal cleft.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice has two divergent horns and a deep external fundal cleft.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Bicornuate uterus has two divergent horns and a deep external fundal cleft."
+            }
+          }
+        }
+      },
+      "memoryHook": "Unicornuate means one horn and one tube.",
+      "examPearl": "Mullerian anomalies can coexist with renal anomalies, so renal-tract assessment is important.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Unicornuate uterus",
+        "auditedAnswer": "C. Unicornuate uterus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 286,
+        "sourcePdfPage": 53,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q357",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Tibolone is a synthetic steroid whose metabolites have oestrogenic, progestogenic, and androgenic actions. It is used for menopausal symptoms in selected postmenopausal patients. Calling it simply a synthetic steroidal oestrogen is the closest option but incomplete.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tibolone is not a naturally occurring steroid.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Tibolone is not a naturally occurring steroid."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tibolone is not a naturally occurring steroid.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Tibolone is not a naturally occurring steroid.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Tibolone is not a naturally occurring steroid."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It is neither natural nor non-steroidal.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: It is neither natural nor non-steroidal."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It is neither natural nor non-steroidal.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It is neither natural nor non-steroidal.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "It is neither natural nor non-steroidal."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Tibolone is a synthetic steroid whose active metabolites have oestrogenic, progestogenic, and androgenic effects; calling it only an oestrogen is incomplete.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Tibolone is a synthetic steroid whose active metabolites have oestrogenic, progestogenic, and androgenic effects; calling it only an oestrogen is incomplete."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tibolone is a synthetic steroid whose active metabolites have oestrogenic, progestogenic, and androgenic effects; calling it only an oestrogen is incomplete.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Tibolone is a synthetic steroid whose active metabolites have oestrogenic, progestogenic, and androgenic effects; calling it only an oestrogen is incomplete.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Tibolone is a synthetic steroid whose active metabolites have oestrogenic, progestogenic, and androgenic effects; calling it only an oestrogen is incomplete."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "It has a steroid nucleus, so non-steroidal is wrong.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: It has a steroid nucleus, so non-steroidal is wrong."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It has a steroid nucleus, so non-steroidal is wrong.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It has a steroid nucleus, so non-steroidal is wrong.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "It has a steroid nucleus, so non-steroidal is wrong."
+            }
+          }
+        }
+      },
+      "memoryHook": "Tibolone is one synthetic steroid with three metabolite actions: E, P, and A.",
+      "examPearl": "It is not appropriate for every patient and is generally avoided with hormone-dependent malignancy or unexplained bleeding.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. Synthetic steroidal estrogen",
+        "auditedAnswer": "C. Synthetic steroidal estrogen",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 357,
+        "sourcePdfPage": 65,
+        "reportedRepeatYears": [
+          2012,
+          2016
+        ]
+      }
+    }
+  ]
+}

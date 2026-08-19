@@ -1,0 +1,860 @@
+{
+  "questions": [
+    {
+      "questionId": "q212",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "ECT transiently raises cerebral blood flow, intracranial pressure, blood pressure, and heart rate. Raised intracranial pressure from a mass lesion is the strongest listed contraindication or high-risk condition and requires specialist risk assessment.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Heart disease is a relative risk requiring assessment and control, not a blanket contraindication.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a relative risk requiring assessment and control, not a blanket contraindication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Heart disease is a relative risk requiring assessment and control, not a blanket contraindication."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions."
+            }
+          }
+        }
+      },
+      "memoryHook": "ECT stresses brain pressure and the cardiovascular system; a mass with raised pressure is the red flag.",
+      "examPearl": "Modern sources often say ECT has few absolute contraindications, so phrase the answer as 'strongest listed high-risk condition.'",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Raised ICT",
+        "auditedAnswer": "B. Raised ICT",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 212,
+        "sourcePdfPage": 39,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q262",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Korsakoff syndrome is a chronic amnestic disorder from thiamine deficiency, with severe anterograde amnesia, variable retrograde amnesia, and confabulation. Ataxia belongs to acute Wernicke encephalopathy rather than the core Korsakoff syndrome.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Failure to form new declarative memories is prominent.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Failure to form new declarative memories is prominent."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Failure to form new declarative memories is prominent.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Failure to form new declarative memories is prominent.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Failure to form new declarative memories is prominent."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Past-memory loss can extend backward variably.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Past-memory loss can extend backward variably."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Past-memory loss can extend backward variably.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Past-memory loss can extend backward variably.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Past-memory loss can extend backward variably."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Confabulation fills memory gaps without deliberate deception.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Confabulation fills memory gaps without deliberate deception."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Confabulation fills memory gaps without deliberate deception.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice fills memory gaps without deliberate deception.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Confabulation fills memory gaps without deliberate deception."
+            }
+          }
+        }
+      },
+      "memoryHook": "Wernicke walks badly and moves eyes badly; Korsakoff cannot keep new memories and confabulates.",
+      "examPearl": "Treat suspected Wernicke immediately with parenteral thiamine before or alongside carbohydrate.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Ataxia",
+        "auditedAnswer": "C. Ataxia",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 262,
+        "sourcePdfPage": 48,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q323",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Mild intellectual disability is the most common severity category. Many affected people develop practical academic and social skills with support and may not be identified until school demands increase.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Mild cases constitute the majority.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Mild cases constitute the majority."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mild cases constitute the majority.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice cases constitute the majority.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Mild cases constitute the majority."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Moderate disability is less common and requires more substantial ongoing support.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Moderate disability is less common and requires more substantial ongoing support."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Moderate disability is less common and requires more substantial ongoing support.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is less common and requires more substantial ongoing support.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Moderate disability is less common and requires more substantial ongoing support."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Severe disability is much less common.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Severe disability is much less common."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe disability is much less common.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is much less common.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Severe disability is much less common."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Profound disability is the least common and involves pervasive support needs.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Profound disability is the least common and involves pervasive support needs."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Profound disability is the least common and involves pervasive support needs.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is the least common and involves pervasive support needs.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Profound disability is the least common and involves pervasive support needs."
+            }
+          }
+        }
+      },
+      "memoryHook": "Most intellectual disability is mild.",
+      "examPearl": "Use the term intellectual disability, not 'mental retardation.' Modern severity is based on adaptive functioning, not IQ alone.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Mild",
+        "auditedAnswer": "A. Mild",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 323,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q324",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The main practical distinction is body weight: anorexia nervosa requires significantly low body weight, whereas bulimia nervosa usually occurs at normal or above-normal weight despite recurrent binge eating and compensatory behaviour.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Both occur predominantly in females but can affect any gender.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Both occur predominantly in females but can affect any gender."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both occur predominantly in females but can affect any gender.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both occur predominantly in females but can affect any gender.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Both occur predominantly in females but can affect any gender."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Both commonly begin in adolescence or young adulthood, so age is not the key separator."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Both commonly begin in adolescence or young adulthood, so age is not the key separator."
+            }
+          }
+        }
+      },
+      "memoryHook": "If weight is significantly low, think anorexia binge-purge subtype rather than bulimia.",
+      "examPearl": "Assess electrolytes, ECG, suicidality, dehydration, and medical instability regardless of label.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Weight",
+        "auditedAnswer": "B. Weight",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 324,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q325",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The common renal consequence of chronic lithium exposure is nephrogenic diabetes insipidus from collecting-duct resistance to ADH, causing polyuria and polydipsia. The option prints 'DM' but clearly intends DI.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Amiloride can reduce lithium entry through ENaC in selected patients."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amiloride can reduce lithium entry through ENaC in selected patients.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Amiloride can reduce lithium entry through ENaC in selected patients.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Amiloride can reduce lithium entry through ENaC in selected patients."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Renal tubular acidosis can occur rarely but is not the most common sequel.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Renal tubular acidosis can occur rarely but is not the most common sequel."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Renal tubular acidosis can occur rarely but is not the most common sequel.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can occur rarely but is not the most common sequel.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Renal tubular acidosis can occur rarely but is not the most common sequel."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Glycosuria is not the characteristic chronic effect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Glycosuria is not the characteristic chronic effect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glycosuria is not the characteristic chronic effect.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the characteristic chronic effect.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Glycosuria is not the characteristic chronic effect."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "MPGN is an immune-complex glomerular disease and not the standard lithium lesion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: MPGN is an immune-complex glomerular disease and not the standard lithium lesion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MPGN is an immune-complex glomerular disease and not the standard lithium lesion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an immune-complex glomerular disease and not the standard lithium lesion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "MPGN is an immune-complex glomerular disease and not the standard lithium lesion."
+            }
+          }
+        }
+      },
+      "memoryHook": "Lithium makes the kidney ignore ADH: lots of dilute urine.",
+      "examPearl": "Monitor lithium level, renal and thyroid function, calcium, fluid status, and interacting drugs such as NSAIDs, ACE inhibitors, ARBs, and thiazides.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Nephrogenic diabetes insipidus",
+        "auditedAnswer": "A. Nephrogenic diabetes insipidus",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 325,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q326",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Prominent depressive or affective symptoms are a relatively good prognostic feature in schizophrenia, especially when onset is acute and linked to stress with good premorbid function. Negative symptoms, insidious early onset, and male sex generally predict poorer outcome.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Blunted affect is a negative symptom and is associated with poorer functional prognosis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Blunted affect is a negative symptom and is associated with poorer functional prognosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blunted affect is a negative symptom and is associated with poorer functional prognosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a negative symptom and is associated with poorer functional prognosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Blunted affect is a negative symptom and is associated with poorer functional prognosis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Early onset is usually linked to more chronic illness and worse outcome.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Early onset is usually linked to more chronic illness and worse outcome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Early onset is usually linked to more chronic illness and worse outcome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is usually linked to more chronic illness and worse outcome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Early onset is usually linked to more chronic illness and worse outcome."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Female sex, not male sex, is generally associated with later onset and somewhat better prognosis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Good schizophrenia prognosis: acute, late, female, married, good premorbid, mood symptoms, positive symptoms.",
+      "examPearl": "Prognosis varies widely and improves with early treatment, adherence, substance-use care, family support, and rehabilitation.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Presence of depression",
+        "auditedAnswer": "C. Presence of depression",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 326,
+        "sourcePdfPage": 59,
+        "reportedRepeatYears": [
+          2013,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q327",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Tearfulness, mood lability, irritability, and insomnia beginning around day 3 to 5 postpartum without severe impairment or psychosis are typical postpartum blues. Symptoms usually resolve within two weeks with reassurance and support.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Day 4 and fluctuating mild symptoms are classic.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Day 4 and fluctuating mild symptoms are classic."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Day 4 and fluctuating mild symptoms are classic.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Day 4 and fluctuating mild symptoms are classic.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Day 4 and fluctuating mild symptoms are classic."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome."
+            }
+          }
+        }
+      },
+      "memoryHook": "Blues begin in days and end within two weeks; depression persists; psychosis is an emergency.",
+      "examPearl": "Screen for suicidality, inability to care for self or baby, and psychotic symptoms even when the presentation initially sounds mild.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Postpartum blues",
+        "auditedAnswer": "B. Postpartum blues",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 327,
+        "sourcePdfPage": 60,
+        "reportedRepeatYears": [
+          2022,
+          2023
+        ]
+      }
+    },
+    {
+      "questionId": "q346",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "A major depressive episode requires at least two weeks of depressed mood or loss of interest plus associated symptoms causing distress or impairment, with exclusions and context considered.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Symptoms are present most of the day, nearly every day during the period.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Symptoms are present most of the day, nearly every day during the period."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symptoms are present most of the day, nearly every day during the period.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symptoms are present most of the day, nearly every day during the period.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Symptoms are present most of the day, nearly every day during the period."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Three weeks exceeds the minimum but is not the criterion.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Three weeks exceeds the minimum but is not the criterion."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Three weeks exceeds the minimum but is not the criterion.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Three weeks exceeds the minimum but is not the criterion.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Three weeks exceeds the minimum but is not the criterion."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Four weeks is also longer than required.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Four weeks is also longer than required."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four weeks is also longer than required.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four weeks is also longer than required.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Four weeks is also longer than required."
+            }
+          }
+        }
+      },
+      "memoryHook": "Depression two weeks; mania one week or any duration if hospitalisation; hypomania four days in DSM criteria.",
+      "examPearl": "Bereavement does not automatically exclude major depression; evaluate the full syndrome and risk.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 2 weeks",
+        "auditedAnswer": "B. 2 weeks",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 346,
+        "sourcePdfPage": 63,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    }
+  ]
+}

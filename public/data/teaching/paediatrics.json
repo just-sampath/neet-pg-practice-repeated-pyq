@@ -1,0 +1,1934 @@
+{
+  "questions": [
+    {
+      "questionId": "q054",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "The anterior fontanelle is the largest and generally the last major fontanelle to close, usually by 18 months, with a broad normal range. The posterior fontanelle closes much earlier.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The anterolateral or sphenoidal fontanelle closes during early infancy, before the anterior fontanelle.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The anterolateral or sphenoidal fontanelle closes during early infancy, before the anterior fontanelle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The anterolateral or sphenoidal fontanelle closes during early infancy, before the anterior fontanelle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The anterolateral or sphenoidal fontanelle closes during early infancy, before the anterior fontanelle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The anterolateral or sphenoidal fontanelle closes during early infancy, before the anterior fontanelle."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. The diamond-shaped bregmatic fontanelle persists longest in routine paediatric examination.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The diamond-shaped bregmatic fontanelle persists longest in routine paediatric examination."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The diamond-shaped bregmatic fontanelle persists longest in routine paediatric examination.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The diamond-shaped bregmatic fontanelle persists longest in routine paediatric examination.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The diamond-shaped bregmatic fontanelle persists longest in routine paediatric examination."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "'Lateral' is nonspecific and does not replace the standard anterior-fontanelle answer.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 'Lateral' is nonspecific and does not replace the standard anterior-fontanelle answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 'Lateral' is nonspecific and does not replace the standard anterior-fontanelle answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 'Lateral' is nonspecific and does not replace the standard anterior-fontanelle answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "'Lateral' is nonspecific and does not replace the standard anterior-fontanelle answer."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The posterior or occipital fontanelle commonly closes by about 2 to 3 months.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The posterior or occipital fontanelle commonly closes by about 2 to 3 months."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The posterior or occipital fontanelle commonly closes by about 2 to 3 months.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The posterior or occipital fontanelle commonly closes by about 2 to 3 months.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The posterior or occipital fontanelle commonly closes by about 2 to 3 months."
+            }
+          }
+        }
+      },
+      "memoryHook": "Anterior is ample and after the others: closes around 18 months.",
+      "examPearl": "A sunken fontanelle can suggest dehydration; a tense bulging fontanelle in a calm upright infant may suggest raised intracranial pressure.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Anterior",
+        "auditedAnswer": "B. Anterior",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 54,
+        "sourcePdfPage": 11,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q108",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "A child aged 12 months or older with clinical vitamin A deficiency receives 200,000 IU orally according to the standard age-based therapeutic schedule, repeated on the next day and again after about two weeks in classic protocols. Weight is not the main dose determinant here.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "50,000 IU is the dose for infants younger than 6 months.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 50,000 IU is the dose for infants younger than 6 months."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 50,000 IU is the dose for infants younger than 6 months.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 50,000 IU is the dose for infants younger than 6 months.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "50,000 IU is the dose for infants younger than 6 months."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "100,000 IU is used for infants 6 to 11 months.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: 100,000 IU is used for infants 6 to 11 months."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 100,000 IU is used for infants 6 to 11 months.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 100,000 IU is used for infants 6 to 11 months.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "100,000 IU is used for infants 6 to 11 months."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "150,000 IU is not a standard age tier.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: 150,000 IU is not a standard age tier."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 150,000 IU is not a standard age tier.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 150,000 IU is not a standard age tier.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "150,000 IU is not a standard age tier."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A 2-year-old receives 200,000 IU per treatment dose.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A 2-year-old receives 200,000 IU per treatment dose."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A 2-year-old receives 200,000 IU per treatment dose.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A 2-year-old receives 200,000 IU per treatment dose.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A 2-year-old receives 200,000 IU per treatment dose."
+            }
+          }
+        }
+      },
+      "memoryHook": "Vitamin A treatment: 50k under 6 months, 100k at 6 to 11 months, 200k from 12 months.",
+      "examPearl": "Use lower age-based doses in infants and avoid indiscriminate repeated high dosing because toxicity is possible.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. 2 lakh I.U",
+        "auditedAnswer": "D. 2 lakh I.U",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 108,
+        "sourcePdfPage": 20,
+        "reportedRepeatYears": [
+          2014,
+          2019
+        ]
+      }
+    },
+    {
+      "questionId": "q154",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Severe lupus nephritis is a major organ-threatening manifestation and an important traditional examination answer for mortality in childhood SLE. Modern outcomes depend heavily on setting and disease duration; serious infection, renal failure, cardiovascular disease, and neuropsychiatric disease all contribute.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best exam answer. Proliferative nephritis can lead to renal failure and treatment-related complications.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Proliferative nephritis can lead to renal failure and treatment-related complications."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Proliferative nephritis can lead to renal failure and treatment-related complications.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Proliferative nephritis can lead to renal failure and treatment-related complications.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Proliferative nephritis can lead to renal failure and treatment-related complications."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Cerebritis can be life-threatening but is less consistently cited as the leading cause.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Cerebritis can be life-threatening but is less consistently cited as the leading cause."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Cerebritis can be life-threatening but is less consistently cited as the leading cause.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Cerebritis can be life-threatening but is less consistently cited as the leading cause.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Cerebritis can be life-threatening but is less consistently cited as the leading cause."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Libman-Sacks endocarditis is usually sterile and is not the commonest direct cause of death.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Libman-Sacks endocarditis is usually sterile and is not the commonest direct cause of death."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Libman-Sacks endocarditis is usually sterile and is not the commonest direct cause of death.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Libman-Sacks endocarditis is usually sterile and is not the commonest direct cause of death.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Libman-Sacks endocarditis is usually sterile and is not the commonest direct cause of death."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Infection is a major modern cause of early death, but grouping it with anaemia makes this option imprecise.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Infection is a major modern cause of early death, but grouping it with anaemia makes this option imprecise."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Infection is a major modern cause of early death, but grouping it with anaemia makes this option imprecise.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Infection is a major modern cause of early death, but grouping it with anaemia makes this option imprecise.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Infection is a major modern cause of early death, but grouping it with anaemia makes this option imprecise."
+            }
+          }
+        }
+      },
+      "memoryHook": "In paediatric lupus, never miss the kidney and never underestimate infection.",
+      "examPearl": "For a contemporary clinical question, look for cohort, region, and time period before asserting one universal leading cause.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "A. Lupus nephritis",
+        "auditedAnswer": "A. Lupus nephritis",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 154,
+        "sourcePdfPage": 29,
+        "reportedRepeatYears": [
+          2013,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q163",
+      "answer": {
+        "kind": "no_valid_option",
+        "correctOptionIds": [],
+        "summary": "WHO classification requires at least two signs for 'some' or 'severe' dehydration. This child has sunken eyes but the skin pinch returns very rapidly, which is normal, so the written stem does not justify severe dehydration or IV Plan C. Oral rehydration and reassessment would be appropriate unless other severe signs are present.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "This totals 80 mL/kg and does not match a standard Plan C regimen for a 6 kg infant.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: This totals 80 mL/kg and does not match a standard Plan C regimen for a 6 kg infant."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This totals 80 mL/kg and does not match a standard Plan C regimen for a 6 kg infant.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This totals 80 mL/kg and does not match a standard Plan C regimen for a 6 kg infant.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "This totals 80 mL/kg and does not match a standard Plan C regimen for a 6 kg infant."
+            }
+          }
+        },
+        "B": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "This is mathematically the correct Plan C schedule for a child under 12 months if severe dehydration were intended: 30 mL/kg in 1 hour, then 70 mL/kg in 5 hours. The stem does not establish that diagnosis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: This is mathematically the correct Plan C schedule for a child under 12 months if severe dehydration were intended: 30 mL/kg in 1 hour, then 70 mL/kg in 5 hours."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This is mathematically the correct Plan C schedule for a child under 12 months if severe dehydration were intended: 30 mL/kg in 1 hour, then 70 mL/kg in 5 hours.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This is mathematically the correct Plan C schedule for a child under 12 months if severe dehydration were intended: 30 mL/kg in 1 hour, then 70 mL/kg in 5 hours.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "This is mathematically the correct Plan C schedule for a child under 12 months if severe dehydration were intended: 30 mL/kg in 1 hour, then 70 mL/kg in 5 hours."
+            }
+          }
+        },
+        "C": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "This totals 110 mL/kg and is not the standard 100 mL/kg Plan C volume.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: This totals 110 mL/kg and is not the standard 100 mL/kg Plan C volume."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This totals 110 mL/kg and is not the standard 100 mL/kg Plan C volume.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This totals 110 mL/kg and is not the standard 100 mL/kg Plan C volume.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "This totals 110 mL/kg and is not the standard 100 mL/kg Plan C volume."
+            }
+          }
+        },
+        "D": {
+          "verdict": "unverifiable_as_written",
+          "displayLabel": "Not provable from the stem",
+          "explanation": "The phase volumes are incorrect for the standard infant schedule.",
+          "trickMeter": {
+            "score": 3,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The phase volumes are incorrect for the standard infant schedule."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The phase volumes are incorrect for the standard infant schedule.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The phase volumes are incorrect for the standard infant schedule.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The phase volumes are incorrect for the standard infant schedule."
+            }
+          }
+        }
+      },
+      "memoryHook": "Dehydration needs two signs. Severe Plan C under 12 months: 30 in 1 hour, 70 in 5 hours.",
+      "examPearl": "The probable typo is 'skin pinch goes back very slowly.' If that and another severe sign were present, B would be expected.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "B. RL INFUSION 180 ml in the first hour followed by 420 ml in the next 5 hours",
+        "auditedAnswer": "No valid single option as written",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 163,
+        "sourcePdfPage": 30,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q219",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Exanthema subitum, or roseola infantum, is usually caused by human herpesvirus 6 and sometimes HHV-7. High fever abruptly resolves and is followed by a blanching truncal rash.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Exanthema subitum, or roseola infantum, is most often caused by human herpesvirus 6 and sometimes HHV-7.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Exanthema subitum, or roseola infantum, is most often caused by human herpesvirus 6 and sometimes HHV-7."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exanthema subitum, or roseola infantum, is most often caused by human herpesvirus 6 and sometimes HHV-7.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exanthema subitum, or roseola infantum, is most often caused by human herpesvirus 6 and sometimes HHV-7.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Exanthema subitum, or roseola infantum, is most often caused by human herpesvirus 6 and sometimes HHV-7."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Human papillomavirus causes warts and HPV-associated neoplasia.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Human papillomavirus causes warts and HPV-associated neoplasia."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Human papillomavirus causes warts and HPV-associated neoplasia.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Human papillomavirus causes warts and HPV-associated neoplasia.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Human papillomavirus causes warts and HPV-associated neoplasia."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "HIV causes progressive immune deficiency rather than classic roseola.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: HIV causes progressive immune deficiency rather than classic roseola."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: HIV causes progressive immune deficiency rather than classic roseola.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? HIV causes progressive immune deficiency rather than classic roseola.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "HIV causes progressive immune deficiency rather than classic roseola."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "HCV causes hepatitis and chronic liver disease.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: HCV causes hepatitis and chronic liver disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: HCV causes hepatitis and chronic liver disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? HCV causes hepatitis and chronic liver disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "HCV causes hepatitis and chronic liver disease."
+            }
+          }
+        }
+      },
+      "memoryHook": "Roseola: six days? Think HHV-6, fever first and rash after.",
+      "examPearl": "Febrile seizures can occur during the high-fever phase before the rash appears.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. HHV",
+        "auditedAnswer": "A. HHV",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 219,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q220",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "A term newborn commonly receives 1 mg vitamin K1 intramuscularly after birth to prevent vitamin K deficiency bleeding. Dose and route may differ for very small preterm infants or where oral schedules are used.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "A term newborn commonly receives 1 mg of vitamin K1 intramuscularly after birth. Very small preterm infants may receive a lower dose under local guidance.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A term newborn commonly receives 1 mg of vitamin K1 intramuscularly after birth."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A term newborn commonly receives 1 mg of vitamin K1 intramuscularly after birth.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A term newborn commonly receives 1 mg of vitamin K1 intramuscularly after birth.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A term newborn commonly receives 1 mg of vitamin K1 intramuscularly after birth."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Five milligrams is much higher than routine neonatal IM prophylaxis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Five milligrams is much higher than routine neonatal IM prophylaxis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Five milligrams is much higher than routine neonatal IM prophylaxis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Five milligrams is much higher than routine neonatal IM prophylaxis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Five milligrams is much higher than routine neonatal IM prophylaxis."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ten milligrams is an adult-scale treatment dose in some settings, not newborn prophylaxis.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ten milligrams is an adult-scale treatment dose in some settings, not newborn prophylaxis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ten milligrams is an adult-scale treatment dose in some settings, not newborn prophylaxis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ten milligrams is an adult-scale treatment dose in some settings, not newborn prophylaxis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ten milligrams is an adult-scale treatment dose in some settings, not newborn prophylaxis."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Fifteen milligrams is not used for routine neonatal prevention.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Fifteen milligrams is not used for routine neonatal prevention."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Fifteen milligrams is not used for routine neonatal prevention.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Fifteen milligrams is not used for routine neonatal prevention.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Fifteen milligrams is not used for routine neonatal prevention."
+            }
+          }
+        }
+      },
+      "memoryHook": "One newborn, one milligram IM.",
+      "examPearl": "Late vitamin K deficiency bleeding can cause intracranial haemorrhage, especially in exclusively breastfed infants who did not receive prophylaxis.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. 1mg",
+        "auditedAnswer": "A. 1mg",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 220,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q223",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Neonatal red cells have a shorter lifespan than adult red cells, roughly 60 to 90 days versus about 120 days. Combined with a postnatal fall in erythropoietin, this contributes to physiologic anaemia of infancy.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Neonatal red cells have a shorter lifespan than adult red cells, commonly about 60 to 90 days.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Neonatal red cells have a shorter lifespan than adult red cells, commonly about 60 to 90 days."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Neonatal red cells have a shorter lifespan than adult red cells, commonly about 60 to 90 days.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Neonatal red cells have a shorter lifespan than adult red cells, commonly about 60 to 90 days.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Neonatal red cells have a shorter lifespan than adult red cells, commonly about 60 to 90 days."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ninety to 120 days approaches adult red-cell survival and is longer than the usual neonatal figure.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Ninety to 120 days approaches adult red-cell survival and is longer than the usual neonatal figure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ninety to 120 days approaches adult red-cell survival and is longer than the usual neonatal figure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ninety to 120 days approaches adult red-cell survival and is longer than the usual neonatal figure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Ninety to 120 days approaches adult red-cell survival and is longer than the usual neonatal figure."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One hundred twenty to 150 days exceeds normal adult survival.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: One hundred twenty to 150 days exceeds normal adult survival."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One hundred twenty to 150 days exceeds normal adult survival.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One hundred twenty to 150 days exceeds normal adult survival.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "One hundred twenty to 150 days exceeds normal adult survival."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "One hundred fifty to 200 days is far too long.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: One hundred fifty to 200 days is far too long."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One hundred fifty to 200 days is far too long.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One hundred fifty to 200 days is far too long.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "One hundred fifty to 200 days is far too long."
+            }
+          }
+        }
+      },
+      "memoryHook": "Baby red cells live about half to three-quarters of the adult 120 days.",
+      "examPearl": "Preterm infants develop a deeper earlier anaemia because of shorter red-cell survival, lower erythropoietin response, rapid growth, and phlebotomy losses.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. 60-90 days",
+        "auditedAnswer": "A. 60-90 days",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 223,
+        "sourcePdfPage": 41,
+        "reportedRepeatYears": [
+          2014,
+          2015
+        ]
+      }
+    },
+    {
+      "questionId": "q248",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Ortolani manoeuvre reduces a dislocated infant hip. With hips flexed, gentle abduction and anterior lift guide the femoral head into the acetabulum, producing a palpable clunk of entry.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A true clunk is more significant than a benign soft-tissue click.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A true clunk is more significant than a benign soft-tissue click."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A true clunk is more significant than a benign soft-tissue click.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A true clunk is more significant than a benign soft-tissue click.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "A true clunk is more significant than a benign soft-tissue click."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Extension and adduction are not the reduction manoeuvre.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Extension and adduction are not the reduction manoeuvre."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Extension and adduction are not the reduction manoeuvre.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Extension and adduction are not the reduction manoeuvre.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Extension and adduction are not the reduction manoeuvre."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Exit from the acetabulum describes provocation by Barlow, not Ortolani.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Exit from the acetabulum describes provocation by Barlow, not Ortolani."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Exit from the acetabulum describes provocation by Barlow, not Ortolani.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Exit from the acetabulum describes provocation by Barlow, not Ortolani.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Exit from the acetabulum describes provocation by Barlow, not Ortolani."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Extension and adduction with an exit click is neither the correct movement nor description.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Extension and adduction with an exit click is neither the correct movement nor description."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Extension and adduction with an exit click is neither the correct movement nor description.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Extension and adduction with an exit click is neither the correct movement nor description.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Extension and adduction with an exit click is neither the correct movement nor description."
+            }
+          }
+        }
+      },
+      "memoryHook": "Ortolani Opens and puts the hip In; Barlow pushes it Back out.",
+      "examPearl": "After a few months, limited abduction and asymmetry become more useful than Ortolani or Barlow.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Clunk of entry on abduction and flexion of hip",
+        "auditedAnswer": "A. Clunk of entry on abduction and flexion of hip",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 248,
+        "sourcePdfPage": 46,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q270",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "A child typically identifies four or more colours and copies or draws a triangle around 5 years. Triangle copying is the more age-discriminating milestone in the stem.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "At 2.5 years, language and simple line or circular scribbling are expected, not a well-copied triangle.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: At 2.5 years, language and simple line or circular scribbling are expected, not a well-copied triangle."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: At 2.5 years, language and simple line or circular scribbling are expected, not a well-copied triangle.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? At 2.5 years, language and simple line or circular scribbling are expected, not a well-copied triangle.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "At 2.5 years, language and simple line or circular scribbling are expected, not a well-copied triangle."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "At 3 years, a child often copies a circle and knows some colours.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: At 3 years, a child often copies a circle and knows some colours."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: At 3 years, a child often copies a circle and knows some colours.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? At 3 years, a child often copies a circle and knows some colours.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "At 3 years, a child often copies a circle and knows some colours."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "At 4 years, a child commonly copies a cross or square and identifies colours, but triangle is later.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: At 4 years, a child commonly copies a cross or square and identifies colours, but triangle is later."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: At 4 years, a child commonly copies a cross or square and identifies colours, but triangle is later.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? At 4 years, a child commonly copies a cross or square and identifies colours, but triangle is later.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "At 4 years, a child commonly copies a cross or square and identifies colours, but triangle is later."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Five-year skills include triangle copying, more complex drawing, counting, and mature language.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Five-year skills include triangle copying, more complex drawing, counting, and mature language."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Five-year skills include triangle copying, more complex drawing, counting, and mature language.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Five-year skills include triangle copying, more complex drawing, counting, and mature language.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Five-year skills include triangle copying, more complex drawing, counting, and mature language."
+            }
+          }
+        }
+      },
+      "memoryHook": "Circle 3, cross or square 4, triangle 5.",
+      "examPearl": "Milestones have ranges. Loss of acquired skills is always a red flag regardless of the exact milestone table.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. 5 years",
+        "auditedAnswer": "D. 5 years",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 270,
+        "sourcePdfPage": 50,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q271",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "Zinc RDA changes with age, sex, diet, and the authority issuing the reference. A value around 6 to 8 mg per day is reasonable for many school-age children and is the intended answer, but no age is provided.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ten milligrams may fit older adolescents or older reference tables but is high for a young child.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ten milligrams may fit older adolescents or older reference tables but is high for a young child."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ten milligrams may fit older adolescents or older reference tables but is high for a young child.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ten milligrams may fit older adolescents or older reference tables but is high for a young child.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Ten milligrams may fit older adolescents or older reference tables but is high for a young child."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Twenty milligrams is closer to the therapeutic daily dose used during childhood diarrhoea for children 6 months or older, not routine RDA.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Twenty milligrams is closer to the therapeutic daily dose used during childhood diarrhoea for children 6 months or older, not routine RDA."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Twenty milligrams is closer to the therapeutic daily dose used during childhood diarrhoea for children 6 months or older, not routine RDA.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Twenty milligrams is closer to the therapeutic daily dose used during childhood diarrhoea for children 6 months or older, not routine RDA.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Twenty milligrams is closer to the therapeutic daily dose used during childhood diarrhoea for children 6 months or older, not routine RDA."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best approximate answer for a generic school-age child.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Best approximate answer for a generic school-age child."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Best approximate answer for a generic school-age child.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Best approximate answer for a generic school-age child.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Best approximate answer for a generic school-age child."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Four to five milligrams may fit younger age groups, illustrating why the stem needs age.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Four to five milligrams may fit younger age groups, illustrating why the stem needs age."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four to five milligrams may fit younger age groups, illustrating why the stem needs age.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four to five milligrams may fit younger age groups, illustrating why the stem needs age.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Four to five milligrams may fit younger age groups, illustrating why the stem needs age."
+            }
+          }
+        }
+      },
+      "memoryHook": "Do not confuse zinc RDA with diarrhoea treatment: 10 mg under 6 months, 20 mg from 6 months for 14 days.",
+      "examPearl": "In a real nutrition question, state the child's age and the guideline used.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "C. 6-8 mg",
+        "auditedAnswer": "C. 6-8 mg",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 271,
+        "sourcePdfPage": 50,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q273",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Acute lymphoblastic leukaemia historically accounted for much childhood cranial irradiation because the CNS is a sanctuary site and prophylaxis reduced relapse. Modern risk-adapted protocols rely heavily on intrathecal and systemic chemotherapy and reserve cranial irradiation for selected high-risk or CNS disease.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Small-cell lung cancer is predominantly an adult disease.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Small-cell lung cancer is predominantly an adult disease."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Small-cell lung cancer is predominantly an adult disease.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Small-cell lung cancer is predominantly an adult disease.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Small-cell lung cancer is predominantly an adult disease."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct historical exam answer. ALL is the common childhood malignancy in which prophylactic cranial irradiation became widely known.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: ALL is the common childhood malignancy in which prophylactic cranial irradiation became widely known."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "AML uses CNS-directed therapy only in selected contexts and is not the main historical indication.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: AML uses CNS-directed therapy only in selected contexts and is not the main historical indication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: AML uses CNS-directed therapy only in selected contexts and is not the main historical indication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? AML uses CNS-directed therapy only in selected contexts and is not the main historical indication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "AML uses CNS-directed therapy only in selected contexts and is not the main historical indication."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Craniopharyngioma can require radiotherapy but is far less common than ALL as a population indication.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Craniopharyngioma can require radiotherapy but is far less common than ALL as a population indication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Craniopharyngioma can require radiotherapy but is far less common than ALL as a population indication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can require radiotherapy but is far less common than ALL as a population indication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Craniopharyngioma can require radiotherapy but is far less common than ALL as a population indication."
+            }
+          }
+        }
+      },
+      "memoryHook": "Old cranial prophylaxis question: childhood ALL.",
+      "examPearl": "Do not assume every child with ALL now receives cranial irradiation; late neurocognitive, endocrine, vascular, and second-cancer effects drive reduction.",
+      "audit": {
+        "status": "historical_answer",
+        "displayLabel": "Historical answer",
+        "sourceKey": "B. ALL",
+        "auditedAnswer": "B. ALL",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 273,
+        "sourcePdfPage": 50,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q278",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "An APGAR score of 0 to 3 at one minute indicates severe depression and the need for active resuscitative assessment and support. The score documents condition and response but should not delay neonatal resuscitation steps.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Mild or moderate depression is more often associated with scores 4 to 6.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Mild or moderate depression is more often associated with scores 4 to 6."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mild or moderate depression is more often associated with scores 4 to 6.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mild or moderate depression is more often associated with scores 4 to 6.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Mild or moderate depression is more often associated with scores 4 to 6."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A score of 3 does not justify withholding resuscitation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A score of 3 does not justify withholding resuscitation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A score of 3 does not justify withholding resuscitation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A score of 3 does not justify withholding resuscitation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A score of 3 does not justify withholding resuscitation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Severe depression demands immediate attention to breathing, heart rate, tone, and ventilation.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Severe depression demands immediate attention to breathing, heart rate, tone, and ventilation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe depression demands immediate attention to breathing, heart rate, tone, and ventilation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe depression demands immediate attention to breathing, heart rate, tone, and ventilation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Severe depression demands immediate attention to breathing, heart rate, tone, and ventilation."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A normal or reassuring score is generally 7 to 10.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A normal or reassuring score is generally 7 to 10."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A normal or reassuring score is generally 7 to 10.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A normal or reassuring score is generally 7 to 10.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A normal or reassuring score is generally 7 to 10."
+            }
+          }
+        }
+      },
+      "memoryHook": "APGAR 0 to 3 severe, 4 to 6 moderate, 7 to 10 reassuring.",
+      "examPearl": "Effective positive-pressure ventilation is the most important intervention when a newborn remains apnoeic, gasping, or bradycardic.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. Severely depressed",
+        "auditedAnswer": "C. Severely depressed",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 278,
+        "sourcePdfPage": 51,
+        "reportedRepeatYears": [
+          2019,
+          2020
+        ]
+      }
+    },
+    {
+      "questionId": "q282",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "A large PDA causes pulmonary overcirculation and heart failure and can progress to pulmonary vascular disease and Eisenmenger physiology. It also predisposes to infective endarteritis. The option says 'endocardial valvulitis,' which is inaccurate wording but probably intends infective endarteritis.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Intended as infective endarteritis, a recognised PDA complication. 'Endocardial valvulitis' is not the correct term.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: 'Endocardial valvulitis' is not the correct term."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: 'Endocardial valvulitis' is not the correct term.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? 'Endocardial valvulitis' is not the correct term.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "'Endocardial valvulitis' is not the correct term."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Long-standing large shunt can reverse, producing differential cyanosis of the lower body.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Long-standing large shunt can reverse, producing differential cyanosis of the lower body."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Long-standing large shunt can reverse, producing differential cyanosis of the lower body.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Long-standing large shunt can reverse, producing differential cyanosis of the lower body.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Long-standing large shunt can reverse, producing differential cyanosis of the lower body."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "True. Infants can develop tachypnoea, feeding difficulty, poor growth, and congestive heart failure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Infants can develop tachypnoea, feeding difficulty, poor growth, and congestive heart failure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Infants can develop tachypnoea, feeding difficulty, poor growth, and congestive heart failure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Infants can develop tachypnoea, feeding difficulty, poor growth, and congestive heart failure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Infants can develop tachypnoea, feeding difficulty, poor growth, and congestive heart failure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "A large patent ductus arteriosus can cause heart failure, pulmonary hypertension with eventual Eisenmenger physiology, and infective endarteritis. 'All of the above' works only if the malformed endarteritis option is corrected.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A large patent ductus arteriosus can cause heart failure, pulmonary hypertension with eventual Eisenmenger physiology, and infective endarteritis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A large patent ductus arteriosus can cause heart failure, pulmonary hypertension with eventual Eisenmenger physiology, and infective endarteritis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A large patent ductus arteriosus can cause heart failure, pulmonary hypertension with eventual Eisenmenger physiology, and infective endarteritis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "A large patent ductus arteriosus can cause heart failure, pulmonary hypertension with eventual Eisenmenger physiology, and infective endarteritis."
+            }
+          }
+        }
+      },
+      "memoryHook": "Big PDA: flow to lungs, failure, then pulmonary hypertension and Eisenmenger.",
+      "examPearl": "A continuous machinery murmur may become soft or disappear when severe pulmonary hypertension equalises pressures.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "D. All of above",
+        "auditedAnswer": "D. All of above",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 282,
+        "sourcePdfPage": 52,
+        "reportedRepeatYears": [
+          2012,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q283",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Neuroblastoma is the most common extracranial solid malignancy of childhood and commonly arises in the abdomen, especially adrenal medulla or sympathetic chain. It is therefore the best answer for the commonest intra-abdominal solid tumour.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It may cross midline, encase vessels, calcify, secrete catecholamine metabolites, and cause opsoclonus-myoclonus.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It may cross midline, encase vessels, calcify, secrete catecholamine metabolites, and cause opsoclonus-myoclonus."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It may cross midline, encase vessels, calcify, secrete catecholamine metabolites, and cause opsoclonus-myoclonus.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It may cross midline, encase vessels, calcify, secrete catecholamine metabolites, and cause opsoclonus-myoclonus.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It may cross midline, encase vessels, calcify, secrete catecholamine metabolites, and cause opsoclonus-myoclonus."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Rhabdomyosarcoma is a common soft-tissue sarcoma but is not the leading abdominal solid tumour.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Rhabdomyosarcoma is a common soft-tissue sarcoma but is not the leading abdominal solid tumour."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rhabdomyosarcoma is a common soft-tissue sarcoma but is not the leading abdominal solid tumour.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Rhabdomyosarcoma is a common soft-tissue sarcoma but is not the leading abdominal solid tumour.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Rhabdomyosarcoma is a common soft-tissue sarcoma but is not the leading abdominal solid tumour."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Wilms tumour is the most common primary renal malignancy in children, a major distractor.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Wilms tumour is the most common primary renal malignancy in children, a major distractor."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Wilms tumour is the most common primary renal malignancy in children, a major distractor.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Wilms tumour is the most common primary renal malignancy in children, a major distractor.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Wilms tumour is the most common primary renal malignancy in children, a major distractor."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Hypernephroma usually means renal cell carcinoma, rare in young children.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Hypernephroma usually means renal cell carcinoma, rare in young children."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Hypernephroma usually means renal cell carcinoma, rare in young children.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice usually means renal cell carcinoma, rare in young children.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Hypernephroma usually means renal cell carcinoma, rare in young children."
+            }
+          }
+        }
+      },
+      "memoryHook": "Neuroblastoma is the common extracranial solid tumour; Wilms is the common renal tumour.",
+      "examPearl": "Wilms often displaces vessels and usually does not cross midline; neuroblastoma can encase vessels and cross midline.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Neuroblastoma",
+        "auditedAnswer": "A. Neuroblastoma",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 283,
+        "sourcePdfPage": 52,
+        "reportedRepeatYears": [
+          2013,
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q284",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "For APGAR reflex irritability, no response scores 0, a grimace or weak response scores 1, and vigorous cry, cough, sneeze, or withdrawal scores 2. The literal word 'grimace' therefore scores 1.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Zero means no response to stimulation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Zero means no response to stimulation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Zero means no response to stimulation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Zero means no response to stimulation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Zero means no response to stimulation."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. A facial grimace without vigorous response earns one point.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: A facial grimace without vigorous response earns one point."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A facial grimace without vigorous response earns one point.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A facial grimace without vigorous response earns one point.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "A facial grimace without vigorous response earns one point."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two requires a brisk response such as cough, sneeze, cry, or active withdrawal.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Two requires a brisk response such as cough, sneeze, cry, or active withdrawal."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two requires a brisk response such as cough, sneeze, cry, or active withdrawal.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two requires a brisk response such as cough, sneeze, cry, or active withdrawal.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Two requires a brisk response such as cough, sneeze, cry, or active withdrawal."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "No APGAR component receives more than two points.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: No APGAR component receives more than two points."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: No APGAR component receives more than two points.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? No APGAR component receives more than two points.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "No APGAR component receives more than two points."
+            }
+          }
+        }
+      },
+      "memoryHook": "APGAR components each score 0, 1, or 2; grimace is the middle response.",
+      "examPearl": "The word 'grimace' is both the G in APGAR and the description of a one-point response.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. 1",
+        "auditedAnswer": "B. 1",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 284,
+        "sourcePdfPage": 52,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q292",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Hormonal therapy with ACTH or high-dose prednisolone is a first-line treatment for infantile epileptic spasms in general. Vigabatrin is especially preferred when tuberous sclerosis is the cause and is also used in combination or when hormonal therapy is unsuitable.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vigabatrin is first-line for spasms associated with tuberous sclerosis, but it is not the universal single drug of choice. Monitor for retinal toxicity.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Vigabatrin is first-line for spasms associated with tuberous sclerosis, but it is not the universal single drug of choice."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vigabatrin is first-line for spasms associated with tuberous sclerosis, but it is not the universal single drug of choice.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is first-line for spasms associated with tuberous sclerosis, but it is not the universal single drug of choice.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Vigabatrin is first-line for spasms associated with tuberous sclerosis, but it is not the universal single drug of choice."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct general answer. Rapid treatment and EEG response improve developmental prospects.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Rapid treatment and EEG response improve developmental prospects."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Rapid treatment and EEG response improve developmental prospects.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Rapid treatment and EEG response improve developmental prospects.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Rapid treatment and EEG response improve developmental prospects."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Ethosuximide treats typical absence seizures, not infantile spasms.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Ethosuximide treats typical absence seizures, not infantile spasms."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ethosuximide treats typical absence seizures, not infantile spasms.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice treats typical absence seizures, not infantile spasms.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Ethosuximide treats typical absence seizures, not infantile spasms."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Carbamazepine treats focal seizures and can worsen some generalized epileptic encephalopathies.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Carbamazepine treats focal seizures and can worsen some generalized epileptic encephalopathies."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Carbamazepine treats focal seizures and can worsen some generalized epileptic encephalopathies.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice treats focal seizures and can worsen some generalized epileptic encephalopathies.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Carbamazepine treats focal seizures and can worsen some generalized epileptic encephalopathies."
+            }
+          }
+        }
+      },
+      "memoryHook": "Spasms need steroids or ACTH; tuberous sclerosis points to vigabatrin.",
+      "examPearl": "Look for clusters of flexor or extensor spasms, developmental regression, and hypsarrhythmia. This is a neurologic emergency.",
+      "audit": {
+        "status": "key_corrected",
+        "displayLabel": "Key corrected",
+        "sourceKey": "A. Vigabatrin",
+        "auditedAnswer": "B. Adrenocorticotropic hormone (ACTH)",
+        "sourceKeyChanged": true,
+        "note": "The supplied key does not stand as the sole medically defensible answer."
+      },
+      "source": {
+        "bookQuestionNumber": 292,
+        "sourcePdfPage": 54,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q361",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "C"
+        ],
+        "summary": "The asymmetric tonic neck reflex appears in early infancy and normally integrates by about 4 to 6 months. Turning the head extends limbs on the face side and flexes limbs on the skull side, the 'fencer' posture.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Two months is too early for expected disappearance.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Two months is too early for expected disappearance."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Two months is too early for expected disappearance.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Two months is too early for expected disappearance.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Two months is too early for expected disappearance."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Three months can show reduction but is earlier than the usual endpoint.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Three months can show reduction but is earlier than the usual endpoint."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Three months can show reduction but is earlier than the usual endpoint.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Three months can show reduction but is earlier than the usual endpoint.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Three months can show reduction but is earlier than the usual endpoint."
+            }
+          }
+        },
+        "C": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "The asymmetric tonic neck reflex normally integrates by about 4 to 6 months; 6 months is the closest listed age.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: The asymmetric tonic neck reflex normally integrates by about 4 to 6 months; 6 months is the closest listed age."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The asymmetric tonic neck reflex normally integrates by about 4 to 6 months; 6 months is the closest listed age.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The asymmetric tonic neck reflex normally integrates by about 4 to 6 months; 6 months is the closest listed age.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The asymmetric tonic neck reflex normally integrates by about 4 to 6 months; 6 months is the closest listed age."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Persistence to eight months is abnormal and may suggest neurologic dysfunction.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Persistence to eight months is abnormal and may suggest neurologic dysfunction."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Persistence to eight months is abnormal and may suggest neurologic dysfunction.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Persistence to eight months is abnormal and may suggest neurologic dysfunction.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Persistence to eight months is abnormal and may suggest neurologic dysfunction."
+            }
+          }
+        }
+      },
+      "memoryHook": "Fencer reflex fades by four to six months.",
+      "examPearl": "Persistent primitive reflexes or asymmetric motor development warrant developmental and neurologic assessment.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "C. 6 months",
+        "auditedAnswer": "C. 6 months",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 361,
+        "sourcePdfPage": 66,
+        "reportedRepeatYears": [
+          2013,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q364",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Ebstein anomaly has apical displacement of the septal and posterior tricuspid leaflets, atrialisation of part of the right ventricle, severe tricuspid regurgitation, and marked right atrial enlargement.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The functional right ventricle may be small or dysfunctional; the atrialised portion is not useful ventricular chamber enlargement.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The functional right ventricle may be small or dysfunctional; the atrialised portion is not useful ventricular chamber enlargement."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The functional right ventricle may be small or dysfunctional; the atrialised portion is not useful ventricular chamber enlargement.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The functional right ventricle may be small or dysfunctional; the atrialised portion is not useful ventricular chamber enlargement.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The functional right ventricle may be small or dysfunctional; the atrialised portion is not useful ventricular chamber enlargement."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Right atrial dilatation is a dominant imaging and ECG feature.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Right atrial dilatation is a dominant imaging and ECG feature."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Right atrial dilatation is a dominant imaging and ECG feature.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a dominant imaging and ECG feature.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Right atrial dilatation is a dominant imaging and ECG feature."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Left ventricular dilatation is not the defining chamber change.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Left ventricular dilatation is not the defining chamber change."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Left ventricular dilatation is not the defining chamber change.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the defining chamber change.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Left ventricular dilatation is not the defining chamber change."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Left atrial dilatation is not typical unless secondary disease exists.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Left atrial dilatation is not typical unless secondary disease exists."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Left atrial dilatation is not typical unless secondary disease exists.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not typical unless secondary disease exists.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Left atrial dilatation is not typical unless secondary disease exists."
+            }
+          }
+        }
+      },
+      "memoryHook": "Ebstein shifts tricuspid valve down and makes a giant right atrium.",
+      "examPearl": "Associations include ASD or PFO, cyanosis, and accessory pathways such as Wolff-Parkinson-White.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Right atrial dilatation",
+        "auditedAnswer": "B. Right atrial dilatation",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 364,
+        "sourcePdfPage": 66,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    }
+  ]
+}

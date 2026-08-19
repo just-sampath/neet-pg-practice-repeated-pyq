@@ -1,0 +1,867 @@
+{
+  "questions": [
+    {
+      "questionId": "q011",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Korner septum is a persistent petrosquamous lamina in the temporal bone. It may divide mastoid air cells into superficial squamous and deep petrous groups and can mislead mastoid surgery.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It represents persistence of the petrosquamous suture or plate.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It represents persistence of the petrosquamous suture or plate."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It represents persistence of the petrosquamous suture or plate.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It represents persistence of the petrosquamous suture or plate.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It represents persistence of the petrosquamous suture or plate."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The temporosquamous description does not name this surgically important mastoid septum.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The temporosquamous description does not name this surgically important mastoid septum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The temporosquamous description does not name this surgically important mastoid septum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The temporosquamous description does not name this surgically important mastoid septum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "The temporosquamous description does not name this surgically important mastoid septum."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The petromastoid suture is nearby but is not the standard embryologic origin used to define Korner septum.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The petromastoid suture is nearby but is not the standard embryologic origin used to define Korner septum."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The petromastoid suture is nearby but is not the standard embryologic origin used to define Korner septum.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The petromastoid suture is nearby but is not the standard embryologic origin used to define Korner septum.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The petromastoid suture is nearby but is not the standard embryologic origin used to define Korner septum."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The frontozygomatic suture is at the lateral orbital rim and has no relation to mastoid pneumatization.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The frontozygomatic suture is at the lateral orbital rim and has no relation to mastoid pneumatization."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The frontozygomatic suture is at the lateral orbital rim and has no relation to mastoid pneumatization.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The frontozygomatic suture is at the lateral orbital rim and has no relation to mastoid pneumatization.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "The frontozygomatic suture is at the lateral orbital rim and has no relation to mastoid pneumatization."
+            }
+          }
+        }
+      },
+      "memoryHook": "Korner hides in the petrosquamous corner of the mastoid.",
+      "examPearl": "If mistaken for the medial mastoid wall, residual infected air cells may be left behind.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Petrosquamous suture",
+        "auditedAnswer": "A. Petrosquamous suture",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 11,
+        "sourcePdfPage": 4,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q042",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "B"
+        ],
+        "summary": "Galen anastomosis is a neural connection between the internal laryngeal branch of the superior laryngeal nerve and the recurrent laryngeal nerve on the posterior laryngeal wall.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The external laryngeal nerve mainly supplies cricothyroid and is not one limb of the classic Galen anastomosis.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: The external laryngeal nerve mainly supplies cricothyroid and is not one limb of the classic Galen anastomosis."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The external laryngeal nerve mainly supplies cricothyroid and is not one limb of the classic Galen anastomosis.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The external laryngeal nerve mainly supplies cricothyroid and is not one limb of the classic Galen anastomosis.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "The external laryngeal nerve mainly supplies cricothyroid and is not one limb of the classic Galen anastomosis."
+            }
+          }
+        },
+        "B": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It links internal laryngeal sensory fibres with the recurrent laryngeal nerve distribution.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It links internal laryngeal sensory fibres with the recurrent laryngeal nerve distribution."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It links internal laryngeal sensory fibres with the recurrent laryngeal nerve distribution.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It links internal laryngeal sensory fibres with the recurrent laryngeal nerve distribution.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "It links internal laryngeal sensory fibres with the recurrent laryngeal nerve distribution."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "This omits the recurrent laryngeal nerve and substitutes the external laryngeal branch, so it is incorrect.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: This omits the recurrent laryngeal nerve and substitutes the external laryngeal branch, so it is incorrect."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: This omits the recurrent laryngeal nerve and substitutes the external laryngeal branch, so it is incorrect.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This omits the recurrent laryngeal nerve and substitutes the external laryngeal branch, so it is incorrect.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "This omits the recurrent laryngeal nerve and substitutes the external laryngeal branch, so it is incorrect."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "A named connection matching option B exists.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: A named connection matching option B exists."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right only when every other listed choice is excluded by the facts in the revised stem.",
+            "exampleQuestion": {
+              "stem": "If the rewritten stem explicitly rules out options A, B, and C, which original option is correct?",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "This option can be right only when every other listed choice is excluded by the facts in the revised stem."
+            }
+          }
+        }
+      },
+      "memoryHook": "Galen goes from internal superior laryngeal to recurrent laryngeal.",
+      "examPearl": "Another laryngeal connection, the human communicating nerve, may link external and recurrent laryngeal nerves.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "B. Recurrent laryngeal nerve and internal laryngeal nerve",
+        "auditedAnswer": "B. Recurrent laryngeal nerve and internal laryngeal nerve",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 42,
+        "sourcePdfPage": 9,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q047",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Plummer-Vinson syndrome combines iron deficiency anaemia, dysphagia, and an upper oesophageal web. It increases risk of squamous cell carcinoma of the postcricoid hypopharynx and upper oesophagus.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. Postcricoid carcinoma is the classic malignant association in women with this syndrome.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Postcricoid carcinoma is the classic malignant association in women with this syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Postcricoid carcinoma is the classic malignant association in women with this syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Postcricoid carcinoma is the classic malignant association in women with this syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Postcricoid carcinoma is the classic malignant association in women with this syndrome."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Posterior pharyngeal wall carcinoma can occur but is not the signature site.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Posterior pharyngeal wall carcinoma can occur but is not the signature site."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Posterior pharyngeal wall carcinoma can occur but is not the signature site.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Posterior pharyngeal wall carcinoma can occur but is not the signature site.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Posterior pharyngeal wall carcinoma can occur but is not the signature site."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "The lateral wall is not the classic answer linked to Plummer-Vinson syndrome.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: The lateral wall is not the classic answer linked to Plummer-Vinson syndrome."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The lateral wall is not the classic answer linked to Plummer-Vinson syndrome.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The lateral wall is not the classic answer linked to Plummer-Vinson syndrome.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "The lateral wall is not the classic answer linked to Plummer-Vinson syndrome."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pyriform sinus is a common hypopharyngeal cancer site generally, but the syndrome specifically points to postcricoid region.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Pyriform sinus is a common hypopharyngeal cancer site generally, but the syndrome specifically points to postcricoid region."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pyriform sinus is a common hypopharyngeal cancer site generally, but the syndrome specifically points to postcricoid region.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pyriform sinus is a common hypopharyngeal cancer site generally, but the syndrome specifically points to postcricoid region.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Pyriform sinus is a common hypopharyngeal cancer site generally, but the syndrome specifically points to postcricoid region."
+            }
+          }
+        }
+      },
+      "memoryHook": "P-V-P: Plummer-Vinson points to Postcricoid.",
+      "examPearl": "Correct iron deficiency and evaluate persistent dysphagia endoscopically because cancer risk does not disappear with haemoglobin correction alone.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Post cricoid region",
+        "auditedAnswer": "A. Post cricoid region",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 47,
+        "sourcePdfPage": 10,
+        "reportedRepeatYears": [
+          2014,
+          2016
+        ]
+      }
+    },
+    {
+      "questionId": "q050",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "The glossopharyngeal nerve supplies general sensation to the oropharynx and palatine tonsillar region. Tonsillitis can therefore cause severe throat pain and referred otalgia through shared ninth-nerve pathways.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. CN IX is closely related to the tonsillar bed and is vulnerable in tonsillectomy.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: CN IX is closely related to the tonsillar bed and is vulnerable in tonsillectomy."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: CN IX is closely related to the tonsillar bed and is vulnerable in tonsillectomy.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? CN IX is closely related to the tonsillar bed and is vulnerable in tonsillectomy.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "CN IX is closely related to the tonsillar bed and is vulnerable in tonsillectomy."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Facial nerve supplies muscles of facial expression and taste through chorda tympani, not primary tonsillar sensation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Facial nerve supplies muscles of facial expression and taste through chorda tympani, not primary tonsillar sensation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Facial nerve supplies muscles of facial expression and taste through chorda tympani, not primary tonsillar sensation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice supplies muscles of facial expression and taste through chorda tympani, not primary tonsillar sensation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Facial nerve supplies muscles of facial expression and taste through chorda tympani, not primary tonsillar sensation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Trigeminal branches supply oral and facial sensation but the palatine tonsil is mainly linked to glossopharyngeal afferents.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Trigeminal branches supply oral and facial sensation but the palatine tonsil is mainly linked to glossopharyngeal afferents."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Trigeminal branches supply oral and facial sensation but the palatine tonsil is mainly linked to glossopharyngeal afferents.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Trigeminal branches supply oral and facial sensation but the palatine tonsil is mainly linked to glossopharyngeal afferents.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Trigeminal branches supply oral and facial sensation but the palatine tonsil is mainly linked to glossopharyngeal afferents."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vagus supplies laryngeal and lower pharyngeal sensation but is not the principal nerve tested for palatine tonsil pain.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Vagus supplies laryngeal and lower pharyngeal sensation but is not the principal nerve tested for palatine tonsil pain."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vagus supplies laryngeal and lower pharyngeal sensation but is not the principal nerve tested for palatine tonsil pain.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Vagus supplies laryngeal and lower pharyngeal sensation but is not the principal nerve tested for palatine tonsil pain.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Vagus supplies laryngeal and lower pharyngeal sensation but is not the principal nerve tested for palatine tonsil pain."
+            }
+          }
+        }
+      },
+      "memoryHook": "Nine is near the tonsillar bed.",
+      "examPearl": "Post-tonsillectomy glossopharyngeal irritation can produce referred ear pain despite a normal ear examination.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Glossopharyngeal Nerve",
+        "auditedAnswer": "A. Glossopharyngeal Nerve",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 50,
+        "sourcePdfPage": 11,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q060",
+      "answer": {
+        "kind": "multiple_defensible",
+        "correctOptionIds": [
+          "B",
+          "D"
+        ],
+        "summary": "Passavant ridge is a transient posterior pharyngeal-wall ridge involved in velopharyngeal closure. Classic examination texts attribute it to upper horizontal fibres of the superior constrictor, while modern anatomical studies describe a transverse palatopharyngeus component. Options B and D are therefore both defensible.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Palatoglossus narrows the oropharyngeal isthmus between oral cavity and oropharynx, not the posterior nasopharyngeal ridge.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Palatoglossus narrows the oropharyngeal isthmus between oral cavity and oropharynx, not the posterior nasopharyngeal ridge."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Palatoglossus narrows the oropharyngeal isthmus between oral cavity and oropharynx, not the posterior nasopharyngeal ridge.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice narrows the oropharyngeal isthmus between oral cavity and oropharynx, not the posterior nasopharyngeal ridge.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Palatoglossus narrows the oropharyngeal isthmus between oral cavity and oropharynx, not the posterior nasopharyngeal ridge."
+            }
+          }
+        },
+        "B": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Classic examination descriptions attribute Passavant ridge to the upper horizontal fibres of the superior pharyngeal constrictor, making this a defensible traditional answer.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Classic examination descriptions attribute Passavant ridge to the upper horizontal fibres of the superior pharyngeal constrictor, making this a defensible traditional answer."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Classic examination descriptions attribute Passavant ridge to the upper horizontal fibres of the superior pharyngeal constrictor, making this a defensible traditional answer.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Classic examination descriptions attribute Passavant ridge to the upper horizontal fibres of the superior pharyngeal constrictor, making this a defensible traditional answer.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Classic examination descriptions attribute Passavant ridge to the upper horizontal fibres of the superior pharyngeal constrictor, making this a defensible traditional answer."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Salpingopharyngeus elevates the pharynx and helps open the auditory tube, but it is not the main tested structure.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Salpingopharyngeus elevates the pharynx and helps open the auditory tube, but it is not the main tested structure."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Salpingopharyngeus elevates the pharynx and helps open the auditory tube, but it is not the main tested structure.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice elevates the pharynx and helps open the auditory tube, but it is not the main tested structure.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Salpingopharyngeus elevates the pharynx and helps open the auditory tube, but it is not the main tested structure."
+            }
+          }
+        },
+        "D": {
+          "verdict": "defensible",
+          "displayLabel": "Defensible",
+          "explanation": "Modern anatomical descriptions identify a transverse palatopharyngeus component that forms or contributes to Passavant ridge during velopharyngeal closure, making this option defensible.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Modern anatomical descriptions identify a transverse palatopharyngeus component that forms or contributes to Passavant ridge during velopharyngeal closure, making this option defensible."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Modern anatomical descriptions identify a transverse palatopharyngeus component that forms or contributes to Passavant ridge during velopharyngeal closure, making this option defensible.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Modern anatomical descriptions identify a transverse palatopharyngeus component that forms or contributes to Passavant ridge during velopharyngeal closure, making this option defensible.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Modern anatomical descriptions identify a transverse palatopharyngeus component that forms or contributes to Passavant ridge during velopharyngeal closure, making this option defensible."
+            }
+          }
+        }
+      },
+      "memoryHook": "Passavant is the posterior wall pushing forward, classically superior constrictor.",
+      "examPearl": "The ridge contacts the elevated soft palate to separate nasopharynx from oropharynx during speech and swallowing.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "D. Palatopharyngeus",
+        "auditedAnswer": "B. Superior constrictor",
+        "sourceKeyChanged": true,
+        "note": "Modern and classic anatomical descriptions support different listed muscles; exclude from single-answer scoring.",
+        "sourceStatus": "key_corrected",
+        "issueFlags": [
+          "competing_anatomical_descriptions"
+        ]
+      },
+      "source": {
+        "bookQuestionNumber": 60,
+        "sourcePdfPage": 12,
+        "reportedRepeatYears": [
+          2012,
+          2013
+        ]
+      }
+    },
+    {
+      "questionId": "q065",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "A"
+        ],
+        "summary": "Cricothyroid tilts the thyroid cartilage forward on the cricoid, lengthening and tensing the vocal folds and raising pitch. It is supplied by the external branch of the superior laryngeal nerve.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct. It is the principal tensor of the vocal cords.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: It is the principal tensor of the vocal cords."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: It is the principal tensor of the vocal cords.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? It is the principal tensor of the vocal cords.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "It is the principal tensor of the vocal cords."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Lateral cricoarytenoid adducts the vocal folds by medially rotating arytenoids.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Lateral cricoarytenoid adducts the vocal folds by medially rotating arytenoids."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Lateral cricoarytenoid adducts the vocal folds by medially rotating arytenoids.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice adducts the vocal folds by medially rotating arytenoids.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Lateral cricoarytenoid adducts the vocal folds by medially rotating arytenoids."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Thyroarytenoid relaxes and shortens the vocal folds; vocalis fine-tunes tension.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Thyroarytenoid relaxes and shortens the vocal folds; vocalis fine-tunes tension."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Thyroarytenoid relaxes and shortens the vocal folds; vocalis fine-tunes tension.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Thyroarytenoid relaxes and shortens the vocal folds; vocalis fine-tunes tension.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Thyroarytenoid relaxes and shortens the vocal folds; vocalis fine-tunes tension."
+            }
+          }
+        },
+        "D": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Posterior cricoarytenoid is the only abductor of the vocal folds.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Posterior cricoarytenoid is the only abductor of the vocal folds."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Posterior cricoarytenoid is the only abductor of the vocal folds.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Posterior cricoarytenoid is the only abductor of the vocal folds.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Posterior cricoarytenoid is the only abductor of the vocal folds."
+            }
+          }
+        }
+      },
+      "memoryHook": "Cricothyroid creates a higher cry; posterior cricoarytenoid pulls the cords apart.",
+      "examPearl": "All intrinsic laryngeal muscles except cricothyroid are supplied by recurrent laryngeal nerve.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "A. Cricothyroid",
+        "auditedAnswer": "A. Cricothyroid",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 65,
+        "sourcePdfPage": 13,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    },
+    {
+      "questionId": "q115",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "Gradenigo syndrome follows petrous apicitis and classically combines persistent otorrhoea, deep retro-orbital pain from trigeminal involvement, and diplopia from abducens palsy. Vertigo is not part of the triad.",
+        "scoringEligible": true
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Diplopia is caused by sixth nerve palsy as the nerve passes near the petrous apex through Dorello canal.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Diplopia is caused by sixth nerve palsy as the nerve passes near the petrous apex through Dorello canal."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Diplopia is caused by sixth nerve palsy as the nerve passes near the petrous apex through Dorello canal.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is caused by sixth nerve palsy as the nerve passes near the petrous apex through Dorello canal.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Diplopia is caused by sixth nerve palsy as the nerve passes near the petrous apex through Dorello canal."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Retro-orbital or facial pain reflects trigeminal ganglion or V1/V2 irritation.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Retro-orbital or facial pain reflects trigeminal ganglion or V1/V2 irritation."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Retro-orbital or facial pain reflects trigeminal ganglion or V1/V2 irritation.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Retro-orbital or facial pain reflects trigeminal ganglion or V1/V2 irritation.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Retro-orbital or facial pain reflects trigeminal ganglion or V1/V2 irritation."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Persistent ear discharge reflects the underlying otitis media or mastoid-petrous infection.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Persistent ear discharge reflects the underlying otitis media or mastoid-petrous infection."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Persistent ear discharge reflects the underlying otitis media or mastoid-petrous infection.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice reflects the underlying otitis media or mastoid-petrous infection.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Persistent ear discharge reflects the underlying otitis media or mastoid-petrous infection."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Correct exception. Vertigo suggests vestibular labyrinth or eighth-nerve involvement, not the defining triad.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: Vertigo suggests vestibular labyrinth or eighth-nerve involvement, not the defining triad."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vertigo suggests vestibular labyrinth or eighth-nerve involvement, not the defining triad.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice suggests vestibular labyrinth or eighth-nerve involvement, not the defining triad.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "Vertigo suggests vestibular labyrinth or eighth-nerve involvement, not the defining triad."
+            }
+          }
+        }
+      },
+      "memoryHook": "Gradenigo: ear discharge, eye pain, eye cannot abduct.",
+      "examPearl": "Modern imaging and antibiotics have made the full syndrome uncommon, but it remains an important complication of otitis.",
+      "audit": {
+        "status": "confirmed",
+        "displayLabel": "Confirmed",
+        "sourceKey": "D. Vertigo",
+        "auditedAnswer": "D. Vertigo",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 115,
+        "sourcePdfPage": 22,
+        "reportedRepeatYears": [
+          2013,
+          2014
+        ]
+      }
+    },
+    {
+      "questionId": "q117",
+      "answer": {
+        "kind": "single",
+        "correctOptionIds": [
+          "D"
+        ],
+        "summary": "A tracheostomy can bypass an upper-airway obstruction when a foreign body cannot be rapidly removed by standard means. Severe tracheomalacia may also require a tracheostomy with airway stenting or positive pressure, so the stem lacks enough context for a completely unique answer.",
+        "scoringEligible": false,
+        "handling": "Keep as an unscored teaching item in practice modes and exclude from strict GT generation."
+      },
+      "optionFeedback": {
+        "A": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Vocal cord replacement is not an indication. Bilateral vocal cord paralysis causing obstruction can be an indication, but that is not what the option says.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Bilateral vocal cord paralysis causing obstruction can be an indication, but that is not what the option says."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Bilateral vocal cord paralysis causing obstruction can be an indication, but that is not what the option says.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Bilateral vocal cord paralysis causing obstruction can be an indication, but that is not what the option says.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "A",
+              "explanation": "Bilateral vocal cord paralysis causing obstruction can be an indication, but that is not what the option says."
+            }
+          }
+        },
+        "B": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Pharynx replacement is not a clinical indication.",
+          "trickMeter": {
+            "score": 2,
+            "max": 5,
+            "trapReason": "The option is tempting unless this distinction is remembered: Pharynx replacement is not a clinical indication."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pharynx replacement is not a clinical indication.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a clinical indication.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "B",
+              "explanation": "Pharynx replacement is not a clinical indication."
+            }
+          }
+        },
+        "C": {
+          "verdict": "wrong",
+          "displayLabel": "Wrong",
+          "explanation": "Tracheomalacia can be an indication in selected severe cases, especially when prolonged airway support is needed, making this a plausible distractor.",
+          "trickMeter": {
+            "score": 5,
+            "max": 5,
+            "trapReason": "High-risk distractor. The distinguishing fact is: Tracheomalacia can be an indication in selected severe cases, especially when prolonged airway support is needed, making this a plausible distractor."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tracheomalacia can be an indication in selected severe cases, especially when prolonged airway support is needed, making this a plausible distractor.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can be an indication in selected severe cases, especially when prolonged airway support is needed, making this a plausible distractor.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "C",
+              "explanation": "Tracheomalacia can be an indication in selected severe cases, especially when prolonged airway support is needed, making this a plausible distractor."
+            }
+          }
+        },
+        "D": {
+          "verdict": "correct",
+          "displayLabel": "Right",
+          "explanation": "Best acute-obstruction answer. First attempt appropriate foreign-body extraction and oxygenation; a surgical airway is used when obstruction cannot otherwise be relieved.",
+          "trickMeter": {
+            "score": 0,
+            "max": 5,
+            "trapReason": "This is an audited answer. The important qualifying detail is: First attempt appropriate foreign-body extraction and oxygenation; a surgical airway is used when obstruction cannot otherwise be relieved."
+          },
+          "whenThisCanBeRight": {
+            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: First attempt appropriate foreign-body extraction and oxygenation; a surgical airway is used when obstruction cannot otherwise be relieved.",
+            "exampleQuestion": {
+              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? First attempt appropriate foreign-body extraction and oxygenation; a surgical airway is used when obstruction cannot otherwise be relieved.",
+              "reuseOriginalOptions": true,
+              "correctOptionId": "D",
+              "explanation": "First attempt appropriate foreign-body extraction and oxygenation; a surgical airway is used when obstruction cannot otherwise be relieved."
+            }
+          }
+        }
+      },
+      "memoryHook": "Tracheostomy bypasses obstruction and supports prolonged ventilation.",
+      "examPearl": "In a cannot-intubate, cannot-oxygenate adult emergency, cricothyrotomy is generally faster than formal tracheostomy.",
+      "audit": {
+        "status": "ambiguous_defective",
+        "displayLabel": "Ambiguous / defective",
+        "sourceKey": "D. Foreign body obstructing airway",
+        "auditedAnswer": "D. Foreign body obstructing airway",
+        "sourceKeyChanged": false,
+        "note": "The supplied key agrees with the audited answer."
+      },
+      "source": {
+        "bookQuestionNumber": 117,
+        "sourcePdfPage": 23,
+        "reportedRepeatYears": [
+          2017,
+          2018
+        ]
+      }
+    }
+  ]
+}
