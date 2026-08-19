@@ -110,21 +110,14 @@ export default function HomeScreen({
   };
 
   return (
-    <AppShell
-      trailing={
-        <span className="header-data-note">
-          Bank <strong>v{bank.manifest.bank.contentVersion}</strong>
-        </span>
-      }
-    >
+    <AppShell>
       <main className="home-page">
         <section className="setup-column" aria-labelledby="setup-heading">
           <header className="page-heading">
             <p className="eyebrow">Quiz setup</p>
             <h1 id="setup-heading">Choose an attempt</h1>
             <p>
-              {bank.manifest.bank.questionCount} reviewed questions across {bank.taxonomy.subjects.length} subjects.
-              Progress stays on this device.
+              Choose a mode, set up the attempt, and begin when you are ready. Progress stays on this device.
             </p>
           </header>
 
@@ -260,7 +253,7 @@ export default function HomeScreen({
                   <label className="switch-row">
                     <span>
                       <strong>Image-based questions only</strong>
-                      <small>Limits the pool to the 19 questions with source images.</small>
+                      <small>Limits the pool to questions that include a source image.</small>
                     </span>
                     <input
                       type="checkbox"
@@ -287,22 +280,6 @@ export default function HomeScreen({
         </section>
 
         <aside className="record-column">
-          <section className="audit-sheet" aria-labelledby="audit-heading">
-            <div className="section-title-line">
-              <h2 id="audit-heading">Bank audit</h2>
-              <span>377 total</span>
-            </div>
-            <dl className="audit-list">
-              <div><dt>GT eligible</dt><dd>{bank.manifest.counts.scoringEligibleForNeetPg}</dd></div>
-              <div><dt>Teaching only</dt><dd>{bank.manifest.counts.unscoredTeachingItems}</dd></div>
-              <div><dt>Key corrected</dt><dd>{bank.manifest.counts.byAuditStatus.key_corrected}</dd></div>
-              <div><dt>Image based</dt><dd>{bank.manifest.bank.imageQuestionCount}</dd></div>
-            </dl>
-            <p>
-              Ambiguous, historical, and outdated items stay available for learning but are excluded from strict GT scoring.
-            </p>
-          </section>
-
           <section className="history-sheet" aria-labelledby="history-heading">
             <div className="section-title-line">
               <h2 id="history-heading">Recent attempts</h2>

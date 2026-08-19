@@ -2,7 +2,7 @@
   "bank": {
     "id": "neet-pg-repeated-377",
     "title": "NEET PG 377 Repeated Questions",
-    "contentVersion": "2026.08.19.2",
+    "contentVersion": "2026.08.19.3",
     "language": "en-IN",
     "questionCount": 377,
     "canonicalSubjectCount": 19,
@@ -391,98 +391,98 @@
     },
     {
       "path": "teaching/anaesthesiology.json",
-      "bytes": 40888,
-      "sha256": "2d05f778c0f286c6446f8ac5eb8579909cf86e425b0730676b3504c41d68a594"
+      "bytes": 115285,
+      "sha256": "33c2a64cfe3f85bb8d85f9474c806460fcd95531fce89d3bb0cece3939a20eb1"
     },
     {
       "path": "teaching/anatomy.json",
-      "bytes": 284586,
-      "sha256": "901a8ba94c69c4ef34c38d846cdcfb8408cdf5112d752d866de37cdcfc56f854"
+      "bytes": 780598,
+      "sha256": "cc54edc6acbc752557733229d676e1a17e77e88fc660fa4dc6ade0f7491de31e"
     },
     {
       "path": "teaching/biochemistry.json",
-      "bytes": 232378,
-      "sha256": "4ca6f763d65c2dfa010112589a8d0927fa75789cf673b6b4ae83f119f23f9046"
+      "bytes": 641859,
+      "sha256": "75340221a719171ec9ae14311841150ba7a156a4802ab9e97037ebaed57204b8"
     },
     {
       "path": "teaching/community_medicine.json",
-      "bytes": 180140,
-      "sha256": "e951c4a69f8c05355ddf647320fdd13e01b1aaec70f18b5e31257c7d4bd9ae5a"
+      "bytes": 498613,
+      "sha256": "f31b1c02cf0cb176a0b0ce5616e9827567437ac3cb374045eb69d81c320f8f30"
     },
     {
       "path": "teaching/dermatology.json",
-      "bytes": 62548,
-      "sha256": "f2314755f6816d9201cb438815b6084f3a29a5521806e504266c73fb79c0d094"
+      "bytes": 169734,
+      "sha256": "2d4605b760667f471b7f3ab8c37a6b50475c71e252e3f4fcfc5590a5ebf66243"
     },
     {
       "path": "teaching/ent.json",
-      "bytes": 50800,
-      "sha256": "ed36ccd4c30c5a91b7a525b93b17db1f3b3947af41cad7e39996043ec2893cc3"
+      "bytes": 138255,
+      "sha256": "2e553fb76bc9a0a35341a56d7afd12f254988705d2845d20b9189eebd069cb15"
     },
     {
       "path": "teaching/forensic_medicine.json",
-      "bytes": 98578,
-      "sha256": "85e70843357f4761e9d212d59dcb1cf97cec99402bb51d3dde1d0eeea3bde40e"
+      "bytes": 269348,
+      "sha256": "8c9dbb8795e64b61b9e70e30a7b33d91550d0c3f03fa9df55a478468bcc7f59d"
     },
     {
       "path": "teaching/medicine.json",
-      "bytes": 176220,
-      "sha256": "392fee5836663d01fea4436cbadf55112fe9582ca3d72fd6b7a7a2d064ae74b2"
+      "bytes": 487221,
+      "sha256": "816feb0a2ffc84976602edf3a17891d4b91837263c182d6c0dcf1f020ab727f6"
     },
     {
       "path": "teaching/microbiology.json",
-      "bytes": 233307,
-      "sha256": "07ea7faf569e295c9647c5005bb5ca0e35b75ebaf955d320659f3ed92970ae42"
+      "bytes": 639197,
+      "sha256": "4be7f6c78bcecf2136e677e8cf16acfa71e2847e6dc8038bc3fde5943e352492"
     },
     {
       "path": "teaching/obstetrics_gynaecology.json",
-      "bytes": 131219,
-      "sha256": "dbac9c716008b75c8417458ab5acf6d60a147706720dd928c84fbe9c079732c6"
+      "bytes": 362987,
+      "sha256": "560c831aca3865c71a1338af4f103196c27415e095c7e41fba93efbd59f23de1"
     },
     {
       "path": "teaching/ophthalmology.json",
-      "bytes": 147667,
-      "sha256": "20340ecf5db44373cf5204707d1fb5ae643a364bd43aa946b6a27308bf60d694"
+      "bytes": 405939,
+      "sha256": "2db7edf85b00e70821fe2b3e16ae5f1ccd1e1c97b824d2b6dd736c33258ade7e"
     },
     {
       "path": "teaching/orthopaedics.json",
-      "bytes": 51302,
-      "sha256": "eb093bef054391dd86a69a9764dd33f46a9229ddc3afb7444ceaa09f742ea958"
+      "bytes": 140464,
+      "sha256": "2aef488d75394e2b62e0b54bf6f66a47c7de15865e8cdf2514d83b2942cd41cf"
     },
     {
       "path": "teaching/paediatrics.json",
-      "bytes": 107178,
-      "sha256": "6ba3a62818c3a3577072631d08127ace8ebfd1cb58a0b9ff3220cb2dad5d36cc"
+      "bytes": 299523,
+      "sha256": "4e5a3f663273361af20514e910badcc3486fa64c24974fd1a444a1c475dadc24"
     },
     {
       "path": "teaching/pathology.json",
-      "bytes": 97917,
-      "sha256": "e26124b582ebe918fad23bb5e6f39a0043a8ea31bcc4fe59a4f68318f6d860c2"
+      "bytes": 268231,
+      "sha256": "2c336f2ec43fa78961fd93f83daf2745be60b3482166367e32016f47571fdd59"
     },
     {
       "path": "teaching/pharmacology.json",
-      "bytes": 88905,
-      "sha256": "743bfc87e2ee235ce3f58860a4e5ae050cbcd6f729323d38dabe95d6fb8242b4"
+      "bytes": 244845,
+      "sha256": "7cd55865f9d719baf3b24fad99ecdd2adb9ad22b4d4514e349e0cfae30db87a9"
     },
     {
       "path": "teaching/physiology.json",
-      "bytes": 82132,
-      "sha256": "c6d4b9496073b1faaf9c7bc564be88cecc1332985c8266a1fd9549ff2c338b5b"
+      "bytes": 227502,
+      "sha256": "0e0916edd47217b582ff3e55bd0c97987bdc6fedaf0d4174c77e524442a6be72"
     },
     {
       "path": "teaching/psychiatry.json",
-      "bytes": 48505,
-      "sha256": "6936f1241941993c8de2cd56c856962f9e7bc5a3f65288132378022d18fb22c8"
+      "bytes": 134218,
+      "sha256": "9ca60744e48fe157b21426269f955ce4d738ebd47979f0b90788f8dbfaafbddd"
     },
     {
       "path": "teaching/radiodiagnosis.json",
-      "bytes": 92470,
-      "sha256": "e6884176316ea0c7f4a487640a1de3386abc4a4ffb832d56efe123f93f6ad470"
+      "bytes": 254212,
+      "sha256": "3573cb354bf80949970c76276f5ddc314fda64bfb246ba8bc88cbb6bf96a1846"
     },
     {
       "path": "teaching/surgery.json",
-      "bytes": 96141,
-      "sha256": "820a475d7ab9cbf851db4c5aff7725ecf767e540a8a9654b4eef6634b83c291b"
+      "bytes": 266195,
+      "sha256": "6861a6f0491f7e1b4f097179f5a534545dc929cb4c011244b0d2ab94f5fc5520"
     }
   ]
 }

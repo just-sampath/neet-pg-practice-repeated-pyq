@@ -21,13 +21,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. The revised wording must explicitly test that statement, making “Very ill patients” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
+              "stem": "A Psychiatry single-best-answer question on Electroconvulsive therapy contraindications is rewritten as follows: Which of the original options is best described by this statement? Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used."
-            }
+              "explanation": "Option A (Very ill patients) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. This differs from the original item, where B. Raised ICT is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Raised ICT; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "ECT transiently raises cerebral blood flow, intracranial pressure, blood pressure, and heart rate. Raised intracranial pressure from a mass lesion is the strongest listed contraindication or high-risk condition and requires specialist risk assessment. Memory anchor: ECT stresses brain pressure and the cardiovascular system; a mass with raised pressure is the red flag. Exam extension: Modern sources often say ECT has few absolute contraindications, so phrase the answer as 'strongest listed high-risk condition.'.",
+            "optionReasoning": "Option A is “Very ill patients.” Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Raised ICT. Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Severe physical illness increases anaesthetic risk but does not automatically prohibit ECT; optimization and multidisciplinary planning are used. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -40,13 +47,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. The revised wording must explicitly test that statement, making “Raised ICT” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
+              "stem": "A Psychiatry single-best-answer question on Electroconvulsive therapy contraindications is rewritten as follows: Which of the original options is best described by this statement? Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication."
-            }
+              "explanation": "Option B (Raised ICT) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "ECT transiently raises cerebral blood flow, intracranial pressure, blood pressure, and heart rate. Raised intracranial pressure from a mass lesion is the strongest listed contraindication or high-risk condition and requires specialist risk assessment. Memory anchor: ECT stresses brain pressure and the cardiovascular system; a mass with raised pressure is the red flag. Exam extension: Modern sources often say ECT has few absolute contraindications, so phrase the answer as 'strongest listed high-risk condition.'.",
+            "optionReasoning": "Option B is “Raised ICT.” Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Raised ICT is the best answer. Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Elevated intracranial pressure with mass effect is an absolute contraindication to ECT because the treatment transiently raises intracranial pressure; elevation without mass effect is a relative contraindication. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -59,13 +73,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. The revised wording must explicitly test that statement, making “Heart disease” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a relative risk requiring assessment and control, not a blanket contraindication.",
+              "stem": "A Psychiatry single-best-answer question on Electroconvulsive therapy contraindications is rewritten as follows: Which of the original options is best described by this statement? Heart disease is a relative risk requiring assessment and control, not a blanket contraindication.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Heart disease is a relative risk requiring assessment and control, not a blanket contraindication."
-            }
+              "explanation": "Option C (Heart disease) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. This differs from the original item, where B. Raised ICT is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Raised ICT; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "ECT transiently raises cerebral blood flow, intracranial pressure, blood pressure, and heart rate. Raised intracranial pressure from a mass lesion is the strongest listed contraindication or high-risk condition and requires specialist risk assessment. Memory anchor: ECT stresses brain pressure and the cardiovascular system; a mass with raised pressure is the red flag. Exam extension: Modern sources often say ECT has few absolute contraindications, so phrase the answer as 'strongest listed high-risk condition.'.",
+            "optionReasoning": "Option C is “Heart disease.” Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Raised ICT. Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Heart disease is a relative risk requiring assessment and control, not a blanket contraindication. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -78,13 +99,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. The revised wording must explicitly test that statement, making “Pregnancy” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
+              "stem": "A Psychiatry single-best-answer question on Electroconvulsive therapy contraindications is rewritten as follows: Which of the original options is best described by this statement? Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions."
-            }
+              "explanation": "Option D (Pregnancy) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. This differs from the original item, where B. Raised ICT is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Raised ICT; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "ECT transiently raises cerebral blood flow, intracranial pressure, blood pressure, and heart rate. Raised intracranial pressure from a mass lesion is the strongest listed contraindication or high-risk condition and requires specialist risk assessment. Memory anchor: ECT stresses brain pressure and the cardiovascular system; a mass with raised pressure is the red flag. Exam extension: Modern sources often say ECT has few absolute contraindications, so phrase the answer as 'strongest listed high-risk condition.'.",
+            "optionReasoning": "Option D is “Pregnancy.” Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Raised ICT. Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Pregnancy is not a contraindication; ECT can be effective for severe mood or psychotic illness with obstetric precautions. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -128,13 +156,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Failure to form new declarative memories is prominent."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Failure to form new declarative memories is prominent.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Failure to form new declarative memories is prominent. The revised wording must explicitly test that statement, making “Antegrade amnesia” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Failure to form new declarative memories is prominent.",
+              "stem": "A Psychiatry single-best-answer question on Korsakoff syndrome is rewritten as follows: Which of the original options is best described by this statement? Failure to form new declarative memories is prominent.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Failure to form new declarative memories is prominent."
-            }
+              "explanation": "Option A (Antegrade amnesia) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Failure to form new declarative memories is prominent. This differs from the original item, where C. Ataxia is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Failure to form new declarative memories is prominent. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Ataxia; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Korsakoff syndrome is a chronic amnestic disorder from thiamine deficiency, with severe anterograde amnesia, variable retrograde amnesia, and confabulation. Ataxia belongs to acute Wernicke encephalopathy rather than the core Korsakoff syndrome. Memory anchor: Wernicke walks badly and moves eyes badly; Korsakoff cannot keep new memories and confabulates. Exam extension: Treat suspected Wernicke immediately with parenteral thiamine before or alongside carbohydrate.",
+            "optionReasoning": "Option A is “Antegrade amnesia.” True. Failure to form new declarative memories is prominent. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Ataxia. Failure to form new declarative memories is prominent. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Failure to form new declarative memories is prominent. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -147,13 +182,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Past-memory loss can extend backward variably."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Past-memory loss can extend backward variably.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Past-memory loss can extend backward variably. The revised wording must explicitly test that statement, making “Retrograde amnesia” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Past-memory loss can extend backward variably.",
+              "stem": "A Psychiatry single-best-answer question on Korsakoff syndrome is rewritten as follows: Which of the original options is best described by this statement? Past-memory loss can extend backward variably.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Past-memory loss can extend backward variably."
-            }
+              "explanation": "Option B (Retrograde amnesia) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Past-memory loss can extend backward variably. This differs from the original item, where C. Ataxia is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Past-memory loss can extend backward variably. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Ataxia; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Korsakoff syndrome is a chronic amnestic disorder from thiamine deficiency, with severe anterograde amnesia, variable retrograde amnesia, and confabulation. Ataxia belongs to acute Wernicke encephalopathy rather than the core Korsakoff syndrome. Memory anchor: Wernicke walks badly and moves eyes badly; Korsakoff cannot keep new memories and confabulates. Exam extension: Treat suspected Wernicke immediately with parenteral thiamine before or alongside carbohydrate.",
+            "optionReasoning": "Option B is “Retrograde amnesia.” True. Past-memory loss can extend backward variably. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Ataxia. Past-memory loss can extend backward variably. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Past-memory loss can extend backward variably. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -166,13 +208,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. The revised wording must explicitly test that statement, making “Ataxia” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
+              "stem": "A Psychiatry single-best-answer question on Korsakoff syndrome is rewritten as follows: Which of the original options is best described by this statement? Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities."
-            }
+              "explanation": "Option C (Ataxia) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Korsakoff syndrome is a chronic amnestic disorder from thiamine deficiency, with severe anterograde amnesia, variable retrograde amnesia, and confabulation. Ataxia belongs to acute Wernicke encephalopathy rather than the core Korsakoff syndrome. Memory anchor: Wernicke walks badly and moves eyes badly; Korsakoff cannot keep new memories and confabulates. Exam extension: Treat suspected Wernicke immediately with parenteral thiamine before or alongside carbohydrate.",
+            "optionReasoning": "Option C is “Ataxia.” Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, C. Ataxia is the best answer. Correct exception. Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Gait ataxia is one part of the Wernicke triad with confusion and ocular abnormalities. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -185,13 +234,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Confabulation fills memory gaps without deliberate deception."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Confabulation fills memory gaps without deliberate deception.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Confabulation fills memory gaps without deliberate deception. The revised wording must explicitly test that statement, making “Confabulation” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice fills memory gaps without deliberate deception.",
+              "stem": "A Psychiatry single-best-answer question on Korsakoff syndrome is rewritten as follows: Which of the original options is best described by this statement? Confabulation fills memory gaps without deliberate deception.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Confabulation fills memory gaps without deliberate deception."
-            }
+              "explanation": "Option D (Confabulation) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Confabulation fills memory gaps without deliberate deception. This differs from the original item, where C. Ataxia is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Confabulation fills memory gaps without deliberate deception. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Ataxia; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Korsakoff syndrome is a chronic amnestic disorder from thiamine deficiency, with severe anterograde amnesia, variable retrograde amnesia, and confabulation. Ataxia belongs to acute Wernicke encephalopathy rather than the core Korsakoff syndrome. Memory anchor: Wernicke walks badly and moves eyes badly; Korsakoff cannot keep new memories and confabulates. Exam extension: Treat suspected Wernicke immediately with parenteral thiamine before or alongside carbohydrate.",
+            "optionReasoning": "Option D is “Confabulation.” True. Confabulation fills memory gaps without deliberate deception. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Ataxia. Confabulation fills memory gaps without deliberate deception. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Confabulation fills memory gaps without deliberate deception. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -235,13 +291,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Mild cases constitute the majority."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mild cases constitute the majority.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Mild cases constitute the majority. The revised wording must explicitly test that statement, making “Mild” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice cases constitute the majority.",
+              "stem": "A Psychiatry single-best-answer question on Intellectual disability severity is rewritten as follows: Which of the original options is best described by this statement? Mild cases constitute the majority.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Mild cases constitute the majority."
-            }
+              "explanation": "Option A (Mild) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Mild cases constitute the majority. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Mild cases constitute the majority. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Mild intellectual disability is the most common severity category. Many affected people develop practical academic and social skills with support and may not be identified until school demands increase. Memory anchor: Most intellectual disability is mild. Exam extension: Use the term intellectual disability, not 'mental retardation.' Modern severity is based on adaptive functioning, not IQ alone.",
+            "optionReasoning": "Option A is “Mild.” Correct. Mild cases constitute the majority. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Mild is the best answer. Mild cases constitute the majority. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Mild cases constitute the majority. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -254,13 +317,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Moderate disability is less common and requires more substantial ongoing support."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Moderate disability is less common and requires more substantial ongoing support.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Moderate disability is less common and requires more substantial ongoing support. The revised wording must explicitly test that statement, making “Moderate” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is less common and requires more substantial ongoing support.",
+              "stem": "A Psychiatry single-best-answer question on Intellectual disability severity is rewritten as follows: Which of the original options is best described by this statement? Moderate disability is less common and requires more substantial ongoing support.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Moderate disability is less common and requires more substantial ongoing support."
-            }
+              "explanation": "Option B (Moderate) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Moderate disability is less common and requires more substantial ongoing support. This differs from the original item, where A. Mild is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Moderate disability is less common and requires more substantial ongoing support. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Mild; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Mild intellectual disability is the most common severity category. Many affected people develop practical academic and social skills with support and may not be identified until school demands increase. Memory anchor: Most intellectual disability is mild. Exam extension: Use the term intellectual disability, not 'mental retardation.' Modern severity is based on adaptive functioning, not IQ alone.",
+            "optionReasoning": "Option B is “Moderate.” Moderate disability is less common and requires more substantial ongoing support. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Mild. Moderate disability is less common and requires more substantial ongoing support. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Moderate disability is less common and requires more substantial ongoing support. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -273,13 +343,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Severe disability is much less common."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Severe disability is much less common.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Severe disability is much less common. The revised wording must explicitly test that statement, making “Severe” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is much less common.",
+              "stem": "A Psychiatry single-best-answer question on Intellectual disability severity is rewritten as follows: Which of the original options is best described by this statement? Severe disability is much less common.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Severe disability is much less common."
-            }
+              "explanation": "Option C (Severe) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Severe disability is much less common. This differs from the original item, where A. Mild is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Severe disability is much less common. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Mild; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Mild intellectual disability is the most common severity category. Many affected people develop practical academic and social skills with support and may not be identified until school demands increase. Memory anchor: Most intellectual disability is mild. Exam extension: Use the term intellectual disability, not 'mental retardation.' Modern severity is based on adaptive functioning, not IQ alone.",
+            "optionReasoning": "Option C is “Severe.” Severe disability is much less common. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Mild. Severe disability is much less common. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Severe disability is much less common. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -292,13 +369,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Profound disability is the least common and involves pervasive support needs."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Profound disability is the least common and involves pervasive support needs.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Profound disability is the least common and involves pervasive support needs. The revised wording must explicitly test that statement, making “Profound” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice disability is the least common and involves pervasive support needs.",
+              "stem": "A Psychiatry single-best-answer question on Intellectual disability severity is rewritten as follows: Which of the original options is best described by this statement? Profound disability is the least common and involves pervasive support needs.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Profound disability is the least common and involves pervasive support needs."
-            }
+              "explanation": "Option D (Profound) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Profound disability is the least common and involves pervasive support needs. This differs from the original item, where A. Mild is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Profound disability is the least common and involves pervasive support needs. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Mild; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Mild intellectual disability is the most common severity category. Many affected people develop practical academic and social skills with support and may not be identified until school demands increase. Memory anchor: Most intellectual disability is mild. Exam extension: Use the term intellectual disability, not 'mental retardation.' Modern severity is based on adaptive functioning, not IQ alone.",
+            "optionReasoning": "Option D is “Profound.” Profound disability is the least common and involves pervasive support needs. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Mild. Profound disability is the least common and involves pervasive support needs. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Profound disability is the least common and involves pervasive support needs. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -342,13 +426,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. The revised wording must explicitly test that statement, making “Symptomatology” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
+              "stem": "A Psychiatry single-best-answer question on Anorexia nervosa versus bulimia nervosa is rewritten as follows: Which of the original options is best described by this statement? Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both."
-            }
+              "explanation": "Option A (Symptomatology) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. This differs from the original item, where B. Weight is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Weight; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The main practical distinction is body weight: anorexia nervosa requires significantly low body weight, whereas bulimia nervosa usually occurs at normal or above-normal weight despite recurrent binge eating and compensatory behaviour. Memory anchor: If weight is significantly low, think anorexia binge-purge subtype rather than bulimia. Exam extension: Assess electrolytes, ECG, suicidality, dehydration, and medical instability regardless of label.",
+            "optionReasoning": "Option A is “Symptomatology.” Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Weight. Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Symptoms overlap substantially because bingeing, purging, body-image disturbance, and overvaluation of weight can occur in both. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -361,13 +452,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. The revised wording must explicitly test that statement, making “Weight” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
+              "stem": "A Psychiatry single-best-answer question on Anorexia nervosa versus bulimia nervosa is rewritten as follows: Which of the original options is best described by this statement? Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia."
-            }
+              "explanation": "Option B (Weight) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The main practical distinction is body weight: anorexia nervosa requires significantly low body weight, whereas bulimia nervosa usually occurs at normal or above-normal weight despite recurrent binge eating and compensatory behaviour. Memory anchor: If weight is significantly low, think anorexia binge-purge subtype rather than bulimia. Exam extension: Assess electrolytes, ECG, suicidality, dehydration, and medical instability regardless of label.",
+            "optionReasoning": "Option B is “Weight.” Correct. Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Weight is the best answer. Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Low weight determines anorexia nervosa; recurrent binge-purge at non-low weight supports bulimia. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -380,13 +478,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Both occur predominantly in females but can affect any gender."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both occur predominantly in females but can affect any gender.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Both occur predominantly in females but can affect any gender. The revised wording must explicitly test that statement, making “Gender” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both occur predominantly in females but can affect any gender.",
+              "stem": "A Psychiatry single-best-answer question on Anorexia nervosa versus bulimia nervosa is rewritten as follows: Which of the original options is best described by this statement? Both occur predominantly in females but can affect any gender.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Both occur predominantly in females but can affect any gender."
-            }
+              "explanation": "Option C (Gender) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Both occur predominantly in females but can affect any gender. This differs from the original item, where B. Weight is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Both occur predominantly in females but can affect any gender. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Weight; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The main practical distinction is body weight: anorexia nervosa requires significantly low body weight, whereas bulimia nervosa usually occurs at normal or above-normal weight despite recurrent binge eating and compensatory behaviour. Memory anchor: If weight is significantly low, think anorexia binge-purge subtype rather than bulimia. Exam extension: Assess electrolytes, ECG, suicidality, dehydration, and medical instability regardless of label.",
+            "optionReasoning": "Option C is “Gender.” Both occur predominantly in females but can affect any gender. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Weight. Both occur predominantly in females but can affect any gender. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Both occur predominantly in females but can affect any gender. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -399,13 +504,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Both commonly begin in adolescence or young adulthood, so age is not the key separator."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Both commonly begin in adolescence or young adulthood, so age is not the key separator. The revised wording must explicitly test that statement, making “Age” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
+              "stem": "A Psychiatry single-best-answer question on Anorexia nervosa versus bulimia nervosa is rewritten as follows: Which of the original options is best described by this statement? Both commonly begin in adolescence or young adulthood, so age is not the key separator.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Both commonly begin in adolescence or young adulthood, so age is not the key separator."
-            }
+              "explanation": "Option D (Age) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Both commonly begin in adolescence or young adulthood, so age is not the key separator. This differs from the original item, where B. Weight is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Both commonly begin in adolescence or young adulthood, so age is not the key separator. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Weight; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The main practical distinction is body weight: anorexia nervosa requires significantly low body weight, whereas bulimia nervosa usually occurs at normal or above-normal weight despite recurrent binge eating and compensatory behaviour. Memory anchor: If weight is significantly low, think anorexia binge-purge subtype rather than bulimia. Exam extension: Assess electrolytes, ECG, suicidality, dehydration, and medical instability regardless of label.",
+            "optionReasoning": "Option D is “Age.” Both commonly begin in adolescence or young adulthood, so age is not the key separator. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Weight. Both commonly begin in adolescence or young adulthood, so age is not the key separator. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Both commonly begin in adolescence or young adulthood, so age is not the key separator. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -449,13 +561,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Amiloride can reduce lithium entry through ENaC in selected patients."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Amiloride can reduce lithium entry through ENaC in selected patients.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients. The revised wording must explicitly test that statement, making “Nephrogenic diabetes insipidus” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Amiloride can reduce lithium entry through ENaC in selected patients.",
+              "stem": "A Psychiatry single-best-answer question on Lithium nephrotoxicity is rewritten as follows: Which of the original options is best described by this statement? Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Amiloride can reduce lithium entry through ENaC in selected patients."
-            }
+              "explanation": "Option A (Nephrogenic diabetes insipidus) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The common renal consequence of chronic lithium exposure is nephrogenic diabetes insipidus from collecting-duct resistance to ADH, causing polyuria and polydipsia. The option prints 'DM' but clearly intends DI. Memory anchor: Lithium makes the kidney ignore ADH: lots of dilute urine. Exam extension: Monitor lithium level, renal and thyroid function, calcium, fluid status, and interacting drugs such as NSAIDs, ACE inhibitors, ARBs, and thiazides.",
+            "optionReasoning": "Option A is “Nephrogenic diabetes insipidus.” Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Nephrogenic diabetes insipidus is the best answer. Correct after correcting the typo to nephrogenic DI. Amiloride can reduce lithium entry through ENaC in selected patients. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Amiloride can reduce lithium entry through ENaC in selected patients. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -468,13 +587,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Renal tubular acidosis can occur rarely but is not the most common sequel."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Renal tubular acidosis can occur rarely but is not the most common sequel.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Renal tubular acidosis can occur rarely but is not the most common sequel. The revised wording must explicitly test that statement, making “Renal tubular acidosis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice can occur rarely but is not the most common sequel.",
+              "stem": "A Psychiatry single-best-answer question on Lithium nephrotoxicity is rewritten as follows: Which of the original options is best described by this statement? Renal tubular acidosis can occur rarely but is not the most common sequel.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Renal tubular acidosis can occur rarely but is not the most common sequel."
-            }
+              "explanation": "Option B (Renal tubular acidosis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Renal tubular acidosis can occur rarely but is not the most common sequel. This differs from the original item, where A. Nephrogenic diabetes insipidus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Renal tubular acidosis can occur rarely but is not the most common sequel. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Nephrogenic diabetes insipidus; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The common renal consequence of chronic lithium exposure is nephrogenic diabetes insipidus from collecting-duct resistance to ADH, causing polyuria and polydipsia. The option prints 'DM' but clearly intends DI. Memory anchor: Lithium makes the kidney ignore ADH: lots of dilute urine. Exam extension: Monitor lithium level, renal and thyroid function, calcium, fluid status, and interacting drugs such as NSAIDs, ACE inhibitors, ARBs, and thiazides.",
+            "optionReasoning": "Option B is “Renal tubular acidosis.” Renal tubular acidosis can occur rarely but is not the most common sequel. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Nephrogenic diabetes insipidus. Renal tubular acidosis can occur rarely but is not the most common sequel. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Renal tubular acidosis can occur rarely but is not the most common sequel. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -487,13 +613,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Glycosuria is not the characteristic chronic effect."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Glycosuria is not the characteristic chronic effect.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Glycosuria is not the characteristic chronic effect. The revised wording must explicitly test that statement, making “Glycosuria” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is not the characteristic chronic effect.",
+              "stem": "A Psychiatry single-best-answer question on Lithium nephrotoxicity is rewritten as follows: Which of the original options is best described by this statement? Glycosuria is not the characteristic chronic effect.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Glycosuria is not the characteristic chronic effect."
-            }
+              "explanation": "Option C (Glycosuria) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Glycosuria is not the characteristic chronic effect. This differs from the original item, where A. Nephrogenic diabetes insipidus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Glycosuria is not the characteristic chronic effect. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Nephrogenic diabetes insipidus; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The common renal consequence of chronic lithium exposure is nephrogenic diabetes insipidus from collecting-duct resistance to ADH, causing polyuria and polydipsia. The option prints 'DM' but clearly intends DI. Memory anchor: Lithium makes the kidney ignore ADH: lots of dilute urine. Exam extension: Monitor lithium level, renal and thyroid function, calcium, fluid status, and interacting drugs such as NSAIDs, ACE inhibitors, ARBs, and thiazides.",
+            "optionReasoning": "Option C is “Glycosuria.” Glycosuria is not the characteristic chronic effect. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Nephrogenic diabetes insipidus. Glycosuria is not the characteristic chronic effect. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Glycosuria is not the characteristic chronic effect. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -506,13 +639,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: MPGN is an immune-complex glomerular disease and not the standard lithium lesion."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: MPGN is an immune-complex glomerular disease and not the standard lithium lesion.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: MPGN is an immune-complex glomerular disease and not the standard lithium lesion. The revised wording must explicitly test that statement, making “MPGN” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an immune-complex glomerular disease and not the standard lithium lesion.",
+              "stem": "A Psychiatry single-best-answer question on Lithium nephrotoxicity is rewritten as follows: Which of the original options is best described by this statement? MPGN is an immune-complex glomerular disease and not the standard lithium lesion.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "MPGN is an immune-complex glomerular disease and not the standard lithium lesion."
-            }
+              "explanation": "Option D (MPGN) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: MPGN is an immune-complex glomerular disease and not the standard lithium lesion. This differs from the original item, where A. Nephrogenic diabetes insipidus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: MPGN is an immune-complex glomerular disease and not the standard lithium lesion. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Nephrogenic diabetes insipidus; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The common renal consequence of chronic lithium exposure is nephrogenic diabetes insipidus from collecting-duct resistance to ADH, causing polyuria and polydipsia. The option prints 'DM' but clearly intends DI. Memory anchor: Lithium makes the kidney ignore ADH: lots of dilute urine. Exam extension: Monitor lithium level, renal and thyroid function, calcium, fluid status, and interacting drugs such as NSAIDs, ACE inhibitors, ARBs, and thiazides.",
+            "optionReasoning": "Option D is “MPGN.” MPGN is an immune-complex glomerular disease and not the standard lithium lesion. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Nephrogenic diabetes insipidus. MPGN is an immune-complex glomerular disease and not the standard lithium lesion. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: MPGN is an immune-complex glomerular disease and not the standard lithium lesion. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -556,13 +696,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Blunted affect is a negative symptom and is associated with poorer functional prognosis."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blunted affect is a negative symptom and is associated with poorer functional prognosis.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Blunted affect is a negative symptom and is associated with poorer functional prognosis. The revised wording must explicitly test that statement, making “Blunted affect” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is a negative symptom and is associated with poorer functional prognosis.",
+              "stem": "A Psychiatry single-best-answer question on Schizophrenia prognosis is rewritten as follows: Which of the original options is best described by this statement? Blunted affect is a negative symptom and is associated with poorer functional prognosis.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Blunted affect is a negative symptom and is associated with poorer functional prognosis."
-            }
+              "explanation": "Option A (Blunted affect) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Blunted affect is a negative symptom and is associated with poorer functional prognosis. This differs from the original item, where C. Presence of depression is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Blunted affect is a negative symptom and is associated with poorer functional prognosis. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Presence of depression; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Prominent depressive or affective symptoms are a relatively good prognostic feature in schizophrenia, especially when onset is acute and linked to stress with good premorbid function. Negative symptoms, insidious early onset, and male sex generally predict poorer outcome. Memory anchor: Good schizophrenia prognosis: acute, late, female, married, good premorbid, mood symptoms, positive symptoms. Exam extension: Prognosis varies widely and improves with early treatment, adherence, substance-use care, family support, and rehabilitation.",
+            "optionReasoning": "Option A is “Blunted affect.” Blunted affect is a negative symptom and is associated with poorer functional prognosis. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Presence of depression. Blunted affect is a negative symptom and is associated with poorer functional prognosis. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Blunted affect is a negative symptom and is associated with poorer functional prognosis. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -575,13 +722,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Early onset is usually linked to more chronic illness and worse outcome."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Early onset is usually linked to more chronic illness and worse outcome.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Early onset is usually linked to more chronic illness and worse outcome. The revised wording must explicitly test that statement, making “Early onset” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is usually linked to more chronic illness and worse outcome.",
+              "stem": "A Psychiatry single-best-answer question on Schizophrenia prognosis is rewritten as follows: Which of the original options is best described by this statement? Early onset is usually linked to more chronic illness and worse outcome.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Early onset is usually linked to more chronic illness and worse outcome."
-            }
+              "explanation": "Option B (Early onset) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Early onset is usually linked to more chronic illness and worse outcome. This differs from the original item, where C. Presence of depression is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Early onset is usually linked to more chronic illness and worse outcome. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Presence of depression; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Prominent depressive or affective symptoms are a relatively good prognostic feature in schizophrenia, especially when onset is acute and linked to stress with good premorbid function. Negative symptoms, insidious early onset, and male sex generally predict poorer outcome. Memory anchor: Good schizophrenia prognosis: acute, late, female, married, good premorbid, mood symptoms, positive symptoms. Exam extension: Prognosis varies widely and improves with early treatment, adherence, substance-use care, family support, and rehabilitation.",
+            "optionReasoning": "Option B is “Early onset.” Early onset is usually linked to more chronic illness and worse outcome. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Presence of depression. Early onset is usually linked to more chronic illness and worse outcome. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Early onset is usually linked to more chronic illness and worse outcome. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -594,13 +748,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. The revised wording must explicitly test that statement, making “Presence of depression” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
+              "stem": "A Psychiatry single-best-answer question on Schizophrenia prognosis is rewritten as follows: Which of the original options is best described by this statement? Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching."
-            }
+              "explanation": "Option C (Presence of depression) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Prominent depressive or affective symptoms are a relatively good prognostic feature in schizophrenia, especially when onset is acute and linked to stress with good premorbid function. Negative symptoms, insidious early onset, and male sex generally predict poorer outcome. Memory anchor: Good schizophrenia prognosis: acute, late, female, married, good premorbid, mood symptoms, positive symptoms. Exam extension: Prognosis varies widely and improves with early treatment, adherence, substance-use care, family support, and rehabilitation.",
+            "optionReasoning": "Option C is “Presence of depression.” Correct. Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, C. Presence of depression is the best answer. Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Affective symptoms suggest preserved emotional responsiveness and a more favourable course in classic teaching. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -613,13 +774,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. The revised wording must explicitly test that statement, making “Male sex” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
+              "stem": "A Psychiatry single-best-answer question on Schizophrenia prognosis is rewritten as follows: Which of the original options is best described by this statement? Female sex, not male sex, is generally associated with later onset and somewhat better prognosis.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Female sex, not male sex, is generally associated with later onset and somewhat better prognosis."
-            }
+              "explanation": "Option D (Male sex) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. This differs from the original item, where C. Presence of depression is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Presence of depression; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Prominent depressive or affective symptoms are a relatively good prognostic feature in schizophrenia, especially when onset is acute and linked to stress with good premorbid function. Negative symptoms, insidious early onset, and male sex generally predict poorer outcome. Memory anchor: Good schizophrenia prognosis: acute, late, female, married, good premorbid, mood symptoms, positive symptoms. Exam extension: Prognosis varies widely and improves with early treatment, adherence, substance-use care, family support, and rehabilitation.",
+            "optionReasoning": "Option D is “Male sex.” Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Presence of depression. Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Female sex, not male sex, is generally associated with later onset and somewhat better prognosis. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -663,13 +831,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. The revised wording must explicitly test that statement, making “Postpartum depression” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
+              "stem": "A Psychiatry single-best-answer question on Postpartum blues is rewritten as follows: Which of the original options is best described by this statement? Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality."
-            }
+              "explanation": "Option A (Postpartum depression) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. This differs from the original item, where B. Postpartum blues is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Postpartum blues; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Tearfulness, mood lability, irritability, and insomnia beginning around day 3 to 5 postpartum without severe impairment or psychosis are typical postpartum blues. Symptoms usually resolve within two weeks with reassurance and support. Memory anchor: Blues begin in days and end within two weeks; depression persists; psychosis is an emergency. Exam extension: Screen for suicidality, inability to care for self or baby, and psychotic symptoms even when the presentation initially sounds mild.",
+            "optionReasoning": "Option A is “Postpartum depression.” Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Postpartum blues. Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Postpartum depression lasts longer, causes significant impairment, and includes persistent depressed mood, anhedonia, guilt, or suicidality. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -682,13 +857,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Day 4 and fluctuating mild symptoms are classic."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Day 4 and fluctuating mild symptoms are classic.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Day 4 and fluctuating mild symptoms are classic. The revised wording must explicitly test that statement, making “Postpartum blues” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Day 4 and fluctuating mild symptoms are classic.",
+              "stem": "A Psychiatry single-best-answer question on Postpartum blues is rewritten as follows: Which of the original options is best described by this statement? Day 4 and fluctuating mild symptoms are classic.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Day 4 and fluctuating mild symptoms are classic."
-            }
+              "explanation": "Option B (Postpartum blues) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Day 4 and fluctuating mild symptoms are classic. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Day 4 and fluctuating mild symptoms are classic. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Tearfulness, mood lability, irritability, and insomnia beginning around day 3 to 5 postpartum without severe impairment or psychosis are typical postpartum blues. Symptoms usually resolve within two weeks with reassurance and support. Memory anchor: Blues begin in days and end within two weeks; depression persists; psychosis is an emergency. Exam extension: Screen for suicidality, inability to care for self or baby, and psychotic symptoms even when the presentation initially sounds mild.",
+            "optionReasoning": "Option B is “Postpartum blues.” Correct. Day 4 and fluctuating mild symptoms are classic. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Postpartum blues is the best answer. Day 4 and fluctuating mild symptoms are classic. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Day 4 and fluctuating mild symptoms are classic. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -701,13 +883,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. The revised wording must explicitly test that statement, making “Postpartum psychosis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
+              "stem": "A Psychiatry single-best-answer question on Postpartum blues is rewritten as follows: Which of the original options is best described by this statement? Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency."
-            }
+              "explanation": "Option C (Postpartum psychosis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. This differs from the original item, where B. Postpartum blues is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Postpartum blues; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Tearfulness, mood lability, irritability, and insomnia beginning around day 3 to 5 postpartum without severe impairment or psychosis are typical postpartum blues. Symptoms usually resolve within two weeks with reassurance and support. Memory anchor: Blues begin in days and end within two weeks; depression persists; psychosis is an emergency. Exam extension: Screen for suicidality, inability to care for self or baby, and psychotic symptoms even when the presentation initially sounds mild.",
+            "optionReasoning": "Option C is “Postpartum psychosis.” Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Postpartum blues. Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Postpartum psychosis involves mania, severe depression, confusion, delusions, hallucinations, or disorganised behaviour and is an emergency. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -720,13 +909,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. The revised wording must explicitly test that statement, making “Postpartum anxiety” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
+              "stem": "A Psychiatry single-best-answer question on Postpartum blues is rewritten as follows: Which of the original options is best described by this statement? Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome."
-            }
+              "explanation": "Option D (Postpartum anxiety) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. This differs from the original item, where B. Postpartum blues is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Postpartum blues; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Tearfulness, mood lability, irritability, and insomnia beginning around day 3 to 5 postpartum without severe impairment or psychosis are typical postpartum blues. Symptoms usually resolve within two weeks with reassurance and support. Memory anchor: Blues begin in days and end within two weeks; depression persists; psychosis is an emergency. Exam extension: Screen for suicidality, inability to care for self or baby, and psychotic symptoms even when the presentation initially sounds mild.",
+            "optionReasoning": "Option D is “Postpartum anxiety.” Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Postpartum blues. Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Anxiety can accompany the blues, but it does not best capture the transient mood-lability syndrome. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -770,13 +966,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. The revised wording must explicitly test that statement, making “1 week” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
+              "stem": "A Psychiatry single-best-answer question on Major depressive episode duration is rewritten as follows: Which of the original options is best described by this statement? One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention."
-            }
+              "explanation": "Option A (1 week) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. This differs from the original item, where B. 2 weeks is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. 2 weeks; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "A major depressive episode requires at least two weeks of depressed mood or loss of interest plus associated symptoms causing distress or impairment, with exclusions and context considered. Memory anchor: Depression two weeks; mania one week or any duration if hospitalisation; hypomania four days in DSM criteria. Exam extension: Bereavement does not automatically exclude major depression; evaluate the full syndrome and risk.",
+            "optionReasoning": "Option A is “1 week.” One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. 2 weeks. One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: One week is too short for the standard major depressive episode criterion, though severe risk still needs intervention. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -789,13 +992,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Symptoms are present most of the day, nearly every day during the period."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Symptoms are present most of the day, nearly every day during the period.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Symptoms are present most of the day, nearly every day during the period. The revised wording must explicitly test that statement, making “2 weeks” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Symptoms are present most of the day, nearly every day during the period.",
+              "stem": "A Psychiatry single-best-answer question on Major depressive episode duration is rewritten as follows: Which of the original options is best described by this statement? Symptoms are present most of the day, nearly every day during the period.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Symptoms are present most of the day, nearly every day during the period."
-            }
+              "explanation": "Option B (2 weeks) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Symptoms are present most of the day, nearly every day during the period. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Symptoms are present most of the day, nearly every day during the period. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "A major depressive episode requires at least two weeks of depressed mood or loss of interest plus associated symptoms causing distress or impairment, with exclusions and context considered. Memory anchor: Depression two weeks; mania one week or any duration if hospitalisation; hypomania four days in DSM criteria. Exam extension: Bereavement does not automatically exclude major depression; evaluate the full syndrome and risk.",
+            "optionReasoning": "Option B is “2 weeks.” Correct. Symptoms are present most of the day, nearly every day during the period. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. 2 weeks is the best answer. Symptoms are present most of the day, nearly every day during the period. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Symptoms are present most of the day, nearly every day during the period. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -808,13 +1018,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Three weeks exceeds the minimum but is not the criterion."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Three weeks exceeds the minimum but is not the criterion.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Three weeks exceeds the minimum but is not the criterion. The revised wording must explicitly test that statement, making “3 weeks” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Three weeks exceeds the minimum but is not the criterion.",
+              "stem": "A Psychiatry single-best-answer question on Major depressive episode duration is rewritten as follows: Which of the original options is best described by this statement? Three weeks exceeds the minimum but is not the criterion.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Three weeks exceeds the minimum but is not the criterion."
-            }
+              "explanation": "Option C (3 weeks) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Three weeks exceeds the minimum but is not the criterion. This differs from the original item, where B. 2 weeks is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Three weeks exceeds the minimum but is not the criterion. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. 2 weeks; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "A major depressive episode requires at least two weeks of depressed mood or loss of interest plus associated symptoms causing distress or impairment, with exclusions and context considered. Memory anchor: Depression two weeks; mania one week or any duration if hospitalisation; hypomania four days in DSM criteria. Exam extension: Bereavement does not automatically exclude major depression; evaluate the full syndrome and risk.",
+            "optionReasoning": "Option C is “3 weeks.” Three weeks exceeds the minimum but is not the criterion. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. 2 weeks. Three weeks exceeds the minimum but is not the criterion. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Three weeks exceeds the minimum but is not the criterion. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -827,13 +1044,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Four weeks is also longer than required."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Four weeks is also longer than required.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Four weeks is also longer than required. The revised wording must explicitly test that statement, making “4 weeks” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Four weeks is also longer than required.",
+              "stem": "A Psychiatry single-best-answer question on Major depressive episode duration is rewritten as follows: Which of the original options is best described by this statement? Four weeks is also longer than required.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Four weeks is also longer than required."
-            }
+              "explanation": "Option D (4 weeks) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Four weeks is also longer than required. This differs from the original item, where B. 2 weeks is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Four weeks is also longer than required. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. 2 weeks; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "A major depressive episode requires at least two weeks of depressed mood or loss of interest plus associated symptoms causing distress or impairment, with exclusions and context considered. Memory anchor: Depression two weeks; mania one week or any duration if hospitalisation; hypomania four days in DSM criteria. Exam extension: Bereavement does not automatically exclude major depression; evaluate the full syndrome and risk.",
+            "optionReasoning": "Option D is “4 weeks.” Four weeks is also longer than required. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. 2 weeks. Four weeks is also longer than required. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Four weeks is also longer than required. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -856,5 +1080,6 @@
         ]
       }
     }
-  ]
+  ],
+  "contentProfile": "beginner_detailed_v3"
 }

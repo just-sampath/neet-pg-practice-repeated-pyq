@@ -53,6 +53,8 @@ Progress, answers, deadlines, review flags, elapsed time, and question exposure 
 
 The application loads `manifest.json`, `modes.json`, `taxonomy.json`, and `questions-core.json` at startup. The core file contains no answer or teaching payload. A subject teaching shard is fetched only when an answer may be revealed or when final review needs it. Images also load on demand.
 
+Every option's teaching record contains a structured refresher: the underlying concept, option-specific reasoning, comparison with the original answer, and a decision rule. The conditional review adds recognition guidance and a worked variation with its answer and rationale. These larger teaching payloads remain split by subject, so opening the application does not download every explanation.
+
 ```text
 public/data/
 ├── manifest.json

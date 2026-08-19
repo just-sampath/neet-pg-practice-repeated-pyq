@@ -1,9 +1,18 @@
-import type { OptionCore, TeachingRecord } from "../domain/types";
+import type { OptionCore, OptionFeedback, TeachingRecord } from "../domain/types";
 
 interface TeachingPanelProps {
   teaching: TeachingRecord;
   options: OptionCore[];
 }
+
+const VERDICT_EXPLANATION_LABEL: Record<OptionFeedback["verdict"], string> = {
+  correct: "Why this option is right",
+  wrong: "Why this is not the best answer",
+  defensible: "Why this option is defensible",
+  unverifiable_as_written: "Why this cannot be verified as written",
+  historical: "Why this was historically accepted",
+  outdated: "Why this option is now outdated",
+};
 
 function TrickMeter({ score, max }: { score: number; max: number }) {
   return (
@@ -43,7 +52,24 @@ export default function TeachingPanel({ teaching, options }: TeachingPanelProps)
                 <strong>{option.text}</strong>
                 <span className="verdict-label">{feedback.displayLabel}</span>
               </div>
-              <p>{feedback.explanation}</p>
+              <div className="option-explanation">
+                <section>
+                  <span className="teaching-copy-label">Foundation</span>
+                  <p>{feedback.learningExplanation.foundation}</p>
+                </section>
+                <section>
+                  <span className="teaching-copy-label">{VERDICT_EXPLANATION_LABEL[feedback.verdict]}</span>
+                  <p>{feedback.learningExplanation.optionReasoning}</p>
+                </section>
+                <section>
+                  <span className="teaching-copy-label">Compare with the original answer</span>
+                  <p>{feedback.learningExplanation.comparison}</p>
+                </section>
+                <section>
+                  <span className="teaching-copy-label">Decision rule</span>
+                  <p>{feedback.learningExplanation.decisionRule}</p>
+                </section>
+              </div>
               <div className="trick-line">
                 <span>Trick meter</span>
                 <TrickMeter score={feedback.trickMeter.score} max={feedback.trickMeter.max} />
@@ -51,12 +77,24 @@ export default function TeachingPanel({ teaching, options }: TeachingPanelProps)
               <details>
                 <summary>When can this option be right?</summary>
                 <div className="conditional-teaching">
-                  <p>{feedback.whenThisCanBeRight.condition}</p>
-                  <div>
-                    <span>Rewritten example</span>
-                    <p>{feedback.whenThisCanBeRight.exampleQuestion.stem}</p>
-                    <small>{feedback.whenThisCanBeRight.exampleQuestion.explanation}</small>
-                  </div>
+                  <section>
+                    <span className="teaching-copy-label">Use this option when</span>
+                    <p>{feedback.whenThisCanBeRight.condition}</p>
+                  </section>
+                  <section className="recognition-rule">
+                    <span className="teaching-copy-label">How to recognise the change</span>
+                    <p>{feedback.whenThisCanBeRight.recognitionRule}</p>
+                  </section>
+                  <section className="rewritten-example">
+                    <span className="teaching-copy-label">Rewritten example</span>
+                    <p className="rewritten-example__stem">{feedback.whenThisCanBeRight.exampleQuestion.stem}</p>
+                    <p className="rewritten-example__answer">
+                      <strong>Best answer:</strong> {option.id}. {option.text}
+                    </p>
+                    <p className="rewritten-example__rationale">
+                      <strong>Why:</strong> {feedback.whenThisCanBeRight.exampleQuestion.explanation}
+                    </p>
+                  </section>
                 </div>
               </details>
             </article>

@@ -44,4 +44,32 @@ describe("interface design constraints", () => {
     expect(quizScreen).toContain("Keys A–D answer");
     expect(styles).not.toContain(".answer-option__key");
   });
+
+  test("keeps internal bank-audit metrics and learner assumptions off the home screen", async () => {
+    const homeScreen = await readFile(new URL("../../src/components/HomeScreen.tsx", import.meta.url), "utf8");
+
+    for (const text of ["Bank audit", "GT eligible", "Teaching only", "Key corrected", "377 total"]) {
+      expect(homeScreen).not.toContain(text);
+    }
+    expect(homeScreen).not.toContain("bank.manifest.bank.questionCount");
+    expect(homeScreen).not.toContain("bank.manifest.bank.contentVersion");
+    expect(homeScreen).not.toMatch(/internship|first[- ]year subject|5\s*[~–-]\s*6 years/i);
+  });
+
+  test("gives option teaching and rewritten examples readable, explicit structure", async () => {
+    const [panel, styles] = await Promise.all([
+      readFile(new URL("../../src/components/TeachingPanel.tsx", import.meta.url), "utf8"),
+      readFile(new URL("../../src/styles.css", import.meta.url), "utf8"),
+    ]);
+
+    for (const text of ["Foundation", "Compare with the original answer", "Decision rule", "Use this option when", "How to recognise the change", "Best answer:"]) {
+      expect(panel).toContain(text);
+    }
+    expect(panel).toContain("feedback.learningExplanation.foundation");
+    expect(panel).toContain("feedback.whenThisCanBeRight.recognitionRule");
+    expect(styles).toMatch(/\.option-explanation p\s*\{[^}]*font-size:\s*16px/s);
+    expect(styles).toMatch(/\.option-review summary\s*\{[^}]*font-size:\s*15px/s);
+    expect(styles).toMatch(/\.conditional-teaching\s*\{[^}]*font-size:\s*15px/s);
+    expect(styles).toMatch(/\.conditional-teaching \.rewritten-example__stem\s*\{[^}]*font-size:\s*17px/s);
+  });
 });

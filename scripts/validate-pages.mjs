@@ -38,7 +38,7 @@ for (const icon of webManifest.icons ?? []) {
 }
 
 const serviceWorker = await readFile(new URL("sw.js", root), "utf8");
-if (!serviceWorker.includes('CACHE_VERSION = "neet-pg-377-v3"')) {
+if (!serviceWorker.includes('CACHE_VERSION = "neet-pg-377-v4"')) {
   throw new Error("The expected service-worker cache version is missing.");
 }
 if (serviceWorker.includes('register("/sw.js"')) {

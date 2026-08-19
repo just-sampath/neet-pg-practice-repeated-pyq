@@ -21,13 +21,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. The revised wording must explicitly test that statement, making “Facial Nerve” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
+              "stem": "An image-based Dermatology question on Thickened peripheral nerve in leprosy is rewritten as follows: Which of the original options is best described by this statement? The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord."
-            }
+              "explanation": "Option A (Facial Nerve) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. This differs from the original item, where B. Greater auricular nerve is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Greater auricular nerve; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The cord-like structure visible over the sternocleidomastoid in the image is the greater auricular nerve. It is a superficial cervical plexus nerve that may become palpably thickened in leprosy. Memory anchor: Great auricular goes over SCM to the great ear. Exam extension: Other commonly examined nerves in leprosy include ulnar, common peroneal, posterior tibial, and radial cutaneous nerves.",
+            "optionReasoning": "Option A is “Facial Nerve.” The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Greater auricular nerve. The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: The facial nerve is mainly examined by facial movements and is not normally seen as this superficial neck cord. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -40,13 +47,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. The revised wording must explicitly test that statement, making “Greater auricular nerve” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
+              "stem": "An image-based Dermatology question on Thickened peripheral nerve in leprosy is rewritten as follows: Which of the original options is best described by this statement? The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation."
-            }
+              "explanation": "Option B (Greater auricular nerve) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The cord-like structure visible over the sternocleidomastoid in the image is the greater auricular nerve. It is a superficial cervical plexus nerve that may become palpably thickened in leprosy. Memory anchor: Great auricular goes over SCM to the great ear. Exam extension: Other commonly examined nerves in leprosy include ulnar, common peroneal, posterior tibial, and radial cutaneous nerves.",
+            "optionReasoning": "Option B is “Greater auricular nerve.” Correct. The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Greater auricular nerve is the best answer. The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: The greater auricular nerve crosses the sternocleidomastoid toward the parotid and ear, making it accessible to inspection and palpation. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -59,13 +73,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. The revised wording must explicitly test that statement, making “Vagus Nerve” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
+              "stem": "An image-based Dermatology question on Thickened peripheral nerve in leprosy is rewritten as follows: Which of the original options is best described by this statement? The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown."
-            }
+              "explanation": "Option C (Vagus Nerve) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. This differs from the original item, where B. Greater auricular nerve is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Greater auricular nerve; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The cord-like structure visible over the sternocleidomastoid in the image is the greater auricular nerve. It is a superficial cervical plexus nerve that may become palpably thickened in leprosy. Memory anchor: Great auricular goes over SCM to the great ear. Exam extension: Other commonly examined nerves in leprosy include ulnar, common peroneal, posterior tibial, and radial cutaneous nerves.",
+            "optionReasoning": "Option C is “Vagus Nerve.” The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Greater auricular nerve. The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: The vagus lies deep within the carotid sheath and cannot appear as the superficial structure shown. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -78,13 +99,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. The revised wording must explicitly test that statement, making “Glossopharyngeal Nerve” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
+              "stem": "An image-based Dermatology question on Thickened peripheral nerve in leprosy is rewritten as follows: Which of the original options is best described by this statement? The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here."
-            }
+              "explanation": "Option D (Glossopharyngeal Nerve) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. This differs from the original item, where B. Greater auricular nerve is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Greater auricular nerve; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The cord-like structure visible over the sternocleidomastoid in the image is the greater auricular nerve. It is a superficial cervical plexus nerve that may become palpably thickened in leprosy. Memory anchor: Great auricular goes over SCM to the great ear. Exam extension: Other commonly examined nerves in leprosy include ulnar, common peroneal, posterior tibial, and radial cutaneous nerves.",
+            "optionReasoning": "Option D is “Glossopharyngeal Nerve.” The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Greater auricular nerve. The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: The glossopharyngeal nerve is deep in the upper neck and is not clinically palpated here. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -128,13 +156,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. The revised wording must explicitly test that statement, making “Eccrine sweat glands” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
+              "stem": "A Dermatology single-best-answer question on Miliaria is rewritten as follows: Which of the original options is best described by this statement? Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage."
-            }
+              "explanation": "Option A (Eccrine sweat glands) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Miliaria results from obstruction and rupture of eccrine sweat ducts. The level of obstruction determines crystallina, rubra, or profunda. Memory anchor: Miliaria is miserable sweat: eccrine duct blocked by heat. Exam extension: Miliaria crystallina is superficial and noninflamed; rubra is pruritic and erythematous; profunda is deeper and flesh-coloured.",
+            "optionReasoning": "Option A is “Eccrine sweat glands.” Correct. Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Eccrine sweat glands is the best answer. Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Heat, humidity, fever, occlusion, and immature ducts promote eccrine duct blockage. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -147,13 +182,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. The revised wording must explicitly test that statement, making “Apocrine sweat glands” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
+              "stem": "A Dermatology single-best-answer question on Miliaria is rewritten as follows: Which of the original options is best described by this statement? Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa."
-            }
+              "explanation": "Option B (Apocrine sweat glands) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. This differs from the original item, where A. Eccrine sweat glands is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Eccrine sweat glands; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Miliaria results from obstruction and rupture of eccrine sweat ducts. The level of obstruction determines crystallina, rubra, or profunda. Memory anchor: Miliaria is miserable sweat: eccrine duct blocked by heat. Exam extension: Miliaria crystallina is superficial and noninflamed; rubra is pruritic and erythematous; profunda is deeper and flesh-coloured.",
+            "optionReasoning": "Option B is “Apocrine sweat glands.” Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Eccrine sweat glands. Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Apocrine glands open into hair follicles in axillae and anogenital regions and are involved in disorders such as hidradenitis suppurativa. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -166,13 +208,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. The revised wording must explicitly test that statement, making “Sebaceous glands” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
+              "stem": "A Dermatology single-best-answer question on Miliaria is rewritten as follows: Which of the original options is best described by this statement? Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash."
-            }
+              "explanation": "Option C (Sebaceous glands) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. This differs from the original item, where A. Eccrine sweat glands is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Eccrine sweat glands; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Miliaria results from obstruction and rupture of eccrine sweat ducts. The level of obstruction determines crystallina, rubra, or profunda. Memory anchor: Miliaria is miserable sweat: eccrine duct blocked by heat. Exam extension: Miliaria crystallina is superficial and noninflamed; rubra is pruritic and erythematous; profunda is deeper and flesh-coloured.",
+            "optionReasoning": "Option C is “Sebaceous glands.” Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Eccrine sweat glands. Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Sebaceous obstruction contributes to acne and cyst formation, not classic heat rash. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -185,13 +234,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. The revised wording must explicitly test that statement, making “Ectopic sebaceous glands” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice, such as Fordyce spots, do not explain miliaria.",
+              "stem": "A Dermatology single-best-answer question on Miliaria is rewritten as follows: Which of the original options is best described by this statement? Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria."
-            }
+              "explanation": "Option D (Ectopic sebaceous glands) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. This differs from the original item, where A. Eccrine sweat glands is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Eccrine sweat glands; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Miliaria results from obstruction and rupture of eccrine sweat ducts. The level of obstruction determines crystallina, rubra, or profunda. Memory anchor: Miliaria is miserable sweat: eccrine duct blocked by heat. Exam extension: Miliaria crystallina is superficial and noninflamed; rubra is pruritic and erythematous; profunda is deeper and flesh-coloured.",
+            "optionReasoning": "Option D is “Ectopic sebaceous glands.” Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Eccrine sweat glands. Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Ectopic sebaceous glands, such as Fordyce spots, do not explain miliaria. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -236,13 +292,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. The revised wording must explicitly test that statement, making “Vitamin D” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
+              "stem": "A Dermatology single-best-answer question on Phrynoderma and nutritional deficiency is rewritten as follows: Which of the original options is best described by this statement? Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption."
-            }
+              "explanation": "Option A (Vitamin D) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. This differs from the original item, where D. Essential fatty acid is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. Essential fatty acid; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Phrynoderma is follicular hyperkeratosis associated with broad malnutrition. Older examination keys often select essential fatty acid deficiency, while vitamin A deficiency and deficiencies of B vitamins and vitamin E have also been associated. It is not a specific single-nutrient sign. Memory anchor: Phrynoderma is toad skin from mixed malnutrition; old key favours essential fatty acids. Exam extension: In practice, assess the whole diet and associated ocular or systemic signs rather than treating one guessed deficiency.",
+            "optionReasoning": "Option A is “Vitamin D.” Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. Essential fatty acid. Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Vitamin D deficiency causes rickets or osteomalacia rather than the classic follicular eruption. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -255,13 +318,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. The revised wording must explicitly test that statement, making “Niacin” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
+              "stem": "A Dermatology single-best-answer question on Phrynoderma and nutritional deficiency is rewritten as follows: Which of the original options is best described by this statement? Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change."
-            }
+              "explanation": "Option B (Niacin) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. This differs from the original item, where D. Essential fatty acid is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. Essential fatty acid; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Phrynoderma is follicular hyperkeratosis associated with broad malnutrition. Older examination keys often select essential fatty acid deficiency, while vitamin A deficiency and deficiencies of B vitamins and vitamin E have also been associated. It is not a specific single-nutrient sign. Memory anchor: Phrynoderma is toad skin from mixed malnutrition; old key favours essential fatty acids. Exam extension: In practice, assess the whole diet and associated ocular or systemic signs rather than treating one guessed deficiency.",
+            "optionReasoning": "Option B is “Niacin.” Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. Essential fatty acid. Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Niacin deficiency causes pellagra with photosensitive dermatitis, diarrhoea, and neuropsychiatric change. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -274,13 +344,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. The revised wording must explicitly test that statement, making “Vitamin A” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
+              "stem": "A Dermatology single-best-answer question on Phrynoderma and nutritional deficiency is rewritten as follows: Which of the original options is best described by this statement? Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean."
-            }
+              "explanation": "Option C (Vitamin A) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. This differs from the original item, where D. Essential fatty acid is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. Essential fatty acid; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Phrynoderma is follicular hyperkeratosis associated with broad malnutrition. Older examination keys often select essential fatty acid deficiency, while vitamin A deficiency and deficiencies of B vitamins and vitamin E have also been associated. It is not a specific single-nutrient sign. Memory anchor: Phrynoderma is toad skin from mixed malnutrition; old key favours essential fatty acids. Exam extension: In practice, assess the whole diet and associated ocular or systemic signs rather than treating one guessed deficiency.",
+            "optionReasoning": "Option C is “Vitamin A.” Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. Essential fatty acid. Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Vitamin A deficiency can contribute to follicular hyperkeratosis, so this is biologically plausible and makes the stem less clean. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -293,13 +370,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Essential fatty acid deficiency has a strong historical association with phrynoderma."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Essential fatty acid deficiency has a strong historical association with phrynoderma.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma. The revised wording must explicitly test that statement, making “Essential fatty acid” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice deficiency has a strong historical association with phrynoderma.",
+              "stem": "A Dermatology single-best-answer question on Phrynoderma and nutritional deficiency is rewritten as follows: Which of the original options is best described by this statement? This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Essential fatty acid deficiency has a strong historical association with phrynoderma."
-            }
+              "explanation": "Option D (Essential fatty acid) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Phrynoderma is follicular hyperkeratosis associated with broad malnutrition. Older examination keys often select essential fatty acid deficiency, while vitamin A deficiency and deficiencies of B vitamins and vitamin E have also been associated. It is not a specific single-nutrient sign. Memory anchor: Phrynoderma is toad skin from mixed malnutrition; old key favours essential fatty acids. Exam extension: In practice, assess the whole diet and associated ocular or systemic signs rather than treating one guessed deficiency.",
+            "optionReasoning": "Option D is “Essential fatty acid.” This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, D. Essential fatty acid is the best answer. This is the conventional source answer. Essential fatty acid deficiency has a strong historical association with phrynoderma. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Essential fatty acid deficiency has a strong historical association with phrynoderma. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -343,13 +427,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Alternating vasoconstriction and vasodilation gives a marbled appearance."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Alternating vasoconstriction and vasodilation gives a marbled appearance.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Alternating vasoconstriction and vasodilation gives a marbled appearance. The revised wording must explicitly test that statement, making “Cold temperature” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Alternating vasoconstriction and vasodilation gives a marbled appearance.",
+              "stem": "A Dermatology single-best-answer question on Cutis marmorata is rewritten as follows: Which of the original options is best described by this statement? Alternating vasoconstriction and vasodilation gives a marbled appearance.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Alternating vasoconstriction and vasodilation gives a marbled appearance."
-            }
+              "explanation": "Option A (Cold temperature) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Alternating vasoconstriction and vasodilation gives a marbled appearance. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Alternating vasoconstriction and vasodilation gives a marbled appearance. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Cutis marmorata is a transient reticular, mottled vascular pattern produced by an exaggerated vasomotor response to cold. It is common in neonates and usually resolves with warming. Memory anchor: Marmorata means marble skin in the cold. Exam extension: Persistent fixed vascular patterns or associated limb asymmetry should prompt consideration of cutis marmorata telangiectatica congenita.",
+            "optionReasoning": "Option A is “Cold temperature.” Correct. Alternating vasoconstriction and vasodilation gives a marbled appearance. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Cold temperature is the best answer. Alternating vasoconstriction and vasodilation gives a marbled appearance. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Alternating vasoconstriction and vasodilation gives a marbled appearance. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -362,13 +453,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. The revised wording must explicitly test that statement, making “Dust” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
+              "stem": "A Dermatology single-best-answer question on Cutis marmorata is rewritten as follows: Which of the original options is best described by this statement? Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling."
-            }
+              "explanation": "Option B (Dust) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. This differs from the original item, where A. Cold temperature is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Cold temperature; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Cutis marmorata is a transient reticular, mottled vascular pattern produced by an exaggerated vasomotor response to cold. It is common in neonates and usually resolves with warming. Memory anchor: Marmorata means marble skin in the cold. Exam extension: Persistent fixed vascular patterns or associated limb asymmetry should prompt consideration of cutis marmorata telangiectatica congenita.",
+            "optionReasoning": "Option B is “Dust.” Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Cold temperature. Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Dust exposure may cause irritant or allergic disease but does not produce this physiologic mottling. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -381,13 +479,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. The revised wording must explicitly test that statement, making “Hot temperature” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
+              "stem": "A Dermatology single-best-answer question on Cutis marmorata is rewritten as follows: Which of the original options is best described by this statement? Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata."
-            }
+              "explanation": "Option C (Hot temperature) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. This differs from the original item, where A. Cold temperature is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Cold temperature; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Cutis marmorata is a transient reticular, mottled vascular pattern produced by an exaggerated vasomotor response to cold. It is common in neonates and usually resolves with warming. Memory anchor: Marmorata means marble skin in the cold. Exam extension: Persistent fixed vascular patterns or associated limb asymmetry should prompt consideration of cutis marmorata telangiectatica congenita.",
+            "optionReasoning": "Option C is “Hot temperature.” Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Cold temperature. Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Repeated heat exposure causes erythema ab igne, a persistent reticulated hyperpigmentation, not transient cutis marmorata. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -400,13 +505,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Humidity contributes to miliaria but is not the characteristic trigger here."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Humidity contributes to miliaria but is not the characteristic trigger here.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Humidity contributes to miliaria but is not the characteristic trigger here. The revised wording must explicitly test that statement, making “Humidity” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice contributes to miliaria but is not the characteristic trigger here.",
+              "stem": "A Dermatology single-best-answer question on Cutis marmorata is rewritten as follows: Which of the original options is best described by this statement? Humidity contributes to miliaria but is not the characteristic trigger here.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Humidity contributes to miliaria but is not the characteristic trigger here."
-            }
+              "explanation": "Option D (Humidity) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Humidity contributes to miliaria but is not the characteristic trigger here. This differs from the original item, where A. Cold temperature is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Humidity contributes to miliaria but is not the characteristic trigger here. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Cold temperature; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Cutis marmorata is a transient reticular, mottled vascular pattern produced by an exaggerated vasomotor response to cold. It is common in neonates and usually resolves with warming. Memory anchor: Marmorata means marble skin in the cold. Exam extension: Persistent fixed vascular patterns or associated limb asymmetry should prompt consideration of cutis marmorata telangiectatica congenita.",
+            "optionReasoning": "Option D is “Humidity.” Humidity contributes to miliaria but is not the characteristic trigger here. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Cold temperature. Humidity contributes to miliaria but is not the characteristic trigger here. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Humidity contributes to miliaria but is not the characteristic trigger here. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -450,13 +562,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. The revised wording must explicitly test that statement, making “Pleomorphic” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
+              "stem": "A Dermatology single-best-answer question on Varicella versus smallpox rash is rewritten as follows: Which of the original options is best described by this statement? Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist."
-            }
+              "explanation": "Option A (Pleomorphic) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. This differs from the original item, where C. Deep-seated is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Deep-seated; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Varicella lesions are superficial, centripetal, pruritic, unilocular, and appear in crops so multiple stages coexist. Smallpox lesions were deep-seated, firm, centrifugal, and relatively synchronous in one area. Memory anchor: Chickenpox comes in crops toward the centre; smallpox stays same-stage and spreads outward. Exam extension: Smallpox has been eradicated, but its contrast with varicella remains a frequent exam pattern.",
+            "optionReasoning": "Option A is “Pleomorphic.” Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Deep-seated. Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Pleomorphism is a varicella clue because macules, papules, vesicles, and crusts coexist. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -469,13 +588,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Centripetal distribution with greater trunk involvement favours varicella."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Centripetal distribution with greater trunk involvement favours varicella.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Centripetal distribution with greater trunk involvement favours varicella. The revised wording must explicitly test that statement, making “Centripetal” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice distribution with greater trunk involvement favours varicella.",
+              "stem": "A Dermatology single-best-answer question on Varicella versus smallpox rash is rewritten as follows: Which of the original options is best described by this statement? Centripetal distribution with greater trunk involvement favours varicella.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Centripetal distribution with greater trunk involvement favours varicella."
-            }
+              "explanation": "Option B (Centripetal) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Centripetal distribution with greater trunk involvement favours varicella. This differs from the original item, where C. Deep-seated is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Centripetal distribution with greater trunk involvement favours varicella. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Deep-seated; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Varicella lesions are superficial, centripetal, pruritic, unilocular, and appear in crops so multiple stages coexist. Smallpox lesions were deep-seated, firm, centrifugal, and relatively synchronous in one area. Memory anchor: Chickenpox comes in crops toward the centre; smallpox stays same-stage and spreads outward. Exam extension: Smallpox has been eradicated, but its contrast with varicella remains a frequent exam pattern.",
+            "optionReasoning": "Option B is “Centripetal.” Centripetal distribution with greater trunk involvement favours varicella. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Deep-seated. Centripetal distribution with greater trunk involvement favours varicella. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Centripetal distribution with greater trunk involvement favours varicella. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -488,13 +614,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Deep-seated lesions characterize smallpox, not chickenpox."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Deep-seated lesions characterize smallpox, not chickenpox.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Correct exception. Deep-seated lesions characterize smallpox, not chickenpox. The revised wording must explicitly test that statement, making “Deep-seated” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice lesions characterize smallpox, not chickenpox.",
+              "stem": "A Dermatology single-best-answer question on Varicella versus smallpox rash is rewritten as follows: Which of the original options is best described by this statement? Correct exception. Deep-seated lesions characterize smallpox, not chickenpox.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Deep-seated lesions characterize smallpox, not chickenpox."
-            }
+              "explanation": "Option C (Deep-seated) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Correct exception. Deep-seated lesions characterize smallpox, not chickenpox. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Correct exception. Deep-seated lesions characterize smallpox, not chickenpox. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Varicella lesions are superficial, centripetal, pruritic, unilocular, and appear in crops so multiple stages coexist. Smallpox lesions were deep-seated, firm, centrifugal, and relatively synchronous in one area. Memory anchor: Chickenpox comes in crops toward the centre; smallpox stays same-stage and spreads outward. Exam extension: Smallpox has been eradicated, but its contrast with varicella remains a frequent exam pattern.",
+            "optionReasoning": "Option C is “Deep-seated.” Correct exception. Deep-seated lesions characterize smallpox, not chickenpox. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, C. Deep-seated is the best answer. Correct exception. Deep-seated lesions characterize smallpox, not chickenpox. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Deep-seated lesions characterize smallpox, not chickenpox. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -507,13 +640,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. The revised wording must explicitly test that statement, making “Unilocular” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
+              "stem": "A Dermatology single-best-answer question on Varicella versus smallpox rash is rewritten as follows: Which of the original options is best described by this statement? Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular."
-            }
+              "explanation": "Option D (Unilocular) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. This differs from the original item, where C. Deep-seated is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to C. Deep-seated; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Varicella lesions are superficial, centripetal, pruritic, unilocular, and appear in crops so multiple stages coexist. Smallpox lesions were deep-seated, firm, centrifugal, and relatively synchronous in one area. Memory anchor: Chickenpox comes in crops toward the centre; smallpox stays same-stage and spreads outward. Exam extension: Smallpox has been eradicated, but its contrast with varicella remains a frequent exam pattern.",
+            "optionReasoning": "Option D is “Unilocular.” Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by C. Deep-seated. Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Varicella vesicles are classically unilocular and collapse on puncture; smallpox lesions were multilocular. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -557,13 +697,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. The revised wording must explicitly test that statement, making “Becker nevus” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
+              "stem": "An image-based Dermatology question on Becker naevus is rewritten as follows: Which of the original options is best described by this statement? Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region."
-            }
+              "explanation": "Option A (Becker nevus) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a unilateral irregular hyperpigmented patch with increased hair over the upper trunk, typical of Becker naevus. It often becomes apparent around adolescence and is androgen-sensitive. Memory anchor: Becker appears at boyhood with brown pigment and body hair. Exam extension: Becker naevus syndrome can include ipsilateral breast hypoplasia or musculoskeletal anomalies.",
+            "optionReasoning": "Option A is “Becker nevus.” Correct. Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Becker nevus is the best answer. Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Becker naevus is a benign cutaneous hamartoma, commonly on shoulder, chest, or scapular region. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -576,13 +723,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. The revised wording must explicitly test that statement, making “Hypopigmented macule” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
+              "stem": "An image-based Dermatology question on Becker naevus is rewritten as follows: Which of the original options is best described by this statement? A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque."
-            }
+              "explanation": "Option B (Hypopigmented macule) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. This differs from the original item, where A. Becker nevus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Becker nevus; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a unilateral irregular hyperpigmented patch with increased hair over the upper trunk, typical of Becker naevus. It often becomes apparent around adolescence and is androgen-sensitive. Memory anchor: Becker appears at boyhood with brown pigment and body hair. Exam extension: Becker naevus syndrome can include ipsilateral breast hypoplasia or musculoskeletal anomalies.",
+            "optionReasoning": "Option B is “Hypopigmented macule.” A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Becker nevus. A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: A hypopigmented macule is lighter than surrounding skin and would not match the dark hairy plaque. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -595,13 +749,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. The revised wording must explicitly test that statement, making “Spitz nevus” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
+              "stem": "An image-based Dermatology question on Becker naevus is rewritten as follows: Which of the original options is best described by this statement? Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child."
-            }
+              "explanation": "Option C (Spitz nevus) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. This differs from the original item, where A. Becker nevus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Becker nevus; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a unilateral irregular hyperpigmented patch with increased hair over the upper trunk, typical of Becker naevus. It often becomes apparent around adolescence and is androgen-sensitive. Memory anchor: Becker appears at boyhood with brown pigment and body hair. Exam extension: Becker naevus syndrome can include ipsilateral breast hypoplasia or musculoskeletal anomalies.",
+            "optionReasoning": "Option C is “Spitz nevus.” Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Becker nevus. Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Spitz naevus is usually a small dome-shaped pink or pigmented papule, often in a child. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -614,13 +775,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. The revised wording must explicitly test that statement, making “Epidermal nevus” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
+              "stem": "An image-based Dermatology question on Becker naevus is rewritten as follows: Which of the original options is best described by this statement? Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch."
-            }
+              "explanation": "Option D (Epidermal nevus) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. This differs from the original item, where A. Becker nevus is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Becker nevus; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a unilateral irregular hyperpigmented patch with increased hair over the upper trunk, typical of Becker naevus. It often becomes apparent around adolescence and is androgen-sensitive. Memory anchor: Becker appears at boyhood with brown pigment and body hair. Exam extension: Becker naevus syndrome can include ipsilateral breast hypoplasia or musculoskeletal anomalies.",
+            "optionReasoning": "Option D is “Epidermal nevus.” Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Becker nevus. Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Epidermal naevus is often verrucous and follows Blaschko lines rather than forming this classic hairy patch. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -664,13 +832,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. The revised wording must explicitly test that statement, making “Seborrheic dermatitis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
+              "stem": "An image-based Dermatology question on Atopic dermatitis is rewritten as follows: Which of the original options is best described by this statement? Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma."
-            }
+              "explanation": "Option A (Seborrheic dermatitis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. This differs from the original item, where B. Atopic dermatitis is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Atopic dermatitis; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The child has a typical eczematous flexural eruption plus a family history of asthma, placing the condition within the atopic diathesis. The correct diagnosis is atopic dermatitis, not allergic contact dermatitis. Memory anchor: Asthma plus itchy flexural eczema equals atopy. Exam extension: Core care is regular emollient use, trigger reduction, and appropriately potent topical anti-inflammatory therapy; infection is treated only when clinically present.",
+            "optionReasoning": "Option A is “Seborrheic dermatitis.” Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Atopic dermatitis. Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Seborrhoeic dermatitis favours scalp, eyebrows, nasolabial folds, ears, and diaper region, with greasy scale and a weaker link to asthma. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -683,13 +858,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. The revised wording must explicitly test that statement, making “Atopic dermatitis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
+              "stem": "An image-based Dermatology question on Atopic dermatitis is rewritten as follows: Which of the original options is best described by this statement? Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues."
-            }
+              "explanation": "Option B (Atopic dermatitis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The child has a typical eczematous flexural eruption plus a family history of asthma, placing the condition within the atopic diathesis. The correct diagnosis is atopic dermatitis, not allergic contact dermatitis. Memory anchor: Asthma plus itchy flexural eczema equals atopy. Exam extension: Core care is regular emollient use, trigger reduction, and appropriately potent topical anti-inflammatory therapy; infection is treated only when clinically present.",
+            "optionReasoning": "Option B is “Atopic dermatitis.” Correct. Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Atopic dermatitis is the best answer. Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Pruritus, chronic relapsing eczema, age-dependent distribution, xerosis, and personal or family atopy are key clues. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -702,13 +884,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly. The revised wording must explicitly test that statement, making “Allergic contact dermatitis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice requires sensitization to a specific contact allergen and follows the exposure pattern.",
+              "stem": "An image-based Dermatology question on Atopic dermatitis is rewritten as follows: Which of the original options is best described by this statement? Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern."
-            }
+              "explanation": "Option C (Allergic contact dermatitis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly. This differs from the original item, where B. Atopic dermatitis is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Atopic dermatitis; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The child has a typical eczematous flexural eruption plus a family history of asthma, placing the condition within the atopic diathesis. The correct diagnosis is atopic dermatitis, not allergic contact dermatitis. Memory anchor: Asthma plus itchy flexural eczema equals atopy. Exam extension: Core care is regular emollient use, trigger reduction, and appropriately potent topical anti-inflammatory therapy; infection is treated only when clinically present.",
+            "optionReasoning": "Option C is “Allergic contact dermatitis.” Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Atopic dermatitis. Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. The source key selected this incorrectly. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Allergic contact dermatitis requires sensitization to a specific contact allergen and follows the exposure pattern. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -721,13 +910,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. The revised wording must explicitly test that statement, making “Erysipelas” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
+              "stem": "An image-based Dermatology question on Atopic dermatitis is rewritten as follows: Which of the original options is best described by this statement? Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema."
-            }
+              "explanation": "Option D (Erysipelas) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. This differs from the original item, where B. Atopic dermatitis is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Atopic dermatitis; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The child has a typical eczematous flexural eruption plus a family history of asthma, placing the condition within the atopic diathesis. The correct diagnosis is atopic dermatitis, not allergic contact dermatitis. Memory anchor: Asthma plus itchy flexural eczema equals atopy. Exam extension: Core care is regular emollient use, trigger reduction, and appropriately potent topical anti-inflammatory therapy; infection is treated only when clinically present.",
+            "optionReasoning": "Option D is “Erysipelas.” Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Atopic dermatitis. Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Erysipelas is an acute painful, fever-associated, sharply raised bacterial erythema rather than chronic itchy eczema. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -771,13 +967,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. The revised wording must explicitly test that statement, making “Sebaceous cyst” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
+              "stem": "An image-based Dermatology question on Alopecia areata is rewritten as follows: Which of the original options is best described by this statement? A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch."
-            }
+              "explanation": "Option A (Sebaceous cyst) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. This differs from the original item, where B. Alopecia areata is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Alopecia areata; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a smooth, sharply demarcated non-scarring patch of hair loss, typical of alopecia areata. Exclamation-mark hairs and nail pitting support the diagnosis. Memory anchor: Areata is an area that is smooth and bare. Exam extension: Associations include autoimmune thyroid disease, vitiligo, and atopy.",
+            "optionReasoning": "Option A is “Sebaceous cyst.” A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Alopecia areata. A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: A sebaceous or epidermoid cyst is a palpable subcutaneous nodule, often with a punctum, not a smooth bald patch. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -790,13 +993,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. The revised wording must explicitly test that statement, making “Alopecia areata” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
+              "stem": "An image-based Dermatology question on Alopecia areata is rewritten as follows: Which of the original options is best described by this statement? Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth."
-            }
+              "explanation": "Option B (Alopecia areata) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a smooth, sharply demarcated non-scarring patch of hair loss, typical of alopecia areata. Exclamation-mark hairs and nail pitting support the diagnosis. Memory anchor: Areata is an area that is smooth and bare. Exam extension: Associations include autoimmune thyroid disease, vitiligo, and atopy.",
+            "optionReasoning": "Option B is “Alopecia areata.” Correct. Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, B. Alopecia areata is the best answer. Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Autoimmune attack on anagen follicles causes non-scarring hair loss and follicles remain capable of regrowth. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -809,13 +1019,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. The revised wording must explicitly test that statement, making “Trichotillomania” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
+              "stem": "An image-based Dermatology question on Alopecia areata is rewritten as follows: Which of the original options is best described by this statement? Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface."
-            }
+              "explanation": "Option C (Trichotillomania) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. This differs from the original item, where B. Alopecia areata is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Alopecia areata; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a smooth, sharply demarcated non-scarring patch of hair loss, typical of alopecia areata. Exclamation-mark hairs and nail pitting support the diagnosis. Memory anchor: Areata is an area that is smooth and bare. Exam extension: Associations include autoimmune thyroid disease, vitiligo, and atopy.",
+            "optionReasoning": "Option C is “Trichotillomania.” Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Alopecia areata. Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Trichotillomania shows irregular patches with broken hairs of different lengths and usually lacks a perfectly smooth surface. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -828,13 +1045,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. The revised wording must explicitly test that statement, making “Tinea capitis” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? This choice often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
+              "stem": "An image-based Dermatology question on Alopecia areata is rewritten as follows: Which of the original options is best described by this statement? Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain."
-            }
+              "explanation": "Option D (Tinea capitis) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. This differs from the original item, where B. Alopecia areata is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to B. Alopecia areata; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "The image shows a smooth, sharply demarcated non-scarring patch of hair loss, typical of alopecia areata. Exclamation-mark hairs and nail pitting support the diagnosis. Memory anchor: Areata is an area that is smooth and bare. Exam extension: Associations include autoimmune thyroid disease, vitiligo, and atopy.",
+            "optionReasoning": "Option D is “Tinea capitis.” Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by B. Alopecia areata. Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Tinea capitis often shows scale, inflammation, black dots, lymphadenopathy, or broken hairs; fungal testing helps when uncertain. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -878,13 +1102,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. The revised wording must explicitly test that statement, making “Age” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
+              "stem": "A Dermatology single-best-answer question on Cutaneous lymphoma risk is rewritten as follows: Which of the original options is best described by this statement? Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life."
-            }
+              "explanation": "Option A (Age) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. This differs from the original item, where D. All of the above is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. All of the above; option A becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Risk and incidence patterns for cutaneous lymphomas vary by subtype, but older age, male sex for several common subtypes, and immune dysfunction or immunosuppression are recognised associations. Therefore all listed categories can contribute. Memory anchor: Lymphoma risk rises with age and immune weakness; many cutaneous types favour men. Exam extension: A persistent patch or plaque is not diagnosed clinically alone; skin biopsy with immunophenotyping and clinicopathologic correlation is essential.",
+            "optionReasoning": "Option A is “Age.” Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. All of the above. Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. This is the separating point: option A may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Age matters because primary cutaneous T-cell lymphomas such as mycosis fungoides commonly present in middle or later life. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -897,13 +1128,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. The revised wording must explicitly test that statement, making “Gender” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
+              "stem": "A Dermatology single-best-answer question on Cutaneous lymphoma risk is rewritten as follows: Which of the original options is best described by this statement? Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor."
-            }
+              "explanation": "Option B (Gender) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. This differs from the original item, where D. All of the above is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. All of the above; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Risk and incidence patterns for cutaneous lymphomas vary by subtype, but older age, male sex for several common subtypes, and immune dysfunction or immunosuppression are recognised associations. Therefore all listed categories can contribute. Memory anchor: Lymphoma risk rises with age and immune weakness; many cutaneous types favour men. Exam extension: A persistent patch or plaque is not diagnosed clinically alone; skin biopsy with immunophenotyping and clinicopathologic correlation is essential.",
+            "optionReasoning": "Option B is “Gender.” Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. All of the above. Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Several cutaneous lymphomas show male predominance, although sex is not a universal causal risk factor. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -916,13 +1154,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. The revised wording must explicitly test that statement, making “Weakened immune system” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
+              "stem": "A Dermatology single-best-answer question on Cutaneous lymphoma risk is rewritten as follows: Which of the original options is best described by this statement? Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms."
-            }
+              "explanation": "Option C (Weakened immune system) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. This differs from the original item, where D. All of the above is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to D. All of the above; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Risk and incidence patterns for cutaneous lymphomas vary by subtype, but older age, male sex for several common subtypes, and immune dysfunction or immunosuppression are recognised associations. Therefore all listed categories can contribute. Memory anchor: Lymphoma risk rises with age and immune weakness; many cutaneous types favour men. Exam extension: A persistent patch or plaque is not diagnosed clinically alone; skin biopsy with immunophenotyping and clinicopathologic correlation is essential.",
+            "optionReasoning": "Option C is “Weakened immune system.” Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by D. All of the above. Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Weakened immunity increases risk of lymphoproliferative disease, including virus-associated and treatment-related forms. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -935,13 +1180,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right only when every preceding listed statement is true for the revised stem.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. The revised wording must explicitly test that statement, making “All of the above” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
               "stem": "If the rewritten stem makes options A, B, and C individually true, which original option is correct?",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "This option can be right only when every preceding listed statement is true for the revised stem."
-            }
+              "explanation": "Option D (All of the above) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Risk and incidence patterns for cutaneous lymphomas vary by subtype, but older age, male sex for several common subtypes, and immune dysfunction or immunosuppression are recognised associations. Therefore all listed categories can contribute. Memory anchor: Lymphoma risk rises with age and immune weakness; many cutaneous types favour men. Exam extension: A persistent patch or plaque is not diagnosed clinically alone; skin biopsy with immunophenotyping and clinicopathologic correlation is essential.",
+            "optionReasoning": "Option D is “All of the above.” Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, D. All of the above is the best answer. Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Best broad answer because each listed factor is relevant in at least part of the cutaneous lymphoma spectrum. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -985,13 +1237,20 @@
             "trapReason": "This is an audited answer. The important qualifying detail is: Body lice live mainly in clothing seams and visit skin to feed."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Body lice live mainly in clothing seams and visit skin to feed.",
+            "condition": "Option A becomes correct if a revised item asks you to identify the choice described by this statement: Body lice live mainly in clothing seams and visit skin to feed. The revised wording must explicitly test that statement, making “Louse” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Body lice live mainly in clothing seams and visit skin to feed.",
+              "stem": "A Dermatology single-best-answer question on Vagabond disease is rewritten as follows: Which of the original options is best described by this statement? Body lice live mainly in clothing seams and visit skin to feed.",
               "reuseOriginalOptions": true,
               "correctOptionId": "A",
-              "explanation": "Body lice live mainly in clothing seams and visit skin to feed."
-            }
+              "explanation": "Option A (Louse) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Body lice live mainly in clothing seams and visit skin to feed. This is the same answer as the original item, but the rewritten stem makes the discriminator explicit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Body lice live mainly in clothing seams and visit skin to feed. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. The original question already points to this option, so the same discriminator confirms the answer."
+          },
+          "learningExplanation": {
+            "foundation": "Vagabond disease is chronic body-louse infestation, pediculosis corporis, with excoriation, lichenification, and hyperpigmentation in people unable to wash or change clothing regularly. Memory anchor: Vagabond disease lives in lousy clothing seams. Exam extension: Body lice transmit epidemic typhus, trench fever, and louse-borne relapsing fever.",
+            "optionReasoning": "Option A is “Louse.” Correct. Body lice live mainly in clothing seams and visit skin to feed. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "In the original stem, A. Louse is the best answer. Body lice live mainly in clothing seams and visit skin to feed. The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.",
+            "decisionRule": "This is an audited answer. The important qualifying detail is: Body lice live mainly in clothing seams and visit skin to feed. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option A against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "B": {
@@ -1004,13 +1263,20 @@
             "trapReason": "High-risk distractor. The distinguishing fact is: Mites cause scabies and other infestations, not the named vagabond disease."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Mites cause scabies and other infestations, not the named vagabond disease.",
+            "condition": "Option B becomes correct if a revised item asks you to identify the choice described by this statement: Mites cause scabies and other infestations, not the named vagabond disease. The revised wording must explicitly test that statement, making “Mite” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Mites cause scabies and other infestations, not the named vagabond disease.",
+              "stem": "A Dermatology single-best-answer question on Vagabond disease is rewritten as follows: Which of the original options is best described by this statement? Mites cause scabies and other infestations, not the named vagabond disease.",
               "reuseOriginalOptions": true,
               "correctOptionId": "B",
-              "explanation": "Mites cause scabies and other infestations, not the named vagabond disease."
-            }
+              "explanation": "Option B (Mite) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Mites cause scabies and other infestations, not the named vagabond disease. This differs from the original item, where A. Louse is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Mites cause scabies and other infestations, not the named vagabond disease. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Louse; option B becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Vagabond disease is chronic body-louse infestation, pediculosis corporis, with excoriation, lichenification, and hyperpigmentation in people unable to wash or change clothing regularly. Memory anchor: Vagabond disease lives in lousy clothing seams. Exam extension: Body lice transmit epidemic typhus, trench fever, and louse-borne relapsing fever.",
+            "optionReasoning": "Option B is “Mite.” Mites cause scabies and other infestations, not the named vagabond disease. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Louse. Mites cause scabies and other infestations, not the named vagabond disease. This is the separating point: option B may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "High-risk distractor. The distinguishing fact is: Mites cause scabies and other infestations, not the named vagabond disease. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option B against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "C": {
@@ -1023,13 +1289,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
+            "condition": "Option C becomes correct if a revised item asks you to identify the choice described by this statement: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. The revised wording must explicitly test that statement, making “Tick” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
+              "stem": "A Dermatology single-best-answer question on Vagabond disease is rewritten as follows: Which of the original options is best described by this statement? Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis.",
               "reuseOriginalOptions": true,
               "correctOptionId": "C",
-              "explanation": "Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis."
-            }
+              "explanation": "Option C (Tick) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. This differs from the original item, where A. Louse is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Louse; option C becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Vagabond disease is chronic body-louse infestation, pediculosis corporis, with excoriation, lichenification, and hyperpigmentation in people unable to wash or change clothing regularly. Memory anchor: Vagabond disease lives in lousy clothing seams. Exam extension: Body lice transmit epidemic typhus, trench fever, and louse-borne relapsing fever.",
+            "optionReasoning": "Option C is “Tick.” Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Louse. Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. This is the separating point: option C may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Ticks cause focal attachment and transmit several infections but do not cause this chronic dermatosis. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option C against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         },
         "D": {
@@ -1042,13 +1315,20 @@
             "trapReason": "The option is tempting unless this distinction is remembered: Blackflies transmit onchocerciasis."
           },
           "whenThisCanBeRight": {
-            "condition": "This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact: Blackflies transmit onchocerciasis.",
+            "condition": "Option D becomes correct if a revised item asks you to identify the choice described by this statement: Blackflies transmit onchocerciasis. The revised wording must explicitly test that statement, making “Black Fly” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.",
             "exampleQuestion": {
-              "stem": "In a rewritten version of the original question, which listed option is identified by this distinguishing clue? Blackflies transmit onchocerciasis.",
+              "stem": "A Dermatology single-best-answer question on Vagabond disease is rewritten as follows: Which of the original options is best described by this statement? Blackflies transmit onchocerciasis.",
               "reuseOriginalOptions": true,
               "correctOptionId": "D",
-              "explanation": "Blackflies transmit onchocerciasis."
-            }
+              "explanation": "Option D (Black Fly) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: Blackflies transmit onchocerciasis. This differs from the original item, where A. Louse is the better fit. The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter."
+            },
+            "recognitionRule": "Look for wording that directly expresses this clue: Blackflies transmit onchocerciasis. Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. If the original clue is left unchanged, return to A. Louse; option D becomes correct only after the discriminator changes."
+          },
+          "learningExplanation": {
+            "foundation": "Vagabond disease is chronic body-louse infestation, pediculosis corporis, with excoriation, lichenification, and hyperpigmentation in people unable to wash or change clothing regularly. Memory anchor: Vagabond disease lives in lousy clothing seams. Exam extension: Body lice transmit epidemic typhus, trench fever, and louse-borne relapsing fever.",
+            "optionReasoning": "Option D is “Black Fly.” Blackflies transmit onchocerciasis. In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.",
+            "comparison": "The original stem is better answered by A. Louse. Blackflies transmit onchocerciasis. This is the separating point: option D may sound related to the topic, but it does not answer the exact question as directly as the audited answer.",
+            "decisionRule": "The option is tempting unless this distinction is remembered: Blackflies transmit onchocerciasis. On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option D against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic."
           }
         }
       },
@@ -1071,5 +1351,6 @@
         ]
       }
     }
-  ]
+  ],
+  "contentProfile": "beginner_detailed_v3"
 }

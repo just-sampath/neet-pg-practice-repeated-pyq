@@ -17,6 +17,7 @@
     "typecheck": "tsc --noEmit",
     "test": "bun test tests/unit",
     "test:unit": "bun test tests/unit",
+    "data:enrich": "node scripts/enrich-teaching.mjs",
     "validate:source": "node scripts/validate-source.mjs",
     "validate:pages": "node scripts/validate-pages.mjs",
     "validate": "bun run validate:source && bun run lint && bun run typecheck && bun run test:unit && bun run build && bun run validate:pages"

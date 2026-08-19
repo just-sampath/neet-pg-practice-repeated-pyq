@@ -50,6 +50,12 @@ export interface OptionFeedback {
   verdict: "correct" | "wrong" | "defensible" | "unverifiable_as_written" | "historical" | "outdated";
   displayLabel: string;
   explanation: string;
+  learningExplanation: {
+    foundation: string;
+    optionReasoning: string;
+    comparison: string;
+    decisionRule: string;
+  };
   trickMeter: {
     score: number;
     max: number;
@@ -57,6 +63,7 @@ export interface OptionFeedback {
   };
   whenThisCanBeRight: {
     condition: string;
+    recognitionRule: string;
     exampleQuestion: {
       stem: string;
       reuseOriginalOptions: boolean;

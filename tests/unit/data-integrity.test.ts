@@ -47,6 +47,38 @@ describe("packaged question bank", () => {
     for (const asset of media) await stat(new URL(asset.assetPath, dataRoot));
   });
 
+  test("provides a detailed beginner explanation and worked variation for every option", async () => {
+    const teaching = await loadAllTeaching();
+    const words = (text: string) => text.trim().split(/\s+/).filter(Boolean).length;
+
+    for (const record of teaching.values()) {
+      for (const [optionId, feedback] of Object.entries(record.optionFeedback)) {
+        expect(feedback.learningExplanation.foundation.startsWith(record.answer.summary)).toBe(true);
+        expect(words(feedback.learningExplanation.foundation)).toBeGreaterThanOrEqual(35);
+        expect(words(feedback.learningExplanation.optionReasoning)).toBeGreaterThanOrEqual(30);
+        expect(words(feedback.learningExplanation.comparison)).toBeGreaterThanOrEqual(25);
+        expect(words(feedback.learningExplanation.decisionRule)).toBeGreaterThanOrEqual(45);
+        expect(words(feedback.whenThisCanBeRight.condition)).toBeGreaterThanOrEqual(35);
+        expect(words(feedback.whenThisCanBeRight.recognitionRule)).toBeGreaterThanOrEqual(35);
+        expect(words(feedback.whenThisCanBeRight.exampleQuestion.stem)).toBeGreaterThanOrEqual(15);
+        expect(words(feedback.whenThisCanBeRight.exampleQuestion.explanation)).toBeGreaterThanOrEqual(45);
+        expect(feedback.whenThisCanBeRight.exampleQuestion.correctOptionId).toBe(optionId);
+
+        const content = [
+          ...Object.values(feedback.learningExplanation),
+          feedback.whenThisCanBeRight.condition,
+          feedback.whenThisCanBeRight.recognitionRule,
+          feedback.whenThisCanBeRight.exampleQuestion.stem,
+          feedback.whenThisCanBeRight.exampleQuestion.explanation,
+        ].join(" ");
+        expect(content).not.toMatch(/In a rewritten version of the original question/i);
+        expect(content).not.toMatch(/This option can be right when a revised stem asks/i);
+        expect(content).not.toMatch(/internship|completed their MBBS|5\s*[~–-]\s*6 years/i);
+        expect(content).not.toMatch(/undefined|\[object Object\]/);
+      }
+    }
+  });
+
   test("retains unsafe source items as unscored teaching rather than strict GT candidates", async () => {
     const [bank, teaching] = await Promise.all([loadTestBank(), loadAllTeaching()]);
     const records = [...teaching.values()];

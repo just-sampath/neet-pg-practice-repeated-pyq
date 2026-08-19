@@ -629,7 +629,6 @@ button:disabled {
   gap: 28px;
 }
 
-.audit-sheet,
 .history-sheet {
   padding: 20px;
   border-top: 3px solid var(--ink);
@@ -637,31 +636,6 @@ button:disabled {
   background: rgba(251, 252, 250, 0.82);
 }
 
-.audit-list {
-  margin: 10px 0 16px;
-}
-
-.audit-list > div {
-  min-height: 42px;
-  border-bottom: 1px solid var(--line);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.audit-list dt {
-  color: var(--ink-muted);
-  font-size: 13px;
-}
-
-.audit-list dd {
-  margin: 0;
-  font-family: var(--font-reading);
-  font-size: 20px;
-  font-weight: 650;
-}
-
-.audit-sheet > p,
 .empty-note {
   margin: 0;
   color: var(--ink-muted);
@@ -1217,20 +1191,40 @@ button:disabled {
   color: var(--red);
 }
 
-.option-review > p {
-  margin: 10px 0 0 35px;
+.option-explanation {
+  margin: 14px 0 0 35px;
+}
+
+.teaching-copy-label {
+  display: block;
+  color: var(--ink-muted);
+  font-size: 11px;
+  font-weight: 760;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.option-explanation p {
+  margin: 6px 0 0;
   color: #394641;
-  font-size: 13px;
-  line-height: 1.55;
+  font-family: var(--font-reading);
+  font-size: 16px;
+  line-height: 1.68;
+}
+
+.option-explanation section + section {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
 }
 
 .trick-line {
-  margin: 10px 0 0 35px;
+  margin: 13px 0 0 35px;
   display: flex;
   align-items: center;
   gap: 10px;
   color: var(--ink-muted);
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .trick-meter {
@@ -1256,45 +1250,52 @@ button:disabled {
   width: fit-content;
   color: var(--blue);
   cursor: pointer;
-  font-size: 12px;
-  font-weight: 650;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .conditional-teaching {
-  margin-top: 11px;
-  padding: 13px 15px;
+  margin-top: 13px;
+  padding: 17px 18px;
   border-left: 2px solid var(--blue);
   background: var(--blue-pale);
   color: #24475d;
-  font-size: 12px;
-  line-height: 1.5;
+  font-size: 15px;
+  line-height: 1.65;
 }
 
-.conditional-teaching > p {
-  margin: 0;
+.conditional-teaching section > p {
+  margin: 7px 0 0;
 }
 
-.conditional-teaching > div {
-  margin-top: 12px;
-  padding-top: 11px;
+.conditional-teaching .rewritten-example {
+  margin-top: 16px;
+  padding-top: 15px;
   border-top: 1px solid #b9ccd6;
 }
 
-.conditional-teaching span {
-  font-size: 9px;
-  font-weight: 760;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+.conditional-teaching .recognition-rule {
+  margin-top: 15px;
+  padding: 13px 0 0;
+  border-top: 1px solid rgba(69, 100, 117, 0.25);
 }
 
-.conditional-teaching div p {
-  margin: 5px 0;
-  font-family: var(--font-reading);
-  font-size: 14px;
-}
-
-.conditional-teaching small {
+.conditional-teaching .teaching-copy-label {
   color: #456475;
+}
+
+.conditional-teaching .rewritten-example__stem {
+  margin-top: 7px;
+  font-family: var(--font-reading);
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+.conditional-teaching .rewritten-example__answer,
+.conditional-teaching .rewritten-example__rationale {
+  color: #456475;
+  font-size: 15px;
+  line-height: 1.6;
 }
 
 .study-notes {
@@ -2270,7 +2271,7 @@ button:disabled {
     grid-column: 2;
   }
 
-  .option-review > p,
+  .option-explanation,
   .trick-line,
   .option-review details {
     margin-left: 0;
