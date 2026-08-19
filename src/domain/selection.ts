@@ -162,10 +162,9 @@ export function createAttempt({
   const optionOrderByQuestionId = Object.fromEntries(
     selected.map((question) => [
       question.id,
-      shuffled(
-        question.options.map((option) => option.id),
-        seededRandom(`${seed}:${question.id}:options`),
-      ),
+      question.options
+        .map((option) => option.id)
+        .sort((left, right) => left.localeCompare(right)),
     ]),
   );
 

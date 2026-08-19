@@ -5,7 +5,7 @@ import {
   getSectionQuestionIds,
   remainingSectionSeconds,
 } from "../domain/selection";
-import type { Attempt, BankData, QuestionCore, ResponseRecord, TeachingRecord } from "../domain/types";
+import type { Attempt, BankData, ResponseRecord, TeachingRecord } from "../domain/types";
 import { formatClock } from "../utils/format";
 import AppShell from "./AppShell";
 import Modal from "./Modal";
@@ -63,10 +63,11 @@ export default function QuizScreen({ bank, attempt, onUpdate, onComplete, onHome
   const response = attempt.responsesByQuestionId[question.id] ?? EMPTY_RESPONSE;
   const subject = bank.subjectById.get(question.classification.subjectId);
   const topic = bank.topicById.get(question.classification.topicId);
-  const optionOrder = attempt.optionOrderByQuestionId[question.id] ?? question.options.map((option) => option.id);
-  const displayedOptions = optionOrder
-    .map((optionId) => question.options.find((option) => option.id === optionId))
-    .filter((option): option is QuestionCore["options"][number] => Boolean(option));
+  // Always display the canonical A-D order. This deliberately ignores option
+  // order stored by older attempts, which may have been shuffled.
+  const displayedOptions = [...question.options].sort((left, right) =>
+    left.id.localeCompare(right.id),
+  );
   const teaching = teachingState.questionId === question.id ? teachingState.record : null;
   const teachingLoading = revealed && !isStrict && teachingState.questionId !== question.id;
 
@@ -234,10 +235,11 @@ export default function QuizScreen({ bank, attempt, onUpdate, onComplete, onHome
     const onKeyDown = (event: KeyboardEvent) => {
       const target = event.target as HTMLElement;
       if (["INPUT", "TEXTAREA", "SELECT"].includes(target.tagName) || target.isContentEditable) return;
-      const number = Number(event.key);
-      if (number >= 1 && number <= 4 && displayedOptions[number - 1]) {
+      const optionKey = event.key.toUpperCase();
+      const keyedOption = displayedOptions.find((option) => option.id === optionKey);
+      if (keyedOption) {
         event.preventDefault();
-        selectOption(displayedOptions[number - 1].id);
+        selectOption(keyedOption.id);
       } else if (event.key.toLowerCase() === "r") {
         event.preventDefault();
         toggleReview();
@@ -379,7 +381,7 @@ export default function QuizScreen({ bank, attempt, onUpdate, onComplete, onHome
             })}
 
             <div className="answer-options" role="radiogroup" aria-label="Answer options">
-              {displayedOptions.map((option, displayIndex) => {
+              {displayedOptions.map((option) => {
                 const feedback = teaching?.optionFeedback[option.id];
                 return (
                   <button
@@ -393,7 +395,6 @@ export default function QuizScreen({ bank, attempt, onUpdate, onComplete, onHome
                     key={option.id}
                     onClick={() => selectOption(option.id)}
                   >
-                    <span className="answer-option__key">{displayIndex + 1}</span>
                     <span className="answer-option__letter">{option.id}</span>
                     <span className="answer-option__text">{option.text}</span>
                     {revealed && feedback ? <strong>{feedback.displayLabel}</strong> : null}
@@ -422,7 +423,7 @@ export default function QuizScreen({ bank, attempt, onUpdate, onComplete, onHome
             <button className="button button--quiet" type="button" disabled={currentVisibleIndex === 0} onClick={() => goRelative(-1)}>
               Previous
             </button>
-            <span>Keys 1–4 answer · R marks review · ← → moves</span>
+            <span>Keys A–D answer · R marks review · ← → moves</span>
             {currentVisibleIndex < visibleQuestionIds.length - 1 ? (
               <button className="button button--ink" type="button" onClick={() => goRelative(1)}>
                 Next question

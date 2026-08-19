@@ -20,14 +20,12 @@ describe("target-device responsive contract", () => {
   });
 
   test("keeps mobile browser chrome and display cutouts out of controls", async () => {
-    const [css, html, layout] = await Promise.all([
+    const [css, html] = await Promise.all([
       readFile(new URL("../../src/styles.css", import.meta.url), "utf8"),
       readFile(new URL("../../index.html", import.meta.url), "utf8"),
-      readFile(new URL("../../app/layout.tsx", import.meta.url), "utf8"),
     ]);
 
     expect(html).toContain("viewport-fit=cover");
-    expect(layout).toContain('viewportFit: "cover"');
     for (const edge of ["top", "right", "bottom", "left"]) {
       expect(css).toContain(`env(safe-area-inset-${edge})`);
     }

@@ -35,13 +35,15 @@ The workflow at `.github/workflows/deploy-pages.yml` validates and deploys every
 2. In **Settings > Pages**, set **Source** to **GitHub Actions**.
 3. Push to `main`, or run the workflow manually from the Actions tab.
 
-The workflow derives the correct base path from the repository name, so both `https://username.github.io/repository/` and a root user site work without source changes.
+The production build uses relative asset URLs, so the same artifact works at both `https://username.github.io/repository/` and a root user site without source changes.
+
+If the browser console requests `/src/main.tsx`, GitHub Pages is publishing the repository source instead of the compiled site. Change **Settings > Pages > Source** to **GitHub Actions**, then rerun **Deploy to GitHub Pages** from the Actions tab.
 
 ## Quiz behavior
 
 - **Subject practice:** one subject, 5 to 50 questions, with teaching after each answer or after completion.
 - **Mixed quiz:** multiple subjects, 5 to 100 questions, optional image-only filtering, with the same reveal choices.
-- **NEET PG GT:** 180 unique scored questions, proportionally sampled by subject, deterministic option shuffling, five sections of 36 questions, and 42 minutes per section. Answers and teaching remain hidden until submission.
+- **NEET PG GT:** 180 unique scored questions, proportionally sampled by subject, canonical A–D option order, five sections of 36 questions, and 42 minutes per section. Answers and teaching remain hidden until submission.
 - **Scoring:** +4 correct, -1 wrong, 0 skipped.
 - **Analysis:** overall score, subject and curriculum-phase performance, GT section performance, time analysis, slow questions, and per-question review.
 
@@ -59,7 +61,7 @@ public/data/
 ├── questions-core.json
 ├── teaching/
 │   └── {subject}.json
-└── images/
+└── assets/images/
 ```
 
 The service worker precaches the application shell and core quiz data, then runtime-caches teaching shards and images as they are requested.
@@ -78,7 +80,7 @@ public/sw.js         Offline caching strategy
 
 ## Keyboard controls
 
-- `1` to `4`: select an option
+- `A` to `D`: select an option
 - `R`: mark or unmark for review
 - Left and right arrows: move between available questions
 
@@ -95,4 +97,3 @@ Mobile layouts account for display cutouts, iPhone home-indicator insets, dynami
 ## Notes
 
 - The web build uses relative data and image URLs so repository subpaths work on GitHub Pages.
-- The included Sites/Vinext route imports the same `src/` application and exists only for the verified preview environment used during development. GitHub Pages uses the static Vite build.

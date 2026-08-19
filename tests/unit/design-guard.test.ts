@@ -33,4 +33,15 @@ describe("interface design constraints", () => {
     ];
     for (const pattern of banned) expect(source).not.toMatch(pattern);
   });
+
+  test("shows only canonical A-D option labels without numeric option badges", async () => {
+    const quizScreen = await readFile(new URL("../../src/components/QuizScreen.tsx", import.meta.url), "utf8");
+    const styles = await readFile(new URL("../../src/styles.css", import.meta.url), "utf8");
+
+    expect(quizScreen).not.toContain("answer-option__key");
+    expect(quizScreen).not.toContain("displayIndex + 1");
+    expect(quizScreen).not.toContain("optionOrderByQuestionId");
+    expect(quizScreen).toContain("Keys A–D answer");
+    expect(styles).not.toContain(".answer-option__key");
+  });
 });

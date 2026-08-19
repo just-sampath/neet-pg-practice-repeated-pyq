@@ -1026,7 +1026,7 @@ button:disabled {
   border: 0;
   border-bottom: 1px solid var(--line);
   display: grid;
-  grid-template-columns: 25px 28px minmax(0, 1fr) auto;
+  grid-template-columns: 28px minmax(0, 1fr) auto;
   align-items: center;
   gap: 10px;
   background: #fff;
@@ -1066,19 +1066,15 @@ button:disabled {
   opacity: 1;
 }
 
-.answer-option__key {
-  width: 21px;
-  height: 21px;
+.answer-option__letter {
+  width: 25px;
+  height: 25px;
   border: 1px solid var(--line-dark);
   display: grid;
   place-items: center;
-  color: var(--ink-muted);
-  font-size: 10px;
-}
-
-.answer-option__letter {
   color: var(--forest-mid);
   font-weight: 750;
+  font-size: 12px;
 }
 
 .answer-option__text {
@@ -2236,7 +2232,7 @@ button:disabled {
   .answer-option {
     min-height: 58px;
     padding-inline: 8px;
-    grid-template-columns: 23px 22px minmax(0, 1fr) auto;
+    grid-template-columns: 25px minmax(0, 1fr) auto;
     gap: 7px;
   }
 

@@ -24,6 +24,10 @@ describe("packaged question bank", () => {
     expect(teaching.size).toBe(377);
     expect([...teaching.values()].reduce((sum, record) => sum + Object.keys(record.optionFeedback).length, 0)).toBe(1508);
     expect(new Set(bank.questions.map((question) => question.id))).toEqual(new Set(teaching.keys()));
+    for (const question of bank.questions) {
+      expect(question.options.map((option) => option.id)).toEqual(["A", "B", "C", "D"]);
+      expect(Object.keys(teaching.get(question.id)?.optionFeedback ?? {}).sort()).toEqual(["A", "B", "C", "D"]);
+    }
     const coreKeys = collectKeys({ questions: bank.questions });
     for (const forbidden of ["answer", "correctOptionIds", "optionFeedback", "memoryHook", "examPearl"]) {
       expect(coreKeys.has(forbidden)).toBe(false);

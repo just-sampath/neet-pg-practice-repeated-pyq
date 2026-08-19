@@ -31,7 +31,27 @@ describe("attempt selection", () => {
         expect(count).toBe(quota);
       }
       for (const optionOrder of Object.values(first.optionOrderByQuestionId)) {
-        expect([...optionOrder].sort()).toEqual(["A", "B", "C", "D"]);
+        expect(optionOrder).toEqual(["A", "B", "C", "D"]);
+      }
+    }
+  });
+
+  test("keeps every attempt's options in canonical A-D order", async () => {
+    const bank = await loadTestBank();
+    for (const modeId of ["subject_practice", "flexible_quiz", "neet_pg_2026"] as const) {
+      const attempt = createAttempt({
+        bank,
+        modeId,
+        config: {
+          subjectIds: bank.taxonomy.subjects.map((subject) => subject.id),
+          questionCount: modeId === "neet_pg_2026" ? 180 : 50,
+          revealPolicy: modeId === "neet_pg_2026" ? "after_attempt" : "after_each_submission",
+        },
+        seed: `canonical-options-${modeId}`,
+        now: 1_800_000_000_000,
+      });
+      for (const optionOrder of Object.values(attempt.optionOrderByQuestionId)) {
+        expect(optionOrder).toEqual(["A", "B", "C", "D"]);
       }
     }
   });

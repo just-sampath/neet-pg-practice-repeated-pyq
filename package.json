@@ -1,56 +1,43 @@
 {
-  "name": "neet-pg-quiz",
-  "version": "0.1.0",
+  "name": "neet-pg-377-quiz",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "packageManager": "bun@1.2.22",
   "engines": {
-    "node": ">=22.13.0",
     "bun": ">=1.2.22"
   },
   "scripts": {
-    "install:ci": "bash scripts/install-ci.sh",
-    "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vite",
-    "dev:pages": "vite --config vite.github.config.ts",
-    "build": "bash scripts/build-verified.sh",
-    "build:pages": "vite build --config vite.github.config.ts",
-    "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
-    "test": "bun run test:unit",
-    "test:unit": "bun test tests/unit",
+    "dev": "vite",
+    "dev:pages": "vite",
+    "build": "vite build",
+    "build:pages": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "validate": "bun run test:unit && bun run typecheck && bun run build:pages && bun run validate:pages",
+    "test": "bun test tests/unit",
+    "test:unit": "bun test tests/unit",
+    "validate:source": "node scripts/validate-source.mjs",
     "validate:pages": "node scripts/validate-pages.mjs",
-    "validate:artifact": "bash scripts/validate-artifact.sh",
-    "lint": "bash scripts/sites-env.sh -- eslint .",
-    "db:generate": "bash scripts/sites-env.sh -- drizzle-kit generate"
+    "validate": "bun run validate:source && bun run lint && bun run typecheck && bun run test:unit && bun run build && bun run validate:pages"
   },
   "dependencies": {
     "@fontsource-variable/source-sans-3": "5.2.8",
     "@fontsource-variable/source-serif-4": "5.2.8",
-    "drizzle-orm": "0.45.2",
-    "next": "16.2.6",
     "react": "19.2.6",
     "react-dom": "19.2.6"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.37.1",
-    "@cloudflare/workers-types": "4.20260702.1",
-    "@tailwindcss/postcss": "4.2.1",
-    "@types/node": "22.19.19",
+    "@eslint/js": "9.39.4",
     "@types/bun": "1.3.14",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "6.0.2",
-    "@vitejs/plugin-rsc": "0.5.26",
-    "drizzle-kit": "0.31.10",
     "eslint": "9.39.4",
-    "eslint-config-next": "16.2.6",
-    "react-server-dom-webpack": "19.2.6",
-    "tailwindcss": "4.2.1",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "globals": "16.4.0",
     "typescript": "5.9.3",
-    "vinext": "0.0.50",
-    "vite": "8.0.13",
-    "wrangler": "4.92.0"
-  },
-  "displayName": "NEET PG 377"
+    "typescript-eslint": "8.59.3",
+    "vite": "8.0.13"
+  }
 }

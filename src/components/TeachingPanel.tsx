@@ -33,7 +33,7 @@ export default function TeachingPanel({ teaching, options }: TeachingPanelProps)
       ) : null}
 
       <div className="option-review-list">
-        {options.map((option) => {
+        {[...options].sort((left, right) => left.id.localeCompare(right.id)).map((option) => {
           const feedback = teaching.optionFeedback[option.id];
           if (!feedback) return null;
           return (
