@@ -4,15 +4,36 @@ import { readFile, readdir, writeFile } from "node:fs/promises";
 const projectRoot = new URL("../", import.meta.url);
 const dataRoot = new URL("public/data/", projectRoot);
 const teachingRoot = new URL("teaching/", dataRoot);
-const TARGET_CONTENT_PROFILE = "beginner_detailed_v3";
+const TARGET_CONTENT_PROFILE = "beginner_detailed_v4";
 
 const readJson = async (url) => JSON.parse(await readFile(url, "utf8"));
+const compact = (value) => String(value ?? "").trim().replace(/\s+/g, " ");
 const asSentence = (value) => {
-  const text = String(value).trim().replace(/\s+/g, " ");
+  const text = compact(value);
+  if (!text) return "";
   return /[.!?]$/.test(text) ? text : `${text}.`;
 };
-const withoutLeadingVerdict = (value) =>
-  asSentence(value).replace(/^(?:Correct|Incorrect|True|False)\.\s*/i, "");
+
+// Remove editorial verdict prefixes while retaining the medical statement that follows.
+// The underlying option explanations are the clinically curated source for this enrichment pass;
+// this script deliberately reuses them instead of inventing new medical claims.
+const stripVerdictPrefix = (value) => {
+  let text = compact(value);
+  const patterns = [
+    /^Corrected overall answer\.\s*/i,
+    /^Corrected first-line answer\.\s*/i,
+    /^Correct classic answer\.\s*/i,
+    /^Correct exception\.\s*/i,
+    /^Correct in [^.]+\.\s*/i,
+    /^Correct\.\s*/i,
+    /^Incorrect\.\s*/i,
+    /^True\.\s*/i,
+    /^False and therefore the answer\.\s*/i,
+    /^False\.\s*/i,
+  ];
+  for (const pattern of patterns) text = text.replace(pattern, "");
+  return asSentence(text);
+};
 
 const [core, taxonomy, manifest] = await Promise.all([
   readJson(new URL("questions-core.json", dataRoot)),
@@ -29,97 +50,273 @@ function optionLabel(question, ids) {
     .map((id) => question.options.find((option) => option.id === id))
     .filter(Boolean)
     .map((option) => `${option.id}. ${option.text}`);
-  if (labels.length === 0) return "no single option, because the source item is not cleanly scoreable as written";
+  if (labels.length === 0) return "no unique scored option";
   if (labels.length === 1) return labels[0];
   return `${labels.slice(0, -1).join(", ")} and ${labels.at(-1)}`;
 }
 
-function genericConditionFact(condition, fallback) {
-  const match = condition.match(
-    /^This option can be right when a revised stem asks for the entity or concept identified by this distinguishing fact:\s*(.+)$/i,
-  );
-  return match ? asSentence(match[1]) : asSentence(fallback);
+function firstSentence(value) {
+  const text = stripVerdictPrefix(value);
+  const match = text.match(/^(.+?[.!?])(?:\s|$)/);
+  return match ? match[1] : asSentence(text);
 }
 
-function buildComparison({ teaching, question, option, feedback, concise }) {
-  const best = optionLabel(question, teaching.answer.correctOptionIds);
-  const auditContext = asSentence(teaching.audit.note);
+function factForOption(option, feedback) {
+  let fact = stripVerdictPrefix(feedback.explanation);
+  if (/^(?:It|This)\b/i.test(fact)) {
+    fact = fact.replace(/^(?:It|This)\b/i, option.text);
+  }
+  return asSentence(fact);
+}
+
+const verbPattern = /\b(is|are|was|were|has|have|had|can|may|might|will|would|should|could|forms?|lies?|passes?|causes?|inhibits?|blocks?|binds?|produces?|arises?|originates?|drains?|supplies?|innervates?|contains?|enters?|exits?|crosses?|shows?|presents?|develops?|derives?|converts?|requires?|uses?|reduces?|increases?|stimulates?|prevents?|treats?|occurs?|results?|gives|remains?|runs?|travels?|sprouts?|comes?|represents?|reflects?|allows?|raises?|lowers?|decreases?|improves?|avoids?|provides?)\b/i;
+
+function dissectFact(value) {
+  const sentence = firstSentence(value).replace(/[.!?]$/, "");
+  const match = verbPattern.exec(sentence);
+  if (!match || match.index < 1) return { subject: "", predicate: sentence };
+  return {
+    subject: compact(sentence.slice(0, match.index)),
+    predicate: compact(sentence.slice(match.index)),
+  };
+}
+
+const stopWords = new Set([
+  "a", "an", "the", "this", "that", "these", "those", "is", "are", "was", "were", "be", "been",
+  "being", "also", "usually", "generally", "commonly", "may", "can", "could", "would", "should", "of",
+  "to", "in", "on", "at", "for", "from", "with", "and", "or", "by", "into", "through", "within", "it",
+  "its", "their", "rather", "than", "not", "only", "most", "more", "less", "as", "a", "option",
+]);
+
+function predicateTokens(fact) {
+  const { predicate } = dissectFact(fact);
+  return new Set(
+    predicate
+      .toLowerCase()
+      .replace(/[^a-z0-9%]+/g, " ")
+      .split(/\s+/)
+      .filter((token) => token.length > 2 && !stopWords.has(token)),
+  );
+}
+
+function jaccard(left, right) {
+  if (!left.size || !right.size) return 0;
+  let overlap = 0;
+  for (const token of left) if (right.has(token)) overlap += 1;
+  return overlap / (left.size + right.size - overlap);
+}
+
+function sharedPeer(question, teaching, option) {
+  const currentFact = factForOption(option, teaching.optionFeedback[option.id]);
+  const currentTokens = predicateTokens(currentFact);
+  let best = null;
+  for (const candidate of question.options) {
+    if (candidate.id === option.id) continue;
+    const feedback = teaching.optionFeedback[candidate.id];
+    if (!feedback) continue;
+    const score = jaccard(currentTokens, predicateTokens(factForOption(candidate, feedback)));
+    if (score >= 0.66 && (!best || score > best.score)) best = { option: candidate, score };
+  }
+  return best?.option ?? null;
+}
+
+function singularPredicate(predicate) {
+  return compact(predicate)
+    .replace(/^are\b/i, "is")
+    .replace(/^were\b/i, "was")
+    .replace(/^have\b/i, "has")
+    .replace(/^do\b/i, "does")
+    .replace(/^also\s+/i, "")
+    .replace(/[.!?]$/, "");
+}
+
+function conceptTokens(value) {
+  return compact(value)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .split(/\s+/)
+    .filter((token) => token.length > 1 && !stopWords.has(token));
+}
+
+function initials(value) {
+  return conceptTokens(value).map((token) => token[0]).join("");
+}
+
+function subjectMatchesOption(subject, optionText) {
+  const subjectTokens = conceptTokens(subject);
+  const optionTokens = conceptTokens(optionText);
+  if (!subjectTokens.length || !optionTokens.length) return false;
+  const optionCompact = optionTokens.join("");
+  if (optionCompact.length >= 2 && initials(subject) === optionCompact) return true;
+  const subjectSet = new Set(subjectTokens);
+  const overlap = optionTokens.filter((token) => subjectSet.has(token)).length;
+  return overlap / Math.max(subjectTokens.length, optionTokens.length) >= 0.75;
+}
+
+function contrastOption(question, teaching, option, feedback) {
+  if (feedback.verdict === "wrong") {
+    const id = teaching.answer.correctOptionIds[0];
+    return question.options.find((candidate) => candidate.id === id) ?? null;
+  }
   if (feedback.verdict === "correct") {
-    return `In the original stem, ${option.id}. ${option.text} is the best answer. ${withoutLeadingVerdict(concise)} The option and the stem therefore point to the same mechanism, definition, association, stage, or clinical setting.`;
+    return question.options
+      .filter((candidate) => candidate.id !== option.id)
+      .map((candidate) => ({
+        option: candidate,
+        score: teaching.optionFeedback[candidate.id]?.trickMeter?.score ?? 0,
+      }))
+      .sort((left, right) => right.score - left.score)[0]?.option ?? null;
+  }
+  return null;
+}
+
+function questionizeFact({ teaching, question, fact, option, feedback, topicLabel }) {
+  const comparator = contrastOption(question, teaching, option, feedback);
+  const { subject, predicate } = dissectFact(fact);
+  const predicateQuestion = subject && predicate && subjectMatchesOption(subject, option.text)
+    ? singularPredicate(predicate)
+    : null;
+
+  if (comparator && (feedback.verdict === "correct" || feedback.verdict === "wrong")) {
+    if (predicateQuestion) {
+      return `In a NEET PG-style contrast question on ${topicLabel}, ${option.text} is compared with ${comparator.text}. Which of the two ${predicateQuestion}?`;
+    }
+    return `In a NEET PG-style contrast question on ${topicLabel}, ${option.text} is compared with ${comparator.text}. Which of the two best matches this supported teaching point: ${fact}`;
+  }
+
+  // Ambiguous, unverifiable, historical, and outdated source items should not be made to
+  // look cleaner than they are. Keep the variation explicit instead of inventing a new fact.
+  return `In a targeted revision drill on ${topicLabel}, which listed option is being examined by this supported teaching point, with the source audit qualification still applying: ${fact}`;
+}
+
+function foundation(teaching) {
+  const parts = [asSentence(teaching.answer.summary)];
+  if (compact(teaching.memoryHook)) parts.push(`Memory anchor: ${asSentence(teaching.memoryHook)}`);
+  if (compact(teaching.examPearl)) parts.push(`High-yield extension: ${asSentence(teaching.examPearl)}`);
+  return parts.join(" ");
+}
+
+function optionReasoning({ teaching, question, option, feedback, fact }) {
+  const best = optionLabel(question, teaching.answer.correctOptionIds);
+  const summary = asSentence(teaching.answer.summary);
+  const auditNote = asSentence(teaching.audit.note);
+
+  if (feedback.verdict === "correct") {
+    return `The stem is testing the point stated in the answer summary: “${summary}” Therefore ${option.id}. ${option.text} is the audited best answer. A second useful retrieval cue for this option is: “${fact}”`;
   }
   if (feedback.verdict === "wrong") {
-    return `The original stem is better answered by ${best}. ${withoutLeadingVerdict(concise)} This is the separating point: option ${option.id} may sound related to the topic, but it does not answer the exact question as directly as the audited answer.`;
+    return `The option-specific teaching point is: “${fact}” That is why ${option.id}. ${option.text} does not satisfy the discriminator in the original stem. The original question instead tests: “${summary}” The audited best answer is ${best}.`;
   }
   if (feedback.verdict === "defensible") {
-    return `Option ${option.id} is medically defensible under some interpretations, but the wording does not make it uniquely superior to the competing choice or choices. ${auditContext} Treat the ambiguity as part of the lesson rather than forcing certainty.`;
+    return `${asSentence(feedback.explanation)} This option is medically defensible, but the item does not make it uniquely superior to the competing choice or choices. ${auditNote} Do not force a single-answer explanation where the source itself is ambiguous.`;
   }
   if (feedback.verdict === "unverifiable_as_written") {
-    return `The available stem does not provide enough reliable information to verify option ${option.id} as a single best answer. ${auditContext} A scoreable version would need the missing discriminator stated explicitly.`;
+    return `${asSentence(feedback.explanation)} The available stem does not support a reliable single-best-answer judgement for this option. ${auditNote} The safe teaching point is to identify what information is missing rather than invent a discriminator that is not present.`;
   }
   if (feedback.verdict === "historical") {
-    return `Option ${option.id} reflects the historical convention used by the source. ${auditContext} Distinguish what an older examination may have expected from the terminology or practice used now.`;
+    return `${asSentence(feedback.explanation)} This reflects the historical convention used by the source. ${auditNote} Keep the historical exam answer separate from current terminology or practice so an older key is not accidentally learned as a universal modern rule.`;
   }
-  return `Option ${option.id} reflects an older formulation that should not be applied as current practice without qualification. ${auditContext} For a contemporary question, follow the updated distinction described in the audited answer.`;
+  return `${asSentence(feedback.explanation)} This option reflects an older formulation that should not be applied as current practice without qualification. ${auditNote} Use the updated distinction in the audited teaching record rather than extending the old rule beyond its valid context.`;
 }
 
-function buildDecisionRule({ feedback, option }) {
-  const trap = asSentence(feedback.trickMeter.trapReason);
-  return `${trap} On a new question, first identify what the stem is asking for: a definition, mechanism, association, diagnosis, stage, complication, investigation, or treatment. Then test option ${option.id} against the decisive clue. Do not choose it merely because it is familiar or belongs to the same topic.`;
-}
+function comparison({ teaching, question, option, feedback, fact }) {
+  const best = optionLabel(question, teaching.answer.correctOptionIds);
+  const stem = compact(question.prompt.stem);
+  const summary = asSentence(teaching.answer.summary);
+  const auditNote = asSentence(teaching.audit.note);
 
-function buildCondition({ originalCondition, fact, option, forceRewrite }) {
-  const isGeneric = /^This option can be right when a revised stem asks for/i.test(originalCondition);
-  const opening = isGeneric || forceRewrite
-    ? `Option ${option.id} becomes correct if a revised item asks you to identify the choice described by this statement: ${fact}`
-    : asSentence(originalCondition);
-  return `${opening} The revised wording must explicitly test that statement, making “${option.text}” a closer match than every competing option. Do not carry this answer back to the original stem unless the same discriminator is present.`;
-}
-
-function buildRecognitionRule({ teaching, question, option, fact }) {
-  const originalBest = optionLabel(question, teaching.answer.correctOptionIds);
-  const originalComparison = teaching.answer.correctOptionIds.includes(option.id)
-    ? `The original question already points to this option, so the same discriminator confirms the answer.`
-    : `If the original clue is left unchanged, return to ${originalBest}; option ${option.id} becomes correct only after the discriminator changes.`;
-  return `Look for wording that directly expresses this clue: ${fact} Ask which option the clue defines, causes, characterises, treats, or is most strongly associated with. ${originalComparison}`;
-}
-
-function buildExampleStem({ question, subject, topic, fact, originalStem }) {
-  if (
-    !/^In a rewritten version of the original question/i.test(originalStem) &&
-    !/^(?:An image-based|A .+ single-best-answer question on ).+ is rewritten (?:to make the following clue decisive|as follows):/i.test(originalStem)
-  ) {
-    return originalStem;
+  if (feedback.verdict === "correct") {
+    return `The original stem asks: “${stem}” The audited answer is ${best}. The direct teaching point is: “${summary}” The option-specific fact adds another way to retrieve the same answer: “${fact}”`;
   }
-  const context = question.prompt.media.length > 0
-    ? `An image-based ${subject.label} question on ${topic.label}`
-    : `A ${subject.label} single-best-answer question on ${topic.label}`;
-  return `${context} is rewritten as follows: Which of the original options is best described by this statement? ${fact}`;
+  if (feedback.verdict === "wrong") {
+    return `The original stem asks: “${stem}” The audited answer is ${best}. The original teaching point is: “${summary}” By contrast, the relevant fact for ${option.id}. ${option.text} is: “${fact}” The difference between those two facts is the discriminator to retain for revision.`;
+  }
+  return `The original stem asks: “${stem}” ${auditNote} For this option, the medically supported teaching point is: ${asSentence(feedback.explanation)} The comparison should remain qualified because the source item is not a clean routine single-best-answer question.`;
 }
 
-function buildExampleExplanation({ teaching, question, option, fact }) {
+function decisionRule({ teaching, question, option, feedback, fact, topic }) {
+  const best = optionLabel(question, teaching.answer.correctOptionIds);
+  const summary = asSentence(teaching.answer.summary);
+  const auditNote = asSentence(teaching.audit.note);
+
+  if (feedback.verdict === "correct") {
+    return `For future questions on ${topic.label}, anchor on the original discriminator: “${summary}” If the stem tests that same fact, choose ${option.text}. Keep this option-specific cue linked to it as a second retrieval route: “${fact}” This is more reliable than remembering only the option letter.`;
+  }
+  if (feedback.verdict === "wrong") {
+    return `For future questions on ${topic.label}, keep two facts separate. For ${option.text}: “${fact}” For the original audited answer: “${summary}” If a new stem tests the first fact, ${option.text} may become relevant; if it tests the original discriminator, return to ${best}. Do not merge two nearby facts into one memory.`;
+  }
+  return `For future questions on ${topic.label}, do not manufacture certainty from an incomplete or disputed stem. Use the supported fact for this option: ${asSentence(feedback.explanation)} Then apply the audit qualification: ${auditNote} A revised single-best-answer item needs an explicit discriminator before one option can be preferred safely.`;
+}
+
+function condition({ teaching, question, option, feedback, fact, peer }) {
+  const best = optionLabel(question, teaching.answer.correctOptionIds);
+  const sharedWarning = peer
+    ? ` Another listed option, ${peer.id}. ${peer.text}, is supported by a very similar property in the teaching data, so this clue alone may not uniquely separate the two; a proper single-best-answer stem needs an additional discriminator.`
+    : "";
+
+  if (feedback.verdict === "correct") {
+    return `This option is already correct in the original item. It should also be chosen when a revised stem tests this supported associated or defining feature: ${fact}${sharedWarning} Treat this as an additional retrieval route to ${option.text}, not as a replacement for the original discriminator.`;
+  }
+  if (feedback.verdict === "wrong") {
+    return `Option ${option.id} can become the answer when the stem changes to test this supported fact about ${option.text}: ${fact}${sharedWarning} In the original item the deciding clue still points to ${best}; only choose ${option.text} after the stem genuinely changes what it is testing.`;
+  }
+  if (feedback.verdict === "defensible") {
+    return `Option ${option.id} can be accepted only when a revised stem makes its supporting fact explicit and resolves the overlap with competing options: ${fact}${sharedWarning} The current source item is not clean enough to pretend that this option is uniquely correct without that extra discrimination.`;
+  }
+  return `Use option ${option.id} only in a revised item that supplies the missing or updated discriminator and makes this supported fact decisive: ${fact}${sharedWarning} The original source item is qualified by its audit status, so do not create certainty by adding facts that were never present.`;
+}
+
+function recognitionRule({ teaching, question, option, feedback, fact, peer }) {
+  const best = optionLabel(question, teaching.answer.correctOptionIds);
+  const original = asSentence(teaching.answer.summary);
+
+  if (peer) {
+    return `Look for the clue represented by this fact: ${fact} Then check whether the stem adds something that separates ${option.text} from ${peer.text}, because both are linked to a similar property in this item. Without that extra clue, do not force a unique answer. The original discriminator still leads to ${best}: ${original}`;
+  }
+  if (feedback.verdict === "correct") {
+    return `Recognise ${option.text} when the stem gives this option-specific clue: “${fact}” Link it back to the original tested concept: “${original}” These are two legitimate retrieval paths to the same answer, which makes the fact easier to recover after a long gap in revision.`;
+  }
+  if (feedback.verdict === "wrong") {
+    return `Recognise the change when the new stem stops testing the original point, “${original}”, and instead makes this option-specific fact decisive: “${fact}” That shift is what can make ${option.text} correct. If the original discriminator remains unchanged, the best answer remains ${best}.`;
+  }
+  return `First look for a newly stated discriminator that directly supports this option: ${fact} Then confirm that the revised wording resolves the problem noted in the audit. If the ambiguity, missing information, historical convention, or outdated assumption remains, do not treat ${option.text} as a clean single-best answer.`;
+}
+
+function exampleExplanation({ teaching, question, option, feedback, fact, peer }) {
   const originalBest = optionLabel(question, teaching.answer.correctOptionIds);
-  const relation = teaching.answer.correctOptionIds.includes(option.id)
-    ? `This is the same answer as the original item, but the rewritten stem makes the discriminator explicit.`
-    : `This differs from the original item, where ${originalBest} is the better fit.`;
-  return `Option ${option.id} (${option.text}) is correct in this worked variation because the statement is specifically asking for the choice matched by this fact: ${fact} ${relation} The purpose of the variation is to recognise the changed discriminator and reason to the answer rather than memorising an option letter.`;
+  const summary = asSentence(teaching.answer.summary);
+  const comparator = contrastOption(question, teaching, option, feedback);
+
+  if (feedback.verdict === "correct") {
+    const contrast = comparator ? ` In the worked contrast, it is separated from ${comparator.text}.` : "";
+    return `${option.text} remains the answer because the revised stem tests this supported option-specific fact: ${fact}${contrast} This is an additional retrieval route to the same audited answer; the original item is still decided by: “${summary}” The aim is to remember the medical discriminator, not the option letter.`;
+  }
+
+  if (feedback.verdict === "wrong") {
+    const contrast = comparator ? ` The variation deliberately compares ${option.text} with ${comparator.text}, so the option's own fact becomes the deciding clue.` : "";
+    return `${option.text} is the answer in this worked variation because the revised stem is no longer testing the original discriminator; it is testing this supported fact instead: ${fact}${contrast} In the original item, ${originalBest} remains preferred using: “${summary}” This teaches when the distractor belongs without pretending it was correct in the original stem.`;
+  }
+
+  const peerNote = peer
+    ? ` A similar property is also present for ${peer.text}, so the overlap must be kept explicit.`
+    : "";
+  return `${option.text} is being used here only as a teaching focus for this supported fact: ${fact}${peerNote} The source audit qualification still applies, so this variation must not be read as proof that the original item has a clean unique answer. The goal is to learn the supported distinction without manufacturing certainty.`;
 }
 
 const teachingFiles = (await readdir(teachingRoot)).filter((name) => name.endsWith(".json")).sort();
 let questionCount = 0;
 let optionCount = 0;
+let sharedDiscriminatorCount = 0;
 
 for (const fileName of teachingFiles) {
   const fileUrl = new URL(fileName, teachingRoot);
   const document = await readJson(fileUrl);
   if (document.contentProfile === TARGET_CONTENT_PROFILE) {
     questionCount += document.questions.length;
-    optionCount += document.questions.reduce(
-      (sum, teaching) => sum + Object.keys(teaching.optionFeedback).length,
-      0,
-    );
+    optionCount += document.questions.reduce((sum, teaching) => sum + Object.keys(teaching.optionFeedback).length, 0);
     continue;
   }
-  const upgradingExistingProfile = /^beginner_detailed_v\d+$/.test(document.contentProfile ?? "");
+
   for (const teaching of document.questions) {
     const question = questionById.get(teaching.questionId);
     if (!question) throw new Error(`Missing core question for ${teaching.questionId}.`);
@@ -130,48 +327,27 @@ for (const fileName of teachingFiles) {
     for (const option of question.options) {
       const feedback = teaching.optionFeedback[option.id];
       if (!feedback) throw new Error(`Missing ${teaching.questionId} option ${option.id} feedback.`);
-      const concise = feedback.explanation;
-      const fact = upgradingExistingProfile
-        ? asSentence(withoutLeadingVerdict(concise))
-        : genericConditionFact(
-            feedback.whenThisCanBeRight.condition,
-            feedback.whenThisCanBeRight.exampleQuestion.explanation || concise,
-          );
+      const fact = factForOption(option, feedback);
+      const peer = sharedPeer(question, teaching, option);
+      if (peer) sharedDiscriminatorCount += 1;
 
       feedback.learningExplanation = {
-        foundation: `${asSentence(teaching.answer.summary)} Memory anchor: ${asSentence(teaching.memoryHook)} Exam extension: ${asSentence(teaching.examPearl)}`,
-        optionReasoning: `Option ${option.id} is “${option.text}.” ${asSentence(concise)} In plain terms, judge this option by whether that exact fact answers the wording of the stem, not merely by whether the option is related to the same chapter.`,
-        comparison: buildComparison({ teaching, question, option, feedback, concise }),
-        decisionRule: buildDecisionRule({ feedback, option }),
+        foundation: foundation(teaching),
+        optionReasoning: optionReasoning({ teaching, question, option, feedback, fact }),
+        comparison: comparison({ teaching, question, option, feedback, fact }),
+        decisionRule: decisionRule({ teaching, question, option, feedback, fact, topic }),
       };
 
-      const originalCondition = feedback.whenThisCanBeRight.condition;
-      const originalStem = feedback.whenThisCanBeRight.exampleQuestion.stem;
-      feedback.whenThisCanBeRight.condition = buildCondition({
-        originalCondition,
-        fact,
-        option,
-        forceRewrite: upgradingExistingProfile,
-      });
-      feedback.whenThisCanBeRight.recognitionRule = buildRecognitionRule({
-        teaching,
-        question,
-        option,
-        fact,
-      });
-      feedback.whenThisCanBeRight.exampleQuestion.stem = buildExampleStem({
-        question,
-        subject,
-        topic,
-        fact,
-        originalStem,
-      });
-      feedback.whenThisCanBeRight.exampleQuestion.explanation = buildExampleExplanation({
-        teaching,
-        question,
-        option,
-        fact,
-      });
+      feedback.whenThisCanBeRight = {
+        condition: condition({ teaching, question, option, feedback, fact, peer }),
+        recognitionRule: recognitionRule({ teaching, question, option, feedback, fact, peer }),
+        exampleQuestion: {
+          stem: questionizeFact({ teaching, question, fact, option, feedback, topicLabel: topic.label }),
+          reuseOriginalOptions: true,
+          correctOptionId: option.id,
+          explanation: exampleExplanation({ teaching, question, option, feedback, fact, peer }),
+        },
+      };
       optionCount += 1;
     }
     questionCount += 1;
@@ -180,7 +356,7 @@ for (const fileName of teachingFiles) {
   await writeFile(fileUrl, `${JSON.stringify(document, null, 2)}\n`);
 }
 
-manifest.bank.contentVersion = "2026.08.19.3";
+manifest.bank.contentVersion = "2026.08.20.1";
 for (const entry of manifest.files) {
   if (!entry.path.startsWith("teaching/")) continue;
   const bytes = await readFile(new URL(entry.path, dataRoot));
@@ -189,4 +365,11 @@ for (const entry of manifest.files) {
 }
 await writeFile(new URL("manifest.json", dataRoot), `${JSON.stringify(manifest, null, 2)}\n`);
 
-console.log(JSON.stringify({ status: "enriched", questionCount, optionCount, teachingFiles: teachingFiles.length }, null, 2));
+console.log(JSON.stringify({
+  status: "enriched",
+  contentProfile: TARGET_CONTENT_PROFILE,
+  questionCount,
+  optionCount,
+  sharedDiscriminatorCount,
+  teachingFiles: teachingFiles.length,
+}, null, 2));
